@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T05:30:38.057231+00:00",
+  "updated_at": "2026-08-20T22:02:32.889371+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -359,6 +359,16 @@
     },
     {
       "source": "Travel Voice",
+      "title": "旅行者のAI利用に「信頼ギャップ」、53％がAIの提案を歓迎する一方、66％は予約代行に不信 ―エクスペディア調査",
+      "summary": "エクスペディア・グループは、「AI Trust Gap（AIに対する信頼ギャップ）」調査を実施。66％の旅行者が「AIに代わりに旅行を購入・予約してほしくない」と回答。",
+      "url": "https://www.travelvoice.jp/20260820-160348",
+      "published": "2026-08-20T08:33:18+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2023/04/c142aa9e-eb85-4e3f-a41e-93f45e220758.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "ec8bca6e77"
+    },
+    {
+      "source": "Travel Voice",
       "title": "ホテル業界の国際会議「AHICE（エーハイス）」、東京で9月開催、世界の知見共有とネットワーク構築の場に ―トラベルボイス読者限定の割引特典あり（PR）",
       "summary": "（PR）2026年9月2～3日、東京でホテル業界の国際カンファレンス「AHICE Far East Asia 2026」が開催される。世界各国から過去最大規模となる約500名の業界リーダーが集結。ホテル投資や運営を議論し、新たな商談やネットワーク構築の機会を提供する。",
       "url": "https://www.travelvoice.jp/20260820-160354",
@@ -372,10 +382,20 @@
       "title": "ANAとリヤド航空、包括的提携に向けた覚書を締結、コードシェアやマイレージ連携を検討",
       "summary": "ANAとリヤド航空は、包括的なパートナーシップ強化に向けた覚書を締結した。インターラインやコードシェア提携、マイレージプログラムの相互連携を検討し、日本と中東・アフリカを結ぶ利便性の向上を目指す。",
       "url": "https://www.travelvoice.jp/20260820-160362",
-      "published": "2026-08-20T02:04:19+00:00",
+      "published": "2026-08-20T08:40:37+00:00",
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2021/07/b3a1b727-4ecb-4731-80b6-8b51950f7961.jpg",
       "category": "航空・交通",
       "topic_group": "44cb7859e9"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "シダックス傘下企業が旅行業に本格参入、BtoB中心に自社バス263台と全国ネットワーク活用、地域ツアーも造成へ",
+      "summary": "シダックス傘下の大新東は、2026年7月に第2種旅行業登録をおこない、旅行業へ本格参入した。263台の自社保有バスを活かし、企画から運行までをワンストップで提供。BtoBやインバウンドを軸に、地域活性化への貢献を目指す。",
+      "url": "https://www.travelvoice.jp/20260820-160367",
+      "published": "2026-08-20T08:58:34+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2021/12/0dbac209-ae8a-4de2-b26d-94908880a400.jpg",
+      "category": "地域・DMO",
+      "topic_group": "8f543e0f2f"
     },
     {
       "source": "Travel Voice",
@@ -418,32 +438,12 @@
       "topic_group": "a1e0d835d8"
     },
     {
-      "source": "Travel Voice",
-      "title": "【図解】訪日外国人数、2026年7月は同月過去最多の344万人、台湾は初の70万人超 ―日本政府観光局（速報）",
-      "summary": "2026年7月の訪日インバウンド客数は344万人。4カ月ぶりに前年実績を上回り、同月過去最多に。",
-      "url": "https://www.travelvoice.jp/20260819-160365",
-      "published": "2026-08-19T23:49:19+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2022/03/c2fa2bf9-c437-413b-92af-116fcebf862d.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "837e7dde51"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "【図解】日本人出国者数、2026年7月は前年比1.2％減の119万人 ―日本政府観光局（速報）",
-      "summary": "日本政府観光局（JNTO）によると、2026年7月の日本人出国者数（推計値）は119万人。",
-      "url": "https://www.travelvoice.jp/20260819-160288",
-      "published": "2026-08-19T08:16:50+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "837e7dde51"
-    },
-    {
       "source": "やまとごころ.jp",
       "title": "2026年7月訪日客数344万人、前年同月比0.1％増で7月として過去最高、台湾で初の70万人超え",
       "summary": "日本政府観光局（JNTO）が発表した2026年7月の訪日外国人旅行者数（推計値）は344万2100人で、前年同月比0.1％増となり、7月として過去最高を記録した。前年同月割れが続いていたが、4カ月ぶりに前年同月を上回った…",
       "url": "https://yamatogokoro.jp/inbound_data/61032/",
       "published": "2026-08-19T23:00:39+00:00",
-      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/08/preston-a-larimer-OO_FQDVGiyA-unsplash-1.jpg",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "92824c727d"
     },
@@ -558,14 +558,14 @@
       "topic_group": "1f014c8dd3"
     },
     {
-      "source": "時事ドットコム",
-      "title": "７月訪日客、０．１％増 ４カ月ぶりプラス、中国５６％減―政府観光局",
-      "summary": "",
-      "url": "https://www.jiji.com/jc/article?k=2026081900791&g=eco",
-      "published": "2026-08-19T16:31:00+09:00",
-      "image_url": null,
-      "category": "政策・制度",
-      "topic_group": "69b07089af"
+      "source": "訪日ラボ",
+      "title": "JR西日本、インバウンド収入が中東情勢の影響で伸び悩み（2027年3月期 第1四半期決算）",
+      "summary": "西日本旅客 鉄道 （以下、 JR 西日本）は8月5日、2027年3月期の第1四半期（2026年4月〜2026年6月） 決算 を発表しました。 堅調な国内需要を捉えたものの、 万博 効果の反動やインフレ・ 中東 情勢の影響によるコスト増大により、グループ全体としては減収減益を記録しました。 インバウン…",
+      "url": "https://honichi.com/news/2026/08/21/jr-west-202704-06/?utm_source=rss",
+      "published": "2026-08-20T22:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14603/main_yanhao-fang-0PDlODbdgek-unsplash.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "0abca75868"
     },
     {
       "source": "訪日ラボ",
@@ -666,16 +666,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14618/main_philip-myrtorp-iiqpxCg2GD4-unsplash.jpg",
       "category": "統計・市場動向",
       "topic_group": "13905cae0c"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "米国×ウェルネス訴求、MICE推進、ラグジュアリー旅行の商談会も JNTOが訪日市場動向と直近の取り組みを報告",
-      "summary": "日本 政府観光局 （ JNTO ）は7月22日、 メディア ブリーフィング（ メディア 向けの報告会）を開催。 インバウンド 観光をめぐる最近の動向や、 米国 市場に向けた訴求、5月に開催された「Japan Luxury Showcase 2026」の成果などについて説明しました。 関連記事： 前回…",
-      "url": "https://honichi.com/news/2026/08/18/mediabriefing202607/?utm_source=rss",
-      "published": "2026-08-18T02:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14590/main_mediabriefing202607_01.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "18f62d156c"
     }
   ]
 }
