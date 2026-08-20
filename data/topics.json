@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T05:20:18.166369+00:00",
+  "updated_at": "2026-08-20T05:24:52.286602+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -179,80 +179,10 @@
     },
     {
       "source": "観光庁",
-      "title": "フィッシングサイトへ誘導する不審メッセージに関する注意喚起",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/page06_00035.html",
-      "published": null,
-      "image_url": "https://www.mlit.go.jp/kankocho/content/002007274.jpg",
-      "category": "業界ニュース",
-      "topic_group": "71e145592d"
-    },
-    {
-      "source": "観光庁",
-      "title": "令和８年岩手県大槌町の火災 関連情報",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/page04_00048.html",
-      "published": null,
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "d0bdbd8c49"
-    },
-    {
-      "source": "観光庁",
-      "title": "令和８年三陸沖を震源とする地震 関連情報",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/page04_00045.html",
-      "published": null,
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "143abb3b48"
-    },
-    {
-      "source": "観光庁",
-      "title": "令和８年長野県北部を震源とする地震 関連情報",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/page04_00046.html",
-      "published": null,
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "143abb3b48"
-    },
-    {
-      "source": "観光庁",
-      "title": "令和８年 島根県東部を震源とする地震 関連情報",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/saigai/jishin_r8shimanetottori_00001.html",
-      "published": null,
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "143abb3b48"
-    },
-    {
-      "source": "観光庁",
-      "title": "令和７年８月６日からの大雨関連情報",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/topics06_00031.html",
-      "published": null,
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "0546382543"
-    },
-    {
-      "source": "観光庁",
-      "title": "過去に発生した主な災害に関する情報",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/saigai.html",
-      "published": null,
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "ae48370594"
-    },
-    {
-      "source": "観光庁",
       "title": "2026年8月19日 報道発表 旅行・観光消費動向調査 2026年4-6月期（１次速報）",
       "summary": "",
       "url": "https://www.mlit.go.jp/kankocho/news02_00096.html",
-      "published": null,
+      "published": "2026-08-19",
       "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "fa97ab8226"
@@ -262,7 +192,7 @@
       "title": "2026年8月19日 トピックス 本年12月に日フィリピン観光合同作業部会の初開催が決定",
       "summary": "",
       "url": "https://www.mlit.go.jp/kankocho/topics03_00049.html",
-      "published": null,
+      "published": "2026-08-19",
       "image_url": null,
       "category": "業界ニュース",
       "topic_group": "f9a3af53ef"
@@ -272,7 +202,7 @@
       "title": "2026年8月19日 トピックス 「日シンガポール外交関係樹立60周年イベント（SJ60）出展事業」 共同出展地域の公募開始のお知らせ",
       "summary": "",
       "url": "https://www.mlit.go.jp/kankocho/topics03_00050.html",
-      "published": null,
+      "published": "2026-08-19",
       "image_url": null,
       "category": "政策・制度",
       "topic_group": "890980c30f"
@@ -282,7 +212,7 @@
       "title": "2026年8月17日 トピックス 令和８年熊本地震 関連情報",
       "summary": "",
       "url": "https://www.mlit.go.jp/kankocho/topics04_00093.html",
-      "published": null,
+      "published": "2026-08-17",
       "image_url": null,
       "category": "業界ニュース",
       "topic_group": "88cc46991c"
@@ -292,7 +222,7 @@
       "title": "2026年8月10日 公募 【令和7年度補正】観光需要分散のための地域観光資源のコンテンツ化促進事業（二次公募）の採択結果",
       "summary": "",
       "url": "https://www.mlit.go.jp/kankocho/kobo05_00119.html",
-      "published": null,
+      "published": "2026-08-10",
       "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "87c1bd78b8"
@@ -302,7 +232,7 @@
       "title": "2026年8月10日 公募 令和８年度「地域一体となった持続可能な観光地経営推進事業」における採択結果のお知らせ 自治体・DMO その他観光関係者",
       "summary": "",
       "url": "https://www.mlit.go.jp/kankocho/kobo08_00068.html",
-      "published": null,
+      "published": "2026-08-10",
       "image_url": null,
       "category": "政策・制度",
       "topic_group": "34d76740d4"
@@ -312,7 +242,7 @@
       "title": "2026年8月7日 報道発表 令和８年熊本地震の影響による許可等の有効期間の延長について",
       "summary": "",
       "url": "https://www.mlit.go.jp/kankocho/news13_00002.html",
-      "published": null,
+      "published": "2026-08-07",
       "image_url": null,
       "category": "業界ニュース",
       "topic_group": "88cc46991c"
@@ -322,7 +252,7 @@
       "title": "2026年8月7日 報道発表 文化観光推進法に基づく拠点計画及び地域計画の新規認定",
       "summary": "",
       "url": "https://www.mlit.go.jp/kankocho/news05_00023.html",
-      "published": null,
+      "published": "2026-08-07",
       "image_url": null,
       "category": "政策・制度",
       "topic_group": "f22c13f3bb"
@@ -332,7 +262,7 @@
       "title": "2026年8月6日 トピックス 「外国人患者を受け入れる医療機関の情報を取りまとめたリスト」を更新しました",
       "summary": "",
       "url": "https://www.mlit.go.jp/kankocho/topics08_00038.html",
-      "published": null,
+      "published": "2026-08-06",
       "image_url": null,
       "category": "業界ニュース",
       "topic_group": "b7d40a55d0"
@@ -342,10 +272,80 @@
       "title": "2026年8月3日 トピックス 「住宅宿泊事業を対象としたICTによる管理に関する説明会」における説明企業の募集について",
       "summary": "",
       "url": "https://www.mlit.go.jp/kankocho/topics06_00065.html",
-      "published": null,
+      "published": "2026-08-03",
       "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "5cb5d10144"
+    },
+    {
+      "source": "観光庁",
+      "title": "2026年7月31日 報道発表 宿泊旅行統計調査（2026年（令和8年）5月・第2次速報、2026年（令和8年）6月・第1次速報）",
+      "summary": "",
+      "url": "https://www.mlit.go.jp/kankocho/news02_00095.html",
+      "published": "2026-07-31",
+      "image_url": null,
+      "category": "統計・市場動向",
+      "topic_group": "fa97ab8226"
+    },
+    {
+      "source": "観光庁",
+      "title": "2026年7月28日 報道発表 観光施設・サービス等の料金設定等に関する調査・研究会 「ヒアリング結果のポイント」公表について",
+      "summary": "",
+      "url": "https://www.mlit.go.jp/kankocho/news08_00047.html",
+      "published": "2026-07-28",
+      "image_url": null,
+      "category": "統計・市場動向",
+      "topic_group": "d05b686ab6"
+    },
+    {
+      "source": "観光庁",
+      "title": "2026年7月24日 報道発表 主要旅行業者の旅行取扱状況速報（2026年（令和8年）5月分）",
+      "summary": "",
+      "url": "https://www.mlit.go.jp/kankocho/news13_00001.html",
+      "published": "2026-07-24",
+      "image_url": null,
+      "category": "業界ニュース",
+      "topic_group": "fa97ab8226"
+    },
+    {
+      "source": "観光庁",
+      "title": "2026年7月15日 報道発表 インバウンド消費動向調査2026年４-６月期（１次速報）の結果について",
+      "summary": "",
+      "url": "https://www.mlit.go.jp/kankocho/news02_00094.html",
+      "published": "2026-07-15",
+      "image_url": null,
+      "category": "統計・市場動向",
+      "topic_group": "fa97ab8226"
+    },
+    {
+      "source": "観光庁",
+      "title": "2026年7月15日 報道発表 地方公共団体に対して民泊に関する通知を行いました ～「住宅宿泊事業法に規定する届出住宅に係る ゼロ日規制等について（技術的助言）」の発出について～",
+      "summary": "",
+      "url": "https://www.mlit.go.jp/kankocho/news06_00067.html",
+      "published": "2026-07-15",
+      "image_url": null,
+      "category": "統計・市場動向",
+      "topic_group": "94d5693fb5"
+    },
+    {
+      "source": "観光庁",
+      "title": "2026年7月10日 報道発表 「令和７年度観光の状況 令和８年度観光施策」（観光白書）について",
+      "summary": "",
+      "url": "https://www.mlit.go.jp/kankocho/news02_00092.html",
+      "published": "2026-07-10",
+      "image_url": null,
+      "category": "業界ニュース",
+      "topic_group": "ac4933c7da"
+    },
+    {
+      "source": "観光庁",
+      "title": "2026年7月7日 報道発表 旅行業者に対する行政処分を行いました",
+      "summary": "",
+      "url": "https://www.mlit.go.jp/kankocho/news06_00064.html",
+      "published": "2026-07-07",
+      "image_url": null,
+      "category": "政策・制度",
+      "topic_group": "fa97ab8226"
     },
     {
       "source": "Travel Voice",
