@@ -57,7 +57,7 @@ def from_feed(source):
 def from_page(source):
  for page in source["pages"]:
   try:
-   response=requests.get(page,headers=HEADERS,timeout=20);response.raise_for_status();soup=BeautifulSoup(response.text,"html.parser");rows=[]
+   response=requests.get(page,headers=HEADERS,timeout=20);response.raise_for_status();soup=BeautifulSoup(response.content,"html.parser");rows=[]
    for a in soup.select("a[href]"):
     title=clean(a.get_text(" ",strip=True),110);url=urljoin(page,a.get("href"))
     if len(title)<16 or urlparse(url).netloc!=urlparse(source["url"]).netloc:continue
@@ -90,7 +90,7 @@ def main():
  for item in sorted(unique,key=lambda x:x.get("published") or "",reverse=True)[:12]:
   if item.get("image_url"):continue
   try:
-   page=requests.get(item["url"],headers=HEADERS,timeout=12);soup=BeautifulSoup(page.text,"html.parser");meta=soup.select_one('meta[property="og:image"]')
+   page=requests.get(item["url"],headers=HEADERS,timeout=12);soup=BeautifulSoup(page.content,"html.parser");meta=soup.select_one('meta[property="og:image"]')
    if meta and meta.get("content"):item["image_url"]=urljoin(item["url"],meta["content"])
   except Exception:pass
  output={"updated_at":datetime.now(timezone.utc).isoformat(),"sources":[{"name":s["name"],"url":s["url"]} for s in SOURCES],"articles":unique}
