@@ -31,7 +31,9 @@ def from_feed(source):
    response=requests.get(feed_url,headers=HEADERS,timeout=20);response.raise_for_status()
    feed=feedparser.parse(response.content)
    if feed.entries:
-    return [{"source":source["name"],"title":clean(e.get("title"),110),"summary":clean(e.get("summary") or e.get("description")),"url":e.get("link"),"published":iso(e.get("published_parsed") or e.get("updated_parsed"))} for e in feed.entries[:20] if e.get("title") and e.get("link")]
+    rows=[{"source":source["name"],"title":clean(e.get("title"),110),"summary":clean(e.get("summary") or e.get("description")),"url":e.get("link"),"published":iso(e.get("published_parsed") or e.get("updated_parsed"))} for e in feed.entries[:20] if e.get("title") and e.get("link")]
+    if source["name"]=="時事ドットコム": rows=[r for r in rows if KEYWORDS.search(r["title"]+" "+r["summary"])]
+    if rows:return rows
   except Exception as exc: print(f"Feed failed {feed_url}: {exc}")
  return []
 
