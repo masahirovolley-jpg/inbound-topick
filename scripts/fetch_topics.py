@@ -59,7 +59,8 @@ def from_page(source):
   try:
    response=requests.get(page,headers=HEADERS,timeout=20);response.raise_for_status();soup=BeautifulSoup(response.content,"html.parser");rows=[]
    for a in soup.select("a[href]"):
-    title=clean(a.get_text(" ",strip=True),110);url=urljoin(page,a.get("href"))
+   title=clean(a.get_text(" ",strip=True),110);url=urljoin(page,a.get("href"))
+    if source["name"]=="観光庁":title=re.sub(r"^20\d{2}年\s*\d{1,2}月\s*\d{1,2}日\s*(報道発表|トピックス|公募|採択結果|募集中)?\s*","",title)
     if len(title)<16 or urlparse(url).netloc!=urlparse(source["url"]).netloc:continue
     if source["name"]=="時事ドットコム" and not KEYWORDS.search(title):continue
     container=a.find_parent(["article","li"]) or a.find_parent("div");stamp=None
