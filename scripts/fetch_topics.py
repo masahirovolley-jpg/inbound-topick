@@ -62,10 +62,14 @@ def from_page(source):
     title=clean(a.get_text(" ",strip=True),110);url=urljoin(page,a.get("href"))
     if len(title)<16 or urlparse(url).netloc!=urlparse(source["url"]).netloc:continue
     if source["name"]=="時事ドットコム" and not KEYWORDS.search(title):continue
-    container=a.find_parent(["article","li","div"]);stamp=None
+    container=a.find_parent(["article","li"]) or a.find_parent("div");stamp=None
     if container:
      t=container.find("time")
      if t: stamp=t.get("datetime") or clean(t.get_text())
+     if source["name"]=="観光庁":
+      match=re.search(r"(20\d{2})年\s*(\d{1,2})月\s*(\d{1,2})日",container.get_text(" ",strip=True))
+      if match: stamp=f"{match.group(1)}-{int(match.group(2)):02d}-{int(match.group(3)):02d}"
+    if source["name"]=="観光庁" and not stamp:continue
     img=container.find("img") if container else None
     rows.append({"source":source["name"],"title":title,"summary":"","url":url,"published":stamp,"image_url":urljoin(page,img.get("src") or img.get("data-src")) if img and (img.get("src") or img.get("data-src")) else None})
    if rows:return rows[:20]
