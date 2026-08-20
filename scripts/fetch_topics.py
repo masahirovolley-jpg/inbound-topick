@@ -59,7 +59,7 @@ def from_page(source):
   try:
    response=requests.get(page,headers=HEADERS,timeout=20);response.raise_for_status();soup=BeautifulSoup(response.content,"html.parser");rows=[]
    for a in soup.select("a[href]"):
-   title=clean(a.get_text(" ",strip=True),110);url=urljoin(page,a.get("href"))
+    title=clean(a.get_text(" ",strip=True),110);url=urljoin(page,a.get("href"))
     if source["name"]=="観光庁":title=re.sub(r"^20\d{2}年\s*\d{1,2}月\s*\d{1,2}日\s*(報道発表|トピックス|公募|採択結果|募集中)?\s*","",title)
     if len(title)<16 or urlparse(url).netloc!=urlparse(source["url"]).netloc:continue
     if source["name"]=="時事ドットコム" and not KEYWORDS.search(title):continue
@@ -85,6 +85,12 @@ def main():
  for item in articles:
   key=item["url"].split("#")[0]
   if key in seen:continue
+  if item["source"]=="時事ドットコム" and not item.get("published"):
+   stamp=re.search(r"\((\d{2})/(\d{2})\s+(\d{2}):(\d{2})\)\s*$",item["title"])
+   if stamp:
+    year=datetime.now(timezone.utc).year
+    item["published"]=f"{year}-{stamp.group(1)}-{stamp.group(2)}T{stamp.group(3)}:{stamp.group(4)}:00+09:00"
+    item["title"]=re.sub(r"\s*\(\d{2}/\d{2}\s+\d{2}:\d{2}\)\s*$","",item["title"])
   seen.add(key);item["url"]=key;item["category"]=category(item["title"]+" "+item["summary"]);unique.append(item)
  for i,item in enumerate(unique):
   normalized=re.sub(r"[\W_]+","",item["title"]);group=None
