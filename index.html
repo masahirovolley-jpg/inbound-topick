@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="訪日観光・インバウンド関連の最新トピックを5媒体からまとめて確認できるダッシュボード">
+  <title>INBOUND PULSE</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Sans+JP:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <nav><a class="brand" href="./"><span>●</span> INBOUND PULSE</a><a class="about" href="#sources">Sources</a></nav>
+    <div class="hero-copy">
+      <p class="eyebrow">JAPAN TOURISM INTELLIGENCE</p>
+      <h1>訪日観光の動きを、<br><em>ひとつの視点</em>に。</h1>
+      <p class="lead">信頼できる5つの情報源から、インバウンド市場の最新トピックを自動収集。</p>
+    </div>
+    <div class="status"><span class="pulse"></span><span>最終更新 <b id="updated">取得中…</b></span><span id="count">— articles</span></div>
+  </header>
+
+  <main>
+    <section class="controls" aria-label="記事の絞り込み">
+      <label class="search"><span>⌕</span><input id="search" type="search" placeholder="キーワードで検索" autocomplete="off"></label>
+      <div id="filters" class="filters"></div>
+      <select id="sort" aria-label="並び順"><option value="new">新しい順</option><option value="source">媒体順</option></select>
+    </section>
+    <section class="section-head"><div><p class="eyebrow">LATEST SIGNALS</p><h2>最新トピック</h2></div><p id="result-count"></p></section>
+    <section id="articles" class="grid" aria-live="polite"><div class="loading">データを読み込んでいます…</div></section>
+    <section id="sources" class="sources"><p class="eyebrow">CURATED SOURCES</p><h2>情報ソース</h2><div id="source-list" class="source-list"></div><p class="note">各記事の著作権は配信元に帰属します。本サイトでは見出し・短い要約・配信元へのリンクを掲載しています。</p></section>
+  </main>
+  <footer><span>INBOUND PULSE</span><span>Built for Japan tourism watchers.</span></footer>
+  <script src="app.js" defer></script>
+</body>
+</html>
