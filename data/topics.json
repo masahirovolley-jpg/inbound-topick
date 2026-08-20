@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T03:16:36.988854+00:00",
+  "updated_at": "2026-08-20T05:20:18.166369+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -179,133 +179,173 @@
     },
     {
       "source": "観光庁",
-      "title": "ç³è«ã»ãååãã",
+      "title": "フィッシングサイトへ誘導する不審メッセージに関する注意喚起",
       "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/shinsei_toiawase.html",
+      "url": "https://www.mlit.go.jp/kankocho/page06_00035.html",
       "published": null,
-      "image_url": null,
+      "image_url": "https://www.mlit.go.jp/kankocho/content/002007274.jpg",
       "category": "業界ニュース",
-      "topic_group": "07481d9105"
+      "topic_group": "71e145592d"
     },
     {
       "source": "観光庁",
-      "title": "è¦³å é¢ä¿è ã®æ¹",
+      "title": "令和８年岩手県大槌町の火災 関連情報",
       "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/kankokankeisha/index.html",
+      "url": "https://www.mlit.go.jp/kankocho/page04_00048.html",
       "published": null,
       "image_url": null,
       "category": "業界ニュース",
-      "topic_group": "fa9354312a"
+      "topic_group": "d0bdbd8c49"
     },
     {
       "source": "観光庁",
-      "title": "äºä¾éã»æ¯æ´ãã¼ã«",
+      "title": "令和８年三陸沖を震源とする地震 関連情報",
       "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/jirei_shien/index.html",
+      "url": "https://www.mlit.go.jp/kankocho/page04_00045.html",
       "published": null,
       "image_url": null,
       "category": "業界ニュース",
-      "topic_group": "6f3ec665a2"
+      "topic_group": "143abb3b48"
     },
     {
       "source": "観光庁",
-      "title": "è¦³å çµ±è¨ã»ç½æ¸",
+      "title": "令和８年長野県北部を震源とする地震 関連情報",
       "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/tokei_hakusyo.html",
+      "url": "https://www.mlit.go.jp/kankocho/page04_00046.html",
       "published": null,
       "image_url": null,
       "category": "業界ニュース",
-      "topic_group": "fa9354312a"
+      "topic_group": "143abb3b48"
     },
     {
       "source": "観光庁",
-      "title": "è¦³å æ¿ç­ã»å¶åº¦",
+      "title": "令和８年 島根県東部を震源とする地震 関連情報",
       "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/seisaku_seido/index.html",
+      "url": "https://www.mlit.go.jp/kankocho/saigai/jishin_r8shimanetottori_00001.html",
       "published": null,
       "image_url": null,
       "category": "業界ニュース",
-      "topic_group": "7e0b3bfe37"
+      "topic_group": "143abb3b48"
     },
     {
       "source": "観光庁",
-      "title": "ãµã¤ãããã",
+      "title": "令和７年８月６日からの大雨関連情報",
       "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/sitemap.html",
+      "url": "https://www.mlit.go.jp/kankocho/topics06_00031.html",
       "published": null,
       "image_url": null,
       "category": "業界ニュース",
-      "topic_group": "07481d9105"
+      "topic_group": "0546382543"
     },
     {
       "source": "観光庁",
-      "title": "è¦³å åºé·å®ä¼è¦",
+      "title": "過去に発生した主な災害に関する情報",
       "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/soshiki/chokankaiken.html",
+      "url": "https://www.mlit.go.jp/kankocho/saigai.html",
       "published": null,
       "image_url": null,
       "category": "業界ニュース",
-      "topic_group": "fa9354312a"
+      "topic_group": "ae48370594"
     },
     {
       "source": "観光庁",
-      "title": "æç¶å¯è½ãªè¦³å ",
+      "title": "2026年8月19日 報道発表 旅行・観光消費動向調査 2026年4-6月期（１次速報）",
       "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/seisaku_seido/kihonkeikaku/jizoku_kankochi/index.html",
+      "url": "https://www.mlit.go.jp/kankocho/news02_00096.html",
+      "published": null,
+      "image_url": null,
+      "category": "統計・市場動向",
+      "topic_group": "fa97ab8226"
+    },
+    {
+      "source": "観光庁",
+      "title": "2026年8月19日 トピックス 本年12月に日フィリピン観光合同作業部会の初開催が決定",
+      "summary": "",
+      "url": "https://www.mlit.go.jp/kankocho/topics03_00049.html",
       "published": null,
       "image_url": null,
       "category": "業界ニュース",
-      "topic_group": "d81c15544e"
+      "topic_group": "f9a3af53ef"
     },
     {
       "source": "観光庁",
-      "title": "ãªã¼ãã¼ãã¼ãªãºã",
+      "title": "2026年8月19日 トピックス 「日シンガポール外交関係樹立60周年イベント（SJ60）出展事業」 共同出展地域の公募開始のお知らせ",
       "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/seisaku_seido/kihonkeikaku/jizoku_kankochi/jizokukano_taisei/overtourism.html",
+      "url": "https://www.mlit.go.jp/kankocho/topics03_00050.html",
+      "published": null,
+      "image_url": null,
+      "category": "政策・制度",
+      "topic_group": "890980c30f"
+    },
+    {
+      "source": "観光庁",
+      "title": "2026年8月17日 トピックス 令和８年熊本地震 関連情報",
+      "summary": "",
+      "url": "https://www.mlit.go.jp/kankocho/topics04_00093.html",
       "published": null,
       "image_url": null,
       "category": "業界ニュース",
-      "topic_group": "07481d9105"
+      "topic_group": "88cc46991c"
     },
     {
       "source": "観光庁",
-      "title": "ç¬¬ï¼ã®ãµããã¨",
+      "title": "2026年8月10日 公募 【令和7年度補正】観光需要分散のための地域観光資源のコンテンツ化促進事業（二次公募）の採択結果",
       "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/seisaku_seido/kihonkeikaku/kokunaikoryu/kaitaku/dai2furusato.html",
+      "url": "https://www.mlit.go.jp/kankocho/kobo05_00119.html",
+      "published": null,
+      "image_url": null,
+      "category": "統計・市場動向",
+      "topic_group": "87c1bd78b8"
+    },
+    {
+      "source": "観光庁",
+      "title": "2026年8月10日 公募 令和８年度「地域一体となった持続可能な観光地経営推進事業」における採択結果のお知らせ 自治体・DMO その他観光関係者",
+      "summary": "",
+      "url": "https://www.mlit.go.jp/kankocho/kobo08_00068.html",
+      "published": null,
+      "image_url": null,
+      "category": "政策・制度",
+      "topic_group": "34d76740d4"
+    },
+    {
+      "source": "観光庁",
+      "title": "2026年8月7日 報道発表 令和８年熊本地震の影響による許可等の有効期間の延長について",
+      "summary": "",
+      "url": "https://www.mlit.go.jp/kankocho/news13_00002.html",
       "published": null,
       "image_url": null,
       "category": "業界ニュース",
-      "topic_group": "07481d9105"
+      "topic_group": "88cc46991c"
     },
     {
       "source": "観光庁",
-      "title": "ãã¸ã¿ã«ããã",
+      "title": "2026年8月7日 報道発表 文化観光推進法に基づく拠点計画及び地域計画の新規認定",
       "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/seisaku_seido/kihonkeikaku/inbound_kaifuku/chihoyukyaku/digitalnomad.html",
+      "url": "https://www.mlit.go.jp/kankocho/news05_00023.html",
+      "published": null,
+      "image_url": null,
+      "category": "政策・制度",
+      "topic_group": "f22c13f3bb"
+    },
+    {
+      "source": "観光庁",
+      "title": "2026年8月6日 トピックス 「外国人患者を受け入れる医療機関の情報を取りまとめたリスト」を更新しました",
+      "summary": "",
+      "url": "https://www.mlit.go.jp/kankocho/topics08_00038.html",
       "published": null,
       "image_url": null,
       "category": "業界ニュース",
-      "topic_group": "07481d9105"
+      "topic_group": "b7d40a55d0"
     },
     {
       "source": "観光庁",
-      "title": "è¦³å å°åã¥ããæ³äººï¼DMOï¼",
+      "title": "2026年8月3日 トピックス 「住宅宿泊事業を対象としたICTによる管理に関する説明会」における説明企業の募集について",
       "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/seisaku_seido/dmo/index.html",
+      "url": "https://www.mlit.go.jp/kankocho/topics06_00065.html",
       "published": null,
       "image_url": null,
-      "category": "地域・DMO",
-      "topic_group": "0604da3db9"
-    },
-    {
-      "source": "観光庁",
-      "title": "å ¥æ­ã»å¥ç´æ å ±",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/soshiki/nyusatsukeiyaku/index.html",
-      "published": null,
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "7e0b3bfe37"
+      "category": "統計・市場動向",
+      "topic_group": "5cb5d10144"
     },
     {
       "source": "Travel Voice",
@@ -529,13 +569,33 @@
     },
     {
       "source": "時事ドットコム",
-      "title": "米ダレス空港改修に３兆円超 トランプ氏推進、大規模計画を承認",
+      "title": "７月訪日客、０．１％増 ４カ月ぶりプラス、中国５６％減―政府観光局 (08/19 16:31)",
       "summary": "",
-      "url": "https://www.jiji.com/jc/article?k=2026082000425&g=int&m=rss",
-      "published": "2026-08-20T02:08:00+00:00",
-      "image_url": "https://www.jiji.com/news2/kiji_photos/202608/20260820at17S_o.jpg",
-      "category": "航空・交通",
-      "topic_group": "d569073021"
+      "url": "https://www.jiji.com/jc/article?k=2026081900791&g=eco",
+      "published": null,
+      "image_url": null,
+      "category": "政策・制度",
+      "topic_group": "b75fc81b29"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "6月の訪日香港人数は21.4万人、上半期は過去最高の2024年を上回るペースで推移：香港市場の最新インバウンドデータを徹底解説【2026年上半期】",
+      "summary": "日本 政府観光局 （ JNTO ）が7月15日に発表した訪日外客統計によると、2026年6月の訪日 香港 人数は21万4,300人でした。 また、 観光庁 が同日に発表した インバウンド消費動向調査 によると、2026年4〜6月期の訪日 香港 人旅行消費額は1,452億円となっています。 本記事では…",
+      "url": "https://honichi.com/news/2026/08/20/hongkong202607/?utm_source=rss",
+      "published": "2026-08-20T05:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14550/main_e3fd0b803caeaac7335892ed819bc845.png",
+      "category": "統計・市場動向",
+      "topic_group": "f635c48e43"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "【2026年最新】渋谷の居酒屋で外国人に人気の飲食店TOP10！ざうお渋谷店は2位、1位は？",
+      "summary": "訪日ラボが最新の 口コミ データを元に 独自調査 ・発表している『 インバウンド 人気 飲食店 ランキング 』。全国の 飲食店 に寄せられた 口コミ をもとに、 訪日客 の注目 飲食店 や人気の理由を分析しています。 本記事ではその中から、 【2026年最新版】外国人に人気の 飲食店 ランキング ［…",
+      "url": "https://honichi.com/news/2026/08/20/202608_inboundranking_gourmet_shibuya_izakaya/?utm_source=rss",
+      "published": "2026-08-20T04:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14621/main_01_cover_shibuya_izakaya.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "c612fbe4d0"
     },
     {
       "source": "訪日ラボ",
@@ -575,7 +635,7 @@
       "published": "2026-08-19T01:00:00+00:00",
       "image_url": "https://static.honichi.com/uploads/entry/image/14605/main_01_cover_tokyo.jpg",
       "category": "統計・市場動向",
-      "topic_group": "41a32dfd1d"
+      "topic_group": "c612fbe4d0"
     },
     {
       "source": "訪日ラボ",
@@ -585,7 +645,7 @@
       "published": "2026-08-19T01:00:00+00:00",
       "image_url": "https://static.honichi.com/uploads/entry/image/14547/main_55a54d297728cf5734fe554b3eaed132.png",
       "category": "統計・市場動向",
-      "topic_group": "6024ce3269"
+      "topic_group": "f635c48e43"
     },
     {
       "source": "訪日ラボ",
@@ -595,7 +655,7 @@
       "published": "2026-08-19T00:00:00+00:00",
       "image_url": "https://static.honichi.com/uploads/entry/image/14548/main_67a4d2b5be8ebf52fea7d785bfb7925f.png",
       "category": "統計・市場動向",
-      "topic_group": "6024ce3269"
+      "topic_group": "f635c48e43"
     },
     {
       "source": "訪日ラボ",
@@ -626,26 +686,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14590/main_mediabriefing202607_01.jpg",
       "category": "統計・市場動向",
       "topic_group": "18f62d156c"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "訪日客の購買意欲、回復に足踏み 中東情勢や航空便減が影響",
-      "summary": "三菱UFJリサーチ＆コンサルティング株式会社と株式会社インジェスターは8月12日、2026年第2四半期における「 インバウンド 購買意欲指数」の調査結果を公表しました。 本調査は全国の 小売店 を訪れる 訪日客 の購買意欲を測定するもので、2026年第2四半期は前四半期から横ばいとなりました。 関連…",
-      "url": "https://honichi.com/news/2026/08/18/inbound-index-202602/?utm_source=rss",
-      "published": "2026-08-18T01:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14617/main_vitaly-gariev-VZK7zlnUVwI-unsplash__1_.png",
-      "category": "統計・市場動向",
-      "topic_group": "e89896b7e2"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "インバウンド人気商業施設ランキング1位・キャナルシティ博多の経営戦略とは？ ほか：インバウンド対策に役立つマーケティング資料まとめ（8月前半公開分）",
-      "summary": "訪日ラボでは、 インバウンドマーケティング に役立つ資料を公開しています。 この記事では、【2026年8月前半】に公開したおすすめ資料をご紹介します。ぜひ、日々の業務にお役立てください。 ※ 訪日ラボ会員 にご登録いただくと、レポートの全容を無料にてご覧いただけます。 目次 1. 【2026年8月前…",
-      "url": "https://honichi.com/news/2026/08/18/whitepapermatome_20260814/?utm_source=rss",
-      "published": "2026-08-18T00:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14609/main_3313f2eee1b7587553ad2a587f025313.png",
-      "category": "統計・市場動向",
-      "topic_group": "b1cd0fabd4"
     }
   ]
 }
