@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T22:02:42.245480+00:00",
+  "updated_at": "2026-08-25T22:00:08.787208+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -32,7 +32,7 @@
       "title": "入札等公告情報を更新しました",
       "summary": "",
       "url": "https://www.jnto.go.jp/news/info/post_1.html",
-      "published": "2026-08-24T06:23:00+00:00",
+      "published": "2026-08-25T06:23:00+00:00",
       "image_url": "https://www.jnto.go.jp/assets/img/og.png",
       "category": "業界ニュース",
       "topic_group": "898dc392c8"
@@ -339,103 +339,113 @@
     },
     {
       "source": "Travel Voice",
-      "title": "ふるさと住民登録制度の実装に向けて「首長サミット」開催、26自治体が集結、「地域の担い手」づくりの事例を共有",
+      "title": "JTBが人流データ分析のナイトレイを子会社化した狙いとは？ 「交流創造Intelligence（インテリジェンス）」の本質と生まれる価値を聞いてきた（PR）",
+      "summary": "（PR）JTBが人流データ分析の専門「ナイトレイ」をグループ化。旅行業の知見×ビッグデータで生み出す交流創造事業の価値と、その手法とは？",
+      "url": "https://www.travelvoice.jp/20260825-160351",
+      "published": "2026-08-25T03:00:22+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/08/137f24e6-9bd0-44bf-bf42-3a9d19a8bf58.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "f1d39ef22c"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "羽田空港第1ターミナル、初の大規模拡張でバス移動を軽減、9月1日供用開始の北側サテライトを取材した",
+      "summary": "2026年9月1日に供用が開始される羽田空港第1ターミナル北側サテライトが報道陣に公開された。人にも環境にも優しい鉄骨造と木造を組み合わせたハイブリッド構造が最大の特徴。",
+      "url": "https://www.travelvoice.jp/20260825-160393",
+      "published": "2026-08-25T09:27:58+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/08/aa321454-a2e2-4acb-b30f-5b5986a1b514.jpg",
+      "category": "航空・交通",
+      "topic_group": "8b72766f82"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "2人以上世帯のネット「旅行」支出、2026年6月は3％減、2カ月連続で前年割れ ―家計消費状況調査（2026年6月）",
+      "summary": "総務省統計局による「家計消費状況調査」によると、2026年6月の二人以上の世帯のネットショッピング支出額は前年比1.1％減の2万5915円。そのうち旅行関係費は5292円で前年比2.9％減となった。",
+      "url": "https://www.travelvoice.jp/20260825-160376",
+      "published": "2026-08-25T02:10:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2021/12/4a35c860-939a-41c3-b2a2-4de2d0b4ace0.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "4e4e271d88"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "航空ビジネスの国際見本市「APEX FTE エキスポ 2026」、最新の旅客体験と地上業務のイノベーションを発信、シンガポールで11月開催（PR）",
+      "summary": "（PR）航空・空港業界に特化した国際イベント「APEX FTE EXPO 2026」が、2026年11月にシンガポールで開催。旅客体験、AI、デジタル化など、業界の最新イノベーションを議論。",
+      "url": "https://www.travelvoice.jp/20260825-160337",
+      "published": "2026-08-25T02:00:13+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/08/c8eecd3a-7e9d-4f6c-bbee-b4446a82b0a4.jpg",
+      "category": "航空・交通",
+      "topic_group": "2d073b63c6"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "フランスとサウジアラビア、パリ近郊に「ドラゴンボールZ」テーマパーク建設で合意、総額60億ユーロの大規模開発",
+      "summary": "フランスとサウジアラビアが、パリ近郊に総額60億ユーロ規模の「ドラゴンボールZ」テーマパーク建設で合意した。サウジのQiddiyaが資金提供し、東映アニメーションの世界的IPを活用した開発が進む。",
+      "url": "https://www.travelvoice.jp/20260825-160392",
+      "published": "2026-08-25T07:57:25+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/08/825bd66e-c0a9-4dcd-a696-f63466321eba.JPG",
+      "category": "業界ニュース",
+      "topic_group": "4a553ffe42"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "人気ドラマ「VIVANT」の世界観を没入型体験イベント、劇中セットとデジタル演出を融合、来場者が「別班」「公安」などの一員に",
+      "summary": "テレビドラマ「VIVANT」の世界観が体験できるイベント「VIVANT IMMERSIVE MISSION」が、2026年9月16日から11月27日まで東京・京橋のCREATIVE MUSEUM TOKYOで開催。",
+      "url": "https://www.travelvoice.jp/20260825-160386",
+      "published": "2026-08-25T01:40:08+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/08/11036e05-9df2-4e98-bad9-3d8febfe9495.jpg",
+      "category": "AI・デジタル",
+      "topic_group": "b06ae6ce27"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "奈良の文化財保護をふるさと納税で支援、37事業で寄付募集、名刀「小狐丸」修理や吉野神宮の防火対策など",
+      "summary": "さとふるは、奈良県が進める文化財保護の37事業に対する寄付を、クラウドファンディング型ふるさと納税サイトで受け付け開始。重要文化財の修理や神社の防火対策などを支援。",
+      "url": "https://www.travelvoice.jp/20260825-160380",
+      "published": "2026-08-25T01:30:09+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/08/be7bf52f-8e89-439b-ae2b-e248c74029c1.png",
+      "category": "政策・制度",
+      "topic_group": "da8943ff1c"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "ふるさと住民登録制度の実装に向けて「首長サミット」開催、26自治体が集結、「2分の1村民」など事例共有",
       "summary": "ふるさと住民応援コンソーシアムは、ふるさと住民登録制度ならびに地域居住をテーマとした「首長サミット2026」を開催。3自治体がモデル事業の事例を紹介した。",
       "url": "https://www.travelvoice.jp/20260824-160306",
-      "published": "2026-08-24T07:27:32+00:00",
+      "published": "2026-08-25T00:26:18+00:00",
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/08/e92a400f-8124-4b75-9f97-7125e7cf83b7.jpeg",
       "category": "政策・制度",
-      "topic_group": "bd8d87ad44"
+      "topic_group": "be9854e1a5"
     },
     {
       "source": "Travel Voice",
-      "title": "日本旅行、「ふるさと住民登録制度」開始に向けて、「担い手活動」を体験ツアーや企業研修に組み込みへ",
+      "title": "ふるさと住民応援コンソーシアムとは？ 担い手を創出するプログラムでは「担い手活動参加権」クーポンも、日本旅行や楽天Gなど",
       "summary": "ふるさと住民応援コンソーシアムに参画する日本旅行は、総務省が進める「ふるさと住民登録制度」に向けて、旅行会社の総合力を活かした取り組みを展開していく。",
       "url": "https://www.travelvoice.jp/20260824-160305",
-      "published": "2026-08-24T07:26:23+00:00",
+      "published": "2026-08-25T00:33:00+00:00",
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/08/259bcc1f-34ce-4eee-8e71-0c6173fcc880.jpg",
       "category": "政策・制度",
-      "topic_group": "731788c7ea"
+      "topic_group": "520cb07aa7"
     },
     {
       "source": "Travel Voice",
-      "title": "日本人の国内旅行消費額、2026年4～6月は12％増の7.5兆円、旅行者数3.3％増、1人あたり単価は8.2％上昇 ―観光庁（1次速報）",
+      "title": "日本人の国内旅行消費額、4～6月の1人あたり旅行単価は8.2％上昇7.6万円に、総額12％増7.5兆円、旅行者数も3.3％増 ―観光庁",
       "summary": "観光庁が発表した2026年4〜6月期の旅行・観光消費動向調査（1次速報）によると、日本人の国内旅行消費額は前年同期比11.7％増の7兆5361億円となった。延べ旅行者数は3.3％増、旅行単価は8.2％増。",
       "url": "https://www.travelvoice.jp/20260824-160363",
-      "published": "2026-08-24T01:50:08+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2024/06/8e8a8dae-6a55-4925-b574-83012fd65d7f.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "fc120078fa"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "遊園地・テーマパークなど122社の業績調査2025、増収企業が減少、減収は増加、成長ペースが鈍化 ―東京商工リサーチ",
-      "summary": "東京商工リサーチは、最新の「遊園地・テーマパークなど運営企業」業績動向調査の結果を発表。4期連続で増収増益も伸びは鈍化。売上高トップは「オリエンタルランド（東京ディズニーリゾート）」で5881億7100万円。",
-      "url": "https://www.travelvoice.jp/20260824-160375",
-      "published": "2026-08-24T01:45:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2019/09/ferris_wheel.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "8c33150395"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "IHG、京都市内14ホテルをリブランドへ、12軒を「ガーナー」に、総客室1063室",
-      "summary": "IHGホテルズ＆リゾーツは、京都市内の14軒を「ガーナー」などにリブランドする国内最大級の契約を締結した。今後1年間で改装・開業を進め、同市内における外資系ホテルグループとしての存在感を拡大する。",
-      "url": "https://www.travelvoice.jp/20260824-160385",
-      "published": "2026-08-24T10:52:16+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2020/06/4bf84473-855c-474f-9bda-a762e454a9e8.jpg",
-      "category": "宿泊・施設",
-      "topic_group": "e1a0b10cfd"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "JR九州、観光の力で熊本を応援、「くまモン」貸切列車ツアー、XR体験やふれあい交流も",
-      "summary": "JR九州は2026年9月26日、特別ラッピング列車で行く熊本応援ツアーを実施する。XRアトラクション体験やくまモンとの交流を通じ、震災からの復興を進める熊本の魅力を体感できる内容。",
-      "url": "https://www.travelvoice.jp/20260824-160384",
-      "published": "2026-08-24T10:42:00+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/08/da54ebea-ab3b-4841-85b2-52b24d6b930d.jpg",
-      "category": "業界ニュース",
-      "topic_group": "1106c5e697"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "クラブツーリズム、「銭湯」を観光コンテンツ化、営業前の清掃体験や写真撮影できるツアーを発表",
-      "summary": "クラブツーリズムは、KNT-CTホールディングスと共同で営業前の銭湯探検ツアーを発売。清掃体験や撮影会で普段は見られない銭湯の一面にふれ、魅力を体験。第一弾は東京都内の有名銭湯。",
-      "url": "https://www.travelvoice.jp/20260824-160361",
-      "published": "2026-08-24T01:35:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2023/07/cdc5da1f-ca78-441b-bfae-a7ea44b99e6d.jpg",
-      "category": "業界ニュース",
-      "topic_group": "5f768b0652"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "ローソントラベル、「観光×防災」推進、ヘリ遊覧と制限エリア見学の「秘密基地探検ツアー」",
-      "summary": "ローソントラベルは、ヘリコプター遊覧搭乗や格納庫見学ができる「秘密基地探検ツアー」を2026年9、10月に東京と大阪で開催。楽しみながら「空のインフラ」や航空防災の重要性学ぶ。",
-      "url": "https://www.travelvoice.jp/20260824-160360",
-      "published": "2026-08-24T01:30:09+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/08/48aa228b-3629-4c6f-a4b7-08ee8e3f0f77.png",
-      "category": "航空・交通",
-      "topic_group": "e881f73fae"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "観光地の危機対応、事前準備があれば回復速度が最大1.5倍に、中東危機が長期化すれば世界の旅行需要は3％減の予測も ―TOURISE調査",
-      "summary": "サウジアラビアの旅行プラットフォーム「TOURISE（トゥーライズ）」は、現在の中東危機について、停戦が維持された場合、2026年に世界の旅行需要は約6％増加する予測。",
-      "url": "https://www.travelvoice.jp/20260821-160355",
-      "published": "2026-08-24T07:25:22+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/03/6b7705c6-ea8f-4202-94af-13ed030bcabc.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "ff9740d74f"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "なぜ今「一棟貸し」宿泊施設が選ばれるのか？ 観光市場を動かす「距離感」と「価値観」の変化を考察【コラム】",
-      "summary": "国学院大学観光まちづくり学部教授によるコラム。今回は、「価値観」と「距離感」というキーワードが旅行市場に及ぼしている変化を一棟貸し宿泊施設が増加している事例を交えて考察。",
-      "url": "https://www.travelvoice.jp/20260821-160349",
-      "published": "2026-08-21T23:07:17+00:00",
+      "published": "2026-08-24T23:57:58+00:00",
       "image_url": null,
       "category": "統計・市場動向",
-      "topic_group": "64486ef06f"
+      "topic_group": "57bbc2c161"
+    },
+    {
+      "source": "やまとごころ.jp",
+      "title": "広島の成功モデルは他地域でも通用するのか。サイクリングツアーに学ぶ、地域に合わせた横展開の実践",
+      "summary": "地域資源を生かした体験ツアーは全国各地で造成されている。しかし、継続的に選ばれ、地域を代表するブランドへ育つ事例は決して多くない。そんな中、広島発のストーリー型サイクリングツアー「sokoiko!（ソコイコ）」は、トリッ…",
+      "url": "https://yamatogokoro.jp/inbound_case/61066/",
+      "published": "2026-08-24T23:00:20+00:00",
+      "image_url": null,
+      "category": "地域・DMO",
+      "topic_group": "e3fbd91fe6"
     },
     {
       "source": "やまとごころ.jp",
@@ -548,14 +558,44 @@
       "topic_group": "7cb0f646bd"
     },
     {
-      "source": "やまとごころ.jp",
-      "title": "AIは、観光地経営をどう変えるのか？ 熱海をはじめ5地域の実践から見えた、業務・人材・組織の変化【セミナーレポート】",
-      "summary": "生成AIの急速な普及により、観光業界においてもAI活用は避けて通れないテーマとなった。一方で観光地経営を実際に担う現場からは「実務にどう活かせばよいか分からない」という声も多い。 今回は、株式会社リクルート じゃらんリサ…",
-      "url": "https://yamatogokoro.jp/column/inbound-seminarreport/60843/",
-      "published": "2026-08-03T23:00:59+00:00",
-      "image_url": null,
-      "category": "地域・DMO",
-      "topic_group": "ae2266db4f"
+      "source": "訪日ラボ",
+      "title": "【2026年最新】島根で外国人に人気のホテル・旅館TOP10！松江ニューアーバンホテル《本館/別館》は第2位、1位は？",
+      "summary": "訪日ラボが最新の 口コミ データを元に 独自調査 ・発表している『 インバウンド 人気 ホテル ・ 旅館 ランキング 』。全国の 宿泊施設 に寄せられた 口コミ をもとに、 訪日客 の注目施設や人気の理由を分析しています。 本記事ではその中から、 【2026年最新版】外国人に人気の ホテル ・ 旅館…",
+      "url": "https://honichi.com/news/2026/08/25/202608_inboundranking_hotel_shimane/?utm_source=rss",
+      "published": "2026-08-25T03:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14620/main_slide_01.png",
+      "category": "統計・市場動向",
+      "topic_group": "7497b605ba"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "上半期の訪日シンガポール人数は前年超え、4-6月期の消費額は前年比1.2倍：シンガポール市場の最新インバウンドデータを徹底解説【2026年上半期】",
+      "summary": "日本 政府観光局 （ JNTO ）が7月15日に発表した訪日外客統計によると、2026年6月の訪日 シンガポール 人数は6万8,400人でした。 また、 観光庁 が同日に発表した インバウンド消費動向調査 によると、2026年4-6月期の訪日 シンガポール 人旅行消費額は600億円となっています。 …",
+      "url": "https://honichi.com/news/2026/08/25/singapore202607/?utm_source=rss",
+      "published": "2026-08-25T01:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14556/main_9554e8a4b2ef91c1316ead98ab174cf5.png",
+      "category": "統計・市場動向",
+      "topic_group": "53f3d918a7"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "ドンキ運営のPPIH、免税売上が過去最高を更新 ヨーロッパは前期比67.3％増（2026年6月期通期決算）",
+      "summary": "ディスカウントストア「 ドン・キホーテ 」を運営する株式会社パン・パシフィック・インターナショナルホールディングス（以下、PPIH）は8月18日、2026年6月期（2025年7月〜2026年6月）の通期 決算 を発表しました。 増収増益を達成したことに加えて、純利益が初の1,000億円超を記録しまし…",
+      "url": "https://honichi.com/news/2026/08/25/ppih-202606-04/?utm_source=rss",
+      "published": "2026-08-25T00:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14631/main_20260820-02.jpg",
+      "category": "政策・制度",
+      "topic_group": "3471caafd9"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "7月の訪日外客数は344.2万人 台湾で単月過去最高、16市場で7月の記録を更新 ほか：訪日ラボ 今週の注目記事5選",
+      "summary": "訪日ラボ編集部です。本シリーズでは、 この1週間に公開した記事の中から、 インバウンド 担当者が読んでおきたい注目の記事 を厳選してお届けします。 最新トレンドの把握や、 マーケティング 活動にぜひともご活用ください。 ...",
+      "url": "https://honichi.com/news/2026/08/25/weekmatome_20260825/?utm_source=rss",
+      "published": "2026-08-24T23:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14634/main_72e8ce718cff78bce867efd78e2b0ea6.png",
+      "category": "統計・市場動向",
+      "topic_group": "c6893ab76b"
     },
     {
       "source": "訪日ラボ",
@@ -565,7 +605,7 @@
       "published": "2026-08-24T22:00:00+00:00",
       "image_url": "https://static.honichi.com/uploads/entry/image/14557/main_malaysia202607_img01.png",
       "category": "統計・市場動向",
-      "topic_group": "d6d085f83e"
+      "topic_group": "53f3d918a7"
     },
     {
       "source": "訪日ラボ",
@@ -575,7 +615,7 @@
       "published": "2026-08-24T03:00:00+00:00",
       "image_url": "https://static.honichi.com/uploads/entry/image/14619/main_yamagata_slide_01.png",
       "category": "統計・市場動向",
-      "topic_group": "e0d8bb32d5"
+      "topic_group": "7497b605ba"
     },
     {
       "source": "訪日ラボ",
@@ -605,7 +645,7 @@
       "published": "2026-08-21T03:00:00+00:00",
       "image_url": "https://static.honichi.com/uploads/entry/image/14622/main_ibaraki_slide_cover.png",
       "category": "統計・市場動向",
-      "topic_group": "e0d8bb32d5"
+      "topic_group": "7497b605ba"
     },
     {
       "source": "訪日ラボ",
@@ -615,7 +655,7 @@
       "published": "2026-08-21T00:00:00+00:00",
       "image_url": "https://static.honichi.com/uploads/entry/image/14551/main_23d1156fb1fcddf2db0abc1e4113733e.png",
       "category": "統計・市場動向",
-      "topic_group": "d6d085f83e"
+      "topic_group": "53f3d918a7"
     },
     {
       "source": "訪日ラボ",
@@ -626,46 +666,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14629/main_3ebd372841d6cff63a766d8d020e8a4f.png",
       "category": "統計・市場動向",
       "topic_group": "5c24ac2ebe"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "JR西日本、インバウンド収入が中東情勢の影響で伸び悩み（2027年3月期 第1四半期決算）",
-      "summary": "西日本旅客 鉄道 （以下、 JR 西日本）は8月5日、2027年3月期の第1四半期（2026年4月〜2026年6月） 決算 を発表しました。 堅調な国内需要を捉えたものの、 万博 効果の反動やインフレ・ 中東 情勢の影響によるコスト増大により、グループ全体としては減収減益を記録しました。 インバウン…",
-      "url": "https://honichi.com/news/2026/08/21/jr-west-202704-06/?utm_source=rss",
-      "published": "2026-08-20T22:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14603/main_yanhao-fang-0PDlODbdgek-unsplash.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "0abca75868"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "6月の訪日香港人数は21.4万人、上半期は過去最高の2024年を上回るペースで推移：香港市場の最新インバウンドデータを徹底解説【2026年上半期】",
-      "summary": "日本 政府観光局 （ JNTO ）が7月15日に発表した訪日外客統計によると、2026年6月の訪日 香港 人数は21万4,300人でした。 また、 観光庁 が同日に発表した インバウンド消費動向調査 によると、2026年4-6月期の訪日 香港 人旅行消費額は1,452億円となっています。 本記事では…",
-      "url": "https://honichi.com/news/2026/08/20/hongkong202607/?utm_source=rss",
-      "published": "2026-08-20T05:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14550/main_e3fd0b803caeaac7335892ed819bc845.png",
-      "category": "統計・市場動向",
-      "topic_group": "d6d085f83e"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "【2026年最新】渋谷の居酒屋で外国人に人気の飲食店TOP10！ざうお渋谷店は2位、1位は？",
-      "summary": "訪日ラボが最新の 口コミ データを元に 独自調査 ・発表している『 インバウンド 人気 飲食店 ランキング 』。全国の 飲食店 に寄せられた 口コミ をもとに、 訪日客 の注目 飲食店 や人気の理由を分析しています。 本記事ではその中から、 【2026年最新版】外国人に人気の 飲食店 ランキング ［…",
-      "url": "https://honichi.com/news/2026/08/20/202608_inboundranking_gourmet_shibuya_izakaya/?utm_source=rss",
-      "published": "2026-08-20T04:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14621/main_01_cover_shibuya_izakaya.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "e0d8bb32d5"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "三越伊勢丹、営業利益・当期純利益ともに過去最高 海外顧客売上高は22％増（2027年3月期 第1四半期決算）",
-      "summary": "三越伊勢丹ホールディングスは8月13日、2027年3月期の第1四半期 決算 （2026年4月〜6月）を発表しました。 インバウンド を中心とする海外顧客売上高が前年比22％増と大幅に伸びたことなどが寄与し、営業利益と当期純利益は第1四半期として過去最高を記録しています。 関連記事 ： 阪急阪神百貨店…",
-      "url": "https://honichi.com/news/2026/08/20/mitsukoshi-isetan-202703-01/?utm_source=rss",
-      "published": "2026-08-19T23:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14616/main_20260816-03.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "71e323eff1"
     }
   ]
 }
