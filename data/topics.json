@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T04:26:49.517218+00:00",
+  "updated_at": "2026-08-28T22:01:18.302803+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -179,6 +179,36 @@
     },
     {
       "source": "観光庁",
+      "title": "地域と企業の連携による「観光の足」の課題解決事例を 紹介するセミナーを開催します～参加者募集のお知らせ～",
+      "summary": "",
+      "url": "https://www.mlit.go.jp/kankocho/news08_00050.html",
+      "published": "2026-08-28",
+      "image_url": null,
+      "category": "地域・DMO",
+      "topic_group": "689a8fce1e"
+    },
+    {
+      "source": "観光庁",
+      "title": "令和８年熊本地震 関連情報（九州ふっこう応援割について掲載）",
+      "summary": "",
+      "url": "https://www.mlit.go.jp/kankocho/topics04_00093.html",
+      "published": "2026-08-28",
+      "image_url": null,
+      "category": "業界ニュース",
+      "topic_group": "7b548b3b31"
+    },
+    {
+      "source": "観光庁",
+      "title": "主要旅行業者の旅行取扱状況速報（2026年（令和8年）6月分）",
+      "summary": "",
+      "url": "https://www.mlit.go.jp/kankocho/news13_00003.html",
+      "published": "2026-08-28",
+      "image_url": null,
+      "category": "業界ニュース",
+      "topic_group": "71a3a3c4ec"
+    },
+    {
+      "source": "観光庁",
       "title": "「令和８年度 DMO全国会議」を開催しました！",
       "summary": "",
       "url": "https://www.mlit.go.jp/kankocho/topics04_00095.html",
@@ -249,26 +279,6 @@
     },
     {
       "source": "観光庁",
-      "title": "【令和7年度補正】観光需要分散のための地域観光資源のコンテンツ化促進事業（二次公募）の採択結果",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/kobo05_00119.html",
-      "published": "2026-08-10",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "b8237b23d0"
-    },
-    {
-      "source": "観光庁",
-      "title": "令和８年度「地域一体となった持続可能な観光地経営推進事業」における採択結果のお知らせ 自治体・DMO その他観光関係者",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/kobo08_00068.html",
-      "published": "2026-08-10",
-      "image_url": null,
-      "category": "地域・DMO",
-      "topic_group": "bbe30669db"
-    },
-    {
-      "source": "観光庁",
       "title": "令和８年熊本地震の影響による許可等の有効期間の延長について",
       "summary": "",
       "url": "https://www.mlit.go.jp/kankocho/news13_00002.html",
@@ -315,7 +325,7 @@
       "published": "2026-07-24",
       "image_url": null,
       "category": "業界ニュース",
-      "topic_group": "3b34551716"
+      "topic_group": "71a3a3c4ec"
     },
     {
       "source": "観光庁",
@@ -338,34 +348,64 @@
       "topic_group": "2a1e1cd2b0"
     },
     {
-      "source": "観光庁",
-      "title": "「令和７年度観光の状況 令和８年度観光施策」（観光白書）について",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/news02_00092.html",
-      "published": "2026-07-10",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "caecdf9e6e"
+      "source": "Travel Voice",
+      "title": "昭和を代表する大型温泉ホテルはどう変わるのか？ 「ホテル浦島」が40億円投資で大規模改装、その戦略を取材した",
+      "summary": "和歌山県那智勝浦町のホテル浦島が「日昇館」をリニューアル。40億円を投じ、客室やレストランを刷新した。4館の棲み分け、食のリブランド、DXを進め、単価と稼働率を高める戦略を取材した。",
+      "url": "https://www.travelvoice.jp/20260828-160325",
+      "published": "2026-08-28T13:25:05+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/08/fa44c8b4-d58e-4147-a3cb-e510cdaad682.jpeg",
+      "category": "宿泊・施設",
+      "topic_group": "8d8c226f30"
     },
     {
-      "source": "観光庁",
-      "title": "旅行業者に対する行政処分を行いました",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/news06_00064.html",
-      "published": "2026-07-07",
-      "image_url": null,
+      "source": "Travel Voice",
+      "title": "観光庁の概算要求2027、過去最大規模の約1900億円、国内・アウトバウンドは2.44倍",
+      "summary": "国土交通省は、令和9年度（2027年度）の観光庁および航空局関係予算の概算要求をまとめた。観光庁では約1900億円で過去最大規模。",
+      "url": "https://www.travelvoice.jp/20260828-160418",
+      "published": "2026-08-28T12:52:57+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2017/09/stockfoto_42646638_S.jpg",
       "category": "政策・制度",
-      "topic_group": "b196ef85fe"
+      "topic_group": "e0fdd7bf27"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "ジャパン・ツーリズム・アワード2026、内閣総理大臣賞は文化財再生事業「narrative」、過去最多272件から選出",
+      "summary": "第10回ジャパン・ツーリズム・アワードの受賞取組が決定。過去最多272件の応募から、新設の内閣総理大臣賞にnarrativeの「narrative inside」が選ばれた。国土交通大臣賞、経済産業大臣賞など各賞の選考ポイントを紹介する。",
+      "url": "https://www.travelvoice.jp/20260828-160420",
+      "published": "2026-08-28T13:24:55+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2023/11/56d58355-b8e1-48fb-8203-7d10c6e73a04.jpg",
+      "category": "航空・交通",
+      "topic_group": "ab9ec15143"
     },
     {
       "source": "Travel Voice",
       "title": "北海道弟子屈町、持続可能な観光の国際評価で「ゴールド賞」、国内2地域目、住民・事業者・行政の連携を評価",
       "summary": "北海道弟子屈町は、持続可能な観光を推進する国際認証機関「Green Destinations」による表彰制度「Green Destinations Awards」において、「Gold Award（ゴールド賞）」を受賞。",
       "url": "https://www.travelvoice.jp/20260828-160411",
-      "published": "2026-08-28T01:50:08+00:00",
+      "published": "2026-08-28T13:25:29+00:00",
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/08/bf89eaaa-38da-4953-ad0d-26f2e85ed3a9.jpeg",
       "category": "政策・制度",
       "topic_group": "4be9d48db5"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "観光庁、「九州ふっこう応援割」を10月開始、旅行・宿泊料金を50％割引、熊本・鹿児島は60％",
+      "summary": "観光庁は九州全域の観光支援策「九州ふっこう応援割」を2026年10月1日から開始する。旅行代金を最大60％、1泊最高3.5万円補助し、令和8年熊本地震による観光需要の落ち込みからの回復を図る。",
+      "url": "https://www.travelvoice.jp/20260828-160419",
+      "published": "2026-08-28T05:12:52+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2022/11/f22ba4b8-942a-434c-826e-ba755ab2d32c.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "c5bdec7674"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "【人事】JTB役員人事 ―10月1日付",
+      "summary": "JTBが2026年10月1日付の役員人事を発表。",
+      "url": "https://www.travelvoice.jp/20260828-160421",
+      "published": "2026-08-28T13:27:34+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2019/03/businessperson.jpg",
+      "category": "業界ニュース",
+      "topic_group": "2cea375aa0"
     },
     {
       "source": "Travel Voice",
@@ -406,56 +446,6 @@
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2025/10/ccc98ae7-bcc3-4cf1-a908-564c9589d2ca.jpg",
       "category": "AI・デジタル",
       "topic_group": "447bbc55e6"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "タビナカ商品の価格決定権に変化の兆し、世界大手ビアターがサプライヤー契約を改定、Airbnbとの連携など最新事情を整理した【外電】",
-      "summary": "米観光産業ニュース「Skift」は、タビナカ予約のViatorがサプライヤー契約を改定したことによる影響をリポート。親会社トリップアドバイザーとAirbnbとの提携に、どのような影響があるのか？",
-      "url": "https://www.travelvoice.jp/20260827-160399",
-      "published": "2026-08-28T00:14:47+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2023/03/67099b38-daf3-4723-80ed-1ea506bdca24.jpg",
-      "category": "AI・デジタル",
-      "topic_group": "f8a3687a4e"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "早稲田・慶応・立教・青学4大学のOBOG観光団体、合同「若手交流会」を9月10日開催（PR）",
-      "summary": "（PR）早稲田大学、慶應義塾大学、立教大学、青山学院大学の卒業生で構成される観光4団体が、若手社員の交流会を合同開催。4大学の卒業生で観光・旅行関連業界に勤務する20～40歳代が対象。",
-      "url": "https://www.travelvoice.jp/20260827-160394",
-      "published": "2026-08-28T00:15:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2022/01/54521975-9018-4e5e-b40b-cb19c171fa1b.jpg",
-      "category": "業界ニュース",
-      "topic_group": "c5b618a955"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "シャッター通りから活況復活した理由、熱海の再生に見る「また帰ってくる人」の育て方【コラム】",
-      "summary": "日本観光振興協会理事長の最明仁氏によるコラム。今回は、猛暑時代の観光地域づくりに向けて、関係人口を生み出した熱海の観光施策を交えて考察。",
-      "url": "https://www.travelvoice.jp/20260827-160344",
-      "published": "2026-08-27T23:23:02+00:00",
-      "image_url": null,
-      "category": "地域・DMO",
-      "topic_group": "9825769d0d"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "トリプラ、宿泊予約システムにキャンセル保険を導入、個人情報の再入力を不要に",
-      "summary": "宿泊施設向けITソリューションを展開するtripla（トリプラ）は、宿泊予約システム「tripla Book」で、Chubb損害保険が提供する「旅のキャンセル保険」の販売を開始。",
-      "url": "https://www.travelvoice.jp/20260827-160401",
-      "published": "2026-08-27T01:40:08+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "26655e0e41"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "キヤノンITソリューションズ、ホテルPMSで「シンプル画面」提供開始、かんたん操作でチェックイン・アウト業務",
-      "summary": "キヤノンITソリューションズのホテルシステム（PMS）「PREVAIL」は、フロント業務で日常的に利用する機能に絞った画面構成の「シンプル画面」の提供を開始。",
-      "url": "https://www.travelvoice.jp/20260827-160369",
-      "published": "2026-08-27T23:55:19+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/08/0b5ad910-466d-4714-96c3-80001cecba21.png",
-      "category": "宿泊・施設",
-      "topic_group": "1e0e4da43c"
     },
     {
       "source": "やまとごころ.jp",
@@ -579,23 +569,13 @@
     },
     {
       "source": "時事ドットコム",
-      "title": "東京発旅客機、車輪格納部に遺体 クアラルンプール国際空港",
+      "title": "九州旅行「応援割」１０月から 熊本、鹿児島は６割引き―観光庁",
       "summary": "",
-      "url": "https://www.jiji.com/jc/article?k=2026082800195&g=int&m=rss",
-      "published": "2026-08-27T21:37:00+00:00",
-      "image_url": null,
-      "category": "航空・交通",
-      "topic_group": "67ae2f38f8"
-    },
-    {
-      "source": "時事ドットコム",
-      "title": "ネパール・中国の土石流災害で、安否不明となっている日本人観光客５人が大阪市在住の家族とみられることが分かった",
-      "summary": "",
-      "url": "https://www.jiji.com/jc/article?k=2026082800545&g=flash&m=rss",
-      "published": "2026-08-28T03:00:00+00:00",
-      "image_url": "https://www.jiji.com/img/jijicom_og_image-flash.jpg",
+      "url": "https://www.jiji.com/jc/article?k=2026082800589&g=eco",
+      "published": null,
+      "image_url": "https://www.jiji.com/news2/kiji_photos/square/202608/2026082800589.jpg",
       "category": "業界ニュース",
-      "topic_group": "d5445e3d3c"
+      "topic_group": "53b0d80ba1"
     },
     {
       "source": "訪日ラボ",
