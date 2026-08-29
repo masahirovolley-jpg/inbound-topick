@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T22:01:18.302803+00:00",
+  "updated_at": "2026-08-29T21:21:56.026439+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -362,7 +362,7 @@
       "title": "観光庁の概算要求2027、過去最大規模の約1900億円、国内・アウトバウンドは2.44倍",
       "summary": "国土交通省は、令和9年度（2027年度）の観光庁および航空局関係予算の概算要求をまとめた。観光庁では約1900億円で過去最大規模。",
       "url": "https://www.travelvoice.jp/20260828-160418",
-      "published": "2026-08-28T12:52:57+00:00",
+      "published": "2026-08-29T00:53:10+00:00",
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2017/09/stockfoto_42646638_S.jpg",
       "category": "政策・制度",
       "topic_group": "e0fdd7bf27"
@@ -413,7 +413,7 @@
       "summary": "リンクティビティはタクシー配車GOと連携し、ファーウェイ端末向けにタクシー配車のクイックアプリを提供開始した。訪日中国人観光客の利便性を高め、国内タクシー事業者への送客を支援する。",
       "url": "https://www.travelvoice.jp/20260828-160404",
       "published": "2026-08-28T01:45:08+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2023/12/5d888881-dab1-4dfb-a0f6-3b6ca04d20dd.jpg",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "1d01d97e50"
     },
@@ -566,16 +566,6 @@
       "image_url": null,
       "category": "AI・デジタル",
       "topic_group": "819f44294d"
-    },
-    {
-      "source": "時事ドットコム",
-      "title": "九州旅行「応援割」１０月から 熊本、鹿児島は６割引き―観光庁",
-      "summary": "",
-      "url": "https://www.jiji.com/jc/article?k=2026082800589&g=eco",
-      "published": null,
-      "image_url": "https://www.jiji.com/news2/kiji_photos/square/202608/2026082800589.jpg",
-      "category": "業界ニュース",
-      "topic_group": "53b0d80ba1"
     },
     {
       "source": "訪日ラボ",
