@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T21:21:32.915639+00:00",
+  "updated_at": "2026-08-31T21:21:54.163771+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -29,11 +29,31 @@
   "articles": [
     {
       "source": "JNTO",
+      "title": "「『バイオハザード レクイエム』 ザ・ダイブ」 最新情報解禁【合同会社ユー・エス・ジェイ】",
+      "summary": "",
+      "url": "https://www.jnto.go.jp/news/members/post_85.html",
+      "published": "2026-08-31T04:41:05+00:00",
+      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "category": "業界ニュース",
+      "topic_group": "ddbe489236"
+    },
+    {
+      "source": "JNTO",
+      "title": "USJNews_ 『ハロウィーン・ホラー・ナイト ～オールナイト～2026』【合同会社ユー・エス・ジェイ】",
+      "summary": "",
+      "url": "https://www.jnto.go.jp/news/members/usjnews_2026.html",
+      "published": "2026-08-31T04:38:43+00:00",
+      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "category": "業界ニュース",
+      "topic_group": "df25d9e207"
+    },
+    {
+      "source": "JNTO",
       "title": "任期付職員採用情報を更新しました",
       "summary": "",
       "url": "https://www.jnto.go.jp/news/info/20220104.html",
       "published": "2026-08-28T02:00:00+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "a6712cc9a1"
     },
@@ -158,24 +178,24 @@
       "topic_group": "0b45b751a5"
     },
     {
-      "source": "JNTO",
-      "title": "訪日外国人旅行者向け 旅ナカの安心・安全情報案内ツール 「Travel & Safety Information」チラシ リニューアルのお知らせ",
+      "source": "観光庁",
+      "title": "宿泊旅行統計調査（2026年7月・第1次速報、2026年6月・第2次速報）",
       "summary": "",
-      "url": "https://www.jnto.go.jp/news/info/_travel_safety_information.html",
-      "published": "2026-08-14T04:30:00+00:00",
+      "url": "https://www.mlit.go.jp/kankocho/news02_00098.html",
+      "published": "2026-08-31",
       "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "848db9c558"
+      "category": "統計・市場動向",
+      "topic_group": "bf0729323f"
     },
     {
-      "source": "JNTO",
-      "title": "「JNTOインセンティブ旅行商談会（インドネシア）」参加募集（締切：8/28）",
+      "source": "観光庁",
+      "title": "令和８年熊本地震 関連情報（九州ふっこう応援割について掲載）",
       "summary": "",
-      "url": "https://www.jnto.go.jp/news/expo-seminar/jnto_828.html",
-      "published": "2026-08-14T04:30:00+00:00",
+      "url": "https://www.mlit.go.jp/kankocho/topics04_00093.html",
+      "published": "2026-08-31",
       "image_url": null,
       "category": "業界ニュース",
-      "topic_group": "217d63f309"
+      "topic_group": "7b548b3b31"
     },
     {
       "source": "観光庁",
@@ -186,16 +206,6 @@
       "image_url": null,
       "category": "地域・DMO",
       "topic_group": "689a8fce1e"
-    },
-    {
-      "source": "観光庁",
-      "title": "令和８年熊本地震 関連情報（九州ふっこう応援割について掲載）",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/topics04_00093.html",
-      "published": "2026-08-28",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "7b548b3b31"
     },
     {
       "source": "観光庁",
@@ -269,16 +279,6 @@
     },
     {
       "source": "観光庁",
-      "title": "「日シンガポール外交関係樹立60周年イベント（SJ60）出展事業」 共同出展地域の公募開始のお知らせ",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/topics03_00050.html",
-      "published": "2026-08-19",
-      "image_url": null,
-      "category": "政策・制度",
-      "topic_group": "4300b7e0fb"
-    },
-    {
-      "source": "観光庁",
       "title": "令和８年熊本地震の影響による許可等の有効期間の延長について",
       "summary": "",
       "url": "https://www.mlit.go.jp/kankocho/news13_00002.html",
@@ -305,7 +305,7 @@
       "published": "2026-07-31",
       "image_url": null,
       "category": "統計・市場動向",
-      "topic_group": "f7d76a2654"
+      "topic_group": "bf0729323f"
     },
     {
       "source": "観光庁",
@@ -338,114 +338,114 @@
       "topic_group": "55bd4b2145"
     },
     {
-      "source": "観光庁",
-      "title": "地方公共団体に対して民泊に関する通知を行いました ～「住宅宿泊事業法に規定する届出住宅に係る ゼロ日規制等について（技術的助言）」の発出について～",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/news06_00067.html",
-      "published": "2026-07-15",
+      "source": "Travel Voice",
+      "title": "グーグル、米国で「AIモード」回答からのホテル予約を開始、エクスペディアやマリオットなど参画【外電】",
+      "summary": "グーグル（Google）は、米国の検索「AIモード」で米国のホテル予約を正式開始。主要OTAやホテル群が参加している。航空券の価格追跡やマイル表示も追加されたが、航空券予約機能については依然として開発途上だ。",
+      "url": "https://www.travelvoice.jp/20260831-160425",
+      "published": "2026-08-31T02:55:33+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2018/10/stockfoto_41702805_S.jpg",
+      "category": "航空・交通",
+      "topic_group": "4d6dc0b3a1"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "LINEヤフー、AIエージェントを10倍量産体制へ、タスク機能を本格拡充、旅行領域では海外旅行特化型も",
+      "summary": "LINEヤフーは、2026年4月から提供を開始した「Agent i」について、2026年10月までに領域エージェントを累計40領域へ拡大する予定。「海外旅行」のエージェントも公開へ。",
+      "url": "https://www.travelvoice.jp/20260831-160423",
+      "published": "2026-08-31T01:50:07+00:00",
+      "image_url": null,
+      "category": "AI・デジタル",
+      "topic_group": "32534d6f0e"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "台湾観光協会、日本市場の再成長へ地方誘客を強化、王紹旬所長に戦略を聞いた",
+      "summary": "台湾観光協会・東京事務所の王紹旬所長に日本市場戦略を聞いた。台北に集中する日本人旅行者を中南部や地方へどう広げるのか。航空路線、旅行会社との商品造成、地方交通、情報発信の取り組みを語った。",
+      "url": "https://www.travelvoice.jp/20260831-160330",
+      "published": "2026-08-31T07:59:11+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/08/02904161-312b-46e7-9b30-4919f60396ad.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "b94dfdb7cb"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "HIS、米インバウンド旅行会社を子会社化、北米の手配・受客体制を強化",
+      "summary": "エイチ・アイ・エス（HIS）は、連結子会社を通じて米国の旅行会社アメリカン・リング・トラベルを完全子会社化する。北米での顧客基盤活用やツアー共同催行により、事業基盤の強化と企業価値向上を目指す。",
+      "url": "https://www.travelvoice.jp/20260831-160426",
+      "published": "2026-08-31T01:45:07+00:00",
+      "image_url": null,
+      "category": "業界ニュース",
+      "topic_group": "793a06fc2c"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "ベルトラ、2026年9月のタビナカ予約が国内37％増、海外26％増、「シルバーウィーク5連休」で伸長",
+      "summary": "ベルトラが2026年9月の旅行予約件数が前年比大幅増と発表。シルバーウィーク5連休が要因。国内外の遠方への旅行や体験型ツアーの需要拡大。",
+      "url": "https://www.travelvoice.jp/20260831-160407",
+      "published": "2026-08-31T01:40:08+00:00",
       "image_url": null,
       "category": "統計・市場動向",
-      "topic_group": "2a1e1cd2b0"
+      "topic_group": "d32e5bdaff"
     },
     {
       "source": "Travel Voice",
-      "title": "昭和を代表する大型温泉ホテルはどう変わるのか？ 「ホテル浦島」が40億円投資で大規模改装、その戦略を取材した",
-      "summary": "和歌山県那智勝浦町のホテル浦島が「日昇館」をリニューアル。40億円を投じ、客室やレストランを刷新した。4館の棲み分け、食のリブランド、DXを進め、単価と稼働率を高める戦略を取材した。",
-      "url": "https://www.travelvoice.jp/20260828-160325",
-      "published": "2026-08-28T13:25:05+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/08/fa44c8b4-d58e-4147-a3cb-e510cdaad682.jpeg",
-      "category": "宿泊・施設",
-      "topic_group": "8d8c226f30"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "観光庁の概算要求2027、過去最大規模の約1900億円、国内・アウトバウンドは2.44倍",
-      "summary": "国土交通省は、令和9年度（2027年度）の観光庁および航空局関係予算の概算要求をまとめた。観光庁では約1900億円で過去最大規模。",
-      "url": "https://www.travelvoice.jp/20260828-160418",
-      "published": "2026-08-29T00:53:10+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2017/09/stockfoto_42646638_S.jpg",
+      "title": "楽天トラベル、自治体の旅行支援クーポン発行予定が2.2倍、重点支援地方交付金で拡大",
+      "summary": "楽天トラベルで自治体が配布する旅行支援クーポンの2026年7～9月の発行予定枚数が前年同期比2.2倍に増加。政府の重点支援交付金活用で。",
+      "url": "https://www.travelvoice.jp/20260831-160409",
+      "published": "2026-08-31T02:19:53+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2024/06/f418c858-4e24-498d-bad9-88e2f3d0d8e6.jpg",
       "category": "政策・制度",
-      "topic_group": "e0fdd7bf27"
+      "topic_group": "3d5aaffbce"
     },
     {
       "source": "Travel Voice",
-      "title": "ジャパン・ツーリズム・アワード2026、内閣総理大臣賞は文化財再生事業「narrative」、過去最多272件から選出",
+      "title": "KNT-CT、地域ガイドと事業者をつなぐBtoB基盤を開設、第1弾は北海道、旅行手配まで一貫支援",
+      "summary": "KNT-CT HDは、地域ガイドと事業者をつなぐBtoBプラットフォーム「Find Roots」を開設した。北海道を皮切りに、ガイドの検索から旅行手配までワンストップで支援し、ガイドの活躍の場を創出する。",
+      "url": "https://www.travelvoice.jp/20260831-160428",
+      "published": "2026-08-31T09:37:26+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2022/08/aeda9c10-81bf-411b-8928-516224549bcb.jpg",
+      "category": "地域・DMO",
+      "topic_group": "cf29696a99"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "ジャパン・ツーリズム・アワード2026発表、内閣総理大臣賞は文化財再生事業「narrative」、過去最多272件から選出",
       "summary": "第10回ジャパン・ツーリズム・アワードの受賞取組が決定。過去最多272件の応募から、新設の内閣総理大臣賞にnarrativeの「narrative inside」が選ばれた。国土交通大臣賞、経済産業大臣賞など各賞の選考ポイントを紹介する。",
       "url": "https://www.travelvoice.jp/20260828-160420",
-      "published": "2026-08-28T13:24:55+00:00",
+      "published": "2026-08-31T02:07:02+00:00",
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2023/11/56d58355-b8e1-48fb-8203-7d10c6e73a04.jpg",
       "category": "航空・交通",
-      "topic_group": "ab9ec15143"
+      "topic_group": "46868a8cbd"
     },
     {
       "source": "Travel Voice",
       "title": "北海道弟子屈町、持続可能な観光の国際評価で「ゴールド賞」、国内2地域目、住民・事業者・行政の連携を評価",
       "summary": "北海道弟子屈町は、持続可能な観光を推進する国際認証機関「Green Destinations」による表彰制度「Green Destinations Awards」において、「Gold Award（ゴールド賞）」を受賞。",
       "url": "https://www.travelvoice.jp/20260828-160411",
-      "published": "2026-08-28T13:25:29+00:00",
+      "published": "2026-08-31T02:07:47+00:00",
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/08/bf89eaaa-38da-4953-ad0d-26f2e85ed3a9.jpeg",
       "category": "政策・制度",
       "topic_group": "4be9d48db5"
     },
     {
       "source": "Travel Voice",
-      "title": "観光庁、「九州ふっこう応援割」を10月開始、旅行・宿泊料金を50％割引、熊本・鹿児島は60％",
-      "summary": "観光庁は九州全域の観光支援策「九州ふっこう応援割」を2026年10月1日から開始する。旅行代金を最大60％、1泊最高3.5万円補助し、令和8年熊本地震による観光需要の落ち込みからの回復を図る。",
-      "url": "https://www.travelvoice.jp/20260828-160419",
-      "published": "2026-08-28T05:12:52+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2022/11/f22ba4b8-942a-434c-826e-ba755ab2d32c.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "c5bdec7674"
+      "title": "昭和を代表する大型温泉ホテルはどう変わるのか？ 和歌山県「ホテル浦島」が40億円投資で大規模改装、その戦略を取材した",
+      "summary": "和歌山県那智勝浦町のホテル浦島が「日昇館」をリニューアル。40億円を投じ、客室やレストランを刷新した。4館の棲み分け、食のリブランド、DXを進め、単価と稼働率を高める戦略を取材した。",
+      "url": "https://www.travelvoice.jp/20260828-160325",
+      "published": "2026-08-31T00:06:34+00:00",
+      "image_url": null,
+      "category": "宿泊・施設",
+      "topic_group": "1b8e0ecc87"
     },
     {
-      "source": "Travel Voice",
-      "title": "【人事】JTB役員人事 ―10月1日付",
-      "summary": "JTBが2026年10月1日付の役員人事を発表。",
-      "url": "https://www.travelvoice.jp/20260828-160421",
-      "published": "2026-08-28T13:27:34+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2019/03/businessperson.jpg",
-      "category": "業界ニュース",
-      "topic_group": "2cea375aa0"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "タクシーアプリ「GO」、ファーウェイ端末でアプリ不要の配車サービス、訪日中国人の移動を支援",
-      "summary": "リンクティビティはタクシー配車GOと連携し、ファーウェイ端末向けにタクシー配車のクイックアプリを提供開始した。訪日中国人観光客の利便性を高め、国内タクシー事業者への送客を支援する。",
-      "url": "https://www.travelvoice.jp/20260828-160404",
-      "published": "2026-08-28T01:45:08+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2023/12/5d888881-dab1-4dfb-a0f6-3b6ca04d20dd.jpg",
-      "category": "業界ニュース",
-      "topic_group": "1d01d97e50"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "トキエア元共同代表が航空機製造の新会社を設立、軽量スポーツ航空機を開発、1機2500万円から",
-      "summary": "トキエア元共同代表の和田直希氏が航空機製造事業「LAND AERONAUTICS」を立ち上げ。日本発の軽量スポーツ航空機（LSA）を開発。限定100機の予約受付を開始した。",
-      "url": "https://www.travelvoice.jp/20260828-160412",
-      "published": "2026-08-28T01:35:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/08/a33fe7a9-b5a7-4ad5-8c62-ca54beda230e.jpg",
-      "category": "航空・交通",
-      "topic_group": "2a100555e4"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "デルタ航空、AIコンシェルジュを全会員に拡大、再予約やキャンセル、手荷物追跡にも対応、日本語でも",
-      "summary": "デルタ航空のアプリに搭載されているAIアシスト機能「デルタ・コンシェルジュ（Delta Concierge）」、すべてのスカイマイル会員が利用可能に。日本語にも対応。",
-      "url": "https://www.travelvoice.jp/20260828-160413",
-      "published": "2026-08-28T01:30:10+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/08/f98a53d7-5864-4c4a-9e09-fe340d2eca93.jpg",
-      "category": "航空・交通",
-      "topic_group": "4f9a13c9e2"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "HIS、旅行のプロ275人の経験知を「AIアバター」に活用、現地情報と掛け合わせて韓国旅行を提案",
-      "summary": "HISは、社員275人の経験知と韓国観光公社の情報を集約した「HIS AIアバター」の提供を開始した。リアルなアバターとの対話を通じ、個別のニーズに合わせた韓国旅行の提案を行う。",
-      "url": "https://www.travelvoice.jp/20260827-160406",
-      "published": "2026-08-28T00:14:32+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2025/10/ccc98ae7-bcc3-4cf1-a908-564c9589d2ca.jpg",
-      "category": "AI・デジタル",
-      "topic_group": "447bbc55e6"
+      "source": "やまとごころ.jp",
+      "title": "九州のインバウンドの鍵を握る「福岡空港」の現在とこれから",
+      "summary": "国を挙げて、「都市から地方へ」とインバウンドの流れを広げようとしている。その状況で直行便の就航は、インバウンド集客の大きな鍵となる。九州への外国人入国者数の65％を占める福岡空港は、東アジア、特に韓国、台湾、香港と地理的…",
+      "url": "https://yamatogokoro.jp/column/inbound-kyushu/61054/",
+      "published": "2026-08-30T23:00:03+00:00",
+      "image_url": null,
+      "category": "政策・制度",
+      "topic_group": "87d4bfd5bd"
     },
     {
       "source": "やまとごころ.jp",
@@ -558,14 +558,84 @@
       "topic_group": "11fc59532e"
     },
     {
-      "source": "やまとごころ.jp",
-      "title": "なぜインフルエンサーPRだけでは成果につながらないのか？ 検索した訪日客に選ばれる情報づくり",
-      "summary": "インフルエンサーを起用し、SNS上では多くの反応を得られた。それでも、期待したほど購入や来訪につながらない。インバウンド施策の現場で、そんな課題を感じている人も多いのではないでしょうか。その理由は、現在の訪日客は、投稿を…",
-      "url": "https://yamatogokoro.jp/column/shiitakecreative-diversity/60902/",
-      "published": "2026-08-05T23:00:25+00:00",
-      "image_url": null,
-      "category": "AI・デジタル",
-      "topic_group": "819f44294d"
+      "source": "訪日ラボ",
+      "title": "成田空港の国際線外国人旅客数、7月として過去最高の195.4万人に",
+      "summary": "成田国際空港は8月27日、2026年7月の空港運用状況を発表しました。 発表によると、国際線旅客数は286.8万人（前年同月比1％増）となり、このうち外国人旅客数は195.4万人（同4％増）でした。継続的な訪日需要の高まりを背景に、7月として過去最高を更新しています。 [RegistrationWa…",
+      "url": "https://honichi.com/news/2026/08/31/narita-airport202607/?utm_source=rss",
+      "published": "2026-08-31T07:30:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14656/main_AdobeStock_641738752__1_.jpeg",
+      "category": "統計・市場動向",
+      "topic_group": "b5693a5611"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "【速報】7月外国人宿泊数は1,358万人 6月国籍別、台湾が1位【観光庁 宿泊旅行統計 2026年6月・7月】",
+      "summary": "観光庁 は8月31日、 宿泊旅行統計 調査（2026年6月・第2次速報、2026年7月・第1次速報）を公表しました。2026年7月の 延べ宿泊者数 は5,467万人泊で、前年同月比3.5％減となりました。 外国人宿泊者数は前月から136万人泊増の1,358万人泊（前年同月比4.6％減）となっています…",
+      "url": "https://honichi.com/news/2026/08/31/syukuhaku202607/?utm_source=rss",
+      "published": "2026-08-31T06:03:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14658/main_fb59a028868f5f02ca61e411a9ae0d3f.png",
+      "category": "統計・市場動向",
+      "topic_group": "f182af02ea"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "7月の百貨店免税売上、前年同月比25.5％増で5か月連続プラス 中国は客数減も売上5％増",
+      "summary": "日本 百貨店 協会は、全国 百貨店 の2026年7月の売上高概況を発表しました。 [RegistrationWall] 同レポートによると、2026年7月の 免税 売上高は約506億2,000万円（前年同月比25.5％増）となり、5か月連続で前年を上回る好調な推移となっています。また、 免税 の購買…",
+      "url": "https://honichi.com/news/2026/08/31/department_202607/?utm_source=rss",
+      "published": "2026-08-31T03:30:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14657/main_iuliia-pilipeichenko-M522Z7Q3AbU-unsplash.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "e392d0b4cc"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "【2026年最新】埼玉で外国人に人気のホテル・旅館TOP10！川越東武ホテルは第2位、1位は？",
+      "summary": "訪日ラボが最新の 口コミ データを元に 独自調査 ・発表している『 インバウンド 人気 ホテル ・ 旅館 ランキング 』。全国の 宿泊施設 に寄せられた 口コミ をもとに、 訪日客 の注目施設や人気の理由を分析しています。 本記事ではその中から、 【2026年最新版】外国人に人気の ホテル ・ 旅館…",
+      "url": "https://honichi.com/news/2026/08/31/202608_inboundranking_hotel_saitama/?utm_source=rss",
+      "published": "2026-08-31T03:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14637/main_saitama_slide_01.png",
+      "category": "統計・市場動向",
+      "topic_group": "23ef2018f8"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "訪日中国人の80％以上が活用？大衆点評とは ほか：インバウンド対策に役立つマーケティング資料まとめ（8月後半公開分）",
+      "summary": "訪日ラボでは、 インバウンドマーケティング に役立つ資料を公開しています。 この記事では、【2026年8月後半】に公開したおすすめ資料をご紹介します。ぜひ、日々の業務にお役立てください。 ※ 訪日ラボ会員 にご登録いただくと、レポートの全容を無料にてご覧いただけます。 目次 1. 【2026年8月後…",
+      "url": "https://honichi.com/news/2026/08/31/whitepapermatome_20260831/?utm_source=rss",
+      "published": "2026-08-31T01:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14635/main_0bdce16f8b05fe830bba741f4be439c5.png",
+      "category": "業界ニュース",
+      "topic_group": "e11012f265"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "JNTOが訪日市場動向と直近の取り組みを報告 米国×ウェルネス訴求など / 7月の訪日外客数は344.2万人 台湾が過去最高の76万人に ほか：インバウンド情報まとめ【2026年8月後編】",
+      "summary": "訪日ラボを運営する株式会社movでは、 観光業界や インバウンド の動向をまとめたレポート【 インバウンド 情報まとめ】 を毎月発行しています。 この記事では、主に 8月後半の インバウンド 最新ニュース を厳選してお届けします。 最新情報の把握や マーケティング のヒントに、本レポートをぜひご活用…",
+      "url": "https://honichi.com/news/2026/08/31/202608_inbound-2/?utm_source=rss",
+      "published": "2026-08-31T00:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14642/main_202608_inbound-2_img.png",
+      "category": "統計・市場動向",
+      "topic_group": "aaec59f520"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "上半期の訪日アメリカ人数は182.2万人で前年超え、4-6月期の消費額はシェア1位：アメリカ市場の最新インバウンドデータを徹底解説【2026年上半期】",
+      "summary": "日本 政府観光局 （ JNTO ）が7月15日に発表した訪日外客統計によると、2026年6月の訪日 アメリカ 人数は35万4,500人でした。 また、 観光庁 が同日に発表した インバウンド消費動向調査 によると、2026年4-6月期の訪日 アメリカ 人旅行消費額は3,848億円となっています。 本…",
+      "url": "https://honichi.com/news/2026/08/31/america202607/?utm_source=rss",
+      "published": "2026-08-30T23:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14564/main_11f623e4c577a55f1fbca79578c614c0.png",
+      "category": "統計・市場動向",
+      "topic_group": "e4c42e4be3"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "札幌市、観光客数・消費額ともに過去最高 外国人宿泊者数はピーク時の92％まで回復",
+      "summary": "札幌市 は8月21日、「2025年度 札幌 の観光動向に関する調査結果」を発表しました。 発表によると、同年度における 札幌市 の観光客数と総観光消費額は、ともに過去最高を記録しました。また、外国人宿泊者数もコロナ禍前の2019年度を上回る水準まで拡大しています。 関連記事 ： 【2025年最新】北…",
+      "url": "https://honichi.com/news/2026/08/31/sapporo-tourism-trends-2025/?utm_source=rss",
+      "published": "2026-08-30T22:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14647/main_20260827-03.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "3016d29579"
     },
     {
       "source": "訪日ラボ",
@@ -575,7 +645,7 @@
       "published": "2026-08-28T03:00:00+00:00",
       "image_url": "https://static.honichi.com/uploads/entry/image/14625/main_slide_01.png",
       "category": "統計・市場動向",
-      "topic_group": "e38e119e3f"
+      "topic_group": "23ef2018f8"
     },
     {
       "source": "訪日ラボ",
@@ -585,7 +655,7 @@
       "published": "2026-08-28T00:00:00+00:00",
       "image_url": "https://static.honichi.com/uploads/entry/image/14563/main_ca9ee3ef28abaff604b789c4e292578e.png",
       "category": "統計・市場動向",
-      "topic_group": "247c5d45fa"
+      "topic_group": "e4c42e4be3"
     },
     {
       "source": "訪日ラボ",
@@ -596,86 +666,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14644/main_accessranking_20260828.png",
       "category": "統計・市場動向",
       "topic_group": "ac537bc625"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "上半期の訪日インド人数は21万人、4-6月期消費額は前年同期比43.8％増：インド市場の最新インバウンドデータを徹底解説【2026年上半期】",
-      "summary": "日本 政府観光局 （ JNTO ）が7月15日に発表した訪日外客統計によると、2026年6月の訪日 インド 人数は3万6,100人でした。 また、 観光庁 が同日に発表した インバウンド消費動向調査 によると、2026年4-6月期の訪日 インド 人旅行消費額は407億円となっています。 本記事では、…",
-      "url": "https://honichi.com/news/2026/08/28/india202607/?utm_source=rss",
-      "published": "2026-08-27T22:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14562/main_44cf482644a7791ccd48ea9b5d55bef4.png",
-      "category": "統計・市場動向",
-      "topic_group": "247c5d45fa"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "インバウンド購買の主戦場は「旅マエ」にあり：UGCで実現する認知から指名買いまでの新戦略［9/2無料セミナー］",
-      "summary": "訪日外国人 の多くは来日前の「 旅マエ 」の段階でどの商品を買うかをほぼ決めており、 旅マエ での認知づくりこそが 旅ナカ での購買を確実につなぐカギです。 特に重要なのが、 訪日外国人 が自ら発信するUGC（ユーザー生成コンテンツ）の影響力です。企業が発信する広告よりも旅行者の 口コミ や 体験 …",
-      "url": "https://honichi.com/news/2026/08/27/202609_trialjapan_1/?utm_source=rss",
-      "published": "2026-08-27T00:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14627/main_webinar_bnr_20260902_hlab.png",
-      "category": "業界ニュース",
-      "topic_group": "59b50a8079"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "上半期の訪日ベトナム人数は39万6,500人、4-6月期の消費額は前期の反動を受け減少：ベトナム市場の最新インバウンドデータを徹底解説【2026年上半期】",
-      "summary": "日本 政府観光局 （ JNTO ）が7月15日に発表した訪日外客統計によると、2026年6月の訪日 ベトナム 人数は5万6,500人でした。 また、 観光庁 が同日に発表した インバウンド消費動向調査 によると、2026年4-6月期の訪日 ベトナム 人旅行消費額は421億円となっています。 本記事で…",
-      "url": "https://honichi.com/news/2026/08/27/vietnam202607/?utm_source=rss",
-      "published": "2026-08-26T23:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14560/main_6e13f41141e81e09c62fa247b397da51.png",
-      "category": "統計・市場動向",
-      "topic_group": "247c5d45fa"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "上半期の訪日フィリピン人数は47.4万人で過去最高を上回るペース、4-6月期消費額は13.3％増：フィリピン市場の最新インバウンドデータを徹底解説【2026年上半期】",
-      "summary": "日本 政府観光局 （ JNTO ）が7月15日に発表した訪日外客統計によると、2026年6月の訪日 フィリピン 人数は5万9,900人でした。 また、 観光庁 が同日に発表した インバウンド消費動向調査 によると、2026年4-6月期の訪日 フィリピン 人旅行消費額は451億円となっています。 本記…",
-      "url": "https://honichi.com/news/2026/08/27/philippines202607/?utm_source=rss",
-      "published": "2026-08-26T22:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14559/main_03d47e7c4e54e8e769629f949a050436.png",
-      "category": "統計・市場動向",
-      "topic_group": "247c5d45fa"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "観光庁木村長官が就任後初会見 熊本地震による観光への影響にも言及【観光庁長官会見】",
-      "summary": "観光庁 の木村典央長官は8月19日、就任後初の定例会見を実施。同日発表された日本 政府観光局 （ JNTO ）訪日外客統計について報告しました。 さらに長官は、就任後の抱負に加え、 熊本県 で発生した地震による観光業への影響などについても言及しました。 関連記事： 観光庁長官 前回の定例会見（7月）…",
-      "url": "https://honichi.com/news/2026/08/26/chokankaiken202608/?utm_source=rss",
-      "published": "2026-08-26T06:30:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14636/main_DSC02583.JPG",
-      "category": "統計・市場動向",
-      "topic_group": "a396798c86"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "【2026年最新】鳥取で外国人に人気のホテル・旅館TOP10！鳥取グリーンホテルモーリスは第3位、1位は？",
-      "summary": "訪日ラボが最新の 口コミ データを元に 独自調査 ・発表している『 インバウンド 人気 ホテル ・ 旅館 ランキング 』。全国の 宿泊施設 に寄せられた 口コミ をもとに、 訪日客 の注目施設や人気の理由を分析しています。 本記事ではその中から、 【2026年最新版】外国人に人気の ホテル ・ 旅館…",
-      "url": "https://honichi.com/news/2026/08/26/202608_inboundranking_hotel_tottori/?utm_source=rss",
-      "published": "2026-08-26T01:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14624/main_tottori_slide_01.png",
-      "category": "統計・市場動向",
-      "topic_group": "e38e119e3f"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "JAL、2026年度下期計画でインバウンド取り込み目指す 羽田〜香港線増便など",
-      "summary": "JAL グループは8月18日、2026年度下期の航空輸送事業計画の一部変更について発表しました。 国際線は、欧州 直行便 を強化して提供座席数を前年から16％拡大するほか、成田～上海（浦東）線の復便、羽田～ 香港 線の増便、JTA*による 那覇 ～台北（桃園）線の増便などを実施します。 *沖縄を基盤…",
-      "url": "https://honichi.com/news/2026/08/26/jal-plan-2026/?utm_source=rss",
-      "published": "2026-08-26T00:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14632/main_david-syphers-ZQPytreYnm0-unsplash.jpg",
-      "category": "航空・交通",
-      "topic_group": "75d0d69e74"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "成田空港、訪日客向けに周辺観光プログラムを6年ぶり再開 新たに有償ツアーも造成",
-      "summary": "成田市 や成田国際空港などからなる活動組織、 成田空港 トランジット ＆ステイプログラム連絡会は、コロナ禍により休止していた「Narita Airport Transit & Stay Program」を6年ぶりに再開すると発表しました。 成田空港 周辺地域の魅力を世界へ発信することを目的としており…",
-      "url": "https://honichi.com/news/2026/08/26/narita-airport-tour/?utm_source=rss",
-      "published": "2026-08-25T23:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14623/main_6b0fae9695ab9a5a98416d101d50e751.png",
-      "category": "航空・交通",
-      "topic_group": "3173e2478f"
     }
   ]
 }
