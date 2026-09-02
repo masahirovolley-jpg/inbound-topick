@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T21:26:20.190506+00:00",
+  "updated_at": "2026-09-02T21:25:52.346437+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -29,11 +29,21 @@
   "articles": [
     {
       "source": "JNTO",
+      "title": "入札等公告情報を更新しました",
+      "summary": "",
+      "url": "https://www.jnto.go.jp/news/info/post_1.html",
+      "published": "2026-09-02T00:48:00+00:00",
+      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "category": "業界ニュース",
+      "topic_group": "898dc392c8"
+    },
+    {
+      "source": "JNTO",
       "title": "オープンカウンター方式による調達情報を更新しました",
       "summary": "",
       "url": "https://www.jnto.go.jp/news/info/post_53.html",
       "published": "2026-09-01T06:35:00+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "3a53b300f5"
     },
@@ -43,7 +53,7 @@
       "summary": "",
       "url": "https://www.jnto.go.jp/news/members/81.html",
       "published": "2026-09-01T00:58:30+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "政策・制度",
       "topic_group": "57e43d9dc4"
     },
@@ -75,17 +85,7 @@
       "published": "2026-08-28T02:00:00+00:00",
       "image_url": null,
       "category": "業界ニュース",
-      "topic_group": "a6712cc9a1"
-    },
-    {
-      "source": "JNTO",
-      "title": "入札等公告情報を更新しました",
-      "summary": "",
-      "url": "https://www.jnto.go.jp/news/info/post_1.html",
-      "published": "2026-08-27T07:50:00+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "a6712cc9a1"
+      "topic_group": "898dc392c8"
     },
     {
       "source": "JNTO",
@@ -339,103 +339,113 @@
     },
     {
       "source": "Travel Voice",
+      "title": "観光への「投資」で地域を変える、観光立国ファンド新社長が描く「投資してよし」の好循環を聞いてきた",
+      "summary": "ALL-JAPAN観光立国ファンドを運営する地域創生ソリューションの新社長に檜垣克己氏が就任した。「投資してよし」を加えた観光立国の循環や地域投資のあり方、3号ファンドを視野に入れた今後の方向性を聞いた。",
+      "url": "https://www.travelvoice.jp/20260902-160378",
+      "published": "2026-09-02T08:16:42+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/08/e23d7c14-e77a-4441-aa5b-53cd4f40bdeb.JPG",
+      "category": "地域・DMO",
+      "topic_group": "3e0be90d1c"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "民泊エアビー、ホストによる集客で手数料を優遇する「直接予約用リンク」を試験導入【外電】",
+      "summary": "米観光産業ニュース「Skift（スキフト）」は、Airbnbが一部のホストに対して、サービス手数料を引き下げる「直接予約用リンク」の提供を開始したことについてリポートしている。",
+      "url": "https://www.travelvoice.jp/20260902-160446",
+      "published": "2026-09-02T09:24:36+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2023/05/53d43f9f-93a6-459e-85bd-3b01930a3924.jpg",
+      "category": "宿泊・施設",
+      "topic_group": "37677891e4"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "ラディソン、ChatGPT上でホテル検索アプリを提供、1000軒超の最新料金を表示、アクセンチュアと開発",
+      "summary": "ラディソン・ホテル・グループは、ChatGPT上で利用できるホテル検索アプリの提供を開始。ChatGPTのプロンプトの冒頭に「@RadissonHotels」と入力すると利用できる。",
+      "url": "https://www.travelvoice.jp/20260902-160451",
+      "published": "2026-09-02T12:20:19+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/8ec3467d-7ace-4cdb-9a76-b4ff3009668d.png",
+      "category": "宿泊・施設",
+      "topic_group": "2a24690bef"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "AIエージェント時代の旅行販売、勝負を分ける「予約・決済」の仕組みとは？ 次世代販売戦略を決済大手のAdyenがウェビナーで解説（PR）",
+      "summary": "（PR）決済プラットフォームを提供するAdyenが、旅行・観光事業者にも参考となる無料ウェビナーをオンデマンド配信中。テーマはAIエージェント時代における顧客接点の維持。未来の戦略立案に向けたヒントを提供する。",
+      "url": "https://www.travelvoice.jp/20260902-160391",
+      "published": "2026-09-02T03:00:20+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/08/5b22561f-f13c-4d88-b4be-91b2202b5616.jpg",
+      "category": "AI・デジタル",
+      "topic_group": "b4ec948364"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "観光客にeSIM配布で人流・属性を一体分析、自治体・DMO向けに新サービス、QRコードで導入",
+      "summary": "コモン・クリエーションは、観光客に配布するeSIMを通じて、アンケートによる属性情報と基地局測位による人流データを取得できる観光周遊データSIM「Tabimetry（タビメトリー）」の提供を開始。",
+      "url": "https://www.travelvoice.jp/20260902-160424",
+      "published": "2026-09-02T01:45:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/08/7d9831b0-4814-4321-9e30-1a9a1727f213.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "153dd6846a"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "ゼンリン地図ナビ、住宅地図をカーナビに対応、マンションやテナントビルの入口まで案内",
+      "summary": "ゼンリンデータコムは、地図・ナビゲーションサービス「ゼンリン地図ナビ」に新機能を追加。建物出入口表示の対象を拡充。カーナビでも住宅地図上の案内が可能にした。",
+      "url": "https://www.travelvoice.jp/20260902-160445",
+      "published": "2026-09-02T01:40:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2024/11/da802b6d-3d12-449c-be14-633fa7262099.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "9c6da3431c"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "JTB、シルバーウィークの予約動向を発表、海外個人旅行トップはハワイ、添乗員付きは欧州、国内は立山黒部アルペンルートが人気",
+      "summary": "JTBは、2026年のシルバーウィークとその前後期間（2026年9月18日～9月27日）の予約状況に基づいた人気方面ランキングをまとめた。海外個人旅行の1位はハワイ。国内は立山黒部アルペンルートが人気を集める。",
+      "url": "https://www.travelvoice.jp/20260902-160444",
+      "published": "2026-09-02T01:35:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/03/499f288d-4f74-474a-8b77-08bfd717eaff.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "15ad014fbc"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "近ツー、JTBなど旅行大手ら4社、スポーツ観戦の高付加価値化へ新団体を設立、地域誘客や交流創出を推進",
+      "summary": "近畿日本ツーリストら4社がスポーツホスピタリティ推進協議会を設立。2026年10月、アジア競技大会に合わせ愛知県で第1回視察研修会を開催し、最新のホスピタリティ施設や運営手法を共有する機会を提供する。",
+      "url": "https://www.travelvoice.jp/20260902-160440",
+      "published": "2026-09-02T20:23:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2021/07/b05bcd6a-7ef4-4066-a3c7-fd00b110b0d8.jpg",
+      "category": "政策・制度",
+      "topic_group": "4b8a6210f1"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "HIS、バスケBリーグとパートナー契約締結を発表、公式ツアーやMICE、全国各地のゲームを地方誘客の起点に",
+      "summary": "エイチ・アイ・エス（HIS）は、B.LEAGUEとグローカル・パートナー契約を締結。公式ツアーの販売、インバウンド誘客、アリーナのMICE利用、次世代育成などを進めていく。",
+      "url": "https://www.travelvoice.jp/20260901-160435",
+      "published": "2026-09-02T00:21:36+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/4d6dafa7-a220-4ba6-b488-6ec2aeea721d.jpg",
+      "category": "地域・DMO",
+      "topic_group": "4deb4942c1"
+    },
+    {
+      "source": "Travel Voice",
       "title": "訪日インバウンドの新たな動き2026、地方空港発着による新ルートやスペイン市場の躍進を、ナビタイムのデータで分析 －トラベルボイスLIVEレポート（PR）",
       "summary": "（PR）王道観光地を経験した訪日リピーターが今、向かう先は？ 国際線の地方都市就航による新たな周遊ルートなど、ナビタイムジャパンの移動データから見える、2026年のインバウンド観光の新たな傾向を紹介。",
       "url": "https://www.travelvoice.jp/20260901-160388",
       "published": "2026-09-01T07:02:35+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/08/57ea1642-562e-4771-9483-f90b6131294f.jpg",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "f4c021b1fc"
     },
     {
-      "source": "Travel Voice",
-      "title": "HIS、バスケBリーグとスポーツツーリズム推進、公式ツアーやMICE、全国各地のゲームを地方誘客の起点に",
-      "summary": "エイチ・アイ・エス（HIS）は、B.LEAGUEとグローカル・パートナー契約を締結。公式ツアーの販売、インバウンド誘客、アリーナのMICE利用、次世代育成などを進めていく。",
-      "url": "https://www.travelvoice.jp/20260901-160435",
-      "published": "2026-09-01T06:54:09+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/4d6dafa7-a220-4ba6-b488-6ec2aeea721d.jpg",
-      "category": "地域・DMO",
-      "topic_group": "b0bbe609de"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "コニカミノルタ、災害時にホテルの避難誘導アナウンスを支援、多言語通訳サービスに「防災放送」機能を追加",
-      "summary": "コニカミノルタジャパンは、多言語通訳サービス「KOTOBAL（コトバル）」に防災放送機能を追加。火災や震災時の案内を多言語で再生可能にし、宿泊施設における外国人客への迅速な情報伝達と避難誘導の円滑化を支援する。",
-      "url": "https://www.travelvoice.jp/20260901-160436",
-      "published": "2026-09-01T06:26:59+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2025/11/9758e793-cff0-4b31-bc53-9bd8bd02edb9.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "b23de6daec"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "JAL、企業人材と地域をつなぐ新サービス、二地域居住で従業員のウェルビーイング向上へ",
-      "summary": "JALは、企業の従業員が地域と継続的につながる機会をつくり、個人・企業・社会（地域）それぞれのウェルビーイング向上を目指す取り組みを開始。",
-      "url": "https://www.travelvoice.jp/20260901-160429",
-      "published": "2026-09-01T01:45:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2025/10/b95814b0-758a-4c4d-abc2-384cbaf9cc62.jpg",
-      "category": "地域・DMO",
-      "topic_group": "2cad17fed9"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "小田急箱根、シルバーウィークに事前予約制を導入、登山電車は着席確約、ロープウェイは優先改札",
-      "summary": "2026年9月20日と21日の2日間、箱根登山電車の座席予約券「らくらく着席予約券」を発売。箱根登山ケーブルカー、箱根ロープウェイでの事前予約制の優先改札も実施。",
-      "url": "https://www.travelvoice.jp/20260901-160430",
-      "published": "2026-09-01T01:35:08+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/08/ad1b41eb-e81a-49c2-ab9d-8a2079fe82bd.jpg",
-      "category": "AI・デジタル",
-      "topic_group": "128806ba0a"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "大分・別府温泉「海地獄」で夜イベント、シルバーウィーク期間限定で、湯煙と映像が織りなす幻想的な世界を演出",
-      "summary": "大分県別府温泉の「海地獄」で、シルバーウィークにライトアップイベント「夜の海地獄」開催。映像や照明で湯煙を幻想的に彩り、オリジナルの神話ストーリーを演出。",
-      "url": "https://www.travelvoice.jp/20260901-160416",
-      "published": "2026-09-01T01:33:06+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/08/192494e3-cebf-4830-8943-303a9e0d7640.jpg",
-      "category": "業界ニュース",
-      "topic_group": "9f1a7c8cce"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "タイ国政府観光庁、ホテルの脱炭素化で表彰、低炭素観光モデルを全国展開へ",
-      "summary": "タイ国政府観光庁（TAT）は、「アジア・レスポンシブル・エンタープライズ・アワード（AREA）2026」で、「グリーン・リーダーシップ」部門賞を受賞。ホテルでのCO2削減の取り組みが評価。",
-      "url": "https://www.travelvoice.jp/20260901-160341",
-      "published": "2026-09-01T01:30:08+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2021/11/3c252ba4-e7e8-4094-993f-668b0ba9e19c.jpg",
-      "category": "政策・制度",
-      "topic_group": "ce93818e88"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "台湾観光協会、日本市場の再成長へ地方誘客を強化、王紹旬所長に戦略を聞いた",
-      "summary": "台湾観光協会・東京事務所の王紹旬所長に日本市場戦略を聞いた。台北に集中する日本人旅行者を中南部や地方へどう広げるのか。航空路線、旅行会社との商品造成、地方交通、情報発信の取り組みを語った。",
-      "url": "https://www.travelvoice.jp/20260831-160330",
-      "published": "2026-09-01T01:51:08+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/08/02904161-312b-46e7-9b30-4919f60396ad.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "b94dfdb7cb"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "グーグル、ホテル予約を「AIモード」で決済まで実行するサービス開始、米国で、エクスペディアやマリオットなど参画【外電】",
-      "summary": "グーグル（Google）は、米国の検索「AIモード」で米国のホテル予約を正式開始。主要OTAやホテル群が参加している。航空券の価格追跡やマイル表示も追加されたが、航空券予約機能については依然として開発途上だ。",
-      "url": "https://www.travelvoice.jp/20260831-160425",
-      "published": "2026-09-01T00:09:30+00:00",
+      "source": "やまとごころ.jp",
+      "title": "限られた経営資源をどこに投じる？ インバウンドのターゲットを決める「投資判断」 【セミナーレポート】",
+      "summary": "インバウンド市場が拡大する中、多くの地域が「富裕層」や「欧米市場」への誘客に向けて、一斉に舵を切っている。しかし、それぞれの地域にとって、そうした方向転換は本当に最適な戦略なのだろうか。今回は、株式会社サービスマーケティ…",
+      "url": "https://yamatogokoro.jp/column/inbound-seminarreport/61031/",
+      "published": "2026-09-01T23:00:15+00:00",
       "image_url": null,
-      "category": "航空・交通",
-      "topic_group": "bfdcb5fffa"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "LINEヤフー、AIエージェントの量産体制へ、旅行領域では観光モデルコースやおでかけプランに加え、海外旅行特化型も",
-      "summary": "LINEヤフーは、2026年4月から提供を開始した「Agent i」について、2026年10月までに領域エージェントを累計40領域へ拡大する予定。「海外旅行」のエージェントも公開へ。",
-      "url": "https://www.travelvoice.jp/20260831-160423",
-      "published": "2026-09-01T01:01:24+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/08/696e8e0c-b668-4692-ac45-b9513b24b974.jpg",
-      "category": "AI・デジタル",
-      "topic_group": "278ccf646d"
+      "category": "統計・市場動向",
+      "topic_group": "a13f6d6e8f"
     },
     {
       "source": "やまとごころ.jp",
@@ -469,13 +479,13 @@
     },
     {
       "source": "やまとごころ.jp",
-      "title": "ショートホールとロングホールで何が変わる？ 「距離」から考えるDMC／ツアーオペレーターの市場特性",
-      "summary": "前回の記事では、インバウンド旅行ビジネスの全体像と、その中でDMCやツアーオペレーターが担う役割とその重要性について解説しました。では、実際に事業を展開する際には、どのような市場を対象とし、どのような旅行商品を提供すれば…",
+      "title": "ショートホールとロングホールで何が変わる？ 「距離」から考えるDMC／ツアーオペレーターの市場特性【連載：訪日旅行ビジネス実践編#2】",
+      "summary": "連載第1回では、インバウンド旅行ビジネスの全体像と、その中でDMCやツアーオペレーターが担う役割とその重要性について解説しました。では、実際に事業を展開する際には、どのような市場を対象とし、どのような旅行商品を提供すれば…",
       "url": "https://yamatogokoro.jp/column/local-tourism/61022/",
       "published": "2026-08-25T23:00:39+00:00",
       "image_url": null,
       "category": "統計・市場動向",
-      "topic_group": "644fa0d021"
+      "topic_group": "c51c89e48b"
     },
     {
       "source": "やまとごころ.jp",
@@ -548,14 +558,54 @@
       "topic_group": "5a79456eee"
     },
     {
-      "source": "やまとごころ.jp",
-      "title": "食べるだけでは、街は見えてこない―パリのFood Tourから考える、地域の日常を体験に変える方法―",
-      "summary": "パリ滞在中、北マレ地区を歩くFood Tourに参加した。ベーカリー、ショコラトリー、惣菜店、チーズ店、ワインショップを巡りながら、パン、チョコレート、テリーヌ、シャルキュトリー、チーズ、ワインを味わう。参加費は1人15…",
-      "url": "https://yamatogokoro.jp/column/field-note/60934/",
-      "published": "2026-08-11T23:00:23+00:00",
-      "image_url": null,
+      "source": "時事ドットコム",
+      "title": "ベセント財務長官、片山さつき財務相に不満ぶちまけ 高市政権の経済政策に２時間以上、５月訪日時に―報道",
+      "summary": "",
+      "url": "https://www.jiji.com/jc/article?k=2026090200517&g=int&m=rss",
+      "published": "2026-09-02T02:17:00+00:00",
+      "image_url": "https://www.jiji.com/news2/kiji_photos/202609/20260902ds49_o.jpg",
       "category": "政策・制度",
-      "topic_group": "51b0aa22d3"
+      "topic_group": "fefd1e79b9"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "7月の大阪インバウンド数、4か月ぶりプラスに 府内周遊に向け観光コンテンツ掘り起こしへ【大阪観光局】",
+      "summary": "公益財団法人大阪 観光局 は8月27日、定例会見を実施。 大阪府 の観光の概況や、 大阪府 内の周遊促進に向けた取り組みなどについて報告しました。 関連記事： 大阪観光局 前回の定例会見（7月） ▲公益財団法人大阪観光局 定例会見の様子：訪日ラボ撮影 目次 大阪インバウンド訪問者数、4か月ぶりに前年…",
+      "url": "https://honichi.com/news/2026/09/02/osaka202608/?utm_source=rss",
+      "published": "2026-09-02T06:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14659/main_PXL_20260827_010810858.jpg",
+      "category": "政策・制度",
+      "topic_group": "67d26570eb"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "上半期の訪日メキシコ人数は前年比1.3倍、4-6月期消費単価は51万円超え：メキシコ市場の最新インバウンドデータを徹底解説【2026年上半期】",
+      "summary": "日本 政府観光局 （ JNTO ）が7月15日に発表した訪日外客統計によると、2026年6月の訪日 メキシコ 人数は1万3,300人でした。 また、 観光庁 が同日に発表した インバウンド消費動向調査 によると、2026年4-6月期の訪日 メキシコ 人旅行消費額は279億円となっています。 本記事で…",
+      "url": "https://honichi.com/news/2026/09/02/mexico202607/?utm_source=rss",
+      "published": "2026-09-02T00:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14567/main_b00bc0dd70662f844781c9d1fbe5fb2b.png",
+      "category": "統計・市場動向",
+      "topic_group": "bdd7f1c3da"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "経産省「エンタメ・クリエイティブ産業戦略2026」を公表 アニメ聖地巡礼によるインバウンド拡大、超富裕層に向けた方針を明示",
+      "summary": "経済産業省は8月20日、「エンタメ・クリエイティブ産業戦略2026」を取りまとめました。 「エンタメ・クリエイティブ産業戦略2026」は、官民で掲げる「2033年までに日本発コンテンツの海外売上高を20兆円に拡大する」という目標の実現に向け、政策立案や実施に向けた目標・方針を策定したものです。 同戦…",
+      "url": "https://honichi.com/news/2026/09/02/entertainment-and-creative-industry-strategy-2026/?utm_source=rss",
+      "published": "2026-09-01T23:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14646/main_20260827-02.jpg",
+      "category": "政策・制度",
+      "topic_group": "9ba8376c0d"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "スターラックス航空、神戸・那覇〜高雄（台湾）線を新規就航",
+      "summary": "台湾 を拠点とするスターラックス航空は、2027年1月1日より神戸～高雄線および 那覇 〜高雄線を開設すると発表しました。 [RegistrationWall] 両路線とも毎日運航を予定しており、神戸と 那覇 は、同社が運航する高雄発着路線の最初の2都市となります。 神戸〜高雄線については、国際 チ…",
+      "url": "https://honichi.com/news/2026/09/02/starlux-kobe-naha/?utm_source=rss",
+      "published": "2026-09-01T22:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14660/main_552137c5-khh-scaled.jpg",
+      "category": "航空・交通",
+      "topic_group": "dc5a4e10be"
     },
     {
       "source": "訪日ラボ",
@@ -575,7 +625,7 @@
       "published": "2026-09-01T00:00:00+00:00",
       "image_url": "https://static.honichi.com/uploads/entry/image/14566/main_a0e81088b9647962b8516da091bd00b2.png",
       "category": "統計・市場動向",
-      "topic_group": "ebd5c9f5f2"
+      "topic_group": "bdd7f1c3da"
     },
     {
       "source": "訪日ラボ",
@@ -626,46 +676,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14657/main_iuliia-pilipeichenko-M522Z7Q3AbU-unsplash.jpg",
       "category": "統計・市場動向",
       "topic_group": "e392d0b4cc"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "【2026年最新】埼玉で外国人に人気のホテル・旅館TOP10！川越東武ホテルは第2位、1位は？",
-      "summary": "訪日ラボが最新の 口コミ データを元に 独自調査 ・発表している『 インバウンド 人気 ホテル ・ 旅館 ランキング 』。全国の 宿泊施設 に寄せられた 口コミ をもとに、 訪日客 の注目施設や人気の理由を分析しています。 本記事ではその中から、 【2026年最新版】外国人に人気の ホテル ・ 旅館…",
-      "url": "https://honichi.com/news/2026/08/31/202608_inboundranking_hotel_saitama/?utm_source=rss",
-      "published": "2026-08-31T03:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14637/main_saitama_slide_01.png",
-      "category": "統計・市場動向",
-      "topic_group": "376af48b8d"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "訪日中国人の80％以上が活用？大衆点評とは ほか：インバウンド対策に役立つマーケティング資料まとめ（8月後半公開分）",
-      "summary": "訪日ラボでは、 インバウンドマーケティング に役立つ資料を公開しています。 この記事では、【2026年8月後半】に公開したおすすめ資料をご紹介します。ぜひ、日々の業務にお役立てください。 ※ 訪日ラボ会員 にご登録いただくと、レポートの全容を無料にてご覧いただけます。 目次 1. 【2026年8月後…",
-      "url": "https://honichi.com/news/2026/08/31/whitepapermatome_20260831/?utm_source=rss",
-      "published": "2026-08-31T01:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14635/main_0bdce16f8b05fe830bba741f4be439c5.png",
-      "category": "業界ニュース",
-      "topic_group": "e11012f265"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "JNTOが訪日市場動向と直近の取り組みを報告 米国×ウェルネス訴求など / 7月の訪日外客数は344.2万人 台湾が過去最高の76万人に ほか：インバウンド情報まとめ【2026年8月後編】",
-      "summary": "訪日ラボを運営する株式会社movでは、 観光業界や インバウンド の動向をまとめたレポート【 インバウンド 情報まとめ】 を毎月発行しています。 この記事では、主に 8月後半の インバウンド 最新ニュース を厳選してお届けします。 最新情報の把握や マーケティング のヒントに、本レポートをぜひご活用…",
-      "url": "https://honichi.com/news/2026/08/31/202608_inbound-2/?utm_source=rss",
-      "published": "2026-08-31T00:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14642/main_202608_inbound-2_img.png",
-      "category": "統計・市場動向",
-      "topic_group": "aaec59f520"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "上半期の訪日アメリカ人数は182.2万人で前年超え、4-6月期の消費額はシェア1位：アメリカ市場の最新インバウンドデータを徹底解説【2026年上半期】",
-      "summary": "日本 政府観光局 （ JNTO ）が7月15日に発表した訪日外客統計によると、2026年6月の訪日 アメリカ 人数は35万4,500人でした。 また、 観光庁 が同日に発表した インバウンド消費動向調査 によると、2026年4-6月期の訪日 アメリカ 人旅行消費額は3,848億円となっています。 本…",
-      "url": "https://honichi.com/news/2026/08/31/america202607/?utm_source=rss",
-      "published": "2026-08-30T23:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14564/main_11f623e4c577a55f1fbca79578c614c0.png",
-      "category": "統計・市場動向",
-      "topic_group": "ebd5c9f5f2"
     }
   ]
 }
