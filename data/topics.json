@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T21:25:03.778706+00:00",
+  "updated_at": "2026-09-07T21:26:57.069692+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -29,11 +29,21 @@
   "articles": [
     {
       "source": "JNTO",
+      "title": "日本船社クルーズ特設ページ開設のお知らせ",
+      "summary": "日本政府観光局（ JNTO ）では、日本船社と連携し、各社のクルーズ船（ヨットスタイル等を含む）を紹介する特設ページ（英語・繁体字の 2 言語）を、 2026 年 9 月 7 日（月）より公開しました。 近年新造船の登場や日本ならではのホスピタリティで注目の集まる日本船社のクルーズ船の基本情報、船内…",
+      "url": "https://www.jnto.go.jp/news/info/20260907.html",
+      "published": "2026-09-07T05:00:00+00:00",
+      "image_url": "https://www.jnto.go.jp/news/20260907.jpg",
+      "category": "政策・制度",
+      "topic_group": "6d624c2269"
+    },
+    {
+      "source": "JNTO",
       "title": "Kammuiの「The Sacred Ascent of Mount Fuji」、Condé Nast Traveller（英国版） 2026年9月・10月号に【株式会社KAMMUI】",
       "summary": "",
       "url": "https://www.jnto.go.jp/news/members/kammuithe_sacred_ascent_of_mount_fujiconde_nast_traveller_2026910kammui.html",
       "published": "2026-09-04T02:32:00+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "71cd2e2dbb"
     },
@@ -168,14 +178,24 @@
       "topic_group": "5d0a3a5ee2"
     },
     {
-      "source": "JNTO",
-      "title": "「第29回JNTOインバウンド旅行振興フォーラム」取材のご案内",
-      "summary": "※ 本リリースは国土交通記者会・交通運輸記者会に配布しております。 日本政府観光局（ JNTO ）は、 2026 年 9 月3日（木）・4日（金）の 2 日間、地方自治体、観光 DMO 、観光産業事業者等の JNTO 賛助団体・会員の皆さまを対象とした「第 29 回 JNTO インバウンド旅行振興フ…",
-      "url": "https://www.jnto.go.jp/news/press/20260818.html",
-      "published": "2026-08-18T05:00:00+00:00",
-      "image_url": "https://www.jnto.go.jp/news/20260818.jpg",
+      "source": "観光庁",
+      "title": "「DMO総合支援事業（DMO体制整備・機能強化事業）」の二次公募における採択結果の公表 自治体・DMO",
+      "summary": "",
+      "url": "https://www.mlit.go.jp/kankocho/kobo04_00077.html",
+      "published": "2026-09-07",
+      "image_url": null,
       "category": "政策・制度",
-      "topic_group": "8336ead263"
+      "topic_group": "0f3c14f342"
+    },
+    {
+      "source": "観光庁",
+      "title": "【令和7年度補正予算】観光地経営の高度化事業（人材育成補助金）採択結果のお知らせ（三次公募） 観光施設 自治体・DMO 旅行業 宿泊業 交通 その他観光関係者",
+      "summary": "",
+      "url": "https://www.mlit.go.jp/kankocho/kobo13_00006.html",
+      "published": "2026-09-07",
+      "image_url": null,
+      "category": "統計・市場動向",
+      "topic_group": "2b4f37287f"
     },
     {
       "source": "観光庁",
@@ -185,7 +205,7 @@
       "published": "2026-09-01",
       "image_url": null,
       "category": "統計・市場動向",
-      "topic_group": "86bc8ae109"
+      "topic_group": "2b4f37287f"
     },
     {
       "source": "観光庁",
@@ -245,7 +265,7 @@
       "published": "2026-08-27",
       "image_url": null,
       "category": "統計・市場動向",
-      "topic_group": "86bc8ae109"
+      "topic_group": "2b4f37287f"
     },
     {
       "source": "観光庁",
@@ -256,16 +276,6 @@
       "image_url": null,
       "category": "政策・制度",
       "topic_group": "3ee096de16"
-    },
-    {
-      "source": "観光庁",
-      "title": "令和７年度補正予算「地域一体となった観光産業の効率化支援事業」二次公募開始のお知らせ 観光施設 自治体・DMO 宿泊業 交通 その他観光関係者",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/kobo06_00076.html",
-      "published": "2026-08-24",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "86bc8ae109"
     },
     {
       "source": "観光庁",
@@ -339,103 +349,113 @@
     },
     {
       "source": "Travel Voice",
-      "title": "ブッキング・ドットコムのAI戦略を聞いてきた、競争力の源泉は「顧客理解・独自データ・信頼」、旅行全体を起点にサービス再設計へ",
-      "summary": "ブッキング・ドットコム最高事業責任者のジェームズ・ウォーター氏が、生成AI時代の競争優位、コネクテッド・トリップ戦略、AIエージェントへの対応を説明。旅行者のAI利用意向と信頼の差、独自データの活用、オーバーツーリズム対策、セキュリティ強化について語った。",
-      "url": "https://www.travelvoice.jp/20260904-160427",
-      "published": "2026-09-04T07:52:36+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/08/ae07d610-d1eb-40eb-b70b-4ccdff03ca6d.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "60102a3616"
+      "title": "JTB新社長が描く成長戦略を聞いてきた、グローバル体制の再編から「日本」の位置づけ、訪日事業の3本柱まで",
+      "summary": "JTBの新社長に就任した青海友氏にインタビュー。日本も一つのリージョンと位置づけるグローバル事業の組織再編から6重点事業など、今後の成長戦略と方針を聞いた。",
+      "url": "https://www.travelvoice.jp/20260907-160314",
+      "published": "2026-09-07T08:03:00+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/0b938343-1955-401a-b74d-6f1a80cea222.jpeg",
+      "category": "業界ニュース",
+      "topic_group": "0ef51ad836"
     },
     {
       "source": "Travel Voice",
-      "title": "オーストラリア政府観光局、日本市場の成長に手ごたえ、2035年戦略でAIに選ばれる観光マーケティングを推進",
+      "title": "欧州、民泊規制の共通ルール策定へ、住宅逼迫地域で物件数の上限など検討",
+      "summary": "ロイター通信によると、欧州連合はAirbnbなどの短期宿泊レンタル（STR）に新たな規制導入を検討。「住宅逼迫」の状態や住宅価格と所得の比率を評価基準に。",
+      "url": "https://www.travelvoice.jp/20260907-160478",
+      "published": "2026-09-07T12:45:48+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/1b050dec-3f62-4a69-8f26-480aa8c2262a.JPG",
+      "category": "統計・市場動向",
+      "topic_group": "957bc4eb2e"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "世界大手OTAトリップ・ドットコム、世界のレンタカー予約数81%増、日本がトップで2.2倍、東京は2.5倍に",
+      "summary": "トリップ・ドットコムが世界のセルフドライブ旅行動向を発表。世界のレンタカー予約数が前年比81%増、日本は旅行先として世界1位に。自分のペースで移動自体を楽しむ旅行スタイル拡大。",
+      "url": "https://www.travelvoice.jp/20260907-160410",
+      "published": "2026-09-07T01:50:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/09e4089f-c572-428f-83a5-e00d34f2daf7.png",
+      "category": "統計・市場動向",
+      "topic_group": "f44438c20d"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "長野県で個人のマイカーを地域交通に活用へ、新たなカーシェアの取り組み、国交省DX実証を経て市民参加型デモ",
+      "summary": "カーシェアサービスを手がける企業・TRILL.が、貸し出す車の提供を個人や法人から受ける「OURCAR（アワカ）」を長野市役所でデモ実演。地域交通維持に市民の参画促す。",
+      "url": "https://www.travelvoice.jp/20260907-160439",
+      "published": "2026-09-07T03:41:09+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/a532cd1e-d07a-4f7a-ba6b-78ff9cfcc6b0.jpg",
+      "category": "政策・制度",
+      "topic_group": "e08266ef8f"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "Uber Japanと富士吉田市、オーバーツーリズム対策で連携、アプリで乗車場所誘導や観光マナー発信",
+      "summary": "Uber Japanと山梨県富士吉田市は、「オーバーツーリズム対策に関する包括連携協定」を締結。観光地周辺の交通混雑の緩和に取り組む。",
+      "url": "https://www.travelvoice.jp/20260907-160466",
+      "published": "2026-09-07T01:45:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/e1687480-56c0-4e7a-9da6-f7e0de358d1d.jpeg",
+      "category": "航空・交通",
+      "topic_group": "ac725532fb"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "WILLERと網走バス、点在する観光資源をつなぐオホーツク文化体験ツアーを販売、欧米豪市場向けに",
+      "summary": "WILLER ACROSSと網走バスは、網走バスが網走市内で運行するオンデマンド交通「どこバス」で市内に点在する観光資源をつなぐ商品の販売を開始。",
+      "url": "https://www.travelvoice.jp/20260907-160465",
+      "published": "2026-09-07T01:40:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/16a4d029-ca31-414d-8035-08266125043b.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "5856586278"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "台湾観光庁、リピーター誘客キャンペーン、抽選で2万5000円相当を提供、2023年以降に入国歴のある個人旅行者が対象",
+      "summary": "台湾観光庁（交通部観光署）は、リピーター向けキャンペーンを開始。2026年10月10日（台湾到着日）から2027年3月31日まで。抽選で2万5000円相当をプレゼント。",
+      "url": "https://www.travelvoice.jp/20260907-160467",
+      "published": "2026-09-07T01:35:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/57d3786b-f3f0-4e10-be4e-2035fb40c0a2.png",
+      "category": "政策・制度",
+      "topic_group": "c926e6017e"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "フィジー政府観光局、日本の旅行業界向けオンライン研修を開設、合格者にはスペシャリスト認定証",
+      "summary": "フィジー政府観光局は、同局初となる日本語版の「Matai Specialist（マタイ・スペシャリスト）」オンライン・トレーニング・プログラムを開設。",
+      "url": "https://www.travelvoice.jp/20260907-160442",
+      "published": "2026-09-07T01:30:09+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/cb5837b0-c807-4a5c-b984-d57890ec8841.jpeg",
+      "category": "政策・制度",
+      "topic_group": "14f43271ea"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "オーストラリア政府観光局、「AIに選ばれる」観光マーケティングを推進、日本市場の成長に手ごたえ、2035年戦略で",
       "summary": "オーストラリア政府観光局が「Australia Marketplace Japan & Korea 2026」を東京で開催。日本人訪問者は前年比12.7％増。長期戦略「Tourism 2035」で掲げる4つの重点方針や、AI時代を見据えた新たなマーケティング戦略を聞いた。",
       "url": "https://www.travelvoice.jp/20260904-160454",
-      "published": "2026-09-04T02:15:08+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/146c7fb0-90ae-46e0-a97e-08e123041702.jpeg",
-      "category": "統計・市場動向",
-      "topic_group": "40197856e6"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "米トランプ大統領、旅行大手企業と協議、訪米客減少を受け、2025年は5.5%減、業界団体は年間1億人を目標",
-      "summary": "ロイター通信は、トランプ米大統領が訪米観光客数の減少を食い止める方策を協議するため、大手旅行関連企業の幹部らと会談したと報じた。",
-      "url": "https://www.travelvoice.jp/20260904-160464",
-      "published": "2026-09-04T02:10:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/8d9fd24f-82dd-41aa-88f9-238182db4460.jpeg",
-      "category": "統計・市場動向",
-      "topic_group": "ae7df614ad"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "世界最大級の観光見本市「WTMロンドン2026」、旅行テックからウェルネスなど体験型まで、11月3～5日に開催 ―読者割引あり（PR）",
-      "summary": "（PR）世界最大級の旅行・観光業界向けB2B国際見本市「WTMロンドン2026」が、11月3～5日に英国・ロンドンで開催。4000社超が出展し、商談やネットワーキングなどを展開。旅行テックなど観光業界の最新動向も紹介。",
-      "url": "https://www.travelvoice.jp/20260904-160389",
-      "published": "2026-09-04T02:00:12+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/08/4e617198-8de4-4cd1-b41d-83d65613e180.jpg",
-      "category": "業界ニュース",
-      "topic_group": "d6aaccef54"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "Uber、英国初の自動運転配車を英ロンドンで開始、東京でも2026年後半に実証へ",
-      "summary": "Uber TechnologiesとWayveは、ロンドンでセーフティドライバーが同乗する自動運転配車サービスの提供を開始。2026年後半には東京でも。",
-      "url": "https://www.travelvoice.jp/20260904-160462",
-      "published": "2026-09-04T01:45:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/0009a148-8f20-4b0a-8732-2f55766ad7c6.jpg",
-      "category": "業界ニュース",
-      "topic_group": "7d787fae68"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "トヨタのMaaS「my route」、交通とタビナカ体験・飲食を一括手配できる新機能、JTBなどがコンテンツ開発",
-      "summary": "MaaSアプリ「my route」で交通と観光・体験・飲食などのコンテンツを一体で手配できる新機能の提供を2026年11月中旬から開始。",
-      "url": "https://www.travelvoice.jp/20260904-160463",
-      "published": "2026-09-04T10:56:08+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2021/05/0c7a5db1-1343-4907-837b-f9774fd4ea31.jpg",
-      "category": "航空・交通",
-      "topic_group": "6ef7cf9ef7"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "京都・亀岡市と大阪・茨木市、観光地を舞台に「体験型サスペンスツアー」、LINEで捜査、ロケ誘致にも",
-      "summary": "京都亀岡フィルムコミッションが、京都・亀岡市と大阪・茨木市を巡る体験型サスペンスツアーを開催。参加者が登場人物として役割を演じ、観光スポットや全国都市緑化フェア会場を巡る。",
-      "url": "https://www.travelvoice.jp/20260904-160414",
-      "published": "2026-09-04T08:14:19+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/08/3cf3433e-c46b-412a-a9e3-a6818c73346c.png",
-      "category": "地域・DMO",
-      "topic_group": "773ae169a3"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "紅葉の見頃予想2026、全国的に平年より遅め、京都・嵐山は11月24日頃 ―ウェザーニューズ社",
-      "summary": "ウェザーニューズは2026年の紅葉見頃予想を発表。秋の高温傾向により、全国的に見頃は平年より遅いかやや遅い予想。",
-      "url": "https://www.travelvoice.jp/20260904-160458",
-      "published": "2026-09-04T01:30:09+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/8547db36-d279-487d-8e71-25aff212a4b9.png",
-      "category": "業界ニュース",
-      "topic_group": "3623e74049"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "世界ホテル大手の成長軸は「客室数」から「1室あたりの稼ぐ力」へ、中東リスクを吸収した2026年上半期決算を分析【コラム】",
-      "summary": "東洋経済新報社の山川氏によるコラム。世界ホテル大手5社の最新決算を分析。単なる客室数の拡大から「1室あたりの稼ぐ力」重視へ転換するポートフォリオ戦略を解説。",
-      "url": "https://www.travelvoice.jp/20260903-160432",
-      "published": "2026-09-03T09:34:29+00:00",
+      "published": "2026-09-07T00:45:02+00:00",
       "image_url": null,
-      "category": "宿泊・施設",
-      "topic_group": "a7f6313e57"
+      "category": "統計・市場動向",
+      "topic_group": "6f9ea6bcad"
     },
     {
       "source": "Travel Voice",
-      "title": "グローバル展開ホテルのラディソン、ChatGPT向けアプリ提供開始、空室表示し自社サイトに遷移で予約完結、アクセンチュアと開発",
-      "summary": "ラディソン・ホテル・グループは、ChatGPT上で利用できるホテル検索アプリの提供を開始。ChatGPTのプロンプトの冒頭に「@RadissonHotels」と入力すると利用できる。",
-      "url": "https://www.travelvoice.jp/20260902-160451",
-      "published": "2026-09-04T00:01:14+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/8ec3467d-7ace-4cdb-9a76-b4ff3009668d.png",
-      "category": "宿泊・施設",
-      "topic_group": "004fb9018e"
+      "title": "ブッキング・ドットコム本社でAI戦略を聞いてきた、旅行全体を起点に再設計へ、旅行者のAI利用89％も「完全信頼」はわずか6％を受け",
+      "summary": "ブッキング・ドットコム最高事業責任者のジェームズ・ウォーター氏が、生成AI時代の競争優位、コネクテッド・トリップ戦略、AIエージェントへの対応を説明。旅行者のAI利用意向と信頼の差、独自データの活用、オーバーツーリズム対策、セキュリティ強化について語った。",
+      "url": "https://www.travelvoice.jp/20260904-160427",
+      "published": "2026-09-06T23:26:46+00:00",
+      "image_url": null,
+      "category": "統計・市場動向",
+      "topic_group": "234e8b0545"
+    },
+    {
+      "source": "やまとごころ.jp",
+      "title": "観光庁2027年度予算要求1905億円、旅客税財源1800億円、国内交流・アウトバウンドは2.44倍に",
+      "summary": "観光庁は2027年度（令和9年度）の予算概算要求を公表した。一般財源は前年度比1.20倍の99億7600万円、国際観光旅客税を活用した施策は前年度比1.38倍の1800億円を要求。東日本大震災復興特別会計の5億6600万…",
+      "url": "https://yamatogokoro.jp/column/kaisetsu/61154/",
+      "published": "2026-09-06T23:00:07+00:00",
+      "image_url": null,
+      "category": "政策・制度",
+      "topic_group": "b075b83b62"
     },
     {
       "source": "やまとごころ.jp",
@@ -548,24 +568,64 @@
       "topic_group": "b4d96c8e10"
     },
     {
-      "source": "やまとごころ.jp",
-      "title": "世界の旅ナカ体験市場、拡大続き2029年に3420億ドルへ 複数利用進むも支出伸び悩み、オンライン予約率は3割",
-      "summary": "旅行業界調査会社のPhocuswright Inc.と体験型旅行専門リサーチ機関のArival LLCが、世界の旅ナカ体験市場に関する調査レポートを発表した。市場規模や成長見通しに加え、旅行者の利用・支出動向、人気の体験…",
-      "url": "https://yamatogokoro.jp/inbound_data/60975/",
-      "published": "2026-08-17T23:00:36+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "486fafbd3e"
+      "source": "時事ドットコム",
+      "title": "外国人支援員、全国に拡大 ３８都道府県に配置―入管庁、評価・待遇改善を検討",
+      "summary": "",
+      "url": "https://www.jiji.com/jc/article?k=2026090700127&g=soc&m=rss",
+      "published": "2026-09-07T05:32:00+00:00",
+      "image_url": "https://www.jiji.com/news2/kiji_photos/202609/20260907at02S_o.jpg",
+      "category": "業界ニュース",
+      "topic_group": "31d3e1e59d"
     },
     {
-      "source": "時事ドットコム",
-      "title": "インドネシアで噴火相次ぐ 航空ダイヤに乱れ",
-      "summary": "",
-      "url": "https://www.jiji.com/jc/article?k=2026090600275&g=int&m=rss",
-      "published": "2026-09-06T07:48:00+00:00",
-      "image_url": "https://www.jiji.com/news2/kiji_photos/202609/20260906at29S_o.jpg",
+      "source": "訪日ラボ",
+      "title": "【2026年最新】宮崎で外国人に人気のホテル・旅館TOP10！ソレスト高千穂ホテルは第2位、1位は？",
+      "summary": "訪日ラボが最新の 口コミ データを元に 独自調査 ・発表している『 インバウンド 人気 ホテル ・ 旅館 ランキング 』。全国の 宿泊施設 に寄せられた 口コミ をもとに、 訪日客 の注目施設や人気の理由を分析しています。 本記事ではその中から、 【2026年最新版】外国人に人気の ホテル ・ 旅館…",
+      "url": "https://honichi.com/news/2026/09/07/202609_inboundranking_hotel_miyazaki/?utm_source=rss",
+      "published": "2026-09-07T03:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14640/main_01_cover_miyazaki.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "cbc01293ac"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "上半期の訪日ドイツ人数は21.8万人で前年超えの水準 4-6月期消費額は前年から微減：ドイツ市場の最新インバウンドデータを徹底解説【2026年上半期】",
+      "summary": "日本 政府観光局 （ JNTO ）が7月15日に発表した訪日外客統計によると、2026年6月の訪日 ドイツ 人数は2万500人でした。 また、 観光庁 が同日に発表した インバウンド消費動向調査 によると、2026年4-6月期の訪日 ドイツ 人旅行消費額は468億円となっています。 本記事では、上半…",
+      "url": "https://honichi.com/news/2026/09/07/germany202607/?utm_source=rss",
+      "published": "2026-09-07T01:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14582/main_e4b56699157ea2a0b64d3dfc955e208f.png",
+      "category": "統計・市場動向",
+      "topic_group": "ea4de03734"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "名古屋市、インバウンド向け観光周遊パスをリニューアル アジア・アジアパラ競技大会に合わせ食事特典を追加",
+      "summary": "名古屋市 は8月31日、 インバウンド 向け名古屋観光周遊パス「NAGOYA Sightseeing Pass」をリニューアルし販売すると発表しました。すでに 電子チケット ではリニューアル版の販売を開始し、紙チケットは9月7日より販売される予定です。 9月19日より開催される「第20回 アジア 競…",
+      "url": "https://honichi.com/news/2026/09/07/nagoya_sightseeingpass/?utm_source=rss",
+      "published": "2026-09-07T00:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14668/main_1.jpg",
+      "category": "業界ニュース",
+      "topic_group": "f2e178957c"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "7月の世界航空需要、4か月ぶりにプラスに 中東は減少続くも欧州～アジア路線が好調【IATA旅客需要データ 2026年7月】",
+      "summary": "国際航空運送協会 （ IATA ）は、2026年7月の世界の航空旅客需要データを発表しました。 7月の総旅客需要（RPK）は前年同月比0.2％増となり、 中東 地域を除いた需要は同1.2％増でした。総供給量（ASK）は同0.3％増となりましたが、搭乗率は85.2％と前年同月から0.1ポイント低下しま…",
+      "url": "https://honichi.com/news/2026/09/07/iata202607/?utm_source=rss",
+      "published": "2026-09-06T23:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14670/main_iata202607_img.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "6fb537c8b0"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "アシアナ航空、神戸～仁川線の国際チャーター便を10月からも継続運航へ",
+      "summary": "関西 エアポート神戸株式会社は、アシアナ航空による神戸～仁川（インチョン）線の国際 チャーター 便の就航を発表しました。 [RegistrationWall] 同路線は、2026年10月25日から毎日運航を実施します。運航スケジュールは、神戸発が15時出発～17時仁川到着、仁川発が11時55分出発・…",
+      "url": "https://honichi.com/news/2026/09/07/asiana_incheon_kobe/?utm_source=rss",
+      "published": "2026-09-06T22:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14663/main_taiki-ishikawa-FCX6LnusiOk-unsplash.jpg",
       "category": "航空・交通",
-      "topic_group": "66148f032b"
+      "topic_group": "62b67e4b7a"
     },
     {
       "source": "訪日ラボ",
@@ -575,7 +635,7 @@
       "published": "2026-09-04T03:00:00+00:00",
       "image_url": "https://static.honichi.com/uploads/entry/image/14572/main_1c8d3a71caa50e8663ce2bfae640fd2f.png",
       "category": "統計・市場動向",
-      "topic_group": "b141f737c3"
+      "topic_group": "ea4de03734"
     },
     {
       "source": "訪日ラボ",
@@ -615,7 +675,7 @@
       "published": "2026-09-03T03:00:00+00:00",
       "image_url": "https://static.honichi.com/uploads/entry/image/14633/main_01_cover_oita.jpg",
       "category": "統計・市場動向",
-      "topic_group": "14b721fa32"
+      "topic_group": "cbc01293ac"
     },
     {
       "source": "訪日ラボ",
@@ -626,56 +686,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14662/main_peaky_82-9arEIVA-x7A-unsplash.jpg",
       "category": "航空・交通",
       "topic_group": "4496c0d022"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "Google、AIモードに3つの新機能 航空券の価格追跡やホテル直接予約が可能に",
-      "summary": "Google は8月27日、 AI を活用した検索機能「 AI モード」をアップデートしたことを発表しました。 今回のアップデートにより、 AI モード上で航空券の価格変動アラートの設定や、マイル・ポイントを使った場合の必要数の確認、さらには ホテル の直接予約までが可能になります。 関連記事 ： …",
-      "url": "https://honichi.com/news/2026/09/03/google-aimode-update-202608/?utm_source=rss",
-      "published": "2026-09-02T23:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14655/main_20260829-02.jpg",
-      "category": "航空・交通",
-      "topic_group": "15d426b448"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "上半期の訪日イギリス人数は28.7万人で前年超え、4-6月期消費額は横ばいに：イギリス市場の最新インバウンドデータを徹底解説【2026年上半期】",
-      "summary": "日本 政府観光局 （ JNTO ）が7月15日に発表した訪日外客統計によると、2026年6月の訪日 イギリス 人数は3万6,200人でした。 また、 観光庁 が同日に発表した インバウンド消費動向調査 によると、2026年4-6月期の訪日 イギリス 人旅行消費額は687億円となっています。 本記事で…",
-      "url": "https://honichi.com/news/2026/09/03/unitedkingdom202607/?utm_source=rss",
-      "published": "2026-09-02T22:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14571/main_3ca32fb1c3c77339485e2cb1f80d3f53.png",
-      "category": "統計・市場動向",
-      "topic_group": "b141f737c3"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "7月の大阪インバウンド数、4か月ぶりプラスに 府内周遊に向け観光コンテンツ掘り起こしへ【大阪観光局】",
-      "summary": "公益財団法人大阪 観光局 は8月27日、定例会見を実施。 大阪府 の観光の概況や、 大阪府 内の周遊促進に向けた取り組みなどについて報告しました。 関連記事： 大阪観光局 前回の定例会見（7月） ▲公益財団法人大阪観光局 定例会見の様子：訪日ラボ撮影 目次 大阪インバウンド訪問者数、4か月ぶりに前年…",
-      "url": "https://honichi.com/news/2026/09/02/osaka202608/?utm_source=rss",
-      "published": "2026-09-02T06:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14659/main_PXL_20260827_010810858.jpg",
-      "category": "政策・制度",
-      "topic_group": "67d26570eb"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "上半期の訪日メキシコ人数は前年比1.3倍、4-6月期消費単価は51万円超え：メキシコ市場の最新インバウンドデータを徹底解説【2026年上半期】",
-      "summary": "日本 政府観光局 （ JNTO ）が7月15日に発表した訪日外客統計によると、2026年6月の訪日 メキシコ 人数は1万3,300人でした。 また、 観光庁 が同日に発表した インバウンド消費動向調査 によると、2026年4-6月期の訪日 メキシコ 人旅行消費額は279億円となっています。 本記事で…",
-      "url": "https://honichi.com/news/2026/09/02/mexico202607/?utm_source=rss",
-      "published": "2026-09-02T00:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14567/main_b00bc0dd70662f844781c9d1fbe5fb2b.png",
-      "category": "統計・市場動向",
-      "topic_group": "b141f737c3"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "経産省「エンタメ・クリエイティブ産業戦略2026」を公表 アニメ聖地巡礼によるインバウンド拡大、超富裕層に向けた方針を明示",
-      "summary": "経済産業省は8月20日、「エンタメ・クリエイティブ産業戦略2026」を取りまとめました。 「エンタメ・クリエイティブ産業戦略2026」は、官民で掲げる「2033年までに日本発コンテンツの海外売上高を20兆円に拡大する」という目標の実現に向け、政策立案や実施に向けた目標・方針を策定したものです。 同戦…",
-      "url": "https://honichi.com/news/2026/09/02/entertainment-and-creative-industry-strategy-2026/?utm_source=rss",
-      "published": "2026-09-01T23:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14646/main_20260827-02.jpg",
-      "category": "政策・制度",
-      "topic_group": "9ba8376c0d"
     }
   ]
 }
