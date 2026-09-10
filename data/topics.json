@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T21:26:26.437827+00:00",
+  "updated_at": "2026-09-10T21:25:03.277682+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -29,11 +29,31 @@
   "articles": [
     {
       "source": "JNTO",
+      "title": "大人気漫画『刃牙』とコラボした訪日旅行者向けツールを発表！",
+      "summary": "※ 本リリースは国土交通記者会・交通運輸記者会に配布しております。 日本政府観光局（ JNTO ）は、株式会社秋田書店と連携し、世界的に人気を博す 大人気漫画『刃牙（バキ）』シリーズとコラボした訪日旅行者向けツール「 10 Smart Travel Tips for Japan 」 を発表しました。…",
+      "url": "https://www.jnto.go.jp/news/press/20260910.html",
+      "published": "2026-09-10T05:00:00+00:00",
+      "image_url": "https://www.jnto.go.jp/news/20260910.jpg",
+      "category": "政策・制度",
+      "topic_group": "eb22d932e8"
+    },
+    {
+      "source": "JNTO",
+      "title": "訪日外国人向け「タビナカ」体験プラットフォーム「Activities JALPAK」を本格展開【株式会社ジャルパック】",
+      "summary": "",
+      "url": "https://www.jnto.go.jp/news/members/activities_jalpak.html",
+      "published": "2026-09-10T04:31:37+00:00",
+      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "category": "AI・デジタル",
+      "topic_group": "3dc86601b5"
+    },
+    {
+      "source": "JNTO",
       "title": "任期付職員採用情報を更新しました",
       "summary": "",
       "url": "https://www.jnto.go.jp/news/info/20220104.html",
       "published": "2026-09-09T02:40:00+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "a6712cc9a1"
     },
@@ -158,24 +178,14 @@
       "topic_group": "2a642fef3f"
     },
     {
-      "source": "JNTO",
-      "title": "フランス/SNSキャンペーン参加団体募集！（締切：9/4）",
+      "source": "観光庁",
+      "title": "韓国・木浦市において「第40回日韓観光振興協議会」を開催しました",
       "summary": "",
-      "url": "https://www.jnto.go.jp/news/expo-seminar/sns94.html",
-      "published": "2026-08-21T04:30:00+00:00",
-      "image_url": null,
-      "category": "AI・デジタル",
-      "topic_group": "31b8b97b35"
-    },
-    {
-      "source": "JNTO",
-      "title": "ものづくりを通じて学ぶ日本文化。最大44名対応の箸作り体験を渋谷で開始。【Contents Like合同会社】",
-      "summary": "",
-      "url": "https://www.jnto.go.jp/news/members/44contents_like.html",
-      "published": "2026-08-21T01:42:44+00:00",
+      "url": "https://www.mlit.go.jp/kankocho/topics03_00051.html",
+      "published": "2026-09-10",
       "image_url": null,
       "category": "業界ニュース",
-      "topic_group": "e40555ea9a"
+      "topic_group": "1a3198e238"
     },
     {
       "source": "観光庁",
@@ -349,113 +359,123 @@
     },
     {
       "source": "Travel Voice",
-      "title": "グーグルが破綻した航空会社のデータを買う理由とは？ 価格・予約・運航の履歴がAI学習にもたらす価値を考察【外電】",
-      "summary": "米観光産業ニュース「フォーカスワイヤ」は、経営破綻したスピリット航空から企業データを購入するグーグルの狙いを考察。",
-      "url": "https://www.travelvoice.jp/20260909-160387",
-      "published": "2026-09-09T07:48:53+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2021/06/7128d75e-9591-4811-aa00-3c439d1646c4.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "b0571f99df"
+      "title": "観光人材が育たない本当の理由とは？ 必要なのは研修より「出口」への投資【コラム】",
+      "summary": "日本交通公社の山田雄一氏による連載コラム。今回は、なぜ「人材育成」は「課題」のままなのか、その理由を考察し、今後求められることを提言。",
+      "url": "https://www.travelvoice.jp/20260910-160273",
+      "published": "2026-09-10T11:11:13+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/08/25db5a2b-3b16-41ae-8841-257f5db15000.jpg",
+      "category": "航空・交通",
+      "topic_group": "0fc08a0ac2"
     },
     {
       "source": "Travel Voice",
-      "title": "グーグルが語るAI時代のインバウンド戦略、変わる旅行者の検索行動と事業者に求められる対応とは？",
-      "summary": "2026年8月に開催された「THE INBOUND DAY 2026」で、グーグルは最新AIモデル「Gemini」が日本のインバウンド市場や旅行業界にもたらす変化と可能性について解説した。",
-      "url": "https://www.travelvoice.jp/20260909-160476",
-      "published": "2026-09-09T09:44:30+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/d91a0128-3136-4d11-b140-956e4c683141.jpg",
+      "title": "ツーリズムEXPO2026、出展規模1400小間へ、海外出展も拡大、新テーマで多様な旅の魅力を映す場に",
+      "summary": "ツーリズムEXPOジャパン2026が、開幕直前の最新状況を発表。総小間数は1400規模に拡大し、海外勢の日本市場への期待や、新たな旅の体験を提案する出展も。",
+      "url": "https://www.travelvoice.jp/20260910-160503",
+      "published": "2026-09-10T14:27:43+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/e0789624-97cf-4f37-9750-b7122493be56.JPG",
       "category": "統計・市場動向",
-      "topic_group": "15f533354d"
+      "topic_group": "57b599c392"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "グーグル、欧州で旅行検索を大幅変更、直販のリアルタイム価格表示など制限、民泊枠は削除【外電】",
+      "summary": "米観光産業ニュース「Skift（スキフト）」によると、米グーグルはEUの独占禁止法（DMA）違反による巨額制裁金を回避するため、欧州でのホテル・航空券などの検索機能を大幅削減した。大手OTAや業界団体は歓迎の意を示している。",
+      "url": "https://www.travelvoice.jp/20260910-160490",
+      "published": "2026-09-10T01:50:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2020/10/5ac075c5-026b-4d56-a3ae-c28878774e46.jpg",
+      "category": "政策・制度",
+      "topic_group": "412a9cdf6a"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "世界遺産・富岡製糸場、ペット同伴入場が3年半で5500匹を超える、エリア拡大やイベントでペットツーリズム推進",
+      "summary": "群馬・富岡製糸場のペット同伴入場が開始から3年5か月で累計5555匹に。同伴可能な見学エリア拡大やイベントを通じて、ペットツーリズムを推進。",
+      "url": "https://www.travelvoice.jp/20260911-160408",
+      "published": "2026-09-10T01:45:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/08/5de34c48-676d-4992-9f95-d2b1203b9a13.jpg",
+      "category": "業界ニュース",
+      "topic_group": "08e951391c"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "奈良・飛鳥に農と食の体験施設が開業、農業体験や発酵カフェなど、 世界遺産登録で注目の地域に",
+      "summary": "世界文化遺産登録エリアの奈良県桜井市に、農業と食の体験施設「ひるさいど飛鳥」が2026年9月14日オープン。1870年創業の井上天極堂が奈良・飛鳥地域の日常の魅力を発信。",
+      "url": "https://www.travelvoice.jp/20260910-160415",
+      "published": "2026-09-10T01:40:08+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/27cf8711-6a64-40ad-aeb1-5b52f64e38b3.jpg",
+      "category": "地域・DMO",
+      "topic_group": "eef6bc1ae1"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "世界190カ国でウェルネス啓発イベント、日本では47都道府県500施設以上の体験クラス、地方創生やツーリズムにつなぐ",
+      "summary": "2026年9月18日から20日まで、世界展開する「World Wellness Weekend」が開催される。日本でも47都道府県の500以上の施設で、ヨガやフィットネスなどのウェルネス体験が原則無料で提供される。",
+      "url": "https://www.travelvoice.jp/20260910-160496",
+      "published": "2026-09-10T11:42:32+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2023/08/bbb8f3fa-b425-4adf-8ac0-93618024e189.jpg",
+      "category": "地域・DMO",
+      "topic_group": "321d07364a"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "米ロサンゼルスにジョージ・ルーカス氏ら設立の美術館が開館へ、「スター・ウォーズ」関連や日本のマンガなど1300点超を展示",
+      "summary": "2026年9月22日に「ルーカス・ミュージアム・オブ・ナラティブ・アート」が米ロサンゼルスに開館。スター・ウォーズ関連資料に加え、日本のマンガ作品なども展示。",
+      "url": "https://www.travelvoice.jp/20260910-160460",
+      "published": "2026-09-10T06:06:04+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/a2479ea9-9eb2-4d4d-8bc7-62e9c1912566.jpeg",
+      "category": "業界ニュース",
+      "topic_group": "144989a37a"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "愛知・名古屋、アジア大会開催時に公式イベント、メダリストが連日登場、食・文化・ライブ観戦も",
+      "summary": "愛知県名古屋市でアジア競技大会の祝賀イベント開催。開催期間に日替わりでメダリストが登壇する催しや、パブリックビューイング、食文化体験などで大会を盛り上げる。",
+      "url": "https://www.travelvoice.jp/20260910-160449",
+      "published": "2026-09-10T06:06:00+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/cdb3f95f-7688-42ff-a952-6dcd501b9d7f.png",
+      "category": "業界ニュース",
+      "topic_group": "abbc0936ca"
     },
     {
       "source": "Travel Voice",
       "title": "サッカーJ2「カターレ富山」、サッカー観戦客に観光周遊促す新サービス、飲食・観光施設チケットを販売",
       "summary": "サッカーJ2のカターレ富山は、ジャパンチケットホールディングスと協業し、カターレ富山公式グルメ・観光ガイド「とやまるチケット」の販売を2026年10月から開始。参画店舗のチケット販売で地域経済を活性化。",
       "url": "https://www.travelvoice.jp/20260909-160471",
-      "published": "2026-09-09T01:55:08+00:00",
+      "published": "2026-09-10T06:06:11+00:00",
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/26c73cbf-e218-459c-a7ac-95aa47321eb9.jpg",
       "category": "地域・DMO",
       "topic_group": "37568dba60"
     },
     {
       "source": "Travel Voice",
-      "title": "ナビタイム、バス乗務員のヒヤリハット情報を共有する新機能、走行中のカーナビ案内で注意喚起",
-      "summary": "ナビタイムジャパンは、バス専用カーナビアプリ「バスカーナビ」で、乗務員が投稿した危険情報や施設の補足情報を共有・活用できる新機能の提供を開始。",
-      "url": "https://www.travelvoice.jp/20260909-160481",
-      "published": "2026-09-09T01:50:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/02fae56a-84bd-45df-8cb7-d69509466633.jpg",
-      "category": "業界ニュース",
-      "topic_group": "6b2f12699f"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "タビナカのリスクにも対応する新キャンセル保険、航空機の欠航・遅延、旅行中断、携行品損害などを補償",
-      "summary": "AWPチケットガード少額短期保険は、旅行キャンセル費用補償保険に、「欠航・遅延等費用補償」「旅行中断費用補償」「携行品損害補償」の3つの特約を付帯した新商品を発売。",
-      "url": "https://www.travelvoice.jp/20260909-160431",
-      "published": "2026-09-09T01:40:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/05/c2748a7c-9522-450c-be5a-5e17011582ee.jpg",
-      "category": "航空・交通",
-      "topic_group": "334a12515f"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "インバウンド向けオンライン診療支援で処方薬配送まで一括提供、料金を事前確定、NTTドコモ系企業が開始へ",
-      "summary": "NTTドコモグループのミナカラ社が訪日外国人向け医療支援サービスで新サービス「Online Doctor for tourists」の提供を開始する。",
-      "url": "https://www.travelvoice.jp/20260909-160452",
-      "published": "2026-09-09T01:35:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2021/01/0a9f60f4-bdc9-4e31-a4bb-c5253d48aaea.jpg",
-      "category": "業界ニュース",
-      "topic_group": "f92e905c44"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "手荷物預かりサービス「Bounce」、都内コンビニでサービス提供開始、「手ぶら観光」拠点をさらに拡大",
-      "summary": "手荷物預かりサービスのBounce（バウンス）は、都内のローソン3店舗で手荷物預かりサービスの提供を開始。",
-      "url": "https://www.travelvoice.jp/20260909-160482",
-      "published": "2026-09-09T09:56:44+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2024/07/15505b9b-573c-46d3-9ecd-7400399ac57b.jpg",
-      "category": "業界ニュース",
-      "topic_group": "1e66ddb838"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "大東建託、デジタルノマド向けの短期賃貸プランを開始、在留カード不要など入居審査基準を改定",
-      "summary": "大東建託リーシングは、在留資格「デジタルノマド」保有者向けに、在留カード不要で即日入居可能な短期賃貸プランを開始した。家具家電付き物件を全国で提供し、来日前手続きや多言語サポートで滞在を支援する。",
-      "url": "https://www.travelvoice.jp/20260909-160472",
-      "published": "2026-09-09T09:57:13+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2024/08/cd41a916-6ddd-425e-8ca9-dfcc1abd7441.jpg",
-      "category": "AI・デジタル",
-      "topic_group": "7789b44c34"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "デジタルノマド集中で変わるバリ島、外国人長期滞在者の増加に戸惑う地元住民、「バリ島は一体誰のもの？」で広がる議論",
-      "summary": "ロイター通信は、バリ島チャングーで増加するデジタルノマドについてリポート。かつての漁村の面影はほとんど残っていない風景に地元の人たちは困惑。人々が平穏な生活を送れなくなっていると警鐘を鳴らす識者も。",
-      "url": "https://www.travelvoice.jp/20260908-160447",
-      "published": "2026-09-09T07:23:51+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/3c95742a-4690-4075-9bc9-23746bdff9ab.JPG",
-      "category": "AI・デジタル",
-      "topic_group": "ee6b13b70c"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "京都市長が語った「京都観光の課題と未来」、住民生活との両立、高付加価値化、市バス「市民優先価格」など取材した",
-      "summary": "「THE INBOUND DAY 2026」に京都市の松井孝治市長が登壇し、京都市の観光の現状や課題解決に向けて、市バスでの「市民優先価格」の導入など市民生活とのバランスを見据えた今後の対策を説明した。",
-      "url": "https://www.travelvoice.jp/20260908-160368",
-      "published": "2026-09-09T00:02:14+00:00",
+      "title": "グーグルが破綻した航空会社のデータを買う理由とは？ 価格・予約・運航の履歴がAI学習にもたらす価値を考察【外電】",
+      "summary": "米観光産業ニュース「フォーカスワイヤ」は、経営破綻したスピリット航空から企業データを購入するグーグルの狙いを考察。",
+      "url": "https://www.travelvoice.jp/20260909-160387",
+      "published": "2026-09-09T07:48:53+00:00",
       "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "4bcb30e805"
+      "category": "統計・市場動向",
+      "topic_group": "b0571f99df"
     },
     {
       "source": "やまとごころ.jp",
-      "title": "DMOは「集客」の先に何を担うのか ベルリンDMMOに学ぶ地域経営",
+      "title": "中国人の海外旅行需要、旅行会社の77％が「増加」と回答 若年層・MICE・AIに商機",
+      "summary": "世界の旅行市場が地政学的緊張や燃料費上昇などの影響を受けるなか、中国の海外旅行市場では底堅い需要が続いている。中国市場に特化したマーケティング企業ドラゴン・トレイル・インターナショナルが、中国本土で海外旅行商品を販売する…",
+      "url": "https://yamatogokoro.jp/inbound_data/61190/",
+      "published": "2026-09-09T23:00:19+00:00",
+      "image_url": null,
+      "category": "統計・市場動向",
+      "topic_group": "20e05d0255"
+    },
+    {
+      "source": "やまとごころ.jp",
+      "title": "DMOは「集客」の先に何を担うのか ベルリンのDMMO化に学ぶ地域経営",
       "summary": "2025年、日本の訪日外国人旅行者数は4000万人を突破した。各地でインバウンド需要が拡大し、多くの自治体やDMOが誘客施策を強化している。一方で、オーバーツーリズム、交通混雑、人手不足、環境負荷、住民との摩擦といった課…",
       "url": "https://yamatogokoro.jp/column/tourismstrategy-abroad/61129/",
       "published": "2026-09-08T23:00:32+00:00",
       "image_url": null,
       "category": "統計・市場動向",
-      "topic_group": "4bb6b6d6c0"
+      "topic_group": "e083524f9d"
     },
     {
       "source": "やまとごころ.jp",
@@ -558,24 +578,54 @@
       "topic_group": "e3fbd91fe6"
     },
     {
-      "source": "やまとごころ.jp",
-      "title": "日帰り観光の奈良を「泊まる街」へ。100室超の長期滞在型宿泊から描く地域の未来",
-      "summary": "日本有数の歴史都市でありながら、奈良は京都や大阪からの日帰り観光先として語られることも少なくない。その街で、宿泊を起点に新たな滞在のあり方をつくろうとしているのが、株式会社コンフィーステイ代表取締役の金児（かねこ）崇行氏…",
-      "url": "https://yamatogokoro.jp/inbound_interview/61003/",
-      "published": "2026-08-23T23:00:59+00:00",
+      "source": "時事ドットコム",
+      "title": "口蹄疫ウイルス、検疫で初検出 新千歳空港でヤギ肉から",
+      "summary": "",
+      "url": "https://www.jiji.com/jc/article?k=2026091001072&g=eco",
+      "published": null,
       "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "aa51ff3618"
+      "category": "航空・交通",
+      "topic_group": "4ad1782140"
     },
     {
       "source": "時事ドットコム",
-      "title": "外国人新資格「育成就労」に航空分野を追加 受け入れ上限は変わらず―政府",
+      "title": "ＮＨＫ、滋賀のホテル提訴 受信料１１４０万円滞納で",
       "summary": "",
-      "url": "https://www.jiji.com/jc/article?k=2026090900898&g=pol&m=rss",
-      "published": "2026-09-09T08:32:00+00:00",
-      "image_url": "https://www.jiji.com/news2/kiji_photos/202609/20260909at56S_o.jpg",
-      "category": "政策・制度",
-      "topic_group": "939ed52fa1"
+      "url": "https://www.jiji.com/jc/article?k=2026091000900&g=eco",
+      "published": null,
+      "image_url": "https://www.jiji.com/news2/kiji_photos/square/202609/2026091000900.jpg",
+      "category": "宿泊・施設",
+      "topic_group": "78ee5da197"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "2026年の紅葉、全国的に見頃は遅め ウェザーニューズが予想",
+      "summary": "訪日客 にとって関心事のひとつである 紅葉 シーズンがいよいよ到来します。 ウェザーニューズが9月3日に発表した2026年の「第1回 紅葉 見頃予想」によると、今秋は全国的に平均気温が高い傾向にあることから、見頃は平年より遅いかやや遅い見通しです。 一方、葉の状態は広範囲で良好とみられ、鮮やかな色付…",
+      "url": "https://honichi.com/news/2026/09/10/autumn2026-weathernews/?utm_source=rss",
+      "published": "2026-09-10T00:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14676/main_ae34418f69bc4ae974fdb89f2f75f9a0.png",
+      "category": "業界ニュース",
+      "topic_group": "e953c491ee"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "台湾インフルエンサー施策の勝ち筋とは 2026年最新実践ガイド【台湾インバウンド解体新書 by カケハシ vol.3】",
+      "summary": "連載： 台湾 インバウンド 解体新書 by カケハシ 台湾 市場を15年見続けてきた「カケハシ」がお届けする連載「 台湾 インバウンド 解体新書」。 第3回となる今回は、「 台湾 インフルエンサー マーケティング は本当に効かなくなったのか」という問いに、現場の視点から答えます。 第1回： 台湾で“…",
+      "url": "https://honichi.com/news/2026/09/10/cakehashi-taiwan-3/?utm_source=rss",
+      "published": "2026-09-09T23:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14643/main_2463500dc6c601e94c324f3888e2422a.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "b7bd90b248"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "上半期の訪日イタリア人数は13.5万人で前年から微減：イタリア市場の最新インバウンドデータを徹底解説【2026年上半期】",
+      "summary": "日本 政府観光局 （ JNTO ）が7月15日に発表した訪日外客統計によると、2026年6月の訪日 イタリア 人数は2万1,500人でした。 また、 観光庁 が同日に発表した インバウンド消費動向調査 によると、2026年4-6月期の訪日 イタリア 人旅行消費額は288億円となっています。 本記事で…",
+      "url": "https://honichi.com/news/2026/09/10/italy202607/?utm_source=rss",
+      "published": "2026-09-09T22:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14584/main_4e2b94a274edb982f2a534969bb9409b.png",
+      "category": "統計・市場動向",
+      "topic_group": "4760040b23"
     },
     {
       "source": "訪日ラボ",
@@ -656,36 +706,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14665/main_american-green-travel-FfoxL32E56A-unsplash2.jpg",
       "category": "統計・市場動向",
       "topic_group": "f300efddb3"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "【2026年最新】宮崎で外国人に人気のホテル・旅館TOP10！ソレスト高千穂ホテルは第2位、1位は？",
-      "summary": "訪日ラボが最新の 口コミ データを元に 独自調査 ・発表している『 インバウンド 人気 ホテル ・ 旅館 ランキング 』。全国の 宿泊施設 に寄せられた 口コミ をもとに、 訪日客 の注目施設や人気の理由を分析しています。 本記事ではその中から、 【2026年最新版】外国人に人気の ホテル ・ 旅館…",
-      "url": "https://honichi.com/news/2026/09/07/202609_inboundranking_hotel_miyazaki/?utm_source=rss",
-      "published": "2026-09-07T03:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14640/main_01_cover_miyazaki.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "71b579d097"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "上半期の訪日ドイツ人数は21.8万人で前年超えの水準 4-6月期消費額は前年から微減：ドイツ市場の最新インバウンドデータを徹底解説【2026年上半期】",
-      "summary": "日本 政府観光局 （ JNTO ）が7月15日に発表した訪日外客統計によると、2026年6月の訪日 ドイツ 人数は2万500人でした。 また、 観光庁 が同日に発表した インバウンド消費動向調査 によると、2026年4-6月期の訪日 ドイツ 人旅行消費額は468億円となっています。 本記事では、上半…",
-      "url": "https://honichi.com/news/2026/09/07/germany202607/?utm_source=rss",
-      "published": "2026-09-07T01:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14582/main_e4b56699157ea2a0b64d3dfc955e208f.png",
-      "category": "統計・市場動向",
-      "topic_group": "ea4de03734"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "名古屋市、インバウンド向け観光周遊パスをリニューアル アジア・アジアパラ競技大会に合わせ食事特典を追加",
-      "summary": "名古屋市 は8月31日、 インバウンド 向け名古屋観光周遊パス「NAGOYA Sightseeing Pass」をリニューアルし販売すると発表しました。すでに 電子チケット ではリニューアル版の販売を開始し、紙チケットは9月7日より販売される予定です。 9月19日より開催される「第20回 アジア 競…",
-      "url": "https://honichi.com/news/2026/09/07/nagoya_sightseeingpass/?utm_source=rss",
-      "published": "2026-09-07T00:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14668/main_1.jpg",
-      "category": "業界ニュース",
-      "topic_group": "f2e178957c"
     }
   ]
 }
