@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T21:25:57.264071+00:00",
+  "updated_at": "2026-09-13T21:25:49.512935+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -576,16 +576,6 @@
       "image_url": null,
       "category": "地域・DMO",
       "topic_group": "e3fbd91fe6"
-    },
-    {
-      "source": "時事ドットコム",
-      "title": "ＮＨＫ、滋賀のホテル提訴 受信料１１４０万円滞納で",
-      "summary": "",
-      "url": "https://www.jiji.com/jc/article?k=2026091000900&g=eco",
-      "published": null,
-      "image_url": "https://www.jiji.com/news2/kiji_photos/square/202609/2026091000900.jpg",
-      "category": "宿泊・施設",
-      "topic_group": "78ee5da197"
     },
     {
       "source": "訪日ラボ",
