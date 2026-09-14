@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T21:25:49.512935+00:00",
+  "updated_at": "2026-09-14T21:27:23.906932+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -29,11 +29,21 @@
   "articles": [
     {
       "source": "JNTO",
+      "title": "オープンカウンター方式による調達情報を更新しました",
+      "summary": "",
+      "url": "https://www.jnto.go.jp/news/info/post_53.html",
+      "published": "2026-09-14T06:11:00+00:00",
+      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "category": "業界ニュース",
+      "topic_group": "3a53b300f5"
+    },
+    {
+      "source": "JNTO",
       "title": "ポルトガル旅行会社とのネットワーキングイベント（東京） 参加団体募集（締切：9/25）",
       "summary": "",
       "url": "https://www.jnto.go.jp/news/expo-seminar/_925.html",
       "published": "2026-09-11T04:30:00+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "a39ddc4b37"
     },
@@ -43,7 +53,7 @@
       "summary": "",
       "url": "https://www.jnto.go.jp/news/expo-seminar/the_getaway_by_vakantiebeurs_2027_109_1.html",
       "published": "2026-09-11T04:30:00+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "209bd4694a"
     },
@@ -53,7 +63,7 @@
       "summary": "",
       "url": "https://www.jnto.go.jp/news/expo-seminar/_matka_travel_fair_2027109.html",
       "published": "2026-09-11T04:30:00+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "AI・デジタル",
       "topic_group": "8fb7fa3347"
     },
@@ -63,7 +73,7 @@
       "summary": "",
       "url": "https://www.jnto.go.jp/news/expo-seminar/travel_adventure_show_1017.html",
       "published": "2026-09-11T04:30:00+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "f4defdf6a5"
     },
@@ -73,7 +83,7 @@
       "summary": "",
       "url": "https://www.jnto.go.jp/news/expo-seminar/fitur2027_930.html",
       "published": "2026-09-11T04:30:00+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "d1d4f3bdb5"
     },
@@ -83,7 +93,7 @@
       "summary": "",
       "url": "https://www.jnto.go.jp/news/expo-seminar/109_1_102.html",
       "published": "2026-09-11T04:30:00+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "f619838b26"
     },
@@ -93,7 +103,7 @@
       "summary": "",
       "url": "https://www.jnto.go.jp/news/australia/2026_925_1500.html",
       "published": "2026-09-11T04:30:00+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "55f084fd5e"
     },
@@ -103,7 +113,7 @@
       "summary": "",
       "url": "https://www.jnto.go.jp/news/expo-seminar/japan_showcase_1017.html",
       "published": "2026-09-11T04:30:00+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "fce871fe03"
     },
@@ -113,7 +123,7 @@
       "summary": "",
       "url": "https://www.jnto.go.jp/news/expo-seminar/2026_202691114002027129.html",
       "published": "2026-09-11T04:30:00+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "8f108c29a7"
     },
@@ -126,16 +136,6 @@
       "image_url": null,
       "category": "業界ニュース",
       "topic_group": "d1d4f3bdb5"
-    },
-    {
-      "source": "JNTO",
-      "title": "オープンカウンター方式による調達情報を更新しました",
-      "summary": "",
-      "url": "https://www.jnto.go.jp/news/info/post_53.html",
-      "published": "2026-09-11T02:44:00+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "3a53b300f5"
     },
     {
       "source": "JNTO",
@@ -359,103 +359,113 @@
     },
     {
       "source": "Travel Voice",
+      "title": "老舗旅館20代目が語る「ラグジュアリー」の本質、富裕層に選ばれる宿に必要な「会話力」とは？",
+      "summary": "宮城・湯主一條の20代目当主が語る富裕層向けのおもてなしの真髄。全室スイートの新施設展開と、差別化のカギとなる「マニュアルに頼らない会話力」とは？",
+      "url": "https://www.travelvoice.jp/20260914-160280",
+      "published": "2026-09-14T07:31:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/08/b1ecf8b2-53cb-4485-9ff5-6c1e7038bb51.jpg",
+      "category": "宿泊・施設",
+      "topic_group": "bd0f02ce3b"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "日本政府観光局が推進する「ガストロノミーツーリズム」、専門家が語る地域資源の再発掘とストーリー設計の重要性",
+      "summary": "日本政府観光局（JNTO）は、「第29回JNTOインバウンド旅行振興フォーラム」でガストロノミーツーリズムについてパネルディスカッションを開催。有識者が地域資源の再発掘とストーリー設計の重要性について語った。",
+      "url": "https://www.travelvoice.jp/20260914-160493",
+      "published": "2026-09-14T08:12:32+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/ca232c03-ef61-4cef-8dce-9db1a2831593.jpeg",
+      "category": "政策・制度",
+      "topic_group": "1f12b9ed1a"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "インフィニ、NDC手配の新サービス開始へ稼働予定の航空会社6社を発表、既存GDSと連携する専用ツール提供",
+      "summary": "インフィニトラベルインフォメーションは新たなGDSモデル「INFINI NDC Connect」について、ANAやシンガポール航空など6社の手配が可能になったと発表。本格稼働に向けてさらに増やしていく。",
+      "url": "https://www.travelvoice.jp/20260914-160491",
+      "published": "2026-09-14T02:00:12+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/7cc993bf-2fbe-423f-87e0-1f1961db9200.jpg",
+      "category": "航空・交通",
+      "topic_group": "5a11b1e265"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "ANAと羽田空港、世界の航空イノベーション賞を受賞、自動運転やAI乱気流予測、空港DXが高評価",
+      "summary": "Future Travel Experience (FTE) Global 2026」で、日本からANAと日本空港ビルデングが「Pioneer Awards」を受賞。旅客体験向上や業務効率化での革新的な取り組みが評価。",
+      "url": "https://www.travelvoice.jp/20260914-160512",
+      "published": "2026-09-14T01:50:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/53192a37-13f1-46ec-a285-e7cda29a4ecd.jpg",
+      "category": "航空・交通",
+      "topic_group": "f1db5f046a"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "ワンワールド、世界一周旅行の時差ボケ対策アプリを無料提供、普段の睡眠パターンなど個人にあわせて最適化",
+      "summary": "ワンワールド・アライアンスは、時差ボケ対策アプリ「Timeshifter」と提携。「Round the World（世界一周）」の旅行プラン購入者に無料サブスクを提供。",
+      "url": "https://www.travelvoice.jp/20260914-160511",
+      "published": "2026-09-14T01:45:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/d9977669-b6cb-43d2-8302-5cb05da61249.jpg",
+      "category": "業界ニュース",
+      "topic_group": "50e9090d20"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "高速バス「ウィラー」、荒天時の条件付き運行便でキャンセル料免除、運休確定前でも可能に",
+      "summary": "ウィラーエクスプレスが、荒天時の条件付き運行便を対象に運休確定前のキャンセル料を免除。利用者自身が早めに予定変更の判断ができる選択肢を用意し、移動の負担や不安を軽減。",
+      "url": "https://www.travelvoice.jp/20260914-160507",
+      "published": "2026-09-14T01:40:08+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/0eed8828-d101-492e-b051-786803a35c25.jpg",
+      "category": "業界ニュース",
+      "topic_group": "ef61f418d0"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "HIS、スキーツアーに強い「ラド観光」子会社化、地方発着・バス商材を補完、取得価格は約7億円",
+      "summary": "エイチ・アイ・エス（HIS）は、ラド観光を子会社化。地方発地やバス商材における補完性を高めるとともに、シナジーの創出を図っていく。",
+      "url": "https://www.travelvoice.jp/20260914-160510",
+      "published": "2026-09-14T01:35:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2021/07/0fcce6b1-aa51-4066-96cb-a5562652c04d.jpg",
+      "category": "地域・DMO",
+      "topic_group": "f9e3e223e9"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "ジャルパック、訪日外国人向けタビナカ予約サイトを本格展開、JAL工場見学や相撲部屋の朝稽古見学など",
+      "summary": "ジャルパックは、訪日外国人観光客に向けタビナカ体験予約プラットフォーム「Activities JALPAK」を本格展開。地方の魅力的な観光資源を紹介、販売し、オーバーツーリズム解消にも貢献。",
+      "url": "https://www.travelvoice.jp/20260914-160495",
+      "published": "2026-09-14T01:30:09+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/99406888-4232-4055-9c79-586353ed7a07.png",
+      "category": "地域・DMO",
+      "topic_group": "34fa148628"
+    },
+    {
+      "source": "Travel Voice",
       "title": "インバウンド向け相撲ショー「日楽座」、欧米豪旅行者から人気を集める理由と、その舞台裏を取材した",
       "summary": "欧米豪の訪日客から人気を集める大阪難波と東京銀座の相撲エンターテイメント施設「日楽座」。その舞台を取材するとともに、運営する阪神コンテンツリンクの責任者にマーケットの現状や今後について聞いた。",
       "url": "https://www.travelvoice.jp/20260911-160160",
       "published": "2026-09-12T07:18:58+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/07/aef8f90a-7e31-4acb-b89b-e2523f53afdc.jpg",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "caad505df1"
     },
     {
       "source": "Travel Voice",
-      "title": "Meta、新AIエージェント「Muse」で航空券予約、決済・予約後の管理まで、将来的には宿泊予約も【外電】",
+      "title": "米メタ社、新AIエージェント「Muse」を発表、航空券予約・決済、予約後の管理まで、将来的には宿泊予約も【外電】",
       "summary": "米観光メディア「フォーカスワイヤ」は、Metaが公開したAIエージェント「Muse」における旅行予約の機能についてレポート。現在は航空券のみだが、将来的には宿泊施設の予約にも対応する予定。",
       "url": "https://www.travelvoice.jp/20260911-160505",
-      "published": "2026-09-11T09:14:32+00:00",
+      "published": "2026-09-14T00:30:01+00:00",
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/07/375e8305-bfce-45e6-8237-e9e45c20e0d0.jpg",
       "category": "統計・市場動向",
-      "topic_group": "95fdd49cac"
+      "topic_group": "857c93ddeb"
     },
     {
-      "source": "Travel Voice",
-      "title": "HIS決算、第3四半期は増収減益、旅行事業は中東情勢と円安で大幅減益、ホテル事業は増収増益 ―2026年10月期",
-      "summary": "HISの2026年10月期第3四半期の連結売上高は前年同期比104.9%の2793億円。旅行事業は中東情勢と円安で大幅減益に。第4四半期は中東系航空会社利用のツアーが急回復。",
-      "url": "https://www.travelvoice.jp/20260911-160508",
-      "published": "2026-09-11T10:35:47+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2021/01/4650c1f3-5e33-442f-b3b3-d9cab0a0dd5e.jpg",
-      "category": "航空・交通",
-      "topic_group": "3b1be12b80"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "アジア太平洋地域の航空業界リーダーが集う「CAPA世界サミット」、新千歳空港で10月1・2日開催 ―読者割引あり（PR）",
-      "summary": "（PR）「CAPA Airline Leader Summit Asia 2026」が10月1・2日に北海道・新千歳空港で開催。JALやANAをはじめ航空業界のリーダーが集結し、アジア太平洋の航空市場、空港・LCC、成長戦略などを議論。",
-      "url": "https://www.travelvoice.jp/20260911-160487",
-      "published": "2026-09-11T02:00:12+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "640af45bef"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "海外富裕層向け旅行のエクスペリサス、総額4億円の資金調達・融資枠を確保、財務基盤の強化とAI開発への投資に充当",
-      "summary": "エクスペリサスは、みずほ銀行から2億円の当座貸越枠を確保するとともに、日本政策金融公庫から2億円を調達。財務基盤の強化とAI開発への投資に充当。",
-      "url": "https://www.travelvoice.jp/20260911-160499",
-      "published": "2026-09-11T01:50:07+00:00",
-      "image_url": null,
-      "category": "政策・制度",
-      "topic_group": "fbeef33082"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "東京の訪日客向けデジタル周遊パスにプレミアム版、チームラボやローカル体験を選択可能に、「楽しい東京パス」を拡充",
-      "summary": "訪日外国人旅行者向け電子周遊パス「Have Fun Pass」シリーズで、最上位商品となる「楽しい東京プレミアムパス（Have Fun in Tokyo Premium Pass）」の販売開始。",
-      "url": "https://www.travelvoice.jp/20260911-160484",
-      "published": "2026-09-11T01:45:08+00:00",
-      "image_url": null,
-      "category": "AI・デジタル",
-      "topic_group": "eea47bb3b8"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "宮城・仙台市で「ポケモン GO」リアルイベント、周遊観光を楽しむ設計で、メキシコシティと同時開催",
-      "summary": "ポケモン GOのリアルイベント「Pokémon GO ワイルドエリア」が、2026年11月6日～8日の3日間、仙台市と国外では初となるメキシコシティで同時開催。",
-      "url": "https://www.travelvoice.jp/20260911-160501",
-      "published": "2026-09-11T01:40:07+00:00",
-      "image_url": null,
+      "source": "やまとごころ.jp",
+      "title": "2026年中国・国慶節は最大13連休、旅行者はどこへ？ 欧米豪・韓国が人気、旅行スタイルも多様化",
+      "summary": "2026年の中国・国慶節（建国記念日）大型連休が近づいています。国慶節連休は10月1日から7日までの7日間ですが、中秋節から休みを取ると最大13連休になります。 例年であれば訪日インバウンドの最盛期の一つとなるこの時期で…",
+      "url": "https://yamatogokoro.jp/column/kaisetsu/61219/",
+      "published": "2026-09-13T23:00:36+00:00",
+      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/09/mche-lee-5lNHQGDisSQ-unsplash.jpg",
       "category": "業界ニュース",
-      "topic_group": "6624c9b450"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "森トラスト、箱根・強羅に全室キッチン付きアパートメントホテル開業へ、全18室で長期滞在・グループ旅行に対応",
-      "summary": "森トラスト・ホテルズ＆リゾーツは、神奈川県箱根町に全室キッチン完備のアパートメントホテル「APARTHOTEL リルト 箱根強羅」を2026年11月開業。グループ旅行や長期滞在に対応。",
-      "url": "https://www.travelvoice.jp/20260910-160437",
-      "published": "2026-09-11T01:38:06+00:00",
-      "image_url": null,
-      "category": "宿泊・施設",
-      "topic_group": "308be0c579"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "観光人材が育たない本当の理由とは？ 必要なのは研修より「出口」への投資【コラム】",
-      "summary": "日本交通公社の山田雄一氏による連載コラム。今回は、なぜ「人材育成」は「課題」のままなのか、その理由を考察し、今後求められることを提言。",
-      "url": "https://www.travelvoice.jp/20260910-160273",
-      "published": "2026-09-10T11:11:13+00:00",
-      "image_url": null,
-      "category": "航空・交通",
-      "topic_group": "0fc08a0ac2"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "グーグル、欧州で旅行検索を大幅変更、ホテル直販のリアルタイム価格表示など制限、民泊枠は削除、EUのデジタル市場法で【外電】",
-      "summary": "米観光産業ニュース「Skift（スキフト）」によると、米グーグルはEUの独占禁止法（DMA）違反による巨額制裁金を回避するため、欧州でのホテル・航空券などの検索機能を大幅削減した。大手OTAや業界団体は歓迎の意を示している。",
-      "url": "https://www.travelvoice.jp/20260910-160490",
-      "published": "2026-09-11T01:46:19+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "99ca671621"
+      "topic_group": "0f9286e570"
     },
     {
       "source": "やまとごころ.jp",
@@ -568,14 +578,24 @@
       "topic_group": "c51c89e48b"
     },
     {
-      "source": "やまとごころ.jp",
-      "title": "広島の成功モデルは他地域でも通用するのか。サイクリングツアーに学ぶ、地域に合わせた横展開の実践",
-      "summary": "地域資源を生かした体験ツアーは全国各地で造成されている。しかし、継続的に選ばれ、地域を代表するブランドへ育つ事例は決して多くない。そんな中、広島発のストーリー型サイクリングツアー「sokoiko!（ソコイコ）」は、トリッ…",
-      "url": "https://yamatogokoro.jp/inbound_case/61066/",
-      "published": "2026-08-24T23:00:20+00:00",
-      "image_url": null,
-      "category": "地域・DMO",
-      "topic_group": "e3fbd91fe6"
+      "source": "訪日ラボ",
+      "title": "マレーシア航空、20年ぶりに福岡～クアラルンプール線を再開 週5便運航",
+      "summary": "マレーシア 航空は9月3日、福岡～クアラルンプール線の運航を開始しました。今回、同社による 福岡空港 発着路線は20年ぶりの再開となります。 なお、福岡～クアラルンプール線の旅客便は2020年以来、6年ぶりの就航となります。 関連記事： ZIPAIR、成田〜クアラルンプール線を新規就航 拡大するマレ…",
+      "url": "https://honichi.com/news/2026/09/14/mag-fukuoka/?utm_source=rss",
+      "published": "2026-09-13T23:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14679/main_mag-fukuoka_img.jpg",
+      "category": "航空・交通",
+      "topic_group": "42640f8c19"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "大阪が世界観光都市魅力度指数で3位に 京都・沖縄もトップ10入り",
+      "summary": "旅行・観光産業を専門とするグローバル調査機関Yanolja Researchは、2026年版「世界観光都市魅力度指数（Global Tourism City Attractiveness Index）」を発表しました。 日本からは大阪が3位、京都が4位となったほか、沖縄も9位にランクインしています。…",
+      "url": "https://honichi.com/news/2026/09/14/global-tourism-index-2026/?utm_source=rss",
+      "published": "2026-09-13T22:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14674/main_20260908-01.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "0ad16cb9d8"
     },
     {
       "source": "訪日ラボ",
@@ -666,26 +686,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14641/main_Saga_slide_01.png",
       "category": "統計・市場動向",
       "topic_group": "00d20f9fbc"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "「日本で買うもの」はSNSとUGCが決め手に：最新インバウンド購買行動と認知戦略を体系的に解説［9/17無料セミナー］",
-      "summary": "訪日外国人 は、来日前にすでに「日本で買うもの」をほぼ決めています。その意思決定を後押ししているのが、 SNS 上での検索行動とUGC（ユーザー生成コンテンツ）です。旅行者は同じ国の旅行者や日本に住む人の 口コミ や 体験 投稿を SNS で検索し、 旅マエ の段階で購入候補を絞り込んでいます。 本…",
-      "url": "https://honichi.com/news/2026/09/09/202609_trialjapan_2/?utm_source=rss",
-      "published": "2026-09-09T00:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14667/main_webinar_bnr_20260917_hlab.png",
-      "category": "AI・デジタル",
-      "topic_group": "6b74b69aa9"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "大相撲・だんじり祭など日本の魅力を躍動感とともに味わえる インバウンド観光客も訪れる日本国内の注目イベントまとめ【2026年9月】",
-      "summary": "9月は、日本の暑さが少し落ち着く タイ ミングであるため、一定の訪日需要が見込まれる時期です。また、 中秋節 、 秋夕 （チュソク）など 東アジア の行楽シーズンとも重なっています。 本記事では、日本各地で9月に開催される 訪日外国人 にも人気があるイベントを、訪日ラボ編集部が紹介します。 目次 1…",
-      "url": "https://honichi.com/news/2026/09/09/japan-event-202609/?utm_source=rss",
-      "published": "2026-09-08T23:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14639/main_japan-event-202609_img.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "28d72103f8"
     }
   ]
 }
