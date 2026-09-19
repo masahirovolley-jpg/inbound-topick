@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T21:26:02.749835+00:00",
+  "updated_at": "2026-09-19T21:25:16.237333+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -393,7 +393,7 @@
       "summary": "宮城県南三陸町観光協会などが2026年10月31日から「里海里山WEEKs2026」開催。イヌワシ野生復帰プロジェクト報告や、海藻の陸上養殖、海中熟成ワイン体験などで南三陸の自然と産業を体感。",
       "url": "https://www.travelvoice.jp/20260918-160497",
       "published": "2026-09-18T01:45:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/5121ecd0-56ab-4c16-8788-3d8272b71c85.png",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "9e422f1d6c"
     },
@@ -566,6 +566,16 @@
       "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "a13f6d6e8f"
+    },
+    {
+      "source": "時事ドットコム",
+      "title": "サウジ首都空港付近で黒煙 フーシ派の攻撃か、石油施設で火災も",
+      "summary": "",
+      "url": "https://www.jiji.com/jc/article?k=2026091900458&g=int&m=rss",
+      "published": "2026-09-19T13:33:00+00:00",
+      "image_url": "https://www.jiji.com/img/jijicom_og_image.png",
+      "category": "航空・交通",
+      "topic_group": "13ae1d30b2"
     },
     {
       "source": "訪日ラボ",
