@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T23:36:24.256032+00:00",
+  "updated_at": "2026-09-23T23:43:01.124657+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -363,9 +363,19 @@
       "summary": "UN Tourismは、2026年上半期の国際観光客数が前年同期比0.4%増の6.9億人になったと発表。中東情勢やコスト上昇が影響し、成長は鈍化。通年の成長予測は1〜2%へ下方修正された。",
       "url": "https://www.travelvoice.jp/20260918-160545",
       "published": "2026-09-18T02:00:12+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2023/06/548232e1-a0ca-4021-9c7b-217b83fa3e6e.jpg",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "f0be8556a1"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "世界のハブ空港ランキング2026、トップはイスタンブール空港、ロンドン・ヒースローが2位に後退、羽田は8位 ―OAG",
+      "summary": "OAGは、2026年世界のハブ空港ランキングを発表。トップはロンドン・ヒースロー空港を抜いてイスタンブール国際空港に。羽田は8位。",
+      "url": "https://www.travelvoice.jp/20260918-160539",
+      "published": "2026-09-23T00:00:34+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2025/10/b4d3e9a3-de2e-415e-93be-ad05616fe5e8.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "70c0bcb3ff"
     },
     {
       "source": "Travel Voice",
@@ -373,19 +383,9 @@
       "summary": "ロイター通信によると、米航空大手のアメリカン航空、ユナイテッド航空、サウスウエスト航空は、燃料価格の急騰によるコスト増を受け、運航計画の縮小や見直しを進める。一方、短期的な旅行需要は堅調に推移している。",
       "url": "https://www.travelvoice.jp/20260918-160543",
       "published": "2026-09-18T01:55:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/810c36ea-2d7b-4d30-9581-fdd33c984acf.jpeg",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "23c140c0c5"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "世界のハブ空港ランキング2026、トップはイスタンブール空港、ロンドン・ヒースローが2位に後退、羽田は8位 ―OAG",
-      "summary": "OAGは、2026年世界のハブ空港ランキングを発表。トップはロンドン・ヒースロー空港を抜いてイスタンブール国際空港に。羽田は8位。",
-      "url": "https://www.travelvoice.jp/20260918-160539",
-      "published": "2026-09-18T01:51:58+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2025/10/b4d3e9a3-de2e-415e-93be-ad05616fe5e8.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "70c0bcb3ff"
     },
     {
       "source": "Travel Voice",
@@ -446,6 +446,16 @@
       "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "f40e4beeba"
+    },
+    {
+      "source": "やまとごころ.jp",
+      "title": "【体験レポ】なぜ訪日客は東京のライブハウスにハマる？ ローカルな音楽シーンへ入り込む体験ツアーの舞台裏",
+      "summary": "東京には数多くのライブハウスがあり、インディーズのアーティストが日々ステージに立っています。しかし訪日旅行者だけで、ライブハウスを訪れるのは意外と簡単ではありません。 チケットはどう買うのか。写真や動画は撮っていいのか。…",
+      "url": "https://yamatogokoro.jp/column/experience-report/61253/",
+      "published": "2026-09-23T23:00:49+00:00",
+      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/09/j-rocktours01.jpg",
+      "category": "業界ニュース",
+      "topic_group": "c3b7f3cfc2"
     },
     {
       "source": "やまとごころ.jp",
@@ -558,24 +568,34 @@
       "topic_group": "5474b890a1"
     },
     {
-      "source": "やまとごころ.jp",
-      "title": "限られた経営資源をどこに投じる？ インバウンドのターゲットを決める「投資判断」 【セミナーレポート】",
-      "summary": "インバウンド市場が拡大する中、多くの地域が「富裕層」や「欧米市場」への誘客に向けて、一斉に舵を切っている。しかし、それぞれの地域にとって、そうした方向転換は本当に最適な戦略なのだろうか。今回は、株式会社サービスマーケティ…",
-      "url": "https://yamatogokoro.jp/column/inbound-seminarreport/61031/",
-      "published": "2026-09-01T23:00:15+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "a13f6d6e8f"
+      "source": "時事ドットコム",
+      "title": "スーツケースで野菜栽培 置き忘れ、プランターに活用―東京のホテル屋上",
+      "summary": "",
+      "url": "https://www.jiji.com/jc/article?k=2026092300479&g=soc&m=rss",
+      "published": "2026-09-23T22:06:00+00:00",
+      "image_url": "https://www.jiji.com/news2/kiji_photos/202609/20260923at23S_o.jpg",
+      "category": "宿泊・施設",
+      "topic_group": "9109e856f2"
     },
     {
-      "source": "時事ドットコム",
-      "title": "食品メーカー、米国に積極投資 日本食浸透、訪日客増も追い風",
-      "summary": "",
-      "url": "https://www.jiji.com/jc/article?k=2026092000193&g=eco",
-      "published": "2026-09-21T07:09:00+09:00",
-      "image_url": "https://www.jiji.com/news2/kiji_photos/202609/20260920ax04S_o.jpg",
-      "category": "業界ニュース",
-      "topic_group": "8a0a6fd8d0"
+      "source": "訪日ラボ",
+      "title": "8月の訪日外客数は310万人 スペイン・イタリアで単月最高、12市場で8月の記録を更新 ほか：訪日ラボ 今週の注目記事5選",
+      "summary": "訪日ラボ編集部です。本シリーズでは、 この1週間に公開した記事の中から、 インバウンド 担当者が読んでおきたい注目の記事 を厳選してお届けします。 最新トレンドの把握や、 マーケティング 活動にぜひともご活用ください。 目次 今週の注目記事5選 1. 8月の訪日外客数は310万人 イタリア、スペイン…",
+      "url": "https://honichi.com/news/2026/09/24/weekmatome_20260924/?utm_source=rss",
+      "published": "2026-09-23T23:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14701/main_d4e48ba457111289c9a5e5f46032bfca.png",
+      "category": "統計・市場動向",
+      "topic_group": "d328817542"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "関空から京都市内への移動を25分に短縮 ヘリコプター定期便「Airport Heli Shuttle」就航",
+      "summary": "Space Aviationは9月15日より、 関西国際空港 と京都を結ぶヘリコプター定期便「Airport Heli Shuttle」の就航を開始しました。 これにより、通常は車や公共交通機関を利用して約90〜120分を要する 関西国際空港 から京都間の移動を、約25分に短縮することが可能となりま…",
+      "url": "https://honichi.com/news/2026/09/24/kix_kyoto_helishuttle/?utm_source=rss",
+      "published": "2026-09-23T22:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14704/main_kix_kyoto_helishuttle_img.png",
+      "category": "航空・交通",
+      "topic_group": "969c5de536"
     },
     {
       "source": "訪日ラボ",
@@ -645,7 +665,7 @@
       "published": "2026-09-16T07:52:00+00:00",
       "image_url": "https://static.honichi.com/uploads/entry/image/14693/main_db4d0d6b241fed25c45d61451c309650.png",
       "category": "統計・市場動向",
-      "topic_group": "7ac8209cd8"
+      "topic_group": "d328817542"
     },
     {
       "source": "訪日ラボ",
@@ -666,26 +686,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14601/main_1287976fae4a0d549ed7d08a97a3bfda.png",
       "category": "統計・市場動向",
       "topic_group": "ac247f5c73"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "上半期の訪日ロシア人数は10.4万人、4-6月期消費額は前年比1.6倍：ロシア市場の最新インバウンドデータを徹底解説【2026年上半期】",
-      "summary": "日本 政府観光局 （ JNTO ）が発表した訪日外客統計によると、2026年6月の訪日 ロシア 人数は1万2,800人でした。 また、 観光庁 が発表した インバウンド消費動向調査 によると、2026年4-6月期の訪日 ロシア 人旅行消費額は275億円となっています。 本記事では、上半期の ロシア …",
-      "url": "https://honichi.com/news/2026/09/16/russia202607/?utm_source=rss",
-      "published": "2026-09-16T00:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14600/main_0eccd5d32bbd0006fdc9d110eca00fb5.png",
-      "category": "統計・市場動向",
-      "topic_group": "ac247f5c73"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "ジェットスター・ジャパン、那覇～高雄線を12月6日に開設 同社初の那覇発着で週3往復運航",
-      "summary": "ジェットスター・ジャパンは9月9日、 那覇 ～高雄線の新規開設を発表しました。12月6日から週3往復（計6便）で運航を始める予定です。 同路線は、ジェットスター・ジャパンにとって初の 那覇 空港発着の国際線となります。 関連記事： スターラックス航空、神戸・那覇〜高雄（台湾）線を新規就航 目次 日本…",
-      "url": "https://honichi.com/news/2026/09/16/jetstar-naha-takao/?utm_source=rss",
-      "published": "2026-09-15T23:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14691/main_jetstar-naha-takao_img.jpg",
-      "category": "航空・交通",
-      "topic_group": "ad62711778"
     }
   ]
 }
