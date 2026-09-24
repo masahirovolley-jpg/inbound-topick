@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T23:43:01.124657+00:00",
+  "updated_at": "2026-09-24T23:53:07.151974+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -33,7 +33,7 @@
       "summary": "",
       "url": "https://www.jnto.go.jp/news/expo-seminar/_btoc_japan_travel_fair1020_1.html",
       "published": "2026-09-18T04:30:00+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "229636361f"
     },
@@ -43,7 +43,7 @@
       "summary": "",
       "url": "https://www.jnto.go.jp/news/expo-seminar/_102.html",
       "published": "2026-09-18T04:30:00+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "aebaaf763f"
     },
@@ -53,7 +53,7 @@
       "summary": "",
       "url": "https://www.jnto.go.jp/news/expo-seminar/109_1_102_1.html",
       "published": "2026-09-18T04:30:00+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "3eac2e931f"
     },
@@ -63,7 +63,7 @@
       "summary": "",
       "url": "https://www.jnto.go.jp/news/expo-seminar/1021jnto_10201700.html",
       "published": "2026-09-18T04:30:00+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "地域・DMO",
       "topic_group": "402f11d17c"
     },
@@ -349,11 +349,71 @@
     },
     {
       "source": "Travel Voice",
+      "title": "ツーリズムEXPO2026開幕、基調講演から観光大臣会合、商談会まで、初日の会場を取材した",
+      "summary": "EXPOジャパン2026が東京ビッグサイトで開幕した。初日に開催された基調講演や観光大臣会合など、1日の様子を取材した。",
+      "url": "https://www.travelvoice.jp/20260924-160566",
+      "published": "2026-09-24T21:31:34+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/c9080622-9bb3-4e42-809a-2dc0b0923141.jpeg",
+      "category": "業界ニュース",
+      "topic_group": "e2b5407747"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "ツーリズムEXPO、「国際競争力あるイベント」へ、世界旅行ツーリズム協議会・日本旅行業協会と連携",
+      "summary": "世界旅行ツーリズム協議会、日本旅行業協会、ツーリズムEXPOが観光協力に関する覚書を締結。イベントでの協力に加え、デジタル変革、人材育成、観光動向の情報・知見共有などで連携を深める。",
+      "url": "https://www.travelvoice.jp/20260924-160558",
+      "published": "2026-09-24T21:31:14+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/9eaeb2be-a699-44ec-91d9-107751ccaf90.jpeg",
+      "category": "AI・デジタル",
+      "topic_group": "932d8623f7"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "ジャパン・ツーリズム・アワード2026表彰式、新設の内閣総理大臣賞など「観光の地位向上」示す表彰に",
+      "summary": "第10回ジャパン・ツーリズム・アワード表彰式が開催された。新設の内閣総理大臣賞はnarrative。国土交通大臣賞、経済産業大臣賞、観光庁長官賞の評価ポイントと受賞者コメント、本保芳明審査委員長の講評を紹介する。",
+      "url": "https://www.travelvoice.jp/20260924-160557",
+      "published": "2026-09-24T13:35:06+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/d31025ba-56be-4bf9-9e60-e15c1bf2f9ee.jpeg",
+      "category": "航空・交通",
+      "topic_group": "3084a820f7"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "ニュージーランド政府観光局、「食 × ウェルネス」で新キャンペーン、倉科カナさんを起用、JTB・HISと連携、南島直行便再開も追い風",
+      "summary": "ニュージーランド政府観光局が新キャンペーン「私を満たす、ニュージーランド旅」を開始。倉科カナさんを起用し、美食とウェルネスを軸に訴求。JTB、HIS、ニュージーランド航空と連携。",
+      "url": "https://www.travelvoice.jp/20260914-160489",
+      "published": "2026-09-24T15:39:46+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/30233f2d-df76-4a58-8bb2-f2769ca000b1.jpeg",
+      "category": "政策・制度",
+      "topic_group": "160b0ee5f4"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "JAL、アマデウス経由でNDC航空券を販売開始へ、世界26カ国・地域で展開",
+      "summary": "JALは、アマデウスの「Amadeus Travel Platform」を通じたNDC（次世代流通規格）コンテンツのグローバル展開を2026年10月から開始。",
+      "url": "https://www.travelvoice.jp/20260924-160563",
+      "published": "2026-09-24T15:39:25+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/7c722419-3b9b-4e63-83d6-1518c9367223.jpg",
+      "category": "航空・交通",
+      "topic_group": "65ec8abdd1"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "SQUEEZE、ヒューリックと資本業務提携、不動産活用でホテル事業を共同展開、第1弾は銀座",
+      "summary": "SQUEEZE（スクイーズ）は、ヒューリックと資本業務提携契約。協業の第1弾として、銀座のオフィスビルを41室のアパートメントホテルへ再生するプロジェクトを進める。",
+      "url": "https://www.travelvoice.jp/20260924-160551",
+      "published": "2026-09-24T15:49:05+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/00e52675-8f92-45ca-a45d-2c173e144d1b.jpg",
+      "category": "宿泊・施設",
+      "topic_group": "9b6c6900d0"
+    },
+    {
+      "source": "Travel Voice",
       "title": "ドラゴンボールZと知的財産（IP）騒動とは？ コンテンツが旅行する理由になる時代【コラム】",
       "summary": "日本観光振興協会理事長の最明仁氏によるコラム。今回は、日本の創造力・ものづくりを、観光の力にどう取り込むかを考察。",
       "url": "https://www.travelvoice.jp/20260918-160525",
       "published": "2026-09-21T17:48:13+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/80213aa7-4257-47d8-b20b-56e71fd7c0b7.jpg",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "9e71224561"
     },
@@ -373,7 +433,7 @@
       "summary": "OAGは、2026年世界のハブ空港ランキングを発表。トップはロンドン・ヒースロー空港を抜いてイスタンブール国際空港に。羽田は8位。",
       "url": "https://www.travelvoice.jp/20260918-160539",
       "published": "2026-09-23T00:00:34+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2025/10/b4d3e9a3-de2e-415e-93be-ad05616fe5e8.jpg",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "70c0bcb3ff"
     },
@@ -388,64 +448,14 @@
       "topic_group": "23c140c0c5"
     },
     {
-      "source": "Travel Voice",
-      "title": "宮城・南三陸町観光協会ら、里海・里山を体験するイベント開催、イヌワシの野生復帰から語り部バスまで",
-      "summary": "宮城県南三陸町観光協会などが2026年10月31日から「里海里山WEEKs2026」開催。イヌワシ野生復帰プロジェクト報告や、海藻の陸上養殖、海中熟成ワイン体験などで南三陸の自然と産業を体感。",
-      "url": "https://www.travelvoice.jp/20260918-160497",
-      "published": "2026-09-18T01:45:07+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "9e422f1d6c"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "国宝・久能山東照宮を夜間ライトアップ、特別拝観で歴史的建造物と現代アートが融合",
-      "summary": "静岡県静岡市の久能山東照宮で、2026年9～11月の週末や休日に夜間特別拝観「光彩−IRODORI−」開催。折り紙をテーマにしたライトアップや、平和の象徴・バクの投影で歴史的建造物を彩る。",
-      "url": "https://www.travelvoice.jp/20260918-160504",
-      "published": "2026-09-18T01:40:06+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "4eb398d40f"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "トリプラ、宿泊施設向けAIチャットボットで生成AI対応、FAQから自然な回答、100言語超で提供",
-      "summary": "tripla（トリプラ）は、AIチャットボット「tripla Bot」をアップグレード。大規模言語モデル（LLM）を活用した対話型AIへ移行し、自然で安全な言語対応を実現した。",
-      "url": "https://www.travelvoice.jp/20260918-160541",
-      "published": "2026-09-18T03:01:37+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/9c01731b-a2a1-477a-879c-bc156ec3a08e.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "c9422d3442"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "Klook、鹿児島県と連携でインバウンド誘客、福岡から新幹線片道運賃を最大1万1420円助成、周遊パスも展開へ",
-      "summary": "Klookは鹿児島県と連携し、2026年9月より訪日客向けの新幹線料金助成キャンペーンを開始する。福岡から鹿児島への送客を促すため、宿泊予約者に対し博多・鹿児島間の新幹線片道相当額を支援し、地方誘客を図る。",
-      "url": "https://www.travelvoice.jp/20260918-160546",
-      "published": "2026-09-18T03:17:38+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/4a772bf9-fa6d-4d63-87dd-0d6b342ef2e1.png",
-      "category": "統計・市場動向",
-      "topic_group": "cfbe6f907d"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "エクスペディアが日本市場で目指す次の成長とは？ 20年の軌跡と次の変革を日本トップに聞いた",
-      "summary": "2026年に日本市場への参入から20周年を迎えるエクスペディア。この期間、グローバルOTAとして日本で注力てきたこと、今後の展望とは？ 日本統括ディレクターの木村奈津子氏に聞いた。",
-      "url": "https://www.travelvoice.jp/20260917-160336",
-      "published": "2026-09-17T22:05:24+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "37e61f36ef"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "中国人の海外旅行、2025年は16％増の1.68億回、ラグジュアリーや文化・学びの旅に注目、AI活用も加速 ―ITB China",
-      "summary": "ITB Chinaは、「ITB China Travel Trends Report 2026/27」レポートの中で中国旅行市場について最新動向を分析。中国人旅行者は品質、本物の体験、パーソナライズされたサービスをさらに重視。",
-      "url": "https://www.travelvoice.jp/20260917-160530",
-      "published": "2026-09-17T12:56:57+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "f40e4beeba"
+      "source": "やまとごころ.jp",
+      "title": "【９月特集／OT対策vol.2】なぜ、その取り組みに至ったのか〜世界遺産・白川郷のオーバーツーリズム対策、分析と実行〜",
+      "summary": "訪日客が急増した昨今になって浮上したかに見えるオーバーツーリズム問題だが、有名観光地への観光客の集中によって生じる問題は、これまでも各地で発生してきた。世界遺産・白川郷周辺の渋滞や混雑に長きにわたって向き合ってきた岐阜県…",
+      "url": "https://yamatogokoro.jp/report/61280/",
+      "published": "2026-09-24T23:00:10+00:00",
+      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/09/d6b928fec1a169fb3c778d913ab9a37a.jpg",
+      "category": "地域・DMO",
+      "topic_group": "2d1fec5409"
     },
     {
       "source": "やまとごころ.jp",
@@ -453,7 +463,7 @@
       "summary": "東京には数多くのライブハウスがあり、インディーズのアーティストが日々ステージに立っています。しかし訪日旅行者だけで、ライブハウスを訪れるのは意外と簡単ではありません。 チケットはどう買うのか。写真や動画は撮っていいのか。…",
       "url": "https://yamatogokoro.jp/column/experience-report/61253/",
       "published": "2026-09-23T23:00:49+00:00",
-      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/09/j-rocktours01.jpg",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "c3b7f3cfc2"
     },
@@ -465,7 +475,7 @@
       "published": "2026-09-17T23:00:11+00:00",
       "image_url": null,
       "category": "政策・制度",
-      "topic_group": "b16b5860ea"
+      "topic_group": "2d1fec5409"
     },
     {
       "source": "やまとごころ.jp",
@@ -558,24 +568,64 @@
       "topic_group": "5506eeb55d"
     },
     {
-      "source": "やまとごころ.jp",
-      "title": "世界のデジタルノマドが日本を選ぶ理由、離れる理由",
-      "summary": "世界のデジタルノマドと話していると、「日本はずっと行ってみたかった場所」という声をよく耳にします。一方で、実際に訪れた人の多くは、「また来たい」とは言っても「ここに住みたい」とは言いません。世界各地で暮らし、福岡で55カ…",
-      "url": "https://yamatogokoro.jp/column/tabinaka-experience/60994/",
-      "published": "2026-09-02T23:00:19+00:00",
-      "image_url": null,
-      "category": "AI・デジタル",
-      "topic_group": "5474b890a1"
+      "source": "時事ドットコム",
+      "title": "全日空機から緊急脱出、３人軽傷 エンジン不具合で引き返し―那覇空港",
+      "summary": "",
+      "url": "https://www.jiji.com/jc/article?k=2026092400289&g=eco",
+      "published": "2026-09-24T12:10:00+09:00",
+      "image_url": "https://www.jiji.com/news2/kiji_photos/202609/20260924ds54_o.jpg",
+      "category": "航空・交通",
+      "topic_group": "0a3c7925f7"
     },
     {
-      "source": "時事ドットコム",
-      "title": "スーツケースで野菜栽培 置き忘れ、プランターに活用―東京のホテル屋上",
-      "summary": "",
-      "url": "https://www.jiji.com/jc/article?k=2026092300479&g=soc&m=rss",
-      "published": "2026-09-23T22:06:00+00:00",
-      "image_url": "https://www.jiji.com/news2/kiji_photos/202609/20260923at23S_o.jpg",
-      "category": "宿泊・施設",
-      "topic_group": "9109e856f2"
+      "source": "訪日ラボ",
+      "title": "【9月4週 人気記事】アジア競技大会について愛知県観光コンベンション局にインタビューほか｜インバウンドニュース週間アクセスTOP5",
+      "summary": "この1週間でアクセス数が多かった、 インバウンドニュース の ランキング を発表します！ 見逃している記事があれば、この機会にぜひご覧ください。 目次 週間アクセスランキング トップ5 1位. 8月の訪日外客数は310万人 イタリア、スペインで過去最高 2位. 2025年の国際観光客数は15億人超え…",
+      "url": "https://honichi.com/news/2026/09/25/accessranking_20260925/?utm_source=rss",
+      "published": "2026-09-24T23:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14715/main_3ebd372841d6cff63a766d8d020e8a4f.png",
+      "category": "統計・市場動向",
+      "topic_group": "f29709862e"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "Meta、新AIエージェント「Muse」を発表 複雑な旅行計画やフライト比較、予約作業にも自律対応",
+      "summary": "Facebook や Instagram などを運営するMetaは 米国 時間の9月8日、パーソナル AI エージェント「Muse」を発表しました。 Museは、単一の指示に対する回答を提示するだけでなく、複数の工程を要する目標に向けて必要な提案や行動を自律的に行う AI です。 日本での提供は未定…",
+      "url": "https://honichi.com/news/2026/09/25/meta-muse-release/?utm_source=rss",
+      "published": "2026-09-24T22:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14706/main_20260919-02.jpg",
+      "category": "AI・デジタル",
+      "topic_group": "f00fb7a171"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "情報の古さ・不足で、店を候補から外したことのある人は7割以上！訪日ラボ、飲食店検索とAI活用に関するレポートを公開",
+      "summary": "訪日ラボでは、消費者アンケートを実施し、業界ごとに 独自調査 レポートを発表しています。今回は、「 飲食店 選び」をテーマに「 AI ツール」を利用しない人が、どの媒体で検索し、何を重視しているのかを調査。 飲食店 選びに利用する情報媒体や、 AI ツールに対する認識、情報整備の重要性についても詳し…",
+      "url": "https://honichi.com/news/2026/09/24/202609_survey_gourmet_search/?utm_source=rss",
+      "published": "2026-09-24T02:18:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14695/main_1000_650.png",
+      "category": "統計・市場動向",
+      "topic_group": "484061505e"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "観光・宿泊・飲食向け展示会「ホスピタリティテックEXPO」12月に開催 訪日ラボ読者特典あり（PR）",
+      "summary": "展示会・セミナーなどを主催するR X Japan合同会社は12月2日～4日、有明GYM-E X （ジメックス）にて「第1回 ホスピタリティテックE X PO」を開催します。 本イベントには、 人手不足 ・業務効率化・顧客 体験 の向上など、ホスピタリティ産業 （観光・宿泊・飲食）が直面する課題を解決…",
+      "url": "https://honichi.com/news/2026/09/24/hospitality_tech_expo_1/?utm_source=rss",
+      "published": "2026-09-24T02:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14680/main_e472a39f2ea8ff9eaa719eff1be808ab.png",
+      "category": "統計・市場動向",
+      "topic_group": "46c4d47ae1"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "鹿児島県、福岡空港経由の訪日客に向け九州新幹線の片道相当額を補助 県内宿泊が条件",
+      "summary": "鹿児島県 は9月18日、 九州 新幹線の全線運転再開に合わせ、「 インバウンド 誘客促進特別事業」を開始すると発表しました。 同事業は、 福岡空港 経由で旅行する対象市場の 訪日客 が 鹿児島県 内の 宿泊施設 を1泊以上予約した際に、 博多 ～鹿児島中央間の新幹線片道相当額を提供するものです。 予…",
+      "url": "https://honichi.com/news/2026/09/24/kagoshima_inbound_shinkansen/?utm_source=rss",
+      "published": "2026-09-24T00:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14703/main_kagoshima_inbound_shinkansen_img.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "78c7bb99ec"
     },
     {
       "source": "訪日ラボ",
@@ -636,56 +686,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14681/main_5e182e0691ff5015bd0270cc4b7df5a5.jpg",
       "category": "地域・DMO",
       "topic_group": "13c4a38782"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "訪日ラボ運営のmov、AI時代におけるお店選びの新たなユーザージャーニー「AICRAS（アイクラズ）」を提唱",
-      "summary": "業界最大級の インバウンド ビジネス メディア 「訪日ラボ」および店舗向け集客一元化 プラットフォーム 「 口コミコム 」およびを運営する株式会社movは、 AI 時代におけるお店選びのユーザージャーニー「 AI CRAS（読み：アイクラズ）※商標登録出願中」を提唱します。 目次 AI対策の主語は「…",
-      "url": "https://honichi.com/news/2026/09/17/aicras/?utm_source=rss",
-      "published": "2026-09-17T03:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14694/main_e1bdc65dcc177fee13e2bbc5e2b52d46.jpg",
-      "category": "AI・デジタル",
-      "topic_group": "02aa18d2e2"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "【2026年最新】和歌山で外国人に人気のホテル・旅館TOP10！ホテル浦島 本館は第2位、1位は？",
-      "summary": "訪日ラボが最新の 口コミ データを元に 独自調査 ・発表している『 インバウンド 人気 ホテル ・ 旅館 ランキング 』。全国の 宿泊施設 に寄せられた 口コミ をもとに、 訪日客 の注目施設や人気の理由を分析しています。 本記事ではその中から、 【2026年最新版】外国人に人気の ホテル ・ 旅館…",
-      "url": "https://honichi.com/news/2026/09/17/202609_inboundranking_hotel_wakayama/?utm_source=rss",
-      "published": "2026-09-17T00:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14651/main_Wakayama_slide_01.png",
-      "category": "統計・市場動向",
-      "topic_group": "6a1f90adc7"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "【速報】8月の訪日外客数は310万人 イタリア、スペインで過去最高",
-      "summary": "日本 政府観光局 （ JNTO ）は9月16日、2026年8月の 訪日外客数 推計値を発表しました。 8月の 訪日外客数 は309万8,900人で、前年同月比9.6%減となりました。 また、全23市場のうち イタリア 、 スペイン で単月過去最高を更新したほか、12市場で8月の過去最高を記録しました…",
-      "url": "https://honichi.com/news/2026/09/16/inbound202608/?utm_source=rss",
-      "published": "2026-09-16T07:52:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14693/main_db4d0d6b241fed25c45d61451c309650.png",
-      "category": "統計・市場動向",
-      "topic_group": "d328817542"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "【2026年最新】山口で外国人に人気のホテル・旅館TOP10！ドーミーインPREMIUM下関は第2位、1位は？",
-      "summary": "訪日ラボが最新の 口コミ データを元に 独自調査 ・発表している『 インバウンド 人気 ホテル ・ 旅館 ランキング 』。全国の 宿泊施設 に寄せられた 口コミ をもとに、 訪日客 の注目施設や人気の理由を分析しています。 本記事ではその中から、 【2026年最新版】外国人に人気の ホテル ・ 旅館…",
-      "url": "https://honichi.com/news/2026/09/16/202609_inboundranking_hotel_yamaguchi/?utm_source=rss",
-      "published": "2026-09-16T07:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14687/main_Yamaguchi_slide_01.png",
-      "category": "統計・市場動向",
-      "topic_group": "6a1f90adc7"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "上半期の中東からの訪日客数、情勢変化の影響受けるも前年を上回る 4-6月期消費単価は48万超え：中東市場の最新インバウンドデータを徹底解説【2026年上半期】",
-      "summary": "日本 政府観光局 （ JNTO ）が発表した訪日外客統計によると、2026年6月の 中東 地域からの 訪日客 数は2万2,600人でした。 また、 観光庁 が発表した インバウンド消費動向調査 によると、2026年4-6月期の 中東 地域からの 訪日客 の旅行消費額は404億円となっています。 本記…",
-      "url": "https://honichi.com/news/2026/09/16/middleeast202607/?utm_source=rss",
-      "published": "2026-09-16T02:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14601/main_1287976fae4a0d549ed7d08a97a3bfda.png",
-      "category": "統計・市場動向",
-      "topic_group": "ac247f5c73"
     }
   ]
 }
