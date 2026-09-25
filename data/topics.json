@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T23:53:07.151974+00:00",
+  "updated_at": "2026-09-25T23:57:26.091629+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -39,13 +39,13 @@
     },
     {
       "source": "JNTO",
-      "title": "スイス・ベルギー旅行会社とのネットワーキングイベント （宮城県 仙台市）の参加団体募集（締切：10/2）",
+      "title": "【募集終了】スイス・ベルギー旅行会社とのネットワーキングイベント （宮城県 仙台市）の参加団体募集（締切：10/2）",
       "summary": "",
       "url": "https://www.jnto.go.jp/news/expo-seminar/_102.html",
       "published": "2026-09-18T04:30:00+00:00",
       "image_url": null,
       "category": "業界ニュース",
-      "topic_group": "aebaaf763f"
+      "topic_group": "d2d2dc86cb"
     },
     {
       "source": "JNTO",
@@ -115,7 +115,7 @@
       "published": "2026-09-11T04:30:00+00:00",
       "image_url": null,
       "category": "業界ニュース",
-      "topic_group": "aebaaf763f"
+      "topic_group": "d2d2dc86cb"
     },
     {
       "source": "JNTO",
@@ -176,6 +176,36 @@
       "image_url": null,
       "category": "業界ニュース",
       "topic_group": "55f084fd5e"
+    },
+    {
+      "source": "観光庁",
+      "title": "第53回特定複合観光施設区域整備計画審査委員会の開催 ～「大阪・夢洲地区特定複合観光施設区域の整備に関する計画」実施状況の評価～",
+      "summary": "",
+      "url": "https://www.mlit.go.jp/kankocho/news11_00016.html",
+      "published": "2026-09-25",
+      "image_url": null,
+      "category": "業界ニュース",
+      "topic_group": "e1a64f6d30"
+    },
+    {
+      "source": "観光庁",
+      "title": "都道府県別消費税免税店数（2026年3月31日現在）",
+      "summary": "",
+      "url": "https://www.mlit.go.jp/kankocho/topics02_00030.html",
+      "published": "2026-09-25",
+      "image_url": null,
+      "category": "政策・制度",
+      "topic_group": "62dc26e8be"
+    },
+    {
+      "source": "観光庁",
+      "title": "主要旅行業者の旅行取扱状況速報（2026年（令和8年）7月分）",
+      "summary": "",
+      "url": "https://www.mlit.go.jp/kankocho/news13_00007.html",
+      "published": "2026-09-25",
+      "image_url": null,
+      "category": "業界ニュース",
+      "topic_group": "ce8a111d53"
     },
     {
       "source": "観光庁",
@@ -259,26 +289,6 @@
     },
     {
       "source": "観光庁",
-      "title": "観光地域づくり法人（DMO）の登録一覧を更新しました（令和８年９月１日現在）",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/topics04_00097.html",
-      "published": "2026-09-08",
-      "image_url": null,
-      "category": "政策・制度",
-      "topic_group": "ec53585d85"
-    },
-    {
-      "source": "観光庁",
-      "title": "令和８年度「能登半島地震からの復興に向けた観光再生支援事業」の２次公募を開始します 観光施設 自治体・DMO 旅行業 宿泊業 交通 その他観光関係者",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/kobo06_00088.html",
-      "published": "2026-09-08",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "ee8b37e74e"
-    },
-    {
-      "source": "観光庁",
       "title": "宿泊旅行統計調査（2026年7月・第1次速報、2026年6月・第2次速報）",
       "summary": "",
       "url": "https://www.mlit.go.jp/kankocho/news02_00098.html",
@@ -305,7 +315,7 @@
       "published": "2026-08-28",
       "image_url": null,
       "category": "業界ニュース",
-      "topic_group": "71a3a3c4ec"
+      "topic_group": "ce8a111d53"
     },
     {
       "source": "観光庁",
@@ -328,124 +338,104 @@
       "topic_group": "195656b843"
     },
     {
-      "source": "観光庁",
-      "title": "文化観光推進法に基づく拠点計画及び地域計画の新規認定",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/news05_00023.html",
-      "published": "2026-08-07",
-      "image_url": null,
-      "category": "政策・制度",
-      "topic_group": "5e2f9d21d8"
+      "source": "Travel Voice",
+      "title": "若者が海外旅行に向かうために必要なことは？ 安さだけでは動かない若者の「旅の設計」と「動機付け」のヒント【コラム】",
+      "summary": "国学院大学・観光まちづくり学部教授によるコラム。今回は、若者の海外旅行に促す「未知の旅」の設計術について。「費用以外の動機付け」で若者の好奇心と主体性を育むアプローチを解説。",
+      "url": "https://www.travelvoice.jp/20260925-160554",
+      "published": "2026-09-25T12:09:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/30bb5303-58d1-467a-a5f1-bd7c48692449.jpg",
+      "category": "地域・DMO",
+      "topic_group": "12cd562dc8"
     },
     {
-      "source": "観光庁",
-      "title": "宿泊旅行統計調査（2026年（令和8年）5月・第2次速報、2026年（令和8年）6月・第1次速報）",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/news02_00095.html",
-      "published": "2026-07-31",
-      "image_url": null,
+      "source": "Travel Voice",
+      "title": "LGBTQ＋の旅行者がホテル選びで重視するポイント、ホスピタリティのあり方など、ブッキング・ドットコム本社で取材した",
+      "summary": "LGBTQ＋の旅行についての議論をアムステルダムのブッキング・ドットコム本社で現地取材。選ばれるためのホテルの取組みからホスピタリティのあり方まで。",
+      "url": "https://www.travelvoice.jp/20260925-160379",
+      "published": "2026-09-25T20:53:24+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/08/ee151b30-144e-46b6-a9d6-d315deb5742a.jpg",
+      "category": "宿泊・施設",
+      "topic_group": "2314e91fbc"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "格付け会社の航空会社ランキング2026、総合トップはシンガポール航空、ANAは4位、JALは9位",
+      "summary": "スカイトラックス（SKYTRAX）の2026年「ワールド・ベスト・エアライン」はシンガポール航空。ANAが4位、JALが9位に入った。",
+      "url": "https://www.travelvoice.jp/20260925-160564",
+      "published": "2026-09-25T01:58:06+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/2bea7718-c80b-4075-9603-66f537923ccb.jpg",
       "category": "統計・市場動向",
-      "topic_group": "bf0729323f"
+      "topic_group": "8e78ea779e"
     },
     {
       "source": "Travel Voice",
-      "title": "ツーリズムEXPO2026開幕、基調講演から観光大臣会合、商談会まで、初日の会場を取材した",
-      "summary": "EXPOジャパン2026が東京ビッグサイトで開幕した。初日に開催された基調講演や観光大臣会合など、1日の様子を取材した。",
-      "url": "https://www.travelvoice.jp/20260924-160566",
-      "published": "2026-09-24T21:31:34+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/c9080622-9bb3-4e42-809a-2dc0b0923141.jpeg",
-      "category": "業界ニュース",
-      "topic_group": "e2b5407747"
+      "title": "ミシュランのホテル格付け2026、日本から145軒が獲得、新たに19軒を選出、最上位は7軒を維持",
+      "summary": "「ミシュランキーホテルセレクション2026」が発表。日本では新たに19軒が加わり145軒がミシュランキーを獲得。2ミシュランキーは23軒に拡大。",
+      "url": "https://www.travelvoice.jp/20260925-160560",
+      "published": "2026-09-25T01:55:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/47e45d9a-28cf-4498-b64d-eda5442a1ba0.jpeg",
+      "category": "宿泊・施設",
+      "topic_group": "b23341e5f0"
     },
     {
       "source": "Travel Voice",
-      "title": "ツーリズムEXPO、「国際競争力あるイベント」へ、世界旅行ツーリズム協議会・日本旅行業協会と連携",
-      "summary": "世界旅行ツーリズム協議会、日本旅行業協会、ツーリズムEXPOが観光協力に関する覚書を締結。イベントでの協力に加え、デジタル変革、人材育成、観光動向の情報・知見共有などで連携を深める。",
-      "url": "https://www.travelvoice.jp/20260924-160558",
-      "published": "2026-09-24T21:31:14+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/9eaeb2be-a699-44ec-91d9-107751ccaf90.jpeg",
-      "category": "AI・デジタル",
-      "topic_group": "932d8623f7"
+      "title": "米・ニューヨークで日本の観光・食を発信、観光庁ら官民連携で訪日プロモーション、GREEN×EXPO 2027もPR",
+      "summary": "観光庁ら官民が連携し、米国・ニューヨーク市で日本の観光と食の魅力を伝えるイベント開催。訪日観光と消費額の拡大目指す。2027年に開かれる国際園芸博覧会もPR。",
+      "url": "https://www.travelvoice.jp/20260925-160533",
+      "published": "2026-09-25T09:02:34+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2024/02/95818f9e-5695-4543-8689-655d17a0ba7c.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "c3cf8bb77b"
     },
     {
       "source": "Travel Voice",
-      "title": "ジャパン・ツーリズム・アワード2026表彰式、新設の内閣総理大臣賞など「観光の地位向上」示す表彰に",
-      "summary": "第10回ジャパン・ツーリズム・アワード表彰式が開催された。新設の内閣総理大臣賞はnarrative。国土交通大臣賞、経済産業大臣賞、観光庁長官賞の評価ポイントと受賞者コメント、本保芳明審査委員長の講評を紹介する。",
-      "url": "https://www.travelvoice.jp/20260924-160557",
-      "published": "2026-09-24T13:35:06+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/d31025ba-56be-4bf9-9e60-e15c1bf2f9ee.jpeg",
-      "category": "航空・交通",
-      "topic_group": "3084a820f7"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "ニュージーランド政府観光局、「食 × ウェルネス」で新キャンペーン、倉科カナさんを起用、JTB・HISと連携、南島直行便再開も追い風",
-      "summary": "ニュージーランド政府観光局が新キャンペーン「私を満たす、ニュージーランド旅」を開始。倉科カナさんを起用し、美食とウェルネスを軸に訴求。JTB、HIS、ニュージーランド航空と連携。",
-      "url": "https://www.travelvoice.jp/20260914-160489",
-      "published": "2026-09-24T15:39:46+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/30233f2d-df76-4a58-8bb2-f2769ca000b1.jpeg",
+      "title": "JTBとマレーシア政府観光局が送客拡大で協力覚書、新エリア開拓や「地方to地方」チャーターなどで送客20％増へ",
+      "summary": "JTBとマレーシア政府観光局が協力覚書を締結。戦略的パートナーシップ構築し、送客実績を前年同期比20％増へ。",
+      "url": "https://www.travelvoice.jp/20260925-160559",
+      "published": "2026-09-25T01:50:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/585610e3-0ced-408c-a9c8-56c650169edd.JPG",
       "category": "政策・制度",
-      "topic_group": "160b0ee5f4"
+      "topic_group": "19ddf9673e"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "フィンエアー、2027年夏期に成田線を増便、最大週14便、羽田を含めた東京線は過去最多",
+      "summary": "フィンエアーは、2027年夏期スケジュールで成田/ヘルシンキ線について、2027年5月12日からは週7便から週10便に、さらに5月17日～8月14日までの期間は週14便に増便する。",
+      "url": "https://www.travelvoice.jp/20260925-160571",
+      "published": "2026-09-25T13:32:39+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/9364b34e-3a4f-486d-a797-59a0729010e0.jpg",
+      "category": "業界ニュース",
+      "topic_group": "fa154c95f5"
     },
     {
       "source": "Travel Voice",
       "title": "JAL、アマデウス経由でNDC航空券を販売開始へ、世界26カ国・地域で展開",
       "summary": "JALは、アマデウスの「Amadeus Travel Platform」を通じたNDC（次世代流通規格）コンテンツのグローバル展開を2026年10月から開始。",
       "url": "https://www.travelvoice.jp/20260924-160563",
-      "published": "2026-09-24T15:39:25+00:00",
+      "published": "2026-09-25T13:33:23+00:00",
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/7c722419-3b9b-4e63-83d6-1518c9367223.jpg",
       "category": "航空・交通",
       "topic_group": "65ec8abdd1"
     },
     {
       "source": "Travel Voice",
-      "title": "SQUEEZE、ヒューリックと資本業務提携、不動産活用でホテル事業を共同展開、第1弾は銀座",
-      "summary": "SQUEEZE（スクイーズ）は、ヒューリックと資本業務提携契約。協業の第1弾として、銀座のオフィスビルを41室のアパートメントホテルへ再生するプロジェクトを進める。",
-      "url": "https://www.travelvoice.jp/20260924-160551",
-      "published": "2026-09-24T15:49:05+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/00e52675-8f92-45ca-a45d-2c173e144d1b.jpg",
-      "category": "宿泊・施設",
-      "topic_group": "9b6c6900d0"
+      "title": "豪・シドニー西部、新空港の開港でMICE誘致を強化、会議助成金や大型コンベンション拠点を活用",
+      "summary": "オーストラリアのウェスタン・シドニー国際空港が2026年10月25日に開港。ウェスタン・シドニーへの観光客やMICEの誘致を強化。",
+      "url": "https://www.travelvoice.jp/20260915-160502",
+      "published": "2026-09-25T13:35:55+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/8d71c72d-206f-424d-9bf3-1b535f072247.jpeg",
+      "category": "航空・交通",
+      "topic_group": "b17d0fa45f"
     },
     {
       "source": "Travel Voice",
-      "title": "ドラゴンボールZと知的財産（IP）騒動とは？ コンテンツが旅行する理由になる時代【コラム】",
-      "summary": "日本観光振興協会理事長の最明仁氏によるコラム。今回は、日本の創造力・ものづくりを、観光の力にどう取り込むかを考察。",
-      "url": "https://www.travelvoice.jp/20260918-160525",
-      "published": "2026-09-21T17:48:13+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "9e71224561"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "世界の国際観光客到着数、2026年上半期は6.9億人で0.4％増、中東22％減、西欧は猛暑影響、通年予測を下方修正 ―UNツーリズム",
-      "summary": "UN Tourismは、2026年上半期の国際観光客数が前年同期比0.4%増の6.9億人になったと発表。中東情勢やコスト上昇が影響し、成長は鈍化。通年の成長予測は1〜2%へ下方修正された。",
-      "url": "https://www.travelvoice.jp/20260918-160545",
-      "published": "2026-09-18T02:00:12+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "f0be8556a1"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "世界のハブ空港ランキング2026、トップはイスタンブール空港、ロンドン・ヒースローが2位に後退、羽田は8位 ―OAG",
-      "summary": "OAGは、2026年世界のハブ空港ランキングを発表。トップはロンドン・ヒースロー空港を抜いてイスタンブール国際空港に。羽田は8位。",
-      "url": "https://www.travelvoice.jp/20260918-160539",
-      "published": "2026-09-23T00:00:34+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "70c0bcb3ff"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "米大手航空3社、燃料価格高騰で運航計画を縮小、不採算路線を整理へ、一方で短期需要は堅調",
-      "summary": "ロイター通信によると、米航空大手のアメリカン航空、ユナイテッド航空、サウスウエスト航空は、燃料価格の急騰によるコスト増を受け、運航計画の縮小や見直しを進める。一方、短期的な旅行需要は堅調に推移している。",
-      "url": "https://www.travelvoice.jp/20260918-160543",
-      "published": "2026-09-18T01:55:07+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "23c140c0c5"
+      "title": "ニュージーランド政府観光局、「食 × ウェルネス」で新キャンペーン、倉科カナさんを起用、JTB・HISと連携、南島直行便再開も追い風",
+      "summary": "ニュージーランド政府観光局が新キャンペーン「私を満たす、ニュージーランド旅」を開始。倉科カナさんを起用し、美食とウェルネスを軸に訴求。JTB、HIS、ニュージーランド航空と連携。",
+      "url": "https://www.travelvoice.jp/20260914-160489",
+      "published": "2026-09-25T13:25:06+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/30233f2d-df76-4a58-8bb2-f2769ca000b1.jpeg",
+      "category": "政策・制度",
+      "topic_group": "160b0ee5f4"
     },
     {
       "source": "やまとごころ.jp",
@@ -453,7 +443,7 @@
       "summary": "訪日客が急増した昨今になって浮上したかに見えるオーバーツーリズム問題だが、有名観光地への観光客の集中によって生じる問題は、これまでも各地で発生してきた。世界遺産・白川郷周辺の渋滞や混雑に長きにわたって向き合ってきた岐阜県…",
       "url": "https://yamatogokoro.jp/report/61280/",
       "published": "2026-09-24T23:00:10+00:00",
-      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/09/d6b928fec1a169fb3c778d913ab9a37a.jpg",
+      "image_url": null,
       "category": "地域・DMO",
       "topic_group": "2d1fec5409"
     },
@@ -568,14 +558,44 @@
       "topic_group": "5506eeb55d"
     },
     {
-      "source": "時事ドットコム",
-      "title": "全日空機から緊急脱出、３人軽傷 エンジン不具合で引き返し―那覇空港",
-      "summary": "",
-      "url": "https://www.jiji.com/jc/article?k=2026092400289&g=eco",
-      "published": "2026-09-24T12:10:00+09:00",
-      "image_url": "https://www.jiji.com/news2/kiji_photos/202609/20260924ds54_o.jpg",
-      "category": "航空・交通",
-      "topic_group": "0a3c7925f7"
+      "source": "訪日ラボ",
+      "title": "2026年の中秋節・国慶節、最大13連休がスタート 盛り上がる海外旅行需要、日本人気は？",
+      "summary": "中国 では、9月25日から「 中秋節 」、10月1日から「 国慶節 」の連休が始まります。 今年2026年は 中秋節 と 国慶節 の間が短いことで、休暇の取得によって最大13連休が可能になるなど、例年以上に長い連休が実現します。 本記事では、 中秋節 ・ 国慶節 の概要や今年の動向をまとめてご紹介し…",
+      "url": "https://honichi.com/news/2026/09/25/kokkeisetsu2026/?utm_source=rss",
+      "published": "2026-09-25T06:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14714/main_AdobeStock_72238717.jpeg",
+      "category": "統計・市場動向",
+      "topic_group": "1f2ce2fc4d"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "世界のメガハブ空港ランキング2026、羽田が8位にランクイン LCCでは福岡が8位で日本最高位に",
+      "summary": "世界の航空データを分析・提供する イギリス の企業OAGは9月16日、世界の主要 ハブ空港 を対象とした ランキング 「Megahubs 2026」を発表しました。 同 ランキング は、国際線の接続性が高い空港をランク付けしたもので、 羽田空港 は2025年の9位から8位へとランクアップしています。…",
+      "url": "https://honichi.com/news/2026/09/25/oag-megahubs2026/?utm_source=rss",
+      "published": "2026-09-25T02:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14707/main_20260919-03.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "fc4c7ba4e2"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "ドン・キホーテが2026年上半期のヒットコスメを発表 インバウンドに40万点以上売れた商品は？",
+      "summary": "ディスカウントストア「 ドン・キホーテ 」を運営する株式会社パン・パシフィック・インターナショナルホールディングス（以下、PPIH）は9月11日、「#ドンコスヒットアワード 2026AW」を発表しました。 同アワードは、全国500店舗以上の店舗を展開し、12万点以上のコスメを取り扱う ドン・キホーテ…",
+      "url": "https://honichi.com/news/2026/09/25/doncos-2026aw/?utm_source=rss",
+      "published": "2026-09-25T01:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14710/main_doncos-hit-2026aw_img.jpg",
+      "category": "業界ニュース",
+      "topic_group": "05dd4c346f"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "【2026年最新】名古屋で外国人に人気の焼肉店TOP10！飛騨牛焼肉・牛ざんまい納屋橋リバーサイド店は第2位、1位は？",
+      "summary": "訪日ラボが最新の 口コミ データを元に 独自調査 ・発表している『 インバウンド 人気 焼肉 店 ランキング 』。全国の 飲食店 に寄せられた 口コミ をもとに、 訪日客 の注目店舗や人気の理由を分析しています。 本記事ではその中から、 【2026年最新版】外国人に人気の 焼肉 店 ランキング ［名…",
+      "url": "https://honichi.com/news/2026/09/25/202609_inboundranking_gourmet_nagoya_yakiniku/?utm_source=rss",
+      "published": "2026-09-25T00:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14702/main_Nagoya_slide_01.png",
+      "category": "統計・市場動向",
+      "topic_group": "13b5ee4245"
     },
     {
       "source": "訪日ラボ",
@@ -646,46 +666,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14704/main_kix_kyoto_helishuttle_img.png",
       "category": "航空・交通",
       "topic_group": "969c5de536"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "2025年の国際観光客数は15億人超えで過去最高に 旅行者の支出総額がコロナ前を上回る（WTTC調査）",
-      "summary": "世界旅行ツーリズム協議会 （ WTTC ）は、2025年において旅行・観光業界が世界経済にどのような影響を与えたかを調査・分析した「経済影響調査：グローバルトレンドレポート」を発表しました。 2025年における旅行・観光業界の総 GDP は11兆6,000億米ドル（約1,810兆円）*で、世界経済の…",
-      "url": "https://honichi.com/news/2026/09/18/wttc-economic-impact-research-2026/?utm_source=rss",
-      "published": "2026-09-18T02:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14686/main_20260913-01.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "c95a505b3f"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "医療機関の54.6％で外国人患者の受け入れ実績あり 体制整備には課題も（厚生労働省）",
-      "summary": "厚生労働省は9月8日、2025年度版「医療機関における外国人患者の受入に係る実態調査」の結果を発表しました。 調査によると、外国人患者の受け入れ実績「あり」と回答したのは54.6％で、過半数を超える病院で外国人患者を受け入れていることがわかりました。一方で、 受け入れ体制 の整備が進んでいない病院が…",
-      "url": "https://honichi.com/news/2026/09/18/hospital-inbound/?utm_source=rss",
-      "published": "2026-09-18T00:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14690/main_20260915-01.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "a07f0c3ada"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "旅行者目線の都市の魅力度、大阪が世界3位に ほか：訪日ラボ週間アクセスランキング（9月10日～9月16日）",
-      "summary": "この1週間でアクセス数が多かった、 インバウンドニュース の ランキング を発表します！ 見逃している記事があれば、この機会にぜひご覧ください。 目次 週間アクセスランキング トップ5 1位.大阪が世界観光都市魅力度指数で3位に 京都・沖縄もトップ10入り 2位.熊野古道への主要アクセス路線・龍神バ…",
-      "url": "https://honichi.com/news/2026/09/18/accessranking_20260918/?utm_source=rss",
-      "published": "2026-09-17T23:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14696/main_f6ee63651ccdd065c9693760b7ce4dc3.png",
-      "category": "統計・市場動向",
-      "topic_group": "34ae62d8b8"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "東京オリンピック以来の大型スポーツイベント、アジア・アジアパラ競技大会 開催地・愛知のインバウンド戦略とは",
-      "summary": "9月19日から10月4日にかけて、 愛知県 ・ 名古屋市 を中心に「 アジア 競技大会」が開催されます（ アジア パラ競技大会は10月18日〜24日）。 2020年の 東京オリンピック 以来となる大型国際スポーツイベントであり、 アジア 45か国・地域から選手など関係者が1万5,000人以上参加しま…",
-      "url": "https://honichi.com/news/2026/09/18/asiangames2026-aichi/?utm_source=rss",
-      "published": "2026-09-17T22:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14681/main_5e182e0691ff5015bd0270cc4b7df5a5.jpg",
-      "category": "地域・DMO",
-      "topic_group": "13c4a38782"
     }
   ]
 }
