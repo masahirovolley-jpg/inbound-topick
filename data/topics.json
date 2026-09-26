@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T23:57:26.091629+00:00",
+  "updated_at": "2026-09-26T23:38:14.998939+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -342,7 +342,7 @@
       "title": "若者が海外旅行に向かうために必要なことは？ 安さだけでは動かない若者の「旅の設計」と「動機付け」のヒント【コラム】",
       "summary": "国学院大学・観光まちづくり学部教授によるコラム。今回は、若者の海外旅行に促す「未知の旅」の設計術について。「費用以外の動機付け」で若者の好奇心と主体性を育むアプローチを解説。",
       "url": "https://www.travelvoice.jp/20260925-160554",
-      "published": "2026-09-25T12:09:07+00:00",
+      "published": "2026-09-26T07:25:58+00:00",
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/30bb5303-58d1-467a-a5f1-bd7c48692449.jpg",
       "category": "地域・DMO",
       "topic_group": "12cd562dc8"
@@ -393,7 +393,7 @@
       "summary": "JTBとマレーシア政府観光局が協力覚書を締結。戦略的パートナーシップ構築し、送客実績を前年同期比20％増へ。",
       "url": "https://www.travelvoice.jp/20260925-160559",
       "published": "2026-09-25T01:50:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/585610e3-0ced-408c-a9c8-56c650169edd.JPG",
+      "image_url": null,
       "category": "政策・制度",
       "topic_group": "19ddf9673e"
     },
@@ -556,6 +556,16 @@
       "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "5506eeb55d"
+    },
+    {
+      "source": "時事ドットコム",
+      "title": "国際空港拡張、１５００億円供与 日モンゴル合意へ",
+      "summary": "",
+      "url": "https://www.jiji.com/jc/article?k=2026092600281&g=pol&m=rss",
+      "published": "2026-09-26T22:08:00+00:00",
+      "image_url": "https://www.jiji.com/news2/kiji_photos/202609/20260926at15S_o.jpg",
+      "category": "航空・交通",
+      "topic_group": "6e91f1f325"
     },
     {
       "source": "訪日ラボ",
