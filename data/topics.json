@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T00:31:05.791294+00:00",
+  "updated_at": "2026-10-03T23:47:10.887976+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -372,7 +372,7 @@
       "title": "民泊エアビー、地図上で知人の宿泊先・レビューを共有する新機能、日本独自の検索フィルターも導入へ",
       "summary": "エアビーアンドビー（Airbnb）は、つながりのある人たちから旅のおすすめを教えてもらう機能やAIを活用した旅行の計画機能などを実装。今後、日本人ゲスト向けのアップグレードも。",
       "url": "https://www.travelvoice.jp/20261002-160625",
-      "published": "2026-10-02T07:44:45+00:00",
+      "published": "2026-10-03T03:51:10+00:00",
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/a792b57f-5e97-4217-88bd-40f5e7009e40.jpg",
       "category": "統計・市場動向",
       "topic_group": "98cbd1b69b"
@@ -433,7 +433,7 @@
       "summary": "HISは2026年11月1日から、ハワイの「LeaLeaトロリー」に新路線2本を開設する。全11ライン58停留所のハワイ最多規模へ拡大し、マノアエリアへのアクセスや新周遊パス、クルーズ等の新サービスも開始する。",
       "url": "https://www.travelvoice.jp/20261002-160612",
       "published": "2026-10-02T01:30:08+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/8bbc14b1-48af-4c7d-bf34-2ca608582099.jpg",
+      "image_url": null,
       "category": "航空・交通",
       "topic_group": "c081bb8396"
     },
@@ -579,13 +579,13 @@
     },
     {
       "source": "時事ドットコム",
-      "title": "「世界のニセコ」で何が起きている？◆外国人客が変えた街の姿 2026年09月30日",
+      "title": "ホテル一室で女性、強盗殺人か 立ち去った人物の行方追う―沖縄県警",
       "summary": "",
-      "url": "https://www.jiji.com/jc/v8?id=20260930keizai",
-      "published": null,
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "c1aa9f5a1f"
+      "url": "https://www.jiji.com/jc/article?k=2026100300208&g=soc&m=rss",
+      "published": "2026-10-03T10:32:00+00:00",
+      "image_url": "https://www.jiji.com/news2/kiji_photos/202610/20261003at36S_o.jpg",
+      "category": "宿泊・施設",
+      "topic_group": "82fde2ff07"
     },
     {
       "source": "訪日ラボ",
