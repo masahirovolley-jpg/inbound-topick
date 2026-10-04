@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T23:47:10.887976+00:00",
+  "updated_at": "2026-10-04T23:57:48.870002+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -403,7 +403,7 @@
       "summary": "さとふるは、リクルートの「じゃらんnet」と提携し、宿泊予約に利用できる電子クーポンを10月1日より提供開始した。全国565自治体が対象で、寄付から予約までを円滑に行い地域への来訪を促進する。",
       "url": "https://www.travelvoice.jp/20261002-160617",
       "published": "2026-10-02T01:50:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2021/05/0c7a5db1-1343-4907-837b-f9774fd4ea31.jpg",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "db14de0544"
     },
@@ -413,7 +413,7 @@
       "summary": "相乗りタクシーサービスのNearMe（ニアミー）は、日の丸交通と戦略的業務提携に関する契約を締結。SmartShuttle（スマートシャトル）の車両および従業員を日の丸交通のグループ会社に移管。",
       "url": "https://www.travelvoice.jp/20261002-160621",
       "published": "2026-10-02T01:40:08+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/d99b807e-4825-4889-a744-653898d36b41.jpg",
+      "image_url": null,
       "category": "航空・交通",
       "topic_group": "1c3256c7f2"
     },
@@ -423,7 +423,7 @@
       "summary": "トキエアが、機体パーツの「オーナー」をクラウドファンディングで募る。窓や翼、エンジンなどの参加枠を購入し、多くの支援者により1機を完成させるイメージ。ファンや地域とのつながり深化。",
       "url": "https://www.travelvoice.jp/20260930-160536",
       "published": "2026-10-02T01:38:06+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/889995ef-8819-482b-9f40-d971e4e83d8e.png",
+      "image_url": null,
       "category": "航空・交通",
       "topic_group": "85cf8596a4"
     },
@@ -456,6 +456,16 @@
       "image_url": null,
       "category": "AI・デジタル",
       "topic_group": "653c82f52f"
+    },
+    {
+      "source": "やまとごころ.jp",
+      "title": "お米を入り口に、地域の日常を訪日客が学べる体験へ。岡山・真庭の米農家が実践する食文化の発信",
+      "summary": "地域で当たり前に続いてきた米づくりや食文化を、海外からの旅行者に伝え、地域を訪れるきっかけにつなげていく。そんな取り組みを進めるのが、岡山県真庭市で米づくりを営む「お米文化継承者」の五賀晶子さんだ。 五賀さんは、お米を起…",
+      "url": "https://yamatogokoro.jp/inbound_interview/61351/",
+      "published": "2026-10-04T23:00:00+00:00",
+      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/09/001.jpg",
+      "category": "地域・DMO",
+      "topic_group": "bba4f42b21"
     },
     {
       "source": "やまとごころ.jp",
@@ -568,24 +578,34 @@
       "topic_group": "557aa96c65"
     },
     {
-      "source": "やまとごころ.jp",
-      "title": "2026年中国・国慶節は最大13連休、旅行者はどこへ？ 欧米豪・韓国が人気、旅行スタイルも多様化",
-      "summary": "2026年の中国・国慶節（建国記念日）大型連休が近づいています。国慶節連休は10月1日から7日までの7日間ですが、中秋節から休みを取ると最大13連休になります。 例年であれば訪日インバウンドの最盛期の一つとなるこの時期で…",
-      "url": "https://yamatogokoro.jp/column/kaisetsu/61219/",
-      "published": "2026-09-13T23:00:36+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "0f9286e570"
+      "source": "時事ドットコム",
+      "title": "ホテル女性遺体、米海兵隊の男逮捕 強盗殺人容疑「知りません」―沖縄県警",
+      "summary": "",
+      "url": "https://www.jiji.com/jc/article?k=2026100400094&g=soc&m=rss",
+      "published": "2026-10-04T08:36:00+00:00",
+      "image_url": "https://www.jiji.com/news2/kiji_photos/202610/20261004ds45_o.jpg",
+      "category": "宿泊・施設",
+      "topic_group": "6f055b3bcd"
     },
     {
-      "source": "時事ドットコム",
-      "title": "ホテル一室で女性、強盗殺人か 立ち去った人物の行方追う―沖縄県警",
-      "summary": "",
-      "url": "https://www.jiji.com/jc/article?k=2026100300208&g=soc&m=rss",
-      "published": "2026-10-03T10:32:00+00:00",
-      "image_url": "https://www.jiji.com/news2/kiji_photos/202610/20261003at36S_o.jpg",
-      "category": "宿泊・施設",
-      "topic_group": "82fde2ff07"
+      "source": "訪日ラボ",
+      "title": "世界の航空会社ランキング2026、ANAが4位、JALは9位に シンガポール航空が6度目の首位（SKYTRAX）",
+      "summary": "航空会社や空港に特化した サービス リサーチ会社のSKYTRA X （ スカイトラックス ）は9月18日、2026年の航空会社 ランキング 「ワールド・エアライン・アワード」の結果を発表しました。 1位に選ばれたのは シンガポール 航空で、6回目の受賞となっています。 なお、日本の航空会社からは全日…",
+      "url": "https://honichi.com/news/2026/10/05/worldairlineawards2026/?utm_source=rss",
+      "published": "2026-10-04T23:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14737/main_worldairlineawards2026_img.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "1642f41c64"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "JTBとマレーシア政府観光局が観光促進で協力 外交70周年見据え",
+      "summary": "JTB と マレーシア 政府観光局 は9月24日、日本から マレーシア への観光送客拡大を目的とした協力覚書（MOC）を締結しました。 日本と マレーシア は2027年に「日・ マレーシア 外交関係樹立70周年」を迎えます。両者は観光振興策「 マレーシア 観光年 2026-2027」のキャンペーンを…",
+      "url": "https://honichi.com/news/2026/10/05/jtb-malaysia/?utm_source=rss",
+      "published": "2026-10-04T22:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14742/main_31978-1622-e28152a2d5c2e9e263385353a228638d-3900x2601.webp",
+      "category": "政策・制度",
+      "topic_group": "3bae74e785"
     },
     {
       "source": "訪日ラボ",
@@ -676,26 +696,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14732/main_111ab43cb5d7b5945d16f2bb971eabf2.png",
       "category": "統計・市場動向",
       "topic_group": "0a6ca68f6f"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "世界のショッピング目的地ランキング、東京が6位にランクイン 1位はロンドン（TTW調査）",
-      "summary": "アメリカ ・ニューヨークに本社を置く旅行 メディア プラットフォーム 「Travel And Tour World（TTW）」は9月11日、「Top 50 Shopping Destinations in the World for 2026（2026年版 世界のショッピング目的地トップ50）」を発…",
-      "url": "https://honichi.com/news/2026/09/30/ttw-world-shopping-ranking2026/?utm_source=rss",
-      "published": "2026-09-30T02:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14727/main_ttw-world-shopping-ranking2026_img.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "9701db8c65"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "宿泊先選びで42%がAI利用、55%は予約まで進む？ ほか：インバウンド対策に役立つマーケティング資料まとめ（9月後半公開分）",
-      "summary": "訪日ラボでは、 インバウンドマーケティング に役立つ資料を公開しています。 この記事では、【2026年9月後半】に公開したおすすめ資料をご紹介します。ぜひ、日々の業務にお役立てください。 ※ 訪日ラボ会員 にご登録いただくと、レポートの全容を無料にてご覧いただけます。 目次 1. 【2026年9月後…",
-      "url": "https://honichi.com/news/2026/09/30/whitepapermatome_20260930/?utm_source=rss",
-      "published": "2026-09-30T01:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14728/main_017f072d9d649c760735623e63da1352.png",
-      "category": "統計・市場動向",
-      "topic_group": "f5abbb6d28"
     }
   ]
 }
