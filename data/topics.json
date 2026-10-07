@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T01:46:08.312455+00:00",
+  "updated_at": "2026-10-07T00:43:41.174646+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -29,11 +29,31 @@
   "articles": [
     {
       "source": "JNTO",
+      "title": "浦賀のまちを舞台にした、「葛飾北斎、浦賀潜伏。～体感型まちなかギャラリー～」を開催します！【横須賀集客促進・魅力発信実行委員会】",
+      "summary": "",
+      "url": "https://www.jnto.go.jp/news/members/post_87.html",
+      "published": "2026-10-06T04:57:52+00:00",
+      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "category": "業界ニュース",
+      "topic_group": "5ceb9f62fc"
+    },
+    {
+      "source": "JNTO",
+      "title": "JNTO職員等を装った不審な勧誘にご注意ください",
+      "summary": "日本政府観光局（JNTO）の職員や関係者を名乗る者から、SNSやメッセージアプリ等を通じて副業等の金銭取引を勧誘する事例が報告されています。 JNTOが個人に対し、このような勧誘を行うことはありません。 不審な連絡を受けた場合は、個人情報の提供や金銭の送金を行わないよう、十分ご注意ください。 また、…",
+      "url": "https://www.jnto.go.jp/news/info/20261006.html",
+      "published": "2026-10-06T02:48:58+00:00",
+      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "category": "政策・制度",
+      "topic_group": "f0bf46957e"
+    },
+    {
+      "source": "JNTO",
       "title": "オープンカウンター方式による調達情報を更新しました",
       "summary": "",
       "url": "https://www.jnto.go.jp/news/info/post_53.html",
       "published": "2026-10-06T00:54:00+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "3a53b300f5"
     },
@@ -43,7 +63,7 @@
       "summary": "",
       "url": "https://www.jnto.go.jp/news/members/1021.html",
       "published": "2026-10-05T06:22:11+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "政策・制度",
       "topic_group": "3000ddeb86"
     },
@@ -53,7 +73,7 @@
       "summary": "",
       "url": "https://www.jnto.go.jp/news/members/the_sumo_show_hirakuza20271.html",
       "published": "2026-10-05T02:09:35+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "1a51e58523"
     },
@@ -156,26 +176,6 @@
       "image_url": null,
       "category": "業界ニュース",
       "topic_group": "1db46abb7d"
-    },
-    {
-      "source": "JNTO",
-      "title": "JNTOが中東からの訪日旅行促進に向けた覚書をエミレーツ航空と締結",
-      "summary": "調印式の様子（左：エミレーツ航空 オルハン・アッバース極東地区商業担当上級副社長 右：日本政府観光局（ JNTO ）小林大祐ドバイ事務所長） 日本政府観光局（ JNTO ）は、中東地域市場における日本の認知度向上および訪日旅行需要の拡大を目的とした新たな覚書（ MoU ）をエミレーツ航空と締結しまし…",
-      "url": "https://www.jnto.go.jp/news/info/20260930.html",
-      "published": "2026-09-30T07:04:00+00:00",
-      "image_url": "https://www.jnto.go.jp/news/20260929.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "eecfdf4121"
-    },
-    {
-      "source": "JNTO",
-      "title": "京都の秋を代表する和製ハロウィン「怪々YOKAI祭2026」開幕！妖怪たちと踊る百鬼夜行【株式会社 東映太秦映画村】",
-      "summary": "",
-      "url": "https://www.jnto.go.jp/news/members/yokai2026.html",
-      "published": "2026-09-29T05:23:07+00:00",
-      "image_url": null,
-      "category": "AI・デジタル",
-      "topic_group": "5b51a347d3"
     },
     {
       "source": "観光庁",
@@ -369,11 +369,91 @@
     },
     {
       "source": "Travel Voice",
+      "title": "タイ国政府観光庁、ブータンと「2カ国周遊」キャンペーンを発表、2027年の日タイ外交関係樹立140周年に向け施策を続々展開",
+      "summary": "タイ国政府観光庁（TAT）のターパニー・キアットパイブーン総裁は、「ツーリズムEXPOジャパン2026」で日本市場での今後のマーケティング方針を明らかに。ブータンとのパートナーシップも世界で初めて発表。",
+      "url": "https://www.travelvoice.jp/20261006-160631",
+      "published": "2026-10-06T23:37:56+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/632c50f6-f249-413d-9f8a-b51d58f92713.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "97ca3e28cf"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "旅行会社の団体・教育旅行の企画業務を劇的に変えた「行程表クラウド」、東武トップツアーズの導入効果と働き方の変化を聞いた（PR）",
+      "summary": "（PR）貸切バスの複雑な運賃計算や見積もりを効率化するナビタイム「行程表クラウド」。東武トップツアーズの団体・教育旅行の現場に安全管理や働き方の変化を聞いた。",
+      "url": "https://www.travelvoice.jp/20261006-160599",
+      "published": "2026-10-06T04:00:10+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/62307702-4497-4d09-a30e-21b9ff6a5b6b.jpg",
+      "category": "業界ニュース",
+      "topic_group": "36a66d6348"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "住民の地域愛着と旅行推奨度に相関、満足度との関連も、国内・訪日市場を分析 ―じゃらん観光振興セミナー",
+      "summary": "じゃらんリサーチセンターが2040年を見据えた観光のあり方を提示。人口減少やAI普及で旅行市場が変化するなか、住民の地域への愛着と旅行者満足の関係を分析した。",
+      "url": "https://www.travelvoice.jp/20260930-160475",
+      "published": "2026-10-06T10:01:30+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/6aba18b1-3347-45a0-9650-a0589d5d53f6.jpeg",
+      "category": "統計・市場動向",
+      "topic_group": "6640c4d0ec"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "日本政府観光局、訪日外国人が2027年に訪れるべき5県を紹介、奈良の歴史遺産から横浜の国際園芸博まで",
+      "summary": "日本政府観光局、訪日外国人が2027年に訪れるべき県として、奈良県、香川県、島根県、新潟県、神奈川県の5県を世界に紹介。",
+      "url": "https://www.travelvoice.jp/20261006-160607",
+      "published": "2026-10-06T07:25:59+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/3f626d49-4dc1-4085-88c1-44a0047ac77e.jpg",
+      "category": "政策・制度",
+      "topic_group": "b86d153453"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "観光の映像大賞2026、観光庁長官賞に福島県「ふくふくの地図」、片渕須直監督が描く旅の原点を描くストーリー",
+      "summary": "「第15回観光映像大賞」で、最終候補5作品から、福島県総合情報誌「ふくしままっぷ」のブランドムービー『ふくふくの地図』が観光庁長官賞を受賞。",
+      "url": "https://www.travelvoice.jp/20261006-160616",
+      "published": "2026-10-06T01:45:07+00:00",
+      "image_url": null,
+      "category": "業界ニュース",
+      "topic_group": "b3ac8447ac"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "温泉の「お湯のクオリティ」を評価する「湯シュラン」が発足、認定ラベル最上位は三ツ星",
+      "summary": "Yuchelinは、温泉の「浴槽に届けられている湯のクオリティ」の価値を評価・可視化する温泉評価制度「湯シュラン」を創設。5つの指標で三ツ星から一ツ星を認定。",
+      "url": "https://www.travelvoice.jp/20261006-160632",
+      "published": "2026-10-06T17:47:34+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/6abc2905-afdb-484d-9e2b-40cd5761e757.jpg",
+      "category": "政策・制度",
+      "topic_group": "1d8f815662"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "郵便局長の知見を生かす地域密着ツアー、富山・高岡で移住・関係人口創出の一環で ―JTBと日本郵政グループ",
+      "summary": "JTBと日本郵政グループは、郵便局のネットワークを活用した地域密着型ツアーを高岡市で開始する。郵便局長の地域知見と観光ノウハウを掛け合わせ、移住促進や関係人口創出に向けた新たな観光モデルを検証する。",
+      "url": "https://www.travelvoice.jp/20261006-160624",
+      "published": "2026-10-06T17:54:42+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2022/06/2e2f0711-f03f-4469-8ae2-09b6239bb0c4.jpg",
+      "category": "地域・DMO",
+      "topic_group": "6c5dcfa06c"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "ジャパネット、2028年日本初就航のラグジュアリー客船を全船貸切、10日間79万8000円から",
+      "summary": "ジャパネットツーリズムが、2028年に日本初就航のラグジュアリー客船「バイキング・ネプチューン」で全船貸切のクルーズツアー催行。初寄港地5港を加え、「日本一周」、「西日本」のコースを販売。",
+      "url": "https://www.travelvoice.jp/20260929-160548",
+      "published": "2026-10-06T01:30:09+00:00",
+      "image_url": null,
+      "category": "航空・交通",
+      "topic_group": "dd8215c8bc"
+    },
+    {
+      "source": "Travel Voice",
       "title": "商船三井クルーズの成長戦略を取材した、新客船を就航、現役世代の開拓や海外総代理店の多拠点化でインバウンド比率30％へ",
       "summary": "商船三井クルーズの新船「三井オーシャンサクラ」がデビュー。内部を写真で紹介。1隻目「フジ」就航後の営業推移から今後の成長戦略の発表も。",
       "url": "https://www.travelvoice.jp/20260930-160534",
       "published": "2026-10-06T00:14:36+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/5da2506d-cc19-4217-8cee-8cfc5738ef8a.jpg",
+      "image_url": null,
       "category": "航空・交通",
       "topic_group": "e45ef704fc"
     },
@@ -383,89 +463,19 @@
       "summary": "CAPA（Centre for Aviation）は、2026年10月1日～2日にかけて、北海道の新千歳空港で「エアライン・リーダー・サミット・アジア2026」を開催。基調講演ではアビエーション・ウィークのエイドリアン・スコフィールド氏が航空業界の現状について解説した。",
       "url": "https://www.travelvoice.jp/20261005-160628",
       "published": "2026-10-05T11:54:04+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/b5e48bf0-53a9-4b33-9e8d-0f087a3670c4.jpeg",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "b186d51f58"
     },
     {
-      "source": "Travel Voice",
-      "title": "ブッキングHD、新AIアシスタント「Lola」始動、ホテル・飲食・体験の提案から予約まで、会員向け特典も",
-      "summary": "ブッキング・ホールディングスが支援する体験型サービス向けの新AIアシスタント「Lola（ローラ）」がサービスを開始。提案から予約完了までをサポート。有料プランで様々な特典も。",
-      "url": "https://www.travelvoice.jp/20261005-160626",
-      "published": "2026-10-05T05:18:05+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/65805786-bd89-45e2-9a0c-36a055793c49.jpg",
-      "category": "宿泊・施設",
-      "topic_group": "4f32185998"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "カザフスタンへの直行便、エアアスタナが成田／アルマティ線を週2便で開設へ、JALと共同運航",
-      "summary": "エアアスタナは2026年12月1日、成田／アルマティ間の直行便を週2便で就航する。エアバスA321LRを使用し、JALとの共同運航も実施。両国間の経済・文化交流の活性化と、航空ハブとしての地位向上を図る。",
-      "url": "https://www.travelvoice.jp/20261005-160630",
-      "published": "2026-10-05T08:09:23+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2022/05/95fc06a7-be23-4115-acf2-2d75533f8742.jpg",
-      "category": "航空・交通",
-      "topic_group": "65c191dd6e"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "国交省、二地域居住を支えるモデルづくりを支援、官民連携・支援法人の計15件を採択",
-      "summary": "国土交通省は、二地域居住の促進支援について、令和7年度補正予算による「二地域居住先導的プロジェクト実装事業」および「特定居住支援法人モデル構築実証調査」の交付を決定。",
-      "url": "https://www.travelvoice.jp/20261005-160604",
-      "published": "2026-10-05T01:40:07+00:00",
-      "image_url": null,
+      "source": "やまとごころ.jp",
+      "title": "豪州の海外旅行者数1271万人で過去最高、日本は渡航先3位、訪豪客はコロナ前水準に迫る",
+      "summary": "2025/26年度（2025年7月〜2026年6月）のオーストラリア居住者の海外旅行者数は、前年比3.7％増の延べ1271万人となり、過去最高を記録した。日本は渡航先3位で、旅行者数はコロナ前の約2倍に拡大した。一方、訪…",
+      "url": "https://yamatogokoro.jp/inbound_data/61405/",
+      "published": "2026-10-06T23:00:37+00:00",
+      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/10/rex7000-sydney-6803993-1.jpg",
       "category": "統計・市場動向",
-      "topic_group": "415c0aff18"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "日本旅行・楽天など5社、「ふるさと住民登録制度」の自治体向け支援策、旅行・体験や担い手創出など10分野",
-      "summary": "ふるさと住民応援コンソーシアムは、自治体による制度活用を支援する「ふるさと住民登録制度ソリューションブック」を公開。課題に対応する全10ソリューションに整理。",
-      "url": "https://www.travelvoice.jp/20261005-160627",
-      "published": "2026-10-05T01:38:07+00:00",
-      "image_url": null,
-      "category": "政策・制度",
-      "topic_group": "172996e182"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "旅館再生「女将塾」、全国27宿をつなぐ新ブランド「YADORIE（ヤドリエ）」始動、各宿の個性を残し2030年に60宿へ",
-      "summary": "株式会社女将塾は2026年10月1日、全国27宿を繋ぐ新ブランド「YADORIE宿GROUP」を始動。宿ごとの個性を活かす旅館再生を推進し、2030年までに60宿への拡大を目指す。宿泊キャンペーンも実施。",
-      "url": "https://www.travelvoice.jp/20261005-160611",
-      "published": "2026-10-05T01:35:07+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "c14ae5fda6"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "ポラリス社、新たなマスターブランド戦略を始動、多様なブランドをひとつに、会員プログラムも刷新",
-      "summary": "ポラリス・ホールディングスはマスターブランド「Polaris Hotels & Resorts」を始動。ロイヤルティプログラムも「irodori pass」へ進化させた。",
-      "url": "https://www.travelvoice.jp/20261002-160620",
-      "published": "2026-10-05T01:30:10+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "43a9e7a913"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "エクスペディア、旅行会社向けにタビナカ体験の在庫を提供へ、Tiqetsの商品をAPI連携する新機能を発表",
-      "summary": "エクスペディア・グループB2Bは、パートナー向けにタビナカ商品の提供を開始する。Tiqetsとの統合によって、「Rapid Activities API」の提供を開始。「エクスペディアTAAP」でも現地ツアーを取り扱い。",
-      "url": "https://www.travelvoice.jp/20261002-160622",
-      "published": "2026-10-05T01:30:39+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "68b615ff4b"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "ウーバーCEOが語る次の戦略、ホテル予約を「成功させる」、自動運転車両や配達ドローンも",
-      "summary": "ウーバーのダラ・コスロシャヒCEOが旅行事業の戦略を語った。空港送迎を起点に、ホテル予約をUber One会員向けに拡大。今後はバケーションレンタルも追加する方針。AIエージェント、自動運転車、ドローン配送についても展望を示した。",
-      "url": "https://www.travelvoice.jp/20261002-160567",
-      "published": "2026-10-02T08:53:51+00:00",
-      "image_url": null,
-      "category": "航空・交通",
-      "topic_group": "87e15f93bb"
+      "topic_group": "2f4a338cdf"
     },
     {
       "source": "やまとごころ.jp",
@@ -473,7 +483,7 @@
       "summary": "世界経済フォーラム（World Economic Forum：WEF）はこのほど、「旅行・観光開発指数2026（Travel & Tourism Development Index：TTDI）」を発表した。200…",
       "url": "https://yamatogokoro.jp/inbound_data/61404/",
       "published": "2026-10-05T23:00:50+00:00",
-      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/10/pjh-yP_K5nh4EUs-unsplash.jpg",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "1d53082abe"
     },
@@ -483,7 +493,7 @@
       "summary": "地域文化の継承において、観光は単なる集客や経済成長の手段ではなく、地域・社会・自然との関係性を再構築するための手段としても捉えられている。本セッションでは、株式会社訪う（おとなう）代表取締役の日髙葵氏が登壇し、宮崎県高千…",
       "url": "https://yamatogokoro.jp/column/inbound-seminarreport/61285/",
       "published": "2026-10-05T23:00:24+00:00",
-      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/09/f8ac629a5f93fa2413b940418abaac84.jpg",
+      "image_url": null,
       "category": "地域・DMO",
       "topic_group": "bf37490be4"
     },
@@ -578,16 +588,6 @@
       "topic_group": "de6635eede"
     },
     {
-      "source": "やまとごころ.jp",
-      "title": "2026年8月訪日客数9.6％減の309万人、中国市場の低迷や台風による欠航も14市場で8月の過去最高",
-      "summary": "日本政府観光局（JNTO）が発表した2026年8月の訪日外国人旅行者数（推計値）は309万8900人で、前年同月比9.6％減となった。7月は4カ月ぶりに前年同月を上回ったものの、8月は再び前年割れとなった。 中国市場が前…",
-      "url": "https://yamatogokoro.jp/inbound_data/61261/",
-      "published": "2026-09-16T23:00:07+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "a000edae3d"
-    },
-    {
       "source": "時事ドットコム",
       "title": "「世界のニセコ」で何が起きている？◆外国人客が変えた街の姿 2026年09月30日",
       "summary": "",
@@ -596,6 +596,36 @@
       "image_url": null,
       "category": "業界ニュース",
       "topic_group": "c1aa9f5a1f"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "ロンリープラネット「2027年に訪れるべき場所50選」 日本からは沖縄・東北が選出",
+      "summary": "英語 圏を中心に支持を集める旅行 メディア の ロンリープラネット は9月22日、「BEST IN TRAVEL 2027」を発表しました。 このなかで、「2027年に訪れるべき場所50選（50 Best Places to Go in 2027）」として、日本からは沖縄と 東北 が選ばれています。…",
+      "url": "https://honichi.com/news/2026/10/07/lonelyplanet-best-in-travel-2027/?utm_source=rss",
+      "published": "2026-10-07T00:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14749/main_lonelyplanet-best-in-travel-2027_img.jpg",
+      "category": "業界ニュース",
+      "topic_group": "be35bc2c05"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "8月の世界航空需要、再びマイナスに 中東の回復が足踏みも欧州～アジア・アジア～北米路線の旅客数は増加【IATA旅客需要データ 2026年8月】",
+      "summary": "国際航空運送協会 （ IATA ）は9月30日、2026年8月の世界の航空旅客需要データを発表しました。 8月の総旅客需要（RPK）は前年同月比0.8％減となり、 中東 地域を除いた需要は同0.6％増でした。総供給量（ASK）は同0.3％増となりましたが、搭乗率は85.1％と前年同月から0.9ポイン…",
+      "url": "https://honichi.com/news/2026/10/07/iata202608/?utm_source=rss",
+      "published": "2026-10-06T23:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14748/main_iata202608_img.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "e9dc3d9fc2"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "【2026年最新】名古屋で外国人に人気のラーメン店TOP10！「担担麺と麻婆豆腐の店 柳橋虎玄」は第3位、1位は？",
+      "summary": "訪日ラボが最新の 口コミ データを元に 独自調査 ・発表している『 インバウンド 人気 ラーメン 店 ランキング 』。全国の 飲食店 に寄せられた 口コミ をもとに、 訪日客 の注目店舗や人気の理由を分析しています。 本記事ではその中から、 【2026年最新版】外国人に人気の ラーメン 店 ランキン…",
+      "url": "https://honichi.com/news/2026/10/06/202610_inboundranking_gourmet_nagoya_ramen/?utm_source=rss",
+      "published": "2026-10-06T03:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14738/main_01_cover.png",
+      "category": "統計・市場動向",
+      "topic_group": "42dc583fb0"
     },
     {
       "source": "訪日ラボ",
@@ -676,36 +706,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14736/main_kyoto-shimamura_img.jpg",
       "category": "政策・制度",
       "topic_group": "9a3b5b5cd9"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "旅行・観光開発指数、日本が1位に 訪日客の国籍多様化や地方分散が評価（世界経済フォーラム）",
-      "summary": "世界経済フォーラム（WEF）は9月25日、「Travel & Tourism Development Index 2026（旅行・観光開発指数）」（TTDI）を発表しました。 この調査は、WEFが2年に1度発行するレポートで、チューリッヒ・インシュアランス・グループの協力のもと作成されています。 今…",
-      "url": "https://honichi.com/news/2026/10/02/wef-ttdi2026/?utm_source=rss",
-      "published": "2026-10-02T00:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14734/main_wef-ttdi2026_img.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "2c90838e3c"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "【9月5週 人気記事】2026年中秋節・国慶節の動向を解説 ほか｜インバウンドニュース週間アクセスTOP5",
-      "summary": "この1週間でアクセス数が多かった、 インバウンドニュース の ランキング を発表します！ 見逃している記事があれば、この機会にぜひご覧ください。 目次 週間アクセスランキング トップ5 1位. 2026年中秋節・国慶節 盛り上がる海外旅行需要、訪日旅行は？ 2位. ヘリコプター定期便「Airport…",
-      "url": "https://honichi.com/news/2026/10/02/accessranking_20261002/?utm_source=rss",
-      "published": "2026-10-01T23:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14733/main_ccb5341d16c898fffbb000fbe6a14acb.png",
-      "category": "統計・市場動向",
-      "topic_group": "d6e9b99127"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "AIツール推奨店への来店率は60%！訪日ラボ、AIツールが飲食店選定に与える影響度レポートを公開",
-      "summary": "訪日ラボでは、消費者アンケートを実施し、業界ごとに 独自調査 レポートを発表しています。 今回は、「 飲食店 選び」をテーマに、 AI ツールがどの程度、どんな方法で活用されているのか、その実態を調査しました。 ＜本レポートでご覧いただける内容＞ 飲食店選びの情報源とAI利用の広がり AIツールの使…",
-      "url": "https://honichi.com/news/2026/10/01/202610_survey_gourmet_ai/?utm_source=rss",
-      "published": "2026-10-01T03:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14716/main_14abc8693c8f11a71d6f0c87d228c400.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "7a0e0fb538"
     }
   ]
 }
