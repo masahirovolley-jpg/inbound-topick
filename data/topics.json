@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T01:14:06.599269+00:00",
+  "updated_at": "2026-10-10T00:52:30.232461+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -27,6 +27,46 @@
     }
   ],
   "articles": [
+    {
+      "source": "JNTO",
+      "title": "日本が「Favourite Country for a Holiday」を2年連続受賞！",
+      "summary": "英国のラグジュアリー旅行メディア『 Ultratravel 』が主催する「 ULTRAs （ Ultimate Luxury Travel Related Awards ） 2026 」において、日本が「 Favourite Country for a Holiday （最も好まれる旅行先の国）」を…",
+      "url": "https://www.jnto.go.jp/news/info/20261009_2.html",
+      "published": "2026-10-09T08:00:00+00:00",
+      "image_url": "https://www.jnto.go.jp/news/20261009_2.jpg",
+      "category": "業界ニュース",
+      "topic_group": "df76cda5b1"
+    },
+    {
+      "source": "JNTO",
+      "title": "日本が英国旅行誌の読者投票による総合部門で第2位に選出！",
+      "summary": "2026年 9 月 30 日（水）、英国旅行誌『 National Geographic Traveller (UK) 』が実施した読者投票企画「 Reader Awards 2026 」において、日本が総合部門「 People's Choice 」で第 2 位に選出されました。また、編集部が選ぶ「…",
+      "url": "https://www.jnto.go.jp/news/info/20261009_1.html",
+      "published": "2026-10-09T07:55:42+00:00",
+      "image_url": "https://www.jnto.go.jp/news/20261009_1.jpg",
+      "category": "業界ニュース",
+      "topic_group": "976698e6bc"
+    },
+    {
+      "source": "JNTO",
+      "title": "大好評ツアーが6年ぶりに再始動！ 滞在時間を\"日本体験\"に変える6市町との地域連携ツアー 「Narita Airport Transit & Stay Program」【成田国際空港株式会社】",
+      "summary": "",
+      "url": "https://www.jnto.go.jp/news/members/6_6_narita_airport_transit_stay_program.html",
+      "published": "2026-10-09T05:34:19+00:00",
+      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "category": "航空・交通",
+      "topic_group": "f63a23e3d1"
+    },
+    {
+      "source": "JNTO",
+      "title": "【再掲】【10/21（水）開催】JNTO地域セミナー 「作るだけでは終わらせない 地域資源を売れる体験商品へ変えるために」 セミナー参加者募集（締切：10/20（火）17:00）",
+      "summary": "",
+      "url": "https://www.jnto.go.jp/news/expo-seminar/1021jnto_10201700_1.html",
+      "published": "2026-10-09T04:30:00+00:00",
+      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "category": "地域・DMO",
+      "topic_group": "3189f6d273"
+    },
     {
       "source": "JNTO",
       "title": "大手旅行雑誌米国版で日本が「世界で最も魅力的な国」に4年連続選出",
@@ -138,44 +178,14 @@
       "topic_group": "be35bc2c05"
     },
     {
-      "source": "JNTO",
-      "title": "Kammui、ANAビジネスジェットと共に、プライベートジェットで巡る12泊のパウダーサーキットを始動【株式会社KAMMUI】",
+      "source": "観光庁",
+      "title": "令和7年度における「大阪・夢洲地区特定複合観光施設区域の整備に関する計画」の実施の状況の評価について",
       "summary": "",
-      "url": "https://www.jnto.go.jp/news/members/kammuiana12kammui.html",
-      "published": "2026-10-01T05:35:10+00:00",
+      "url": "https://www.mlit.go.jp/kankocho/topics11_00007.html",
+      "published": "2026-10-09",
       "image_url": null,
       "category": "業界ニュース",
-      "topic_group": "a456273ea4"
-    },
-    {
-      "source": "JNTO",
-      "title": "「The Sumo Show HIRAKUZA」世界最大の芸術フェスティバルEdinburgh Festival Fringeで7,000人超を動員！【株式会社阪神コンテンツリンク】",
-      "summary": "",
-      "url": "https://www.jnto.go.jp/news/members/the_sumo_show_hirakuzaedinburgh_festival_fringe7000.html",
-      "published": "2026-10-01T05:28:14+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "e12ff7aee2"
-    },
-    {
-      "source": "JNTO",
-      "title": "役員の就退任について",
-      "summary": "※ 本リリースは国土交通記者会・交通運輸記者会に配布しております。 当機構において、下記のとおり役員が退任及び就任しましたので、お知らせします。 異動内容 2026年9月 30 日付 若松 務（わかまつ つとむ） 理事退任 2026年10月1日付 森崎 鉄郎（もりさき てつろう） 理事就任 新役員の…",
-      "url": "https://www.jnto.go.jp/news/press/20261001.html",
-      "published": "2026-10-01T02:00:00+00:00",
-      "image_url": null,
-      "category": "航空・交通",
-      "topic_group": "839d7b9919"
-    },
-    {
-      "source": "JNTO",
-      "title": "独立行政法人国際観光振興機構 カスタマー・ハラスメント対応方針",
-      "summary": "",
-      "url": "https://www.jnto.go.jp/news/info/customer-harassment-policy.html",
-      "published": "2026-10-01T00:46:49+00:00",
-      "image_url": null,
-      "category": "政策・制度",
-      "topic_group": "85b2fd9b10"
+      "topic_group": "53b04990b3"
     },
     {
       "source": "観光庁",
@@ -269,16 +279,6 @@
     },
     {
       "source": "観光庁",
-      "title": "ジョージア経済持続発展省 国家観光庁 マイア・オミアゼ長官による木村観光庁長官への表敬訪問",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/topics03_00054.html",
-      "published": "2026-09-30",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "b2d9d39095"
-    },
-    {
-      "source": "観光庁",
       "title": "米国にて日本の「観光・食」の魅力発信イベントを開催 ～訪れるたびに発見がある、日本の多彩な魅力を発信しました～",
       "summary": "",
       "url": "https://www.mlit.go.jp/kankocho/news02_00103.html",
@@ -295,7 +295,7 @@
       "published": "2026-09-25",
       "image_url": null,
       "category": "業界ニュース",
-      "topic_group": "e1a64f6d30"
+      "topic_group": "53b04990b3"
     },
     {
       "source": "観光庁",
@@ -369,6 +369,86 @@
     },
     {
       "source": "Travel Voice",
+      "title": "山形・鶴岡「食文化創造都市」はどう生まれた？ ガストロノミーツーリズムを育てた料理人と地域の力【コラム】",
+      "summary": "ガストロノミーツーリズム最前線を柏原光太郎氏が解説。山形県鶴岡市とイタリア料理店「アル・ケッチァーノ」の歩みから、地域ぐるみで食を観光資源に育てる仕組みを考察。",
+      "url": "https://www.travelvoice.jp/20261009-160601",
+      "published": "2026-10-09T11:55:50+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/23a99ab6-40a5-4772-acab-cd3aa161af1b.jpg",
+      "category": "地域・DMO",
+      "topic_group": "5752f5c2ef"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "民泊エアビー、高級宿泊施設の取り組み再強化か、チェスキーCEOがホスト向けサミットで明らかに【外電】",
+      "summary": "米観光産業ニュース「Skift」によると、エアビーアンドビー（Airbnb）が再び高級宿泊施設市場への参入を強化。「Airbnb Luxe（ラックス）」プログラムあるいはそれに似たサービスの再開する動きを見せているという。",
+      "url": "https://www.travelvoice.jp/20261009-160654",
+      "published": "2026-10-09T11:27:31+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2025/09/b01974dc-9e9b-477b-95b4-ae0752c2ce04.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "af1efe050e"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "ファイターズ、AI旅行予約サービスの運営会社と資本業務提携、北海道Fビレッジへのインバウンド誘客を強化",
+      "summary": "ファイターズ スポーツ＆エンターテイメント（FSE）は、AIワンストップ旅行予約サービス「TripToJapan.com」を展開する高輪トラベルグループと資本業務提携契約。Fビレッジへのインバウンド集客を強化していく。",
+      "url": "https://www.travelvoice.jp/20261009-160652",
+      "published": "2026-10-09T09:14:59+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/fa73e669-7a4f-453f-8ed8-192e447d4c0f.jpg",
+      "category": "AI・デジタル",
+      "topic_group": "b83454a1ad"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "中国・大型連休「国慶節」、海外旅行は長期化・遠方への予約が増加、国内旅行1回あたり消費額は4年ぶり低水準",
+      "summary": "ロイター通信によると、2026年の国慶節休暇（2026年10月1日から7日）の中国の国内旅行者は延べ8億2600万人となり、総旅行支出額は7383億8000万元（約17兆円）に。",
+      "url": "https://www.travelvoice.jp/20261009-160666",
+      "published": "2026-10-09T12:58:06+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/fec9ac76-6bfe-44aa-a095-7b7d7649422c.JPG",
+      "category": "統計・市場動向",
+      "topic_group": "f4cc9505c8"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "国交省、大阪IRのインバウンド誘致に具体策求める、プロモーションと変化するニーズへの対応で",
+      "summary": "国土交通省は、大阪・夢洲IRの2025年度の計画実施状況を評価。詳細設計の完了や建設工事の着手に一定の評価を示す一方、需要推計の精緻化や訪日客向け集客施策の具体化、変化するニーズに応じた見直しの必要性を指摘した。",
+      "url": "https://www.travelvoice.jp/20261009-160656",
+      "published": "2026-10-09T12:01:20+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2022/11/f22ba4b8-942a-434c-826e-ba755ab2d32c.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "20a3e66f3c"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "京都・渉成園で「十三夜」、東山から上る月を名勝庭園で、茶会やホテル協力の飲食も",
+      "summary": "2026年10月23日、京都市の渉成園で十三夜のお月見会。国名勝の庭園を一夜限定で夜間公開。水面に映る月をめで、茶会や飲食販売も。",
+      "url": "https://www.travelvoice.jp/20261002-160556",
+      "published": "2026-10-09T01:35:07+00:00",
+      "image_url": null,
+      "category": "宿泊・施設",
+      "topic_group": "35acc318ba"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "Googleマップのデータでみる食トレンド、東京では「お餅」が人気、海外で「抹茶」「ほうじ茶」への関心高まる",
+      "summary": "Googleが過去1年間のGoogleマップのデータを分析し、世界10都市のグルメトレンドを発表した。抹茶等の注目カテゴリーや、ユーザー評価に基づく人気店リストも公開。",
+      "url": "https://www.travelvoice.jp/20261009-160665",
+      "published": "2026-10-09T11:27:15+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2019/11/google_maps.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "2a038496aa"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "沖縄15離島の観光活性化へ、ポケモン「ガーディ」の現地限定ステッカーで来訪促進、新たに9島が参加",
+      "summary": "沖縄観光コンベンションビューローが、おきなわ応援ポケモン「ガーディ」のコラボステッカーを沖縄本島周辺の15離島で配布。新たに9離島を加え、収集目的の来訪者増加を目指す。",
+      "url": "https://www.travelvoice.jp/20261009-160600",
+      "published": "2026-10-09T02:42:48+00:00",
+      "image_url": null,
+      "category": "業界ニュース",
+      "topic_group": "486aa8946a"
+    },
+    {
+      "source": "Travel Voice",
       "title": "旅行ツーリズムの世界サミットがマルタで開幕、欧州観光は3.2%成長予測、マルタは「量から価値へ」転換",
       "summary": "WTTC第26回グローバルサミットがマルタで開幕。世界の旅行・観光は11.6兆ドル（約1833兆円）、欧州は2026年に3.1%成長の見通し。開催国マルタは「量から価値へ」を軸に、通年型・高付加価値・持続可能な観光への転換を打ち出した。",
       "url": "https://www.travelvoice.jp/20261008-160644",
@@ -383,89 +463,9 @@
       "summary": "エジプトのシェリーフ・ファトヒー・アティーア観光・考古大臣にインタビュー。同国の旅行市場の現状や日本市場への期待を聞いた。",
       "url": "https://www.travelvoice.jp/20261008-160642",
       "published": "2026-10-08T07:24:12+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/22c203a6-1433-49e6-a68c-25947bf66667.jpeg",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "eb42d34c63"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "日本への入国・帰国手続きをデジタル庁が解説、入国審査・税関のワンストップ化や免税リファンド方式への対応など",
-      "summary": "訪日6000万人時代に向け、デジタル化が進む日本の入国・帰国手続き。「Visit Japan Web」サービスを軸にした審査・税関のワンストップ化、免税リファンド対応など、デジタル庁が業界向けに実施したセミナーを取材した。",
-      "url": "https://www.travelvoice.jp/20261009-160578",
-      "published": "2026-10-08T15:27:57+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2023/04/0f2ae604-4bbb-4dd2-8f28-ac20fa5d78cf.jpg",
-      "category": "政策・制度",
-      "topic_group": "00b672102c"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "観光・宿泊・飲食×テクノロジーの新潮流がわかる、新たな大型イベント「ホスピタリティテックEXPO」が開催へ、世界が注目するカンファレンスも同時開催（PR）",
-      "summary": "（PR）観光・宿泊・飲食の最新テクノロジーが集まる「ホスピタリティテックEXPO」が初開催。世界のキーマンが登壇するカンファレンス「HITEC」日本初開催も。限定クーポンで入場無料。",
-      "url": "https://www.travelvoice.jp/20261008-160596",
-      "published": "2026-10-08T04:06:06+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "3b4fd92031"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "クチコミで外国人に人気のホテル、ランキング1位は大阪「プラザオーサカ」、トップ10に東京の5施設 ―訪日ラボ",
-      "summary": "全国470施設を対象とした、Googleマップのクチコミ3万7329件を分析したインバウンド人気ホテル・旅館ランキングを発表。トップ10には東京都の5施設が入り、MIMARUは3施設がランクインした。",
-      "url": "https://www.travelvoice.jp/20261008-160610",
-      "published": "2026-10-08T01:50:07+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "2b21a3bce9"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "箱根・熱海の高級旅館で子ども向け仕事体験、オリックス・ホテルマネジメントとJTBが共同開催",
-      "summary": "オリックス・ホテルマネジメントとJTBが2026年10～11月、神奈川・箱根と静岡・熱海で子どもの職業体験プログラムを実施。旅館の総支配人など観光の仕事や地域の魅力を学ぶ。",
-      "url": "https://www.travelvoice.jp/20261008-160588",
-      "published": "2026-10-08T13:18:03+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/fb405496-1f86-4df4-9935-f96a9c36d7ff.jpg",
-      "category": "宿泊・施設",
-      "topic_group": "4bc81e8d68"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "紅葉の見ごろ予想2026、秋の高温で色付き足踏みへ、日光は10月下旬、京都・嵐山は11月下旬に",
-      "summary": "ウェザーニューズは10月8日、2026年の紅葉見頃予想を発表。10月中旬までは平年並みだが、下旬以降は気温高めの影響で平年よりやや遅い見通し。",
-      "url": "https://www.travelvoice.jp/20261008-160646",
-      "published": "2026-10-08T06:52:48+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/70f28194-fd1c-4bce-832b-1c05482a716d.png",
-      "category": "業界ニュース",
-      "topic_group": "1758c4575e"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "東京をめぐる「回転寿司バス」、約70分の都内周遊と寿司食べ放題、10月10日から運行",
-      "summary": "2階建てバスで東京の街並みと回転寿司を楽しむ「SUSHI BUS」が2026年10月10日に運行開始。東京駅近くを発着する約70分の周遊で、寿司食べ放題と飲み物付き、大人1万6000円。",
-      "url": "https://www.travelvoice.jp/20261008-160647",
-      "published": "2026-10-08T07:54:29+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/e1911b5b-8923-4804-973f-b519e22a13f6.jpg",
-      "category": "業界ニュース",
-      "topic_group": "460c9f362e"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "観光客が利用しやすい「路線バス」とは？ ひがし北海道のバス3社の挑戦、新たな利用者獲得から観光バスツアーの直前予約まで（PR）",
-      "summary": "（PR）広域な観光圏に移動を創出。路線バスを観光客に可視化する仕組みから、観光バスツアーの当日直前予約による需要獲得など、ひがし北海道のバス3社の取り組みを紹介。",
-      "url": "https://www.travelvoice.jp/20261007-160613",
-      "published": "2026-10-07T04:01:07+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "1ba29df476"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "国際園芸博「GREEN×EXPO 2027」、旅行業界に運営計画を説明、一部展示施設は当日予約、入場ゲートは1カ所、夜間ツアー造成に期待",
-      "summary": "横浜開催の「GREEN×EXPO 2027」が旅行業界向けに運用方針を発表。展示施設の事前予約なし運用や交通ルール、混雑緩和・夜間ツアー造成の促進など。",
-      "url": "https://www.travelvoice.jp/20261008-160577",
-      "published": "2026-10-08T06:52:33+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2021/03/8aea8ab3-33a0-4a6e-bad2-d397a94741ce.jpg",
-      "category": "航空・交通",
-      "topic_group": "4481cf30b0"
     },
     {
       "source": "やまとごころ.jp",
@@ -473,7 +473,7 @@
       "summary": "持続可能な観光の実現に向けて、観光事業者には環境への配慮だけでなく、地域社会と共存する観光のあり方が求められている。東京都と東京観光財団（TCVB）は2026年度、「持続可能な観光の実践に向けた第一歩」をテーマに、地域や…",
       "url": "https://yamatogokoro.jp/column/inbound-seminarreport/61429/",
       "published": "2026-10-08T23:00:54+00:00",
-      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/10/3d7f94e4d59fae4193452669522d69fc.jpg",
+      "image_url": null,
       "category": "地域・DMO",
       "topic_group": "673a51fed6"
     },
@@ -589,13 +589,33 @@
     },
     {
       "source": "時事ドットコム",
-      "title": "空港で航空機炎上 フーシ派がミサイル攻撃―サウジ首都",
+      "title": "「世界のニセコ」で何が起きている？◆外国人客が変えた街の姿 2026年09月30日",
       "summary": "",
-      "url": "https://www.jiji.com/jc/article?k=2026100900232&g=int&m=rss",
-      "published": "2026-10-08T22:43:00+00:00",
-      "image_url": "https://www.jiji.com/img/jijicom_og_image.png",
+      "url": "https://www.jiji.com/jc/v8?id=20260930keizai",
+      "published": null,
+      "image_url": null,
+      "category": "業界ニュース",
+      "topic_group": "c1aa9f5a1f"
+    },
+    {
+      "source": "時事ドットコム",
+      "title": "格安航空ピーチ、予約メール遅延 「手間いらず」４４５万人分の情報漏えい",
+      "summary": "",
+      "url": "https://www.jiji.com/jc/article?k=2026100901018&g=eco",
+      "published": "2026-10-09T20:37:00+09:00",
+      "image_url": "https://www.jiji.com/news2/kiji_photos/202610/20261009ds87_o.jpg",
       "category": "航空・交通",
-      "topic_group": "6520503777"
+      "topic_group": "7f98f21ba9"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "【2026年最新】銀座で外国人に人気のホテル・旅館TOP10！ミレニアム 三井ガーデンホテル 東京は第3位、1位は？",
+      "summary": "訪日ラボが最新の 口コミ データを元に 独自調査 ・発表している『 インバウンド 人気 ホテル ・ 旅館 ランキング 』。全国の 宿泊施設 に寄せられた 口コミ をもとに、 訪日客 の注目施設や人気の理由を分析しています。 本記事ではその中から、 【2026年最新版】外国人に人気の ホテル ・ 旅館…",
+      "url": "https://honichi.com/news/2026/10/09/202610_inboundranking_hotel_ginza/?utm_source=rss",
+      "published": "2026-10-09T03:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14752/main_Ginza_slide_01.png",
+      "category": "統計・市場動向",
+      "topic_group": "526c0738c3"
     },
     {
       "source": "訪日ラボ",
@@ -696,16 +716,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14749/main_lonelyplanet-best-in-travel-2027_img.jpg",
       "category": "業界ニュース",
       "topic_group": "be35bc2c05"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "8月の世界航空需要、再びマイナスに 中東の回復が足踏みも欧州～アジア・アジア～北米路線の旅客数は増加【IATA旅客需要データ 2026年8月】",
-      "summary": "国際航空運送協会 （ IATA ）は9月30日、2026年8月の世界の航空旅客需要データを発表しました。 8月の総旅客需要（RPK）は前年同月比0.8％減となり、 中東 地域を除いた需要は同0.6％増でした。総供給量（ASK）は同0.3％増となりましたが、搭乗率は85.1％と前年同月から0.9ポイン…",
-      "url": "https://honichi.com/news/2026/10/07/iata202608/?utm_source=rss",
-      "published": "2026-10-06T23:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14748/main_iata202608_img.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "e9dc3d9fc2"
     }
   ]
 }
