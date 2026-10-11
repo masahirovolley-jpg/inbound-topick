@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T00:52:30.232461+00:00",
+  "updated_at": "2026-10-11T00:14:43.850342+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -589,23 +589,23 @@
     },
     {
       "source": "時事ドットコム",
-      "title": "「世界のニセコ」で何が起きている？◆外国人客が変えた街の姿 2026年09月30日",
+      "title": "サウジ空港攻撃で１２人死亡 ３００人超負傷、フーシ派か",
       "summary": "",
-      "url": "https://www.jiji.com/jc/v8?id=20260930keizai",
-      "published": null,
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "c1aa9f5a1f"
+      "url": "https://www.jiji.com/jc/article?k=2026101100146&g=int&m=rss",
+      "published": "2026-10-10T22:52:00+00:00",
+      "image_url": "https://www.jiji.com/img/jijicom_og_image.png",
+      "category": "航空・交通",
+      "topic_group": "2684872ee0"
     },
     {
       "source": "時事ドットコム",
-      "title": "格安航空ピーチ、予約メール遅延 「手間いらず」４４５万人分の情報漏えい",
+      "title": "サウジアラビア航空当局は、首都リヤドの国際空港への攻撃で、１２人が死亡、３０９人が負傷したと発表した",
       "summary": "",
-      "url": "https://www.jiji.com/jc/article?k=2026100901018&g=eco",
-      "published": "2026-10-09T20:37:00+09:00",
-      "image_url": "https://www.jiji.com/news2/kiji_photos/202610/20261009ds87_o.jpg",
+      "url": "https://www.jiji.com/jc/article?k=2026101100143&g=flash&m=rss",
+      "published": "2026-10-10T21:59:00+00:00",
+      "image_url": "https://www.jiji.com/img/jijicom_og_image-flash.jpg",
       "category": "航空・交通",
-      "topic_group": "7f98f21ba9"
+      "topic_group": "2684872ee0"
     },
     {
       "source": "訪日ラボ",
