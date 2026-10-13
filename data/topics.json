@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T00:33:22.994063+00:00",
+  "updated_at": "2026-10-13T02:35:03.698857+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -29,6 +29,16 @@
   "articles": [
     {
       "source": "JNTO",
+      "title": "オープンカウンター方式による調達情報を更新しました",
+      "summary": "",
+      "url": "https://www.jnto.go.jp/news/info/post_53.html",
+      "published": "2026-10-13T00:54:00+00:00",
+      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "category": "業界ニュース",
+      "topic_group": "3a53b300f5"
+    },
+    {
+      "source": "JNTO",
       "title": "日本が「Favourite Country for a Holiday」を2年連続受賞！",
       "summary": "英国のラグジュアリー旅行メディア『 Ultratravel 』が主催する「 ULTRAs （ Ultimate Luxury Travel Related Awards ） 2026 」において、日本が「 Favourite Country for a Holiday （最も好まれる旅行先の国）」を…",
       "url": "https://www.jnto.go.jp/news/info/20261009_2.html",
@@ -53,7 +63,7 @@
       "summary": "",
       "url": "https://www.jnto.go.jp/news/members/6_6_narita_airport_transit_stay_program.html",
       "published": "2026-10-09T05:34:19+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "航空・交通",
       "topic_group": "f63a23e3d1"
     },
@@ -63,7 +73,7 @@
       "summary": "",
       "url": "https://www.jnto.go.jp/news/expo-seminar/1021jnto_10201700_1.html",
       "published": "2026-10-09T04:30:00+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "地域・DMO",
       "topic_group": "3189f6d273"
     },
@@ -96,16 +106,6 @@
       "image_url": null,
       "category": "政策・制度",
       "topic_group": "f0bf46957e"
-    },
-    {
-      "source": "JNTO",
-      "title": "オープンカウンター方式による調達情報を更新しました",
-      "summary": "",
-      "url": "https://www.jnto.go.jp/news/info/post_53.html",
-      "published": "2026-10-06T00:54:00+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "3a53b300f5"
     },
     {
       "source": "JNTO",
@@ -369,13 +369,63 @@
     },
     {
       "source": "Travel Voice",
-      "title": "山形・鶴岡「食文化創造都市」はどう生まれた？ ガストロノミーツーリズムを育てた料理人と地域の力【コラム】",
+      "title": "フィジー政府観光局CEOに日本市場戦略を聞いてきた、旅行会社との連携拡大、個人旅行と教育旅行に注力",
+      "summary": "フィジー政府観光局は、旅行15社との連携強化やプログラム刷新を発表。来日したパントCEOに、日本市場の成長に向けた最新施策と今後のねらいを聞いた。",
+      "url": "https://www.travelvoice.jp/20261002-160400",
+      "published": "2026-10-13T01:50:08+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/0d20e192-7cc6-4818-9042-07bdf2936a1f.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "7bd5bc8795"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "群馬県、「ご当地Suica」移行へ準備本格化、住民向け交通割引や来訪者の交通検索・予約を便利に",
+      "summary": "群馬県は、「ご当地Suica」移行に伴う「GunMaaS」プロモーション業務委託について公募を開始。JR東日本が推進する「ご当地Suica」とはモバイルSuicaに地域独自のMaaSと生活サービスを一体化したもの。",
+      "url": "https://www.travelvoice.jp/20261013-160653",
+      "published": "2026-10-13T01:50:10+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/a61a87c9-eb5d-4ef1-85e8-c8abbbe61088.jpg",
+      "category": "政策・制度",
+      "topic_group": "1f3172f0b3"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "ゼンリンなど5社、沖縄の観光周遊を支援、観光アプリで交通・観光チケットを販売、移動データ分析も",
+      "summary": "ゼンリンら5社が連携し、沖縄県那覇・浦添エリアで観光DXを推進。アプリ「STLOCAL」でモノレールやバス、観光施設などのデジタルチケット販売。観光情報提供やスタンプラリーで周遊促進。",
+      "url": "https://www.travelvoice.jp/20261013-160618",
+      "published": "2026-10-13T01:45:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/296f5dc6-cedd-49ee-a4dc-d4a16e911fda.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "feac1b6bb4"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "ANAとJR西日本、インバウンド向け経路検索と鉄道予約を連携、経路検索から決済までスムーズに",
+      "summary": "訪日外国人向けのANA MaaSプラットフォームサービス「Travel CUBE」とJR西日本の訪日外国人向けインターネット予約サービス「JR-WEST ONLINE TRAIN RESERVATION」が連携を開始。",
+      "url": "https://www.travelvoice.jp/20261013-160667",
+      "published": "2026-10-13T01:40:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2025/06/44e62ec2-0493-4c6b-b5d8-facec7817002.jpg",
+      "category": "航空・交通",
+      "topic_group": "ba2645ee31"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "中国銀行、海外富裕層向けの観光体験を開発へ、倉敷エリアで名庭めぐりやデニム作り、販売体制も構築",
+      "summary": "中国銀行が、岡山県倉敷エリアで地域資源を活用した高付加価値観光コンテンツの開発を開始。海外富裕層の誘客を目指し、2027年以降の旅行商品販売を目指す。観光庁事業に採択。",
+      "url": "https://www.travelvoice.jp/20261013-160659",
+      "published": "2026-10-13T01:35:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/26858560-9643-43ac-ae15-2efb94b56226.png",
+      "category": "地域・DMO",
+      "topic_group": "2b6fb0404a"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "山形・鶴岡がユネスコ「食文化創造都市」に認定された理由、ガストロノミーツーリズムを育てた料理人と地域の力【コラム】",
       "summary": "ガストロノミーツーリズム最前線を柏原光太郎氏が解説。山形県鶴岡市とイタリア料理店「アル・ケッチァーノ」の歩みから、地域ぐるみで食を観光資源に育てる仕組みを考察。",
       "url": "https://www.travelvoice.jp/20261009-160601",
-      "published": "2026-10-09T11:55:50+00:00",
+      "published": "2026-10-12T23:55:52+00:00",
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/23a99ab6-40a5-4772-acab-cd3aa161af1b.jpg",
       "category": "地域・DMO",
-      "topic_group": "5752f5c2ef"
+      "topic_group": "13cb2ce7d3"
     },
     {
       "source": "Travel Voice",
@@ -383,29 +433,29 @@
       "summary": "米観光産業ニュース「Skift」によると、エアビーアンドビー（Airbnb）が再び高級宿泊施設市場への参入を強化。「Airbnb Luxe（ラックス）」プログラムあるいはそれに似たサービスの再開する動きを見せているという。",
       "url": "https://www.travelvoice.jp/20261009-160654",
       "published": "2026-10-09T11:27:31+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2025/09/b01974dc-9e9b-477b-95b4-ae0752c2ce04.jpg",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "af1efe050e"
     },
     {
       "source": "Travel Voice",
-      "title": "ファイターズ、AI旅行予約サービスの運営会社と資本業務提携、北海道Fビレッジへのインバウンド誘客を強化",
+      "title": "北海道ファイターズ、AI旅行予約サービスの運営会社と資本業務提携、Fビレッジへのインバウンド誘客を強化",
       "summary": "ファイターズ スポーツ＆エンターテイメント（FSE）は、AIワンストップ旅行予約サービス「TripToJapan.com」を展開する高輪トラベルグループと資本業務提携契約。Fビレッジへのインバウンド集客を強化していく。",
       "url": "https://www.travelvoice.jp/20261009-160652",
-      "published": "2026-10-09T09:14:59+00:00",
+      "published": "2026-10-12T23:56:40+00:00",
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/fa73e669-7a4f-453f-8ed8-192e447d4c0f.jpg",
       "category": "AI・デジタル",
-      "topic_group": "b83454a1ad"
+      "topic_group": "4e135d2da6"
     },
     {
       "source": "Travel Voice",
-      "title": "中国・大型連休「国慶節」、海外旅行は長期化・遠方への予約が増加、国内旅行1回あたり消費額は4年ぶり低水準",
+      "title": "中国・大型連休「国慶節」、海外旅行の実績は長距離路線（ロングホール）が活況、平均旅行日数は9日超",
       "summary": "ロイター通信によると、2026年の国慶節休暇（2026年10月1日から7日）の中国の国内旅行者は延べ8億2600万人となり、総旅行支出額は7383億8000万元（約17兆円）に。",
       "url": "https://www.travelvoice.jp/20261009-160666",
-      "published": "2026-10-09T12:58:06+00:00",
+      "published": "2026-10-13T00:05:50+00:00",
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/fec9ac76-6bfe-44aa-a095-7b7d7649422c.JPG",
-      "category": "統計・市場動向",
-      "topic_group": "f4cc9505c8"
+      "category": "航空・交通",
+      "topic_group": "3d45beb523"
     },
     {
       "source": "Travel Voice",
@@ -413,59 +463,19 @@
       "summary": "国土交通省は、大阪・夢洲IRの2025年度の計画実施状況を評価。詳細設計の完了や建設工事の着手に一定の評価を示す一方、需要推計の精緻化や訪日客向け集客施策の具体化、変化するニーズに応じた見直しの必要性を指摘した。",
       "url": "https://www.travelvoice.jp/20261009-160656",
       "published": "2026-10-09T12:01:20+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2022/11/f22ba4b8-942a-434c-826e-ba755ab2d32c.jpg",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "20a3e66f3c"
     },
     {
-      "source": "Travel Voice",
-      "title": "京都・渉成園で「十三夜」、東山から上る月を名勝庭園で、茶会やホテル協力の飲食も",
-      "summary": "2026年10月23日、京都市の渉成園で十三夜のお月見会。国名勝の庭園を一夜限定で夜間公開。水面に映る月をめで、茶会や飲食販売も。",
-      "url": "https://www.travelvoice.jp/20261002-160556",
-      "published": "2026-10-09T01:35:07+00:00",
-      "image_url": null,
-      "category": "宿泊・施設",
-      "topic_group": "35acc318ba"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "Googleマップのデータでみる食トレンド、東京では「お餅」が人気、海外で「抹茶」「ほうじ茶」への関心高まる",
-      "summary": "Googleが過去1年間のGoogleマップのデータを分析し、世界10都市のグルメトレンドを発表した。抹茶等の注目カテゴリーや、ユーザー評価に基づく人気店リストも公開。",
-      "url": "https://www.travelvoice.jp/20261009-160665",
-      "published": "2026-10-09T11:27:15+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2019/11/google_maps.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "2a038496aa"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "沖縄15離島の観光活性化へ、ポケモン「ガーディ」の現地限定ステッカーで来訪促進、新たに9島が参加",
-      "summary": "沖縄観光コンベンションビューローが、おきなわ応援ポケモン「ガーディ」のコラボステッカーを沖縄本島周辺の15離島で配布。新たに9離島を加え、収集目的の来訪者増加を目指す。",
-      "url": "https://www.travelvoice.jp/20261009-160600",
-      "published": "2026-10-09T02:42:48+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "486aa8946a"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "旅行ツーリズムの世界サミットがマルタで開幕、欧州観光は3.2%成長予測、マルタは「量から価値へ」転換",
-      "summary": "WTTC第26回グローバルサミットがマルタで開幕。世界の旅行・観光は11.6兆ドル（約1833兆円）、欧州は2026年に3.1%成長の見通し。開催国マルタは「量から価値へ」を軸に、通年型・高付加価値・持続可能な観光への転換を打ち出した。",
-      "url": "https://www.travelvoice.jp/20261008-160644",
-      "published": "2026-10-08T06:00:14+00:00",
-      "image_url": null,
-      "category": "サステナブル",
-      "topic_group": "976b33d92f"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "エジプト観光大臣に次の一手を聞いた、外国人旅行者の増加に向けた戦略と日本市場への期待",
-      "summary": "エジプトのシェリーフ・ファトヒー・アティーア観光・考古大臣にインタビュー。同国の旅行市場の現状や日本市場への期待を聞いた。",
-      "url": "https://www.travelvoice.jp/20261008-160642",
-      "published": "2026-10-08T07:24:12+00:00",
+      "source": "やまとごころ.jp",
+      "title": "観光地ではない商店街を「泊まる目的地」に。SEKAI HOTEL大阪布施の地域連携",
+      "summary": "大阪府東大阪市の布施商店街。梅田や難波のような観光地ではなく、地元の人々が日々買い物をする、ごく普通の下町の商店街だ。この街の空き家や空き店舗をリノベーションし、街全体を一つのホテルと見立てた分散型宿泊施設「SEKAI …",
+      "url": "https://yamatogokoro.jp/inbound_case/61390/",
+      "published": "2026-10-12T23:00:42+00:00",
       "image_url": null,
       "category": "統計・市場動向",
-      "topic_group": "eb42d34c63"
+      "topic_group": "dab2df9e78"
     },
     {
       "source": "やまとごころ.jp",
@@ -578,24 +588,64 @@
       "topic_group": "b94ab70faa"
     },
     {
-      "source": "やまとごころ.jp",
-      "title": "【9月特集／OT対策Vol.2】なぜ、その取り組みに至ったのか〜世界遺産・白川郷のオーバーツーリズム対策、分析と実行〜",
-      "summary": "訪日客が急増した昨今になって浮上したかに見えるオーバーツーリズム問題だが、有名観光地への観光客の集中によって生じる問題は、これまでも各地で発生してきた。世界遺産・白川郷周辺の渋滞や混雑に長きにわたって向き合ってきた岐阜県…",
-      "url": "https://yamatogokoro.jp/report/61280/",
-      "published": "2026-09-24T23:00:10+00:00",
+      "source": "時事ドットコム",
+      "title": "新たな空港攻撃で１人死亡 イラン、沈静化へ「対話支援」―サウジ",
+      "summary": "",
+      "url": "https://www.jiji.com/jc/article?k=2026101200145&g=int&m=rss",
+      "published": "2026-10-11T23:52:00+00:00",
       "image_url": null,
-      "category": "地域・DMO",
-      "topic_group": "de6635eede"
+      "category": "航空・交通",
+      "topic_group": "392c0b06cd"
     },
     {
-      "source": "時事ドットコム",
-      "title": "空港攻撃で１人死亡 サウジ当局",
-      "summary": "",
-      "url": "https://www.jiji.com/jc/article?k=2026101200154&g=int&m=rss",
-      "published": "2026-10-11T22:42:00+00:00",
-      "image_url": "https://www.jiji.com/img/jijicom_og_image.png",
+      "source": "訪日ラボ",
+      "title": "中国の国慶節連休、出国者数は前年同期比9.3％増 延べ444万人に",
+      "summary": "中国 の国家移民管理局は10月8日、2026年の 国慶節 （建国記念日）連休期間中における全国の出入国者数が延べ1,546万2,000人に達したと発表しました。 [RegistrationWall] 1日平均では延べ220万9,000人となり、前年同期比で6.7％増となりました。期間中の単日ピークは…",
+      "url": "https://honichi.com/news/2026/10/13/china-national-day-2026/?utm_source=rss",
+      "published": "2026-10-13T02:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14764/main_wong-zihoo-KtEFBSpZe4A-unsplash.jpg",
+      "category": "政策・制度",
+      "topic_group": "3a0a990ac6"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "12/2〜4開催「ホスピタリティテックEXPO」業種別の活用ポイント紹介 訪日ラボ読者特典あり（PR）",
+      "summary": "展示会・セミナーなどを主催するR X Japan合同会社は12月2日〜4日、有明GYM-E X （ジメックス）にて「第1回 ホスピタリティテックE X PO」を開催します。 本イベントでは、ホスピタリティ産業（観光・宿泊・飲食）が直面する課題を解決する最新ソリューションを5つのエリアに分けて展示しま…",
+      "url": "https://honichi.com/news/2026/10/13/hospitality_tech_expo_2/?utm_source=rss",
+      "published": "2026-10-13T01:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14740/main_bb238b4354dc4979cb4e47626161e66a.png",
+      "category": "統計・市場動向",
+      "topic_group": "417e3b476c"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "世界遺産「飛鳥・藤原の宮都」を巡る定期観光バスに新コース 通訳案内士と巡る1日コースも",
+      "summary": "奈良交通は、 世界遺産 「飛鳥・藤原の宮都」を巡る定期観光 バス の新コースを10月1日より運行開始しました。 [RegistrationWall] 新コースは 世界遺産 登録を記念したもので、 通訳案内士 と巡る1日コースと、歴史ある町並みの散策も楽しめる半日コースの計2コースです。 1日コースの…",
+      "url": "https://honichi.com/news/2026/10/13/asuka-fujiwara-bus/?utm_source=rss",
+      "published": "2026-10-13T00:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14760/main_AdobeStock_525343258.jpeg",
       "category": "航空・交通",
-      "topic_group": "cb10a3741c"
+      "topic_group": "673bdc2a88"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "秋の高山祭や川越まつり、アイヌの神事まで インバウンド観光客も訪れる日本国内の注目イベントまとめ【2026年10月】",
+      "summary": "秋本番を迎える10月は、全国各地で多彩な祭りが行われ、訪日需要も高まる時期です。 本記事では、日本各地で10月に開催される 訪日外国人 にも人気があるイベントを、訪日ラボコンサルタントが紹介します。 目次 1. まりも祭り まりも祭りの概要 まりも祭りのインバウンド動向 2. 川越まつり 川越まつり…",
+      "url": "https://honichi.com/news/2026/10/13/japan-event-202610/?utm_source=rss",
+      "published": "2026-10-12T23:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14739/main_e6272d313a52ec45aa40fffc3f1d7f27.png",
+      "category": "統計・市場動向",
+      "topic_group": "f1d6c03e9f"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "高知〜台北線、27年3月にチャーター便から定期便化（タイガーエア台湾）",
+      "summary": "高知県 は10月1日、 台湾 の LCC （ 格安航空会社 ） タイ ガーエア 台湾 による台北～高知線の2027年夏ダイヤの運航が決まったと発表しました。 [RegistrationWall] 台北桃園国際空港と高知龍馬空港を結ぶ 直行便 は、2027年3月27日までは定期 チャーター 便として運…",
+      "url": "https://honichi.com/news/2026/10/13/tigerair-kochi-taipei/?utm_source=rss",
+      "published": "2026-10-12T22:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14759/main_AdobeStock_1507159706_Editorial_Use_Only.jpeg",
+      "category": "航空・交通",
+      "topic_group": "4c95bca6e3"
     },
     {
       "source": "訪日ラボ",
@@ -656,56 +706,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14755/main_tripcom-premium-travel_img.jpeg",
       "category": "統計・市場動向",
       "topic_group": "54266c0011"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "JNTO、米国向けに2027年の注目の旅行先を発表 奈良・香川など5県",
-      "summary": "日本 政府観光局 （ JNTO ）ニューヨーク事務所は9月29日、2027年に訪れるべき日本の注目旅行先「WHERE TO GO IN 2027: JAPAN EDITION」を発表しました。 リリースによると、定番の観光地から外れた独自性の高い 都道府県 として、奈良・香川・島根・新潟・神奈川の5…",
-      "url": "https://honichi.com/news/2026/10/08/jnto-destinations-2027/?utm_source=rss",
-      "published": "2026-10-08T00:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14754/main_spenser-sembrat-PQVjANIKUcU-unsplash.jpg",
-      "category": "政策・制度",
-      "topic_group": "0d3ee985e1"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "エア・アスタナが成田～アルマトイ線を開設 日本とカザフスタンを結ぶ初の定期直行便",
-      "summary": "カザフスタン の航空会社であるエア・アスタナは、12月1日より成田～アルマトイ線の運航を開始すると発表しました。 同路線の開設により、日本と カザフスタン を結ぶ初の定期 直行便 が誕生します。 週2便の運航予定で、航空券の販売もすでに開始されています。 関連記事： 成田空港の8月国際線外国人旅客数…",
-      "url": "https://honichi.com/news/2026/10/08/air-astana-narita/?utm_source=rss",
-      "published": "2026-10-07T23:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14753/main_air-astana-narita_img.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "6aca273536"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "大阪の認知度上昇も、独自の魅力発信に課題 今月からナイトタイムエコノミー実証へ【大阪観光局会見】",
-      "summary": "公益財団法人大阪 観光局 は9月30日、定例会見を実施。 大阪府 の観光の概況や最新のグローバル市場調査、 ナイトタイムエコノミー 推進に向けた取り組みなどについて報告しました。 関連記事： 大阪観光局 前回の定例会見（8月） ▲公益財団法人大阪観光局 定例会見の様子：訪日ラボ撮影 目次 8月の大阪…",
-      "url": "https://honichi.com/news/2026/10/08/osaka202609/?utm_source=rss",
-      "published": "2026-10-07T22:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14744/main_IMG_9447.JPG",
-      "category": "統計・市場動向",
-      "topic_group": "86f52b7bc1"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "韓国LCCエアロK航空、松山〜清州線を27年1月に新規就航 経済効果は年間約13億円に",
-      "summary": "愛媛県 は9月30日、 韓国 の LCC （ 格安航空会社 ）エアロK航空が2027年1月2日から松山〜清州線に新規就航すると発表しました。 エアロK航空にとって 四国 初の路線開設となり、今回の新規就航による経済効果は年間約13億円と試算されています。 関連記事： レンタカー利用の訪日客、90.6…",
-      "url": "https://honichi.com/news/2026/10/07/aerok-ehime/?utm_source=rss",
-      "published": "2026-10-07T02:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14751/main_AdobeStock_566064596.jpeg",
-      "category": "航空・交通",
-      "topic_group": "32f9584aab"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "ロンリープラネット「2027年に訪れるべき場所50選」 日本からは沖縄・東北が選出",
-      "summary": "英語 圏を中心に支持を集める旅行 メディア の ロンリープラネット は9月22日、「BEST IN TRAVEL 2027」を発表しました。 このなかで、「2027年に訪れるべき場所50選（50 Best Places to Go in 2027）」として、日本からは沖縄と 東北 が選ばれています。…",
-      "url": "https://honichi.com/news/2026/10/07/lonelyplanet-best-in-travel-2027/?utm_source=rss",
-      "published": "2026-10-07T00:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14749/main_lonelyplanet-best-in-travel-2027_img.jpg",
-      "category": "業界ニュース",
-      "topic_group": "be35bc2c05"
     }
   ]
 }
