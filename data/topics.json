@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T00:19:04.614352+00:00",
+  "updated_at": "2026-10-14T23:55:21.011471+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -179,6 +179,16 @@
     },
     {
       "source": "観光庁",
+      "title": "令和８年度「能登半島地震からの復興に向けた観光再生支援事業」の２次公募における採択結果 観光施設 自治体・DMO 旅行業 宿泊業 交通 その他観光関係者",
+      "summary": "",
+      "url": "https://www.mlit.go.jp/kankocho/kobo06_00091.html",
+      "published": "2026-10-14",
+      "image_url": null,
+      "category": "統計・市場動向",
+      "topic_group": "ade8f876c2"
+    },
+    {
+      "source": "観光庁",
       "title": "令和7年度における「大阪・夢洲地区特定複合観光施設区域の整備に関する計画」の実施の状況の評価について",
       "summary": "",
       "url": "https://www.mlit.go.jp/kankocho/topics11_00007.html",
@@ -195,7 +205,7 @@
       "published": "2026-10-08",
       "image_url": null,
       "category": "統計・市場動向",
-      "topic_group": "b52e6402e0"
+      "topic_group": "ade8f876c2"
     },
     {
       "source": "観光庁",
@@ -205,7 +215,7 @@
       "published": "2026-10-07",
       "image_url": null,
       "category": "統計・市場動向",
-      "topic_group": "b52e6402e0"
+      "topic_group": "ade8f876c2"
     },
     {
       "source": "観光庁",
@@ -225,7 +235,7 @@
       "published": "2026-10-02",
       "image_url": null,
       "category": "統計・市場動向",
-      "topic_group": "b52e6402e0"
+      "topic_group": "ade8f876c2"
     },
     {
       "source": "観光庁",
@@ -369,103 +379,113 @@
     },
     {
       "source": "Travel Voice",
+      "title": "アップルワールド、BtoB戦略の次の一手とは？ 国内ホテル・団体旅行への領域拡大と、AIによる旅行会社支援を聞いた",
+      "summary": "じげん傘下のアップルワールドが旅行BtoB事業を拡大している。深田健史氏に、価格競争とは一線を画すBtoB戦略、国内ホテルの開拓、団体旅行、AI活用まで今後の展望を聞いた。",
+      "url": "https://www.travelvoice.jp/20261014-160669",
+      "published": "2026-10-14T07:23:36+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/50938219-127b-425b-89dd-514520d98cbf.jpg",
+      "category": "宿泊・施設",
+      "topic_group": "a81185b382"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "航空連合ワンワールド、共通オンラインチェックイン機能を導入、複数の加盟航空会社の乗り継ぎをスムーズに",
+      "summary": "ワンワールドは、複数の加盟航空会社を利用するオンライン手続きを簡素化する新たなチェックイン機能を導入。一連のチェックイン手続きをシームレスに。",
+      "url": "https://www.travelvoice.jp/20261014-160670",
+      "published": "2026-10-14T09:06:49+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/6b00b538-e1dc-496c-84b0-94346c0ff2de.jpg",
+      "category": "航空・交通",
+      "topic_group": "fcd26fdb96"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "南極クルーズの日本人旅行者は3年間で倍増、世界から年間10万人超が訪れる極地観光、上質体験とサステナを実現",
+      "summary": "過去3年で利用者が倍増した日本の南極クルーズ市場。極地探検クルーズの老舗HXが強化方針を表明。南極クルーズの仕組みやサービス概要のセミナーを開催。",
+      "url": "https://www.travelvoice.jp/20261006-160485",
+      "published": "2026-10-14T23:21:16+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/572137c8-7fa7-435f-96e4-50e7cabac368.JPG",
+      "category": "統計・市場動向",
+      "topic_group": "8b7aaccd0b"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "日本初のディズニークルーズ、船名が「ディズニー・イマジネーション」に決定、2029年春に東京から就航",
+      "summary": "オリエンタルランドは、日本初のディズニークルーズ船名を「ディズニー・イマジネーション」に決定した。2028年度後半に就航し、劇場のショーや多彩な飲食施設、専用エリア等で独自の体験を提供する。",
+      "url": "https://www.travelvoice.jp/20261014-160675",
+      "published": "2026-10-14T23:25:55+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/28e1bd98-714b-4c5f-980c-67b87f6c919a.jpg",
+      "category": "航空・交通",
+      "topic_group": "aee485ea38"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "JR東日本など鉄道7社、2027年春から磁気きっぷをQR乗車券へ、改札にかざして入出場、2027年春から",
+      "summary": "京成、京急、仙台空港鉄道、東京モノレール、東武、JR東日本、北総鉄道の鉄道7社は2027年春から、発行するきっぷについて、磁気乗車券からQRコードを使用した乗車券（QR乗車券）へ。",
+      "url": "https://www.travelvoice.jp/20261014-160671",
+      "published": "2026-10-14T01:50:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/66507ca0-8300-4d14-bd08-284d3914c114.jpg",
+      "category": "航空・交通",
+      "topic_group": "d745a89612"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "アドベンチャー、skyticketへの不正アクセスで専用電話窓口を開設、二次被害への注意呼びかけ",
+      "summary": "アドベンチャーは、「skyticket」のシステムが第三者による不正アクセスを受け、顧客の個人情報が外部に流出した事案について、顧客専用の問い合わせ窓口を開設。",
+      "url": "https://www.travelvoice.jp/20261014-160677",
+      "published": "2026-10-14T12:53:18+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2023/02/975fdc67-23c9-4019-b7a4-e189e71214a5.jpg",
+      "category": "業界ニュース",
+      "topic_group": "3cbd5b86e4"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "JTBと世界自然保護基金、生物多様性保全と自然体験の両立モデル構築へ、「保全型エコツーリズム」を企業研修に",
+      "summary": "JTBグループとWWFジャパンは、2026年10月から生物多様性推進に向けた協働を開始。貴重な生態系が残る観光地での自然体験と環境保全を両立させるモデルケース構築目指す。",
+      "url": "https://www.travelvoice.jp/20261014-160657",
+      "published": "2026-10-14T01:35:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2024/05/ac4cb775-05ff-42e4-9db1-6f7fc81f76c7.jpg",
+      "category": "地域・DMO",
+      "topic_group": "ce1ae4e536"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "日本旅行業協会、春スキー・スノボの需要喚起へ、旅行会社9社が3月出発商品の早期予約を促進",
+      "summary": "日本旅行業協会は、2027年3月出発のスキー・スノボツアーを対象に旅行会社9社と共同キャンペーンを実施。春スキーのメリットをアピール、早期予約で需要を平準化し、学生らの需要喚起も。",
+      "url": "https://www.travelvoice.jp/20261014-160649",
+      "published": "2026-10-14T01:30:09+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/9eaa203e-b121-4a80-90c5-24160b43247c.png",
+      "category": "統計・市場動向",
+      "topic_group": "fe3c8caa83"
+    },
+    {
+      "source": "Travel Voice",
       "title": "DMO登録ガイドライン見直しの理由とは？ 制度を所管する「観光地域振興課」の取り組みを聞いてきた ―観光庁・課長インタビューシリーズ",
       "summary": "観光庁の課長インタビューシリーズ。今回は、DMO登録制度を所管する観光地域振興課の田中課長に、ガイドライン改正の意図と、自走する観光地域づくりへの取り組みを取材した。",
       "url": "https://www.travelvoice.jp/20261013-160655",
       "published": "2026-10-13T08:14:30+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/8262f1ca-a1a7-49ac-a559-62d8deb1995b.jpg",
+      "image_url": null,
       "category": "政策・制度",
       "topic_group": "10a3e7fe82"
     },
     {
       "source": "Travel Voice",
-      "title": "北海道・ニセコの倶知安町、2026年度の宿泊税収は8億円の見込み、無料バスから住民優待まで、DMOが進める住民への還元",
+      "title": "北海道・ニセコエリアの倶知安観光協会トップに聞いた、「声が上がってからでは遅い」、財源確保と住民還元の巧み、課題を先読み",
       "summary": "世界的なスノーリゾートに成長した北海道・倶知安町。倶知安観光協会は、宿泊税を財源に二次交通や住民向け施策を展開する。「DMOのMはマーケティングではなくマネジメント」と語る鈴木紀彦事務局長が、観光による地域経営と住民還元、課題を先取りするDMOの役割を語った。",
       "url": "https://www.travelvoice.jp/20261013-160590",
-      "published": "2026-10-13T20:36:35+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/f57d0bc3-afe3-419b-a867-cf7e3d8d016d.JPG",
-      "category": "統計・市場動向",
-      "topic_group": "2772cc05ff"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "フィジー政府観光局、日本市場で旅行会社と連携強化へ、教育旅行の開拓やプロ育成を本格始動",
-      "summary": "フィジー政府観光局は、旅行15社との連携強化やプログラム刷新を発表。来日したパントCEOに、日本市場の成長に向けた最新施策と今後のねらいを聞いた。",
-      "url": "https://www.travelvoice.jp/20261002-160400",
-      "published": "2026-10-13T20:42:37+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/0d20e192-7cc6-4818-9042-07bdf2936a1f.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "281f975e9d"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "群馬県、「ご当地Suica」移行へ準備本格化、住民向け交通割引や来訪者の交通検索・予約を便利に",
-      "summary": "群馬県は、「ご当地Suica」移行に伴う「GunMaaS」プロモーション業務委託について公募を開始。JR東日本が推進する「ご当地Suica」とはモバイルSuicaに地域独自のMaaSと生活サービスを一体化したもの。",
-      "url": "https://www.travelvoice.jp/20261013-160653",
-      "published": "2026-10-13T01:50:10+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/a61a87c9-eb5d-4ef1-85e8-c8abbbe61088.jpg",
-      "category": "政策・制度",
-      "topic_group": "1f3172f0b3"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "ゼンリンなど5社、沖縄の観光周遊を支援、観光アプリで交通・観光チケットを販売、移動データ分析も",
-      "summary": "ゼンリンら5社が連携し、沖縄県那覇・浦添エリアで観光DXを推進。アプリ「STLOCAL」でモノレールやバス、観光施設などのデジタルチケット販売。観光情報提供やスタンプラリーで周遊促進。",
-      "url": "https://www.travelvoice.jp/20261013-160618",
-      "published": "2026-10-13T01:45:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/296f5dc6-cedd-49ee-a4dc-d4a16e911fda.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "feac1b6bb4"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "ANAとJR西日本、インバウンド向け経路検索と鉄道予約を連携、経路検索から決済までスムーズに",
-      "summary": "訪日外国人向けのANA MaaSプラットフォームサービス「Travel CUBE」とJR西日本の訪日外国人向けインターネット予約サービス「JR-WEST ONLINE TRAIN RESERVATION」が連携を開始。",
-      "url": "https://www.travelvoice.jp/20261013-160667",
-      "published": "2026-10-13T01:40:07+00:00",
-      "image_url": null,
-      "category": "航空・交通",
-      "topic_group": "ba2645ee31"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "中国銀行、海外富裕層向けの観光体験を開発へ、倉敷エリアで名庭めぐりやデニム作り、販売体制も構築",
-      "summary": "中国銀行が、岡山県倉敷エリアで地域資源を活用した高付加価値観光コンテンツの開発を開始。海外富裕層の誘客を目指し、2027年以降の旅行商品販売を目指す。観光庁事業に採択。",
-      "url": "https://www.travelvoice.jp/20261013-160659",
-      "published": "2026-10-13T01:35:07+00:00",
-      "image_url": null,
-      "category": "地域・DMO",
-      "topic_group": "2b6fb0404a"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "北海道ファイターズ、AI旅行予約サービスの運営会社と資本業務提携、Fビレッジへのインバウンド誘客を強化",
-      "summary": "ファイターズ スポーツ＆エンターテイメント（FSE）は、AIワンストップ旅行予約サービス「TripToJapan.com」を展開する高輪トラベルグループと資本業務提携契約。Fビレッジへのインバウンド集客を強化していく。",
-      "url": "https://www.travelvoice.jp/20261009-160652",
-      "published": "2026-10-13T04:27:50+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/fa73e669-7a4f-453f-8ed8-192e447d4c0f.jpg",
-      "category": "AI・デジタル",
-      "topic_group": "4e135d2da6"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "山形・鶴岡がユネスコ「食文化創造都市」に認定された理由、ガストロノミーツーリズムを育てた料理人と地域の力【コラム】",
-      "summary": "ガストロノミーツーリズム最前線を柏原光太郎氏が解説。山形県鶴岡市とイタリア料理店「アル・ケッチァーノ」の歩みから、地域ぐるみで食を観光資源に育てる仕組みを考察。",
-      "url": "https://www.travelvoice.jp/20261009-160601",
-      "published": "2026-10-12T23:55:52+00:00",
-      "image_url": null,
-      "category": "地域・DMO",
-      "topic_group": "13cb2ce7d3"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "民泊エアビー、高級宿泊施設の取り組み再強化か、チェスキーCEOがホスト向けサミットで明らかに【外電】",
-      "summary": "米観光産業ニュース「Skift」によると、エアビーアンドビー（Airbnb）が再び高級宿泊施設市場への参入を強化。「Airbnb Luxe（ラックス）」プログラムあるいはそれに似たサービスの再開する動きを見せているという。",
-      "url": "https://www.travelvoice.jp/20261009-160654",
-      "published": "2026-10-09T11:27:31+00:00",
+      "published": "2026-10-14T00:19:40+00:00",
       "image_url": null,
       "category": "統計・市場動向",
-      "topic_group": "af1efe050e"
+      "topic_group": "4e43b26561"
+    },
+    {
+      "source": "やまとごころ.jp",
+      "title": "サステナブル観光は「測る」ことから始まる AIカーボン計算機「Humí」と世界の事例から考える、観光の脱炭素化【セミナーレポ】",
+      "summary": "気候変動への対応が世界的な課題となるなか、観光業界でもCO2排出量を把握し、具体的な削減行動につなげることが求められています。しかし、旅行には航空、宿泊、食事、現地交通、アクティビティなど多くの要素が含まれ、「何がどれだ…",
+      "url": "https://yamatogokoro.jp/column/inbound-seminarreport/61343/",
+      "published": "2026-10-14T23:00:04+00:00",
+      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/09/20250828_seminar.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "30fe6e4fad"
     },
     {
       "source": "やまとごころ.jp",
@@ -473,7 +493,7 @@
       "summary": "インフルエンサーを招き、地域や施設の魅力を発信してもらう。訪日プロモーションでは、おなじみの手法になりました。一方で、「フォロワーの多い人を呼んだのに、思ったほど見られなかった」「投稿はされたけれど、結局何が残ったのかわ…",
       "url": "https://yamatogokoro.jp/column/shiitakecreative-diversity/61446/",
       "published": "2026-10-13T23:00:14+00:00",
-      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/10/image3-1.jpg",
+      "image_url": null,
       "category": "政策・制度",
       "topic_group": "c27283462a"
     },
@@ -578,24 +598,54 @@
       "topic_group": "92d1054b38"
     },
     {
-      "source": "やまとごころ.jp",
-      "title": "2026年上半期の世界観光客数6.9億人、前年比0.4％増 Q2は1％減、通年見通しも下方修正",
-      "summary": "国連世界観光機関（UN Tourism）が発表した最新の「世界観光指標（World Tourism Barometer）」によると、2026年1〜6月の国際観光客到着数は推定6億9000万人となり、前年同期比0.4％増、…",
-      "url": "https://yamatogokoro.jp/inbound_data/61294/",
-      "published": "2026-09-28T23:00:22+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "412cf5ffcd"
-    },
-    {
       "source": "時事ドットコム",
-      "title": "「世界のニセコ」で何が起きている？◆外国人客が変えた街の姿 2026年09月30日",
+      "title": "「世界のニセコ」で何が起きている？◆外国人客が変えた街の姿 2026年10月14日",
       "summary": "",
-      "url": "https://www.jiji.com/jc/v8?id=20260930keizai",
+      "url": "https://www.jiji.com/jc/v8?id=20261014keizai",
       "published": null,
       "image_url": null,
       "category": "業界ニュース",
-      "topic_group": "c1aa9f5a1f"
+      "topic_group": "5f83c659b6"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "日本が「世界で最も魅力的な国」米国版で4年連続1位、英国版は2位 米旅行誌",
+      "summary": "大手旅行雑誌「 コンデナスト・トラベラー 」が10月6日に発表した読者投票 ランキング 「リーダーズ・チョイス・アワード」 米国 版において、日本が「世界で最も魅力的な国」として4年連続で1位に選出されました。 また、同日に発表された英国版 ランキング においても、日本は2位という高い評価を獲得して…",
+      "url": "https://honichi.com/news/2026/10/15/condenast-traveler-japan2026/?utm_source=rss",
+      "published": "2026-10-14T23:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14767/main_spenser-sembrat-vlUceP_3T6I-unsplash.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "86bb273b1f"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "名護市内の移動手段不足と地域課題の解消へ Limeなど5者が観光モビリティに関する包括連携協定を締結",
+      "summary": "Limeは10月6日、 沖縄県 名護市、名護市観光協会、名護経済特区スマートシティ推進機構、沖縄 JTB の4者と「名護市における持続可能な観光モビリティインフラの構築及び地域創生に関する包括連携協定」を締結しました。 本協定では、各者の知見やネットワークを活かし、交通・観光課題の解決と回遊性向上を…",
+      "url": "https://honichi.com/news/2026/10/15/lime-nago-mobility-agreement/?utm_source=rss",
+      "published": "2026-10-14T22:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14766/main_main.jpg",
+      "category": "航空・交通",
+      "topic_group": "a9c2954fff"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "ルフトハンザグループ、2027年夏ダイヤで日本路線を大幅拡充 週最大50便に",
+      "summary": "ドイツ の航空大手ルフトハンザグループは10月6日、2027年夏期スケジュールより日本発着路線を大幅に拡充し、日本と欧州を結ぶフライトをグループ全体で週最大50便に拡大すると発表しました。 [RegistrationWall] ルフトハンザ ドイツ 航空は、2027年3月29日よりフランクフルト～名…",
+      "url": "https://honichi.com/news/2026/10/14/lufthansa-group-japan-flights-2027/?utm_source=rss",
+      "published": "2026-10-14T02:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14763/main_nagoya_castle.jpeg",
+      "category": "航空・交通",
+      "topic_group": "191af2b1c2"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "アメリカ・ポートランドの観光案内所を視察 地域との共存、DMOのあり方など日本の観光産業が学べる点は？【ココが違う！海外DMOのリアル vol.7】",
+      "summary": "連載：ココが違う！海外 DMO のリアル 北米 を中心とした海外 DMO の事情に詳しい公益社団法人 日本観光振興協会 大須賀氏より、海外 DMO の「リアルな取り組み」をお届けしていく連載。 海外 DMO との違いから日本の DMO における課題をあぶり出すとともに、今後取るべき方針や具体的な施策…",
+      "url": "https://honichi.com/news/2026/10/14/north-america-dmo_7/?utm_source=rss",
+      "published": "2026-10-14T01:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14750/main_north-america-dmo_7_08.jpg",
+      "category": "政策・制度",
+      "topic_group": "9075c1173e"
     },
     {
       "source": "訪日ラボ",
@@ -666,46 +716,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14760/main_AdobeStock_525343258.jpeg",
       "category": "航空・交通",
       "topic_group": "673bdc2a88"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "秋の高山祭や川越まつり、アイヌの神事まで インバウンド観光客も訪れる日本国内の注目イベントまとめ【2026年10月】",
-      "summary": "秋本番を迎える10月は、全国各地で多彩な祭りが行われ、訪日需要も高まる時期です。 本記事では、日本各地で10月に開催される 訪日外国人 にも人気があるイベントを、訪日ラボコンサルタントが紹介します。 目次 1. まりも祭り まりも祭りの概要 まりも祭りのインバウンド動向 2. 川越まつり 川越まつり…",
-      "url": "https://honichi.com/news/2026/10/13/japan-event-202610/?utm_source=rss",
-      "published": "2026-10-12T23:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14739/main_e6272d313a52ec45aa40fffc3f1d7f27.png",
-      "category": "統計・市場動向",
-      "topic_group": "f1d6c03e9f"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "高知〜台北線、27年3月にチャーター便から定期便化（タイガーエア台湾）",
-      "summary": "高知県 は10月1日、 台湾 の LCC （ 格安航空会社 ） タイ ガーエア 台湾 による台北～高知線の2027年夏ダイヤの運航が決まったと発表しました。 [RegistrationWall] 台北桃園国際空港と高知龍馬空港を結ぶ 直行便 は、2027年3月27日までは定期 チャーター 便として運…",
-      "url": "https://honichi.com/news/2026/10/13/tigerair-kochi-taipei/?utm_source=rss",
-      "published": "2026-10-12T22:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14759/main_AdobeStock_1507159706_Editorial_Use_Only.jpeg",
-      "category": "航空・交通",
-      "topic_group": "4c95bca6e3"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "【2026年最新】銀座で外国人に人気のホテル・旅館TOP10！ミレニアム 三井ガーデンホテル 東京は第3位、1位は？",
-      "summary": "訪日ラボが最新の 口コミ データを元に 独自調査 ・発表している『 インバウンド 人気 ホテル ・ 旅館 ランキング 』。全国の 宿泊施設 に寄せられた 口コミ をもとに、 訪日客 の注目施設や人気の理由を分析しています。 本記事ではその中から、 【2026年最新版】外国人に人気の ホテル ・ 旅館…",
-      "url": "https://honichi.com/news/2026/10/09/202610_inboundranking_hotel_ginza/?utm_source=rss",
-      "published": "2026-10-09T03:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14752/main_Ginza_slide_01.png",
-      "category": "統計・市場動向",
-      "topic_group": "526c0738c3"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "クリスマスの航空券、最安で買えるのは56日前 Googleが5年分のデータを分析",
-      "summary": "Google は10月5日、2026年のホリデーシーズンに向けた旅行のトレンドとヒントを公表しました。 Google フライトの過去5年分の集計データをもとに、 アメリカ 発の航空券が最安となる購入時期や、ホリデーシーズンに向け検索数が伸びている旅行先を紹介しています。 データによると、感謝祭の航空…",
-      "url": "https://honichi.com/news/2026/10/09/google-flight-trend-2026/?utm_source=rss",
-      "published": "2026-10-09T01:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14758/main_google-flight-trend-2026_img.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "c04b4d165f"
     }
   ]
 }
