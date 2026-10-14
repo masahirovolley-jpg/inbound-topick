@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T02:35:03.698857+00:00",
+  "updated_at": "2026-10-14T00:19:04.614352+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -33,7 +33,7 @@
       "summary": "",
       "url": "https://www.jnto.go.jp/news/info/post_53.html",
       "published": "2026-10-13T00:54:00+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "3a53b300f5"
     },
@@ -369,13 +369,33 @@
     },
     {
       "source": "Travel Voice",
-      "title": "フィジー政府観光局CEOに日本市場戦略を聞いてきた、旅行会社との連携拡大、個人旅行と教育旅行に注力",
+      "title": "DMO登録ガイドライン見直しの理由とは？ 制度を所管する「観光地域振興課」の取り組みを聞いてきた ―観光庁・課長インタビューシリーズ",
+      "summary": "観光庁の課長インタビューシリーズ。今回は、DMO登録制度を所管する観光地域振興課の田中課長に、ガイドライン改正の意図と、自走する観光地域づくりへの取り組みを取材した。",
+      "url": "https://www.travelvoice.jp/20261013-160655",
+      "published": "2026-10-13T08:14:30+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/8262f1ca-a1a7-49ac-a559-62d8deb1995b.jpg",
+      "category": "政策・制度",
+      "topic_group": "10a3e7fe82"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "北海道・ニセコの倶知安町、2026年度の宿泊税収は8億円の見込み、無料バスから住民優待まで、DMOが進める住民への還元",
+      "summary": "世界的なスノーリゾートに成長した北海道・倶知安町。倶知安観光協会は、宿泊税を財源に二次交通や住民向け施策を展開する。「DMOのMはマーケティングではなくマネジメント」と語る鈴木紀彦事務局長が、観光による地域経営と住民還元、課題を先取りするDMOの役割を語った。",
+      "url": "https://www.travelvoice.jp/20261013-160590",
+      "published": "2026-10-13T20:36:35+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/f57d0bc3-afe3-419b-a867-cf7e3d8d016d.JPG",
+      "category": "統計・市場動向",
+      "topic_group": "2772cc05ff"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "フィジー政府観光局、日本市場で旅行会社と連携強化へ、教育旅行の開拓やプロ育成を本格始動",
       "summary": "フィジー政府観光局は、旅行15社との連携強化やプログラム刷新を発表。来日したパントCEOに、日本市場の成長に向けた最新施策と今後のねらいを聞いた。",
       "url": "https://www.travelvoice.jp/20261002-160400",
-      "published": "2026-10-13T01:50:08+00:00",
+      "published": "2026-10-13T20:42:37+00:00",
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/0d20e192-7cc6-4818-9042-07bdf2936a1f.jpg",
       "category": "統計・市場動向",
-      "topic_group": "7bd5bc8795"
+      "topic_group": "281f975e9d"
     },
     {
       "source": "Travel Voice",
@@ -403,7 +423,7 @@
       "summary": "訪日外国人向けのANA MaaSプラットフォームサービス「Travel CUBE」とJR西日本の訪日外国人向けインターネット予約サービス「JR-WEST ONLINE TRAIN RESERVATION」が連携を開始。",
       "url": "https://www.travelvoice.jp/20261013-160667",
       "published": "2026-10-13T01:40:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2025/06/44e62ec2-0493-4c6b-b5d8-facec7817002.jpg",
+      "image_url": null,
       "category": "航空・交通",
       "topic_group": "ba2645ee31"
     },
@@ -413,9 +433,19 @@
       "summary": "中国銀行が、岡山県倉敷エリアで地域資源を活用した高付加価値観光コンテンツの開発を開始。海外富裕層の誘客を目指し、2027年以降の旅行商品販売を目指す。観光庁事業に採択。",
       "url": "https://www.travelvoice.jp/20261013-160659",
       "published": "2026-10-13T01:35:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/26858560-9643-43ac-ae15-2efb94b56226.png",
+      "image_url": null,
       "category": "地域・DMO",
       "topic_group": "2b6fb0404a"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "北海道ファイターズ、AI旅行予約サービスの運営会社と資本業務提携、Fビレッジへのインバウンド誘客を強化",
+      "summary": "ファイターズ スポーツ＆エンターテイメント（FSE）は、AIワンストップ旅行予約サービス「TripToJapan.com」を展開する高輪トラベルグループと資本業務提携契約。Fビレッジへのインバウンド集客を強化していく。",
+      "url": "https://www.travelvoice.jp/20261009-160652",
+      "published": "2026-10-13T04:27:50+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/fa73e669-7a4f-453f-8ed8-192e447d4c0f.jpg",
+      "category": "AI・デジタル",
+      "topic_group": "4e135d2da6"
     },
     {
       "source": "Travel Voice",
@@ -423,7 +453,7 @@
       "summary": "ガストロノミーツーリズム最前線を柏原光太郎氏が解説。山形県鶴岡市とイタリア料理店「アル・ケッチァーノ」の歩みから、地域ぐるみで食を観光資源に育てる仕組みを考察。",
       "url": "https://www.travelvoice.jp/20261009-160601",
       "published": "2026-10-12T23:55:52+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/23a99ab6-40a5-4772-acab-cd3aa161af1b.jpg",
+      "image_url": null,
       "category": "地域・DMO",
       "topic_group": "13cb2ce7d3"
     },
@@ -438,34 +468,14 @@
       "topic_group": "af1efe050e"
     },
     {
-      "source": "Travel Voice",
-      "title": "北海道ファイターズ、AI旅行予約サービスの運営会社と資本業務提携、Fビレッジへのインバウンド誘客を強化",
-      "summary": "ファイターズ スポーツ＆エンターテイメント（FSE）は、AIワンストップ旅行予約サービス「TripToJapan.com」を展開する高輪トラベルグループと資本業務提携契約。Fビレッジへのインバウンド集客を強化していく。",
-      "url": "https://www.travelvoice.jp/20261009-160652",
-      "published": "2026-10-12T23:56:40+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/fa73e669-7a4f-453f-8ed8-192e447d4c0f.jpg",
-      "category": "AI・デジタル",
-      "topic_group": "4e135d2da6"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "中国・大型連休「国慶節」、海外旅行の実績は長距離路線（ロングホール）が活況、平均旅行日数は9日超",
-      "summary": "ロイター通信によると、2026年の国慶節休暇（2026年10月1日から7日）の中国の国内旅行者は延べ8億2600万人となり、総旅行支出額は7383億8000万元（約17兆円）に。",
-      "url": "https://www.travelvoice.jp/20261009-160666",
-      "published": "2026-10-13T00:05:50+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/fec9ac76-6bfe-44aa-a095-7b7d7649422c.JPG",
-      "category": "航空・交通",
-      "topic_group": "3d45beb523"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "国交省、大阪IRのインバウンド誘致に具体策求める、プロモーションと変化するニーズへの対応で",
-      "summary": "国土交通省は、大阪・夢洲IRの2025年度の計画実施状況を評価。詳細設計の完了や建設工事の着手に一定の評価を示す一方、需要推計の精緻化や訪日客向け集客施策の具体化、変化するニーズに応じた見直しの必要性を指摘した。",
-      "url": "https://www.travelvoice.jp/20261009-160656",
-      "published": "2026-10-09T12:01:20+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "20a3e66f3c"
+      "source": "やまとごころ.jp",
+      "title": "インフルエンサー招聘は人選だけではない、クリエイターと共につくるための5つのポイント",
+      "summary": "インフルエンサーを招き、地域や施設の魅力を発信してもらう。訪日プロモーションでは、おなじみの手法になりました。一方で、「フォロワーの多い人を呼んだのに、思ったほど見られなかった」「投稿はされたけれど、結局何が残ったのかわ…",
+      "url": "https://yamatogokoro.jp/column/shiitakecreative-diversity/61446/",
+      "published": "2026-10-13T23:00:14+00:00",
+      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/10/image3-1.jpg",
+      "category": "政策・制度",
+      "topic_group": "c27283462a"
     },
     {
       "source": "やまとごころ.jp",
@@ -578,24 +588,54 @@
       "topic_group": "412cf5ffcd"
     },
     {
-      "source": "やまとごころ.jp",
-      "title": "外国人旅行者に人気の「キャナルシティ博多」、開業30年の積み重ねをひも解く",
-      "summary": "ある訪日旅行ビジネスサイトの「インバウンド人気商業施設ランキング」で1位になったことから、全国的にも改めて注目を集めた「キャナルシティ博多」。開業30周年を迎え、施設のリニューアルが立て続けに行われ、賑わいを増している。…",
-      "url": "https://yamatogokoro.jp/column/inbound-kyushu/61298/",
-      "published": "2026-09-27T23:00:37+00:00",
+      "source": "時事ドットコム",
+      "title": "「世界のニセコ」で何が起きている？◆外国人客が変えた街の姿 2026年09月30日",
+      "summary": "",
+      "url": "https://www.jiji.com/jc/v8?id=20260930keizai",
+      "published": null,
       "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "b94ab70faa"
+      "category": "業界ニュース",
+      "topic_group": "c1aa9f5a1f"
     },
     {
-      "source": "時事ドットコム",
-      "title": "新たな空港攻撃で１人死亡 イラン、沈静化へ「対話支援」―サウジ",
-      "summary": "",
-      "url": "https://www.jiji.com/jc/article?k=2026101200145&g=int&m=rss",
-      "published": "2026-10-11T23:52:00+00:00",
-      "image_url": null,
-      "category": "航空・交通",
-      "topic_group": "392c0b06cd"
+      "source": "訪日ラボ",
+      "title": "「観光クロスオーバーサミット2026」が大阪で開催 観光アイデアのコンテストで6組が受賞",
+      "summary": "観光クロスオーバー協会と二地域居住共創協会は8月22日、大阪のナレッジシアターにて「観光クロスオーバーサミット2026」を開催しました。 本イベントでは、ゲストによるトークセッションのほか、日本の観光をアップデートするアイデアを表彰する「観光クロスオーバーコンテスト」も開催されました。 目次 「観光…",
+      "url": "https://honichi.com/news/2026/10/14/kankou-xover2026/?utm_source=rss",
+      "published": "2026-10-14T00:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14682/main_IMG_3025.JPG",
+      "category": "地域・DMO",
+      "topic_group": "5f0232172c"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "【今週の注目記事5選】2027年は最長10連休？インドネシア政府、来年の祝日を発表 ほか",
+      "summary": "訪日ラボ編集部です。本シリーズでは、 この1週間に公開した記事の中から、 インバウンド 担当者が読んでおきたい注目の記事 を厳選してお届けします。 最新トレンドの把握や、 マーケティング 活動にぜひともご活用ください。 目次 今週の注目記事5選 1. インドネシア、2027年の祝日を発表 レバラン休…",
+      "url": "https://honichi.com/news/2026/10/14/weekmatome_20261014/?utm_source=rss",
+      "published": "2026-10-13T23:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14765/main_72e8ce718cff78bce867efd78e2b0ea6.png",
+      "category": "政策・制度",
+      "topic_group": "a23ee0fcb3"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "京都市、多言語サイトやSNS・事業者連携で観光マナー啓発へ 新施策「KYOTO TOURISTSHIP」開始",
+      "summary": "京都市 と 京都市 観光協会は10月1日、観光 マナー の周知・啓発の新たな取り組み「KYOTO TOURISTSHIP」を開始しました。 本取り組みでは、「旅する人も、住む人も、心地よい京都へ」を掲げ、専用ウェブサイトの開設、紙媒体とデジタル媒体による周知などにより、国内外の旅行者へ マナー 向上…",
+      "url": "https://honichi.com/news/2026/10/14/kyoto-touristship/?utm_source=rss",
+      "published": "2026-10-13T22:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14761/main_yoshihiro-DTNA1LLNMnc-unsplash.jpg",
+      "category": "AI・デジタル",
+      "topic_group": "8c73603582"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "AIツール推奨商品の購買率は60%！アパレル購買におけるAI利用実態レポート",
+      "summary": "訪日ラボでは消費者アンケートを実施し、業界ごとに 独自調査 レポートを発表しています。 今回は「アパレル購買」をテーマに、 AI ツールがどの程度、どんな方法で活用されているのかを調査しました。 ＜本レポートでご覧いただける内容＞ アパレル購買に利用する情報媒体 AIツールの使われ方・影響力 情報整…",
+      "url": "https://honichi.com/news/2026/10/13/202610_survey_retail_ai/?utm_source=rss",
+      "published": "2026-10-13T04:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14747/main_e1a67f197529c443d9c6aa7b3c85f50e.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "323973c102"
     },
     {
       "source": "訪日ラボ",
@@ -666,46 +706,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14758/main_google-flight-trend-2026_img.jpg",
       "category": "統計・市場動向",
       "topic_group": "c04b4d165f"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "観光のリーダー人材を育成するKLP塾が大阪で開講 大阪府知事も登壇",
-      "summary": "観光・ホスピタリティ業界の次世代リーダーを育成する「KLP塾」が8月8日、大阪にて開講しました。 観光を地域経済、文化、食、エンターテインメント、教育など、あらゆる産業を横断する成長領域としてとらえ、地域・日本の未来を担う人材の輩出を目指します。 KLP塾は、12月までに計10回実施される予定です。…",
-      "url": "https://honichi.com/news/2026/10/09/kankou_leadership_platform/?utm_source=rss",
-      "published": "2026-10-09T00:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14683/main_793899893_2593794521095668_6324015198063281536_n.jpg",
-      "category": "地域・DMO",
-      "topic_group": "89ecb68bc7"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "【10月1週 人気記事】旅行・観光開発指数、日本が1位に ほか｜インバウンドニュース週間アクセスTOP5",
-      "summary": "この1週間でアクセス数が多かった、 インバウンドニュース の ランキング を発表します！ 見逃している記事があれば、この機会にぜひご覧ください。 目次 週間アクセスランキング トップ5 1位. 旅行・観光開発指数、日本が1位に 訪日客の国籍多様化や地方分散が評価 2位. 神戸空港、8月は国内・国際線…",
-      "url": "https://honichi.com/news/2026/10/09/accessranking_20261009/?utm_source=rss",
-      "published": "2026-10-08T23:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14757/main_7c7ae2a6a28c635eba81e508fc145a6e.png",
-      "category": "統計・市場動向",
-      "topic_group": "09a46a38ee"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "Airbnb、知人との旅行共有やAI検索などの新機能を追加 2026年秋アップデートを発表",
-      "summary": "Airbnb Japan株式会社は10月1日、旅行の計画や現地での滞在をサポートする新機能を盛り込んだ「2026秋季アップデート」を発表しました。 今回のアップデートでは、知人との旅情報の共有機能をはじめ、 AI を活用した検索やカスタマーサポート、現地での各種 サービス 拡充、ホスト向けツールの追…",
-      "url": "https://honichi.com/news/2026/10/09/airbnb-2026-fall-update/?utm_source=rss",
-      "published": "2026-10-08T22:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14756/main_main.png",
-      "category": "AI・デジタル",
-      "topic_group": "af72248245"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "世界で予約されている5つ星ホテルトップ10のうち4軒は日本 Trip. comがプレミアム旅行需要レポートを発表",
-      "summary": "Trip.com グループは9月3日、プレミアム旅行に対する需要の高まりを示すレポートを発表しました。 2026年上半期の Trip.com におけるファーストクラスおよびビジネスクラスの航空券のグローバル検索数は前年同期比99％増、5つ星 ホテル の検索数は同57％増となり、世界的な検索数が増加し…",
-      "url": "https://honichi.com/news/2026/10/08/tripcom-premium-travel/?utm_source=rss",
-      "published": "2026-10-08T01:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14755/main_tripcom-premium-travel_img.jpeg",
-      "category": "統計・市場動向",
-      "topic_group": "54266c0011"
     }
   ]
 }
