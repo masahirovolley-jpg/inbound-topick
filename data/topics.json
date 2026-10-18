@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T23:08:22.276243+00:00",
+  "updated_at": "2026-10-18T23:13:41.624494+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -413,7 +413,7 @@
       "summary": "楽天グループ、タイミー、LIFULLおよび三井住友海上火災保険の4社は、二地域居住の推進に向けた新たな連携を開始。12自治体の対象宿泊施設向けに「楽天トラベル」の宿泊割引クーポン。",
       "url": "https://www.travelvoice.jp/20261016-160634",
       "published": "2026-10-16T01:46:08+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/2194b9ff-e679-4190-bc8c-6fe7082b7b13.jpg",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "02f992f136"
     },
@@ -466,6 +466,16 @@
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/6c2f3d44-83df-440c-8ba2-1f0df5f23e8e.JPG",
       "category": "統計・市場動向",
       "topic_group": "168a2c7fd1"
+    },
+    {
+      "source": "やまとごころ.jp",
+      "title": "「こんな町に外国人が来るなんて」70代女性が始めた民泊が、三重県の小さな漁師町を変え始めた",
+      "summary": "三重県南部、熊野灘に面する紀北町。かつて漁業で栄えた紀伊長島地区には、多くの商店や飲食店が軒を連ね、人々でにぎわった時代があった。この町で生まれ育った山岡敏子さんは、「昔は映画館もいくつもあったんですよ。でも今はシャッタ…",
+      "url": "https://yamatogokoro.jp/column/minpaku_localexperience/61463/",
+      "published": "2026-10-18T23:00:06+00:00",
+      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/10/image3-2.jpg",
+      "category": "宿泊・施設",
+      "topic_group": "428e679ab1"
     },
     {
       "source": "やまとごころ.jp",
@@ -578,16 +588,6 @@
       "topic_group": "1814d523df"
     },
     {
-      "source": "やまとごころ.jp",
-      "title": "【9月特集／OT対策Vol.3】「分散」のその先へ。観光と地域の関係をどう設計するか",
-      "summary": "オーバーツーリズムへの対応として、観光客の分散や混雑情報の提供、マナー啓発など、旅行者の行動に働きかける取り組みが各地で進められている。こうした施策を効果的に実施するには、旅行者とどこで接点を持ち、どのような情報を伝える…",
-      "url": "https://yamatogokoro.jp/report/61330/",
-      "published": "2026-09-29T23:00:28+00:00",
-      "image_url": null,
-      "category": "地域・DMO",
-      "topic_group": "92d1054b38"
-    },
-    {
       "source": "時事ドットコム",
       "title": "「世界のニセコ」で何が起きている？◆外国人客が変えた街の姿 2026年10月14日",
       "summary": "",
@@ -596,6 +596,16 @@
       "image_url": null,
       "category": "業界ニュース",
       "topic_group": "5f83c659b6"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "Googleマップが10都市の最新フードトレンド・人気レストランを公開 東京では餅人気が躍進",
+      "summary": "Google は10月8日、世界10都市の最新フードトレンドと人気レストランを公開しました。 Googleマップ のレビュー・評価・経路検索などの集計データから、世界中の人々がどんな料理を求めているのかを明らかにしています。 目次 3つの最新フードトレンド 1. 東京では餅が人気 2. 抹茶が各地で…",
+      "url": "https://honichi.com/news/2026/10/19/google-maps-fan-favorite-dining-list/?utm_source=rss",
+      "published": "2026-10-18T23:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14769/main_Dining_Fan_Favorite_hero_v2.width-1600.format-webp.webp",
+      "category": "統計・市場動向",
+      "topic_group": "6ed6eb3b31"
     },
     {
       "source": "訪日ラボ",
@@ -696,16 +706,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14766/main_main.jpg",
       "category": "航空・交通",
       "topic_group": "a9c2954fff"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "ルフトハンザグループ、2027年夏ダイヤで日本路線を大幅拡充 週最大50便に",
-      "summary": "ドイツ の航空大手ルフトハンザグループは10月6日、2027年夏期スケジュールより日本発着路線を大幅に拡充し、日本と欧州を結ぶフライトをグループ全体で週最大50便に拡大すると発表しました。 [RegistrationWall] ルフトハンザ ドイツ 航空は、2027年3月29日よりフランクフルト～名…",
-      "url": "https://honichi.com/news/2026/10/14/lufthansa-group-japan-flights-2027/?utm_source=rss",
-      "published": "2026-10-14T02:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14763/main_nagoya_castle.jpeg",
-      "category": "航空・交通",
-      "topic_group": "191af2b1c2"
     }
   ]
 }
