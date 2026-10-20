@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T00:21:09.431378+00:00",
+  "updated_at": "2026-10-20T23:53:19.064265+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -29,6 +29,16 @@
   "articles": [
     {
       "source": "JNTO",
+      "title": "入札等公告情報を更新しました",
+      "summary": "",
+      "url": "https://www.jnto.go.jp/news/info/post_1.html",
+      "published": "2026-10-20T01:00:00+00:00",
+      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "category": "業界ニュース",
+      "topic_group": "898dc392c8"
+    },
+    {
+      "source": "JNTO",
       "title": "キャリア採用（専門職）を募集しています※11月24日（火）まで",
       "summary": "",
       "url": "https://www.jnto.go.jp/news/info/20261016.html",
@@ -46,16 +56,6 @@
       "image_url": null,
       "category": "業界ニュース",
       "topic_group": "7802a12537"
-    },
-    {
-      "source": "JNTO",
-      "title": "入札等公告情報を更新しました",
-      "summary": "",
-      "url": "https://www.jnto.go.jp/news/info/post_1.html",
-      "published": "2026-10-15T06:52:00+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "898dc392c8"
     },
     {
       "source": "JNTO",
@@ -99,13 +99,13 @@
     },
     {
       "source": "JNTO",
-      "title": "【再掲】【10/21（水）開催】JNTO地域セミナー 「作るだけでは終わらせない 地域資源を売れる体験商品へ変えるために」 セミナー参加者募集（締切：10/20（火）17:00）",
+      "title": "【募集終了】【10/21（水）開催】JNTO地域セミナー 「作るだけでは終わらせない 地域資源を売れる体験商品へ変えるために」 セミナー参加者募集（締切：10/20（火）17:00）",
       "summary": "",
       "url": "https://www.jnto.go.jp/news/expo-seminar/1021jnto_10201700_1.html",
       "published": "2026-10-09T04:30:00+00:00",
       "image_url": null,
       "category": "地域・DMO",
-      "topic_group": "3189f6d273"
+      "topic_group": "9325c47194"
     },
     {
       "source": "JNTO",
@@ -369,13 +369,83 @@
     },
     {
       "source": "Travel Voice",
-      "title": "猛暑時代の観光商品をどう設計するか、地理学から読み解く「暑さへの応答」【コラム】",
-      "summary": "猛暑時代の観光商品をどう設計するかを地理学から読み解いたコラム。暑さに対して土地の人々が積み重ねてきた「応答」という視点を解説。",
-      "url": "https://www.travelvoice.jp/20261019-160377",
-      "published": "2026-10-19T07:26:41+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2021/06/e6a9ad9e-9ccf-4706-8b4d-58df57d7573e.jpg",
-      "category": "業界ニュース",
-      "topic_group": "0fe600556f"
+      "title": "ホテルの現場経験から生まれたAI宿泊管理システムとは？ SQUEEZEが実践する施設運営とテクノロジーの融合、利益最大化の手法を聞いてきた（PR）",
+      "summary": "（PR）AIで宿泊運営はどう変わるのか。ホテル運営とシステム開発を手がけるSQUEEZEに、AIで収益最大化を図り、人の力を高めていく現場起点の実践を聞いた。",
+      "url": "https://www.travelvoice.jp/20261020-160673",
+      "published": "2026-10-20T07:24:24+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/8441af08-f232-45f1-8e12-ac8d70644f07.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "bd5132e3bd"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "旅行のAI対応、まず重要なのは情報をAIに「読ませる」こと、宿泊施設の情報発信と「人」の価値を議論 ―ブッキング・ドットコム",
+      "summary": "ブッキング・ドットコムが、「イノベーション・サミット 2026」を開催。AIテクノロジー、フィンテック、サイバーセキュリティなどについて議論を深めた。",
+      "url": "https://www.travelvoice.jp/20261020-160555",
+      "published": "2026-10-20T21:46:22+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/b52f2200-b7c7-4ce8-a771-4cf5090b3940.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "1f433c3b43"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "観光地の「交通空白」をどう解消するか？ 交流で消費を生む移動と、DMOが担うライドシェアの実践を聞いた",
+      "summary": "ツーリズムEXPOジャパン2026で開催された「交通空白」の解消に向けたツーリズム・プロフェッショナル・セミナーで、具体的な取り組み事例が紹介されるとともに、将来の課題解決に向けて意見を交換した。",
+      "url": "https://www.travelvoice.jp/20261020-160645",
+      "published": "2026-10-20T01:50:08+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/224f76e3-795a-4d88-a140-05421139649a.jpg",
+      "category": "航空・交通",
+      "topic_group": "22ee89e95e"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "西武・プリンス、宿泊の新ブランド発表、ヴィラに特化、最上位は259平米の専属バトラー付き",
+      "summary": "西武・プリンスホテルズワールドワイドは、新ブランド「VILLA PRINCE（ヴィラプリンス）」の創設。第1号は軽井沢プリンスホテルを改修し2027年7月開業。",
+      "url": "https://www.travelvoice.jp/20261020-160702",
+      "published": "2026-10-20T17:22:45+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/2ffb528f-968e-42da-8b1b-13cd3de77964.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "e7ec174a2e"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "長期滞在型ホテルのセクションL、3ブランド体制で事業拡大、東京・京都・熊本で新規開発",
+      "summary": "長期滞在型ホテルを運営するセクションL（セクションエル）は、同社のホテル事業を包括する名称を「Eave Hospitality（イーブ・ホスピタリティ）」に。新たに2つのブランドも立ち上げ。",
+      "url": "https://www.travelvoice.jp/20261020-160701",
+      "published": "2026-10-20T01:40:08+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/ccbbe827-1a23-4672-8826-1e65d52bbfcf.jpeg",
+      "category": "宿泊・施設",
+      "topic_group": "b1aad9e2ab"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "SQUEEZE、東京・両国にアパートメントホテル「Minn 両国」を開業、不動産投資会社との協業で",
+      "summary": "SQUEEZE（スクイーズ）は、アパートメントホテル「Minn 両国」を2026年12月に東京都墨田区に開業。RS Investment Managementとの包括業務提携に基づくプロジェクトとして。",
+      "url": "https://www.travelvoice.jp/20261020-160691",
+      "published": "2026-10-20T01:38:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/18c67e3c-ddfe-43cf-8671-e8f1a4484858.jpg",
+      "category": "宿泊・施設",
+      "topic_group": "2b80fa4bf3"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "海外富裕層向け旅行のエクスペリサス、食のプロデュース企業の株式を取得、地域文化の体験開発と発信を強化",
+      "summary": "海外富裕層向けの観光事業を展開するエクスペリサスは、ONESTORY社の株式を取得。食を中心とした地域の魅力を世界に発信していく。",
+      "url": "https://www.travelvoice.jp/20261020-160687",
+      "published": "2026-10-20T01:35:08+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/2323d731-e410-4421-8e8d-0e8c6c86a18b.jpg",
+      "category": "地域・DMO",
+      "topic_group": "d596b74dc7"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "JTB、地銀グループのひろぎんHDと観光振興で連携、瀬戸内で2028年秋にクルーズ実証へ",
+      "summary": "JTBとひろぎんホールディングスは、「街づくりと観光振興の推進に関する連携協定書」を締結。せとうちの多島美や周遊など地域資源を活用したクルーズ事業の実証実験を実施する。",
+      "url": "https://www.travelvoice.jp/20261020-160686",
+      "published": "2026-10-20T01:30:08+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/c9cd7aac-d3a1-474b-b036-91e01e86bed6.jpeg",
+      "category": "航空・交通",
+      "topic_group": "83f4b0e06b"
     },
     {
       "source": "Travel Voice",
@@ -383,89 +453,29 @@
       "summary": "ロイター通信は、内戦が終結したシリアでの観光投資についてリポート。欧米や中東の企業がホテル開発を検討中。海外在住シリア人の帰国や外国人観光客が増えると期待。",
       "url": "https://www.travelvoice.jp/20261020-160672",
       "published": "2026-10-19T07:23:33+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/9acd7a2a-5514-401e-b2fb-125c7e5da26e.jpeg",
+      "image_url": null,
       "category": "航空・交通",
       "topic_group": "d647f9f751"
     },
     {
       "source": "Travel Voice",
-      "title": "2027年に注目の4つの旅行トレンド、「童心に返る旅」や「1泊2日の旅」など、人気上昇の旅先では兵庫県が世界第2位に ―エクスペディア",
+      "title": "2027年の4つの旅行トレンド発表、「童心に返る旅」や「1泊2日の旅」など、人気上昇の旅先では兵庫県が世界第2位に ―エクスペディア",
       "summary": "エクスペディア・グループは、2027年の旅行トレンド予測「Unpack ’27」を発表。2027年の注目旅行先ランキングでは兵庫県が世界第2位に。4つの注目トレンドも紹介。",
       "url": "https://www.travelvoice.jp/20261019-160681",
-      "published": "2026-10-19T02:32:37+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/d60bfd58-bc4c-4c97-adb9-938c6ad41b6e.jpeg",
-      "category": "統計・市場動向",
-      "topic_group": "ec3a4e7134"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "台湾観光庁、企業のインセンティブ旅行を地方部へ誘致、花蓮・台東・離島などの宿泊に追加助成、1人最大約2万円",
-      "summary": "台湾観光庁がインセンティブ旅行の地方宿泊の増加へ追加助成を実施。地方の多様な魅力・体験を組み込んだプランを後押し、台北への一極集中の打開をはかる。",
-      "url": "https://www.travelvoice.jp/20261019-160696",
-      "published": "2026-10-19T01:50:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2023/12/5d888881-dab1-4dfb-a0f6-3b6ca04d20dd.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "2d9efff5c8"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "ANAグループ、本社機能を八重洲に移転、2030年春に社員の交流を促す新オフィスで組織力向上へ",
-      "summary": "ANAホールディングスおよび全日本空輸（ANA）は、本社機能を、2030年春頃をめどに「八重洲二丁目中地区第一種市街地再開発事業（YAESU CORE）」へ移転。",
-      "url": "https://www.travelvoice.jp/20261019-160690",
-      "published": "2026-10-19T01:45:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2019/01/stockfoto_78124209_S.jpg",
-      "category": "業界ニュース",
-      "topic_group": "ef9f39511c"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "【人事】JTB、人事異動を発表 ―2026年11月1日付",
-      "summary": "JTBが、2026年11月1日付の人事異動を発表。",
-      "url": "https://www.travelvoice.jp/20261019-160697",
-      "published": "2026-10-19T01:38:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2022/01/5b3077c5-5e10-4d45-898d-5de1599a4264.jpg",
-      "category": "業界ニュース",
-      "topic_group": "a36f5ee870"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "奈良ホテル本館、国の重要文化財指定へ、明治後期の建築、歴史的価値を評価",
-      "summary": "1909年に竣工・開業した「奈良ホテル本館」が、文化審議会の答申（2026年10月16日）を受け、重要文化財（建造物）として指定されることになった。",
-      "url": "https://www.travelvoice.jp/20261019-160694",
-      "published": "2026-10-19T01:35:07+00:00",
-      "image_url": null,
-      "category": "宿泊・施設",
-      "topic_group": "12df19f0a0"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "兵庫・姫路市で「世界歴史都市会議」、15カ国35都市が参加予定、文化遺産の保存と活用を議論",
-      "summary": "兵庫県姫路市は「第20回世界歴史都市会議」を11月に開催。各国の文化遺産を未来につなぐ取り組みを議論・共有し、「姫路宣言」を発表へ。",
-      "url": "https://www.travelvoice.jp/20261019-160674",
-      "published": "2026-10-19T01:30:08+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "a827e6d342"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "世界のタビナカ市場、2029年に55兆円規模に、年間6％の成長予測、一方でネット予約は3割【外電】",
-      "summary": "タビナカの国際会議を主催するArival（アライバル）と旅行調査会社Phocuswright（フォーカスライト）が共同レポート「トラベル体験2026」を発表。タビナカ市場の成長予測を考察。",
-      "url": "https://www.travelvoice.jp/20261005-160422",
-      "published": "2026-10-19T00:28:27+00:00",
+      "published": "2026-10-20T00:36:57+00:00",
       "image_url": null,
       "category": "統計・市場動向",
-      "topic_group": "d81577a41b"
+      "topic_group": "499cf486c8"
     },
     {
-      "source": "Travel Voice",
-      "title": "ホスピタリティ・パッケージとは？ 2028年ロス五輪でも観戦券とラウンジ食事をセットに、日本の旅行会社向けの販売強化を聞いてきた",
-      "summary": "2028年ロス五輪（LA28）の開幕まで2年を切った。LA28ホスピタリティ・パッケージを販売するOn Locationのプレジデントにその中身や日本市場への期待などについて聞いた。",
-      "url": "https://www.travelvoice.jp/20261016-160441",
-      "published": "2026-10-18T23:22:18+00:00",
-      "image_url": null,
+      "source": "やまとごころ.jp",
+      "title": "【連載#3】誰に、どんな価値を届ける？ DMC／ツアーオペレーターのマーケティング戦略",
+      "summary": "連載第2回では、訪日旅行市場を「距離」の観点からショートホールとロングホールに分け、それぞれの市場特性と、自社の強みを生かした事業領域の見極め方について解説しました。今回はDMC／ツアーオペレーターのマーケティング戦略に…",
+      "url": "https://yamatogokoro.jp/column/local-tourism/61496/",
+      "published": "2026-10-20T23:00:02+00:00",
+      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/10/image1-2.jpg",
       "category": "統計・市場動向",
-      "topic_group": "79cd9083e2"
+      "topic_group": "90b6629c91"
     },
     {
       "source": "やまとごころ.jp",
@@ -473,7 +483,7 @@
       "summary": "インバウンドの旅ナカ現場を実際に体験し、その人気の理由を探る本連載。今回は、訪日外国人向けのフードツアーなどを展開するNinja Food Toursが、新宿・大久保エリアで提供している「Sake Tasting Mas…",
       "url": "https://yamatogokoro.jp/column/experience-report/61456/",
       "published": "2026-10-19T23:00:37+00:00",
-      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/10/IMG_5571.jpg",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "10d87e2c6c"
     },
@@ -578,16 +588,6 @@
       "topic_group": "bba4f42b21"
     },
     {
-      "source": "やまとごころ.jp",
-      "title": "2026年7月訪日宿泊6.5％減の1331万人泊、福島73.1％増で伸び率全国トップ",
-      "summary": "観光庁が発表した2026年7月の宿泊旅行統計（第二次速報）によると、外国人延べ宿泊者数は前年同月比6.5％減の1331万人泊となった。6月の14.0％減から減少幅は縮小した。 三大都市圏では9.2％減となった一方、地方部…",
-      "url": "https://yamatogokoro.jp/inbound_data/61366/",
-      "published": "2026-09-30T23:00:04+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "1618cdcd54"
-    },
-    {
       "source": "時事ドットコム",
       "title": "「世界のニセコ」で何が起きている？◆外国人客が変えた街の姿 2026年10月14日",
       "summary": "",
@@ -598,14 +598,34 @@
       "topic_group": "5f83c659b6"
     },
     {
-      "source": "時事ドットコム",
-      "title": "成田新滑走路、３４年末完成へ 用地取得難航で延期―空港会社",
-      "summary": "",
-      "url": "https://www.jiji.com/jc/article?k=2026101900724&g=eco",
-      "published": "2026-10-19T17:15:00+09:00",
-      "image_url": "https://www.jiji.com/news2/kiji_photos/202610/20261019ds65_o.jpg",
+      "source": "訪日ラボ",
+      "title": "兵庫県が世界の注目旅行先2位に、エクスペディアが2027年の旅行トレンド「Unpack ’27」を発表",
+      "summary": "エクスペディア ・グループは10月15日、2027年の旅行トレンド「Unpack ’27」を発表しました。 今回の発表では、2027年の旅行トレンドとして「注目旅行先」「童心に返る旅」「ロケ地巡り旅」の3つが挙げられており、「注目旅行先」では、 兵庫県 が世界2位に選出されています。 本レポートは …",
+      "url": "https://honichi.com/news/2026/10/21/expedia-unpack27/?utm_source=rss",
+      "published": "2026-10-20T23:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14786/main_yuan-yang-QChjdvXaqk4-unsplash.jpg",
+      "category": "業界ニュース",
+      "topic_group": "e2d8ea1f18"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "エア・インディア、2027年2月より関西～デリー線を開設 羽田に次ぐ日本2都市目",
+      "summary": "インド の航空会社エア・インディアは、2027年2月2日より インド の首都デリーと大阪（ 関西国際空港 ）を結ぶ 直行便 を新たに就航すると発表しました。これにより、同区間を結ぶ 直行便 を運航する唯一の航空会社となります。 [RegistrationWall] 同路線は週4往復の運航で、機材はボ…",
+      "url": "https://honichi.com/news/2026/10/21/airindia-delhi-kansai/?utm_source=rss",
+      "published": "2026-10-20T22:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14783/main_daniel-eledut-lzbjrgnfklE-unsplash.jpg",
       "category": "航空・交通",
-      "topic_group": "3399700e11"
+      "topic_group": "359f0a7f42"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "奈良・明日香村、次世代モビリティでオーバーツーリズム対策の実証事業開始 世界遺産登録による訪日客急増に備え",
+      "summary": "電動モビリティ事業を展開するBRJは10月14日、 奈良県 明日香村において次世代モビリティを活用した オーバーツーリズム 対策の実証事業を開始したことを発表しました。 同村を含む「飛鳥・藤原の宮都」の世界 文化遺産 登録決定に伴い、今後増加が予想される 訪日外国人観光客 を念頭に置いた取り組みです…",
+      "url": "https://honichi.com/news/2026/10/20/asuka-mobility-overtourism/?utm_source=rss",
+      "published": "2026-10-20T01:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14782/main_sub1.jpg",
+      "category": "サステナブル",
+      "topic_group": "19e05000c7"
     },
     {
       "source": "訪日ラボ",
@@ -686,36 +706,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14770/main_webinar_bnr_20261022_hlab.png",
       "category": "AI・デジタル",
       "topic_group": "3529df562e"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "インバウンド対応、意欲層は参入済みか GREEN×EXPO 2027への取り組みは地域差も【第5回インバウンド客受入拡大に向けた意識調査結果】",
-      "summary": "日本旅行業協会 （ JATA ）は9月、第5回「 インバウンド 旅行客受入拡大に向けた意識調査」のアンケート分析結果を発表しました。 本調査は、2026年6月～8月にかけて実施されたもので、 インバウンド 受入に関する最新動向や課題、政府計画への認知などについて聞いています。 前回調査： 第4回意識…",
-      "url": "https://honichi.com/news/2026/10/16/JATA-investigation-5/?utm_source=rss",
-      "published": "2026-10-16T00:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14700/main_guillermo-perez-E-OmtTu2S5U-unsplash.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "649db0511e"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "【10月3週 人気記事】Trip. comがプレミアム旅行に関するレポートを発表 ほか｜インバウンドニュース週間アクセスTOP5",
-      "summary": "この1週間でアクセス数が多かった、 インバウンドニュース の ランキング を発表します！ 見逃している記事があれば、この機会にぜひご覧ください。 目次 週間アクセスランキング トップ5 1位. 世界で予約されている5つ星ホテルトップ10のうち4軒は日本 Trip. comがプレミアム旅行需要レポート…",
-      "url": "https://honichi.com/news/2026/10/16/accessranking_20261016/?utm_source=rss",
-      "published": "2026-10-15T23:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14775/main_8923c74488e5f91005af9ae19ac6dda0.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "4ef120bfb4"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "観光庁、大阪・夢洲IR計画の2025年度評価を公表 訪日客誘致の具体化を要求",
-      "summary": "観光庁 は10月9日、大阪・夢洲地区における 統合型リゾート （ IR ）の整備計画について、2025年度における実施状況の評価結果を公表しました。 公表された資料によると、 観光庁 は各 IR 施設をはじめとする設備の詳細設計が完了し、建設工事に着手していることを確認し、目標の達成に向けて計画が進…",
-      "url": "https://honichi.com/news/2026/10/16/osaka-ir-evaluation2025/?utm_source=rss",
-      "published": "2026-10-15T22:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14772/main_pichai-sodsai-E_JLhd4yIKI-unsplash.jpg",
-      "category": "業界ニュース",
-      "topic_group": "be36af5bec"
     }
   ]
 }
