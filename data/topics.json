@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T23:53:19.064265+00:00",
+  "updated_at": "2026-10-22T00:00:35.424407+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -29,11 +29,51 @@
   "articles": [
     {
       "source": "JNTO",
+      "title": "訪日外客数（2026年9月推計値）",
+      "summary": "※ 本リリースは国土交通記者会・交通運輸記者会に配布しております。 9月の訪日外客数は3,103,700人で、前年同月比5.0%減となったものの、韓国、メキシコ、中東地域など7市場で9月として過去最高を記録した。 アジア競技大会が愛知県で開催され、選手や関係者による訪日があった一方、中東情勢による航…",
+      "url": "https://www.jnto.go.jp/news/press/20261021_monthly.html",
+      "published": "2026-10-21T07:15:00+00:00",
+      "image_url": null,
+      "category": "統計・市場動向",
+      "topic_group": "eb0b4f95d9"
+    },
+    {
+      "source": "JNTO",
+      "title": "『ユニバーサル・クールジャパン 2027』開催決定 第一弾は「美少女戦士セーラームーン」【合同会社ユー・エス・ジェイ】",
+      "summary": "",
+      "url": "https://www.jnto.go.jp/news/members/_2027.html",
+      "published": "2026-10-21T05:06:14+00:00",
+      "image_url": null,
+      "category": "業界ニュース",
+      "topic_group": "531a721f8f"
+    },
+    {
+      "source": "JNTO",
+      "title": "『NO LIMIT! カウントダウン 2027 ～Discover U!!!～』【合同会社ユー・エス・ジェイ】",
+      "summary": "",
+      "url": "https://www.jnto.go.jp/news/members/no_limit_2027_discover_u.html",
+      "published": "2026-10-21T04:45:53+00:00",
+      "image_url": null,
+      "category": "業界ニュース",
+      "topic_group": "c336be7ec4"
+    },
+    {
+      "source": "JNTO",
+      "title": "オープンカウンター方式による調達情報を更新しました",
+      "summary": "",
+      "url": "https://www.jnto.go.jp/news/info/post_53.html",
+      "published": "2026-10-21T00:54:00+00:00",
+      "image_url": null,
+      "category": "業界ニュース",
+      "topic_group": "3a53b300f5"
+    },
+    {
+      "source": "JNTO",
       "title": "入札等公告情報を更新しました",
       "summary": "",
       "url": "https://www.jnto.go.jp/news/info/post_1.html",
       "published": "2026-10-20T01:00:00+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "898dc392c8"
     },
@@ -56,16 +96,6 @@
       "image_url": null,
       "category": "業界ニュース",
       "topic_group": "7802a12537"
-    },
-    {
-      "source": "JNTO",
-      "title": "オープンカウンター方式による調達情報を更新しました",
-      "summary": "",
-      "url": "https://www.jnto.go.jp/news/info/post_53.html",
-      "published": "2026-10-13T00:54:00+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "3a53b300f5"
     },
     {
       "source": "JNTO",
@@ -148,34 +178,14 @@
       "topic_group": "3000ddeb86"
     },
     {
-      "source": "JNTO",
-      "title": "豪州・英国で好評を博した相撲エンタメショー「The Sumo Show HIRAKUZA」2027年1月、国際スノーリゾート・白馬で初公演決定！【株式会社阪神コンテンツリンク】",
+      "source": "観光庁",
+      "title": "インバウンド消費動向調査2026年７-９月期（１次速報）の結果について",
       "summary": "",
-      "url": "https://www.jnto.go.jp/news/members/the_sumo_show_hirakuza20271.html",
-      "published": "2026-10-05T02:09:35+00:00",
+      "url": "https://www.mlit.go.jp/kankocho/news02_00104.html",
+      "published": "2026-10-21",
       "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "1a51e58523"
-    },
-    {
-      "source": "JNTO",
-      "title": "JNTOハノイ事務所 訪日旅行セミナー・商談会（ホーチミン）への セラー参加者募集（申込締め切り：10/23）",
-      "summary": "",
-      "url": "https://www.jnto.go.jp/news/expo-seminar/jnto_1023.html",
-      "published": "2026-10-02T04:30:00+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "814b46b3ec"
-    },
-    {
-      "source": "JNTO",
-      "title": "JNTOバンコク事務所運営 「タイ旅行会社向け情報発信サイト」 日本側登録団体 新規・継続登録のご案内（締切：10/30（金）18:00）",
-      "summary": "",
-      "url": "https://www.jnto.go.jp/news/expo-seminar/jnto_10301800.html",
-      "published": "2026-10-02T04:30:00+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "033b6eeac8"
+      "category": "統計・市場動向",
+      "topic_group": "c996d5efae"
     },
     {
       "source": "観光庁",
@@ -269,16 +279,6 @@
     },
     {
       "source": "観光庁",
-      "title": "タンザニア連合共和国アシャトゥ・キジャジ天然資源・観光大臣、ザンジバル ムドリーク・ラマダン・ソラガ観光・文化遺産大臣代行による木村観光庁長官への表敬訪問",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/topics03_00060.html",
-      "published": "2026-10-01",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "0a4911034c"
-    },
-    {
-      "source": "観光庁",
       "title": "宿泊旅行統計調査（2026年8月・第1次速報、2026年7月・第2次速報）",
       "summary": "",
       "url": "https://www.mlit.go.jp/kankocho/news02_00102.html",
@@ -358,14 +358,94 @@
       "topic_group": "0f28d2c80d"
     },
     {
-      "source": "観光庁",
-      "title": "地域と企業の連携による「観光の足」の課題解決事例を 紹介するセミナーを開催します～参加者募集のお知らせ～",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/news08_00050.html",
-      "published": "2026-08-28",
+      "source": "Travel Voice",
+      "title": "観光振興で求められる「KPI」と「KGI」とは？ DMO制度改正から考える地域経営のあり方【コラム】",
+      "summary": "東京都立大学観光科学科の清水教授によるコラム。今回は、観光庁が改正したDMO登録制度のガイドラインをもとに、KGI・KPIマネジメントの課題を考察。",
+      "url": "https://www.travelvoice.jp/20261021-160614",
+      "published": "2026-10-21T08:38:26+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2022/12/b30433de-a2a8-425e-9b2e-820ab8e639b2.png",
+      "category": "政策・制度",
+      "topic_group": "4562a6ea4a"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "【図解】日本人出国者数、2026年9月は6.3％増の148万人、3カ月ぶりに前年超え、2019年比では15.4％減 ―日本政府観光局（速報）",
+      "summary": "日本政府観光局（JNTO）によると、2026年9月の日本人出国者数（推計値）は148万人。3カ月ぶりに前年実績を上回った。",
+      "url": "https://www.travelvoice.jp/20261021-160713",
+      "published": "2026-10-21T08:34:43+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/03/012bf4be-dc45-43bb-8e5a-f243fb0813d6.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "20e2b53322"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "【図解】訪日外国人数、2026年9月は5％減の310万人、2カ月連続の前年割れ、累計では3000万人突破 ―日本政府観光局（速報）",
+      "summary": "2026年9月の訪日インバウンド客数は5.0％減の310万人。16市場で前年割れに。1～9月までの累計は2.9％減で推移。",
+      "url": "https://www.travelvoice.jp/20261021-160712",
+      "published": "2026-10-21T08:30:58+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2024/01/a2ea1a64-9ce2-4a4e-8de2-5982f8e0aeb5.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "20e2b53322"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "インバウンド消費額、2026年7～9月は3.2％増の2.2兆円、トップは台湾、中国は約4割減",
+      "summary": "2026年7～9月期の訪日外国人旅行消費額は前年同期比3.2％増の2.2兆円。市場別では台湾が首位となり、中国は約4割減少。1人当たり旅行支出は6.1％増の23.4万円で、フランスが最も高かった。",
+      "url": "https://www.travelvoice.jp/20261021-160711",
+      "published": "2026-10-21T08:13:45+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2025/04/faa7cd7d-0268-47a7-a61c-5ff0fa9e80c5.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "1c35f1df78"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "羽田・成田・那覇空港で消費税のセルフ還付サービス、約1分で日本円の現金受け取り、11月開始の新免税制度に対応",
+      "summary": "日本空港ビルらは、2026年11月より羽田・成田・那覇空港で消費税セルフ還付サービスを開始する。新制度に対応し、端末操作により約1分で消費税を現金受領できる環境を整備し利便性を向上させる。",
+      "url": "https://www.travelvoice.jp/20261021-160714",
+      "published": "2026-10-21T09:14:17+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/0b89a59a-9acb-46ca-a1b7-8f712625bc2e.jpg",
+      "category": "政策・制度",
+      "topic_group": "f76078ec35"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "共通ポイントの利用トップは楽天、2位はPayPay、ポイント経済圏を意識する人は6割超 ―MMD研究所",
+      "summary": "MMD研究所が、2026年7月のポイント経済圏サービス利用に関する調査結果を発表。現在活用している共通ポイントは、楽天ポイントが58.8％でトップ。ポイント経済圏を意識している人は62.6％。",
+      "url": "https://www.travelvoice.jp/20261021-160492",
+      "published": "2026-10-21T01:45:07+00:00",
       "image_url": null,
-      "category": "地域・DMO",
-      "topic_group": "689a8fce1e"
+      "category": "統計・市場動向",
+      "topic_group": "c4e1ab3977"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "ホテル内レストランの電話予約をAIで完結、変更・キャンセルも、100言語以上でメニュー指定も可能に、ナツメグとテーブルチェックが連携",
+      "summary": "NutmegLabs Japanは、レストラン予約プラットフォーム「TableCheck（テーブルチェック）」とAPI連携。AI電話オペレーターがホテル内レストランの予約に対応。",
+      "url": "https://www.travelvoice.jp/20261021-160705",
+      "published": "2026-10-21T01:40:08+00:00",
+      "image_url": null,
+      "category": "宿泊・施設",
+      "topic_group": "a8d6fb8ae7"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "AI旅行計画アプリで「もう1か所」の訪問を後押し、熊本市で観光周遊の実証開始、バス時刻表と連動してルート提案",
+      "summary": "Plaru社は熊本国際観光コンベンション協会と連携し、AI旅行計画アプリ「ぷらる」を活用した実証事業を熊本市で開始。利用者の興味や滞在時間に応じてルート提案、「もう1か所」への訪問後押し。",
+      "url": "https://www.travelvoice.jp/20261021-160658",
+      "published": "2026-10-21T09:17:10+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/a3dacf68-c895-44d8-86bf-475a2415c63f.jpg",
+      "category": "AI・デジタル",
+      "topic_group": "5a315a42eb"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "旅行のAI対応、まず重要なのは情報をAIに「読ませる」こと、宿泊施設の情報発信と「人」の価値を議論 ―ブッキング・ドットコム",
+      "summary": "ブッキング・ドットコムが、「イノベーション・サミット 2026」を開催。AIテクノロジー、フィンテック、サイバーセキュリティなどについて議論を深めた。",
+      "url": "https://www.travelvoice.jp/20261020-160555",
+      "published": "2026-10-21T02:55:10+00:00",
+      "image_url": null,
+      "category": "統計・市場動向",
+      "topic_group": "1f433c3b43"
     },
     {
       "source": "Travel Voice",
@@ -373,99 +453,19 @@
       "summary": "（PR）AIで宿泊運営はどう変わるのか。ホテル運営とシステム開発を手がけるSQUEEZEに、AIで収益最大化を図り、人の力を高めていく現場起点の実践を聞いた。",
       "url": "https://www.travelvoice.jp/20261020-160673",
       "published": "2026-10-20T07:24:24+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/8441af08-f232-45f1-8e12-ac8d70644f07.jpg",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "bd5132e3bd"
     },
     {
-      "source": "Travel Voice",
-      "title": "旅行のAI対応、まず重要なのは情報をAIに「読ませる」こと、宿泊施設の情報発信と「人」の価値を議論 ―ブッキング・ドットコム",
-      "summary": "ブッキング・ドットコムが、「イノベーション・サミット 2026」を開催。AIテクノロジー、フィンテック、サイバーセキュリティなどについて議論を深めた。",
-      "url": "https://www.travelvoice.jp/20261020-160555",
-      "published": "2026-10-20T21:46:22+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/b52f2200-b7c7-4ce8-a771-4cf5090b3940.jpg",
+      "source": "やまとごころ.jp",
+      "title": "2026年9月訪日客数5.0％減の310万人、航空券高騰や台風などの影響で多くの市場が前年割れ",
+      "summary": "日本政府観光局（JNTO）が発表した2026年9月の訪日外国人旅行者数（推計値）は310万3700人で、前年同月比5.0％減となった。8月の9.6％減からマイナス幅は縮小したものの、2カ月連続で前年同月を下回った。 中国…",
+      "url": "https://yamatogokoro.jp/inbound_data/61542/",
+      "published": "2026-10-21T23:00:49+00:00",
+      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/10/yosuke-ota-RxwIZFnPhgA-unsplash.jpg",
       "category": "統計・市場動向",
-      "topic_group": "1f433c3b43"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "観光地の「交通空白」をどう解消するか？ 交流で消費を生む移動と、DMOが担うライドシェアの実践を聞いた",
-      "summary": "ツーリズムEXPOジャパン2026で開催された「交通空白」の解消に向けたツーリズム・プロフェッショナル・セミナーで、具体的な取り組み事例が紹介されるとともに、将来の課題解決に向けて意見を交換した。",
-      "url": "https://www.travelvoice.jp/20261020-160645",
-      "published": "2026-10-20T01:50:08+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/224f76e3-795a-4d88-a140-05421139649a.jpg",
-      "category": "航空・交通",
-      "topic_group": "22ee89e95e"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "西武・プリンス、宿泊の新ブランド発表、ヴィラに特化、最上位は259平米の専属バトラー付き",
-      "summary": "西武・プリンスホテルズワールドワイドは、新ブランド「VILLA PRINCE（ヴィラプリンス）」の創設。第1号は軽井沢プリンスホテルを改修し2027年7月開業。",
-      "url": "https://www.travelvoice.jp/20261020-160702",
-      "published": "2026-10-20T17:22:45+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/2ffb528f-968e-42da-8b1b-13cd3de77964.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "e7ec174a2e"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "長期滞在型ホテルのセクションL、3ブランド体制で事業拡大、東京・京都・熊本で新規開発",
-      "summary": "長期滞在型ホテルを運営するセクションL（セクションエル）は、同社のホテル事業を包括する名称を「Eave Hospitality（イーブ・ホスピタリティ）」に。新たに2つのブランドも立ち上げ。",
-      "url": "https://www.travelvoice.jp/20261020-160701",
-      "published": "2026-10-20T01:40:08+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/ccbbe827-1a23-4672-8826-1e65d52bbfcf.jpeg",
-      "category": "宿泊・施設",
-      "topic_group": "b1aad9e2ab"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "SQUEEZE、東京・両国にアパートメントホテル「Minn 両国」を開業、不動産投資会社との協業で",
-      "summary": "SQUEEZE（スクイーズ）は、アパートメントホテル「Minn 両国」を2026年12月に東京都墨田区に開業。RS Investment Managementとの包括業務提携に基づくプロジェクトとして。",
-      "url": "https://www.travelvoice.jp/20261020-160691",
-      "published": "2026-10-20T01:38:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/18c67e3c-ddfe-43cf-8671-e8f1a4484858.jpg",
-      "category": "宿泊・施設",
-      "topic_group": "2b80fa4bf3"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "海外富裕層向け旅行のエクスペリサス、食のプロデュース企業の株式を取得、地域文化の体験開発と発信を強化",
-      "summary": "海外富裕層向けの観光事業を展開するエクスペリサスは、ONESTORY社の株式を取得。食を中心とした地域の魅力を世界に発信していく。",
-      "url": "https://www.travelvoice.jp/20261020-160687",
-      "published": "2026-10-20T01:35:08+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/2323d731-e410-4421-8e8d-0e8c6c86a18b.jpg",
-      "category": "地域・DMO",
-      "topic_group": "d596b74dc7"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "JTB、地銀グループのひろぎんHDと観光振興で連携、瀬戸内で2028年秋にクルーズ実証へ",
-      "summary": "JTBとひろぎんホールディングスは、「街づくりと観光振興の推進に関する連携協定書」を締結。せとうちの多島美や周遊など地域資源を活用したクルーズ事業の実証実験を実施する。",
-      "url": "https://www.travelvoice.jp/20261020-160686",
-      "published": "2026-10-20T01:30:08+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/c9cd7aac-d3a1-474b-b036-91e01e86bed6.jpeg",
-      "category": "航空・交通",
-      "topic_group": "83f4b0e06b"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "内戦終結後のシリアに、ホテルや不動産企業が進出計画、航空路線拡大も、観光は復興の目玉になるか？",
-      "summary": "ロイター通信は、内戦が終結したシリアでの観光投資についてリポート。欧米や中東の企業がホテル開発を検討中。海外在住シリア人の帰国や外国人観光客が増えると期待。",
-      "url": "https://www.travelvoice.jp/20261020-160672",
-      "published": "2026-10-19T07:23:33+00:00",
-      "image_url": null,
-      "category": "航空・交通",
-      "topic_group": "d647f9f751"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "2027年の4つの旅行トレンド発表、「童心に返る旅」や「1泊2日の旅」など、人気上昇の旅先では兵庫県が世界第2位に ―エクスペディア",
-      "summary": "エクスペディア・グループは、2027年の旅行トレンド予測「Unpack ’27」を発表。2027年の注目旅行先ランキングでは兵庫県が世界第2位に。4つの注目トレンドも紹介。",
-      "url": "https://www.travelvoice.jp/20261019-160681",
-      "published": "2026-10-20T00:36:57+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "499cf486c8"
+      "topic_group": "470bc1bc78"
     },
     {
       "source": "やまとごころ.jp",
@@ -473,7 +473,7 @@
       "summary": "連載第2回では、訪日旅行市場を「距離」の観点からショートホールとロングホールに分け、それぞれの市場特性と、自社の強みを生かした事業領域の見極め方について解説しました。今回はDMC／ツアーオペレーターのマーケティング戦略に…",
       "url": "https://yamatogokoro.jp/column/local-tourism/61496/",
       "published": "2026-10-20T23:00:02+00:00",
-      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/10/image1-2.jpg",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "90b6629c91"
     },
@@ -578,16 +578,6 @@
       "topic_group": "bf37490be4"
     },
     {
-      "source": "やまとごころ.jp",
-      "title": "お米を入り口に、地域の日常を訪日客が学べる体験へ。岡山・真庭の米農家が実践する食文化の発信",
-      "summary": "地域で当たり前に続いてきた米づくりや食文化を、海外からの旅行者に伝え、地域を訪れるきっかけにつなげていく。そんな取り組みを進めるのが、岡山県真庭市で米づくりを営む「お米文化継承者」の五賀晶子さんだ。 五賀さんは、お米を起…",
-      "url": "https://yamatogokoro.jp/inbound_interview/61351/",
-      "published": "2026-10-04T23:00:00+00:00",
-      "image_url": null,
-      "category": "地域・DMO",
-      "topic_group": "bba4f42b21"
-    },
-    {
       "source": "時事ドットコム",
       "title": "「世界のニセコ」で何が起きている？◆外国人客が変えた街の姿 2026年10月14日",
       "summary": "",
@@ -596,6 +586,76 @@
       "image_url": null,
       "category": "業界ニュース",
       "topic_group": "5f83c659b6"
+    },
+    {
+      "source": "時事ドットコム",
+      "title": "９月の訪日外国人５．０％減 航空券の高騰、台風で欠航が影響 韓国・台湾は過去最多",
+      "summary": "",
+      "url": "https://www.jiji.com/jc/article?k=2026102100863&g=eco",
+      "published": "2026-10-21T17:14:00+09:00",
+      "image_url": "https://www.jiji.com/news2/kiji_photos/202610/20261021ax20S_o.jpg",
+      "category": "航空・交通",
+      "topic_group": "5792be99f3"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "サウスウエスト航空、ChatGPT上で旅程に合った航空券の検索・比較ができるプラグインをリリース",
+      "summary": "サウスウエスト航空は10月6日、ChatGPTに同社フライトの検索・比較ができるプラグインをリリースしました。 これにより、ChatGPTと対話しながら、よりシームレスな旅程の検討が可能となります。 目次 AIを搭載した予約機能の第一歩 直感的な旅行計画を手助け 無料版ChatGPTアカウントでも利…",
+      "url": "https://honichi.com/news/2026/10/22/southwest_airline_chatgpt/?utm_source=rss",
+      "published": "2026-10-21T23:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14773/main_SOUTHWEST_AIRLINES_LOGO.jpg",
+      "category": "航空・交通",
+      "topic_group": "7b752346d6"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "アジア競技大会に現れた交流拠点 「ONE ASIA WORLD」に見る新たな国際スポーツ大会のかたち",
+      "summary": "2026年9月19日から10月4日まで、 愛知県 ・ 名古屋市 を中心に開催された「 アジア 競技大会」（ アジア パラ競技大会は10月18日〜24日）。 大会期間中、名古屋中心部にある久屋（ひさや） 大通公園 に、公式セレブレーション・ファンゾーン「ONE ASIA WORLD（ワン・ アジア ・…",
+      "url": "https://honichi.com/news/2026/10/22/asiangames2026_one_asia_world/?utm_source=rss",
+      "published": "2026-10-21T22:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14778/main_DSC03034.JPG",
+      "category": "業界ニュース",
+      "topic_group": "7302fbbd12"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "【速報】7〜9月の訪日消費額、2兆2,076億円 韓国が前年比45.8％増と躍進：インバウンド消費動向調査",
+      "summary": "観光庁 は10月21日、 インバウンド消費動向調査 （旧： 訪日外国人消費動向調査 ）の2026年7-9月期（1次速報）を発表しました。 訪日外国人 消費額は、前年同期比3.2％増、2兆2,076億円と推計されています。 また、国・地域別の 訪日外国人 消費額では、 台湾 が1位となっています。 *…",
+      "url": "https://honichi.com/news/2026/10/21/inbound-consumption-202607-09/?utm_source=rss",
+      "published": "2026-10-21T08:16:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14793/main_inbound-consumption-202607-img.png",
+      "category": "統計・市場動向",
+      "topic_group": "a4ab1e38e7"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "【速報】9月の訪日外客数は310万人 アジア競技大会開催も多くの市場で前年減",
+      "summary": "日本 政府観光局 （ JNTO ）は10月21日、2026年9月の 訪日外客数 推計値を発表しました。 9月の 訪日外客数 は310万3,700人で、前年同月比5.0％減を記録。前月の 訪日外客数 （309万8,900人）と比較すると、4,800人の増加となっています。 また、全23市場のうち、 韓…",
+      "url": "https://honichi.com/news/2026/10/21/inbound202609/?utm_source=rss",
+      "published": "2026-10-21T07:46:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14792/main_3603fd3b0b566751a18cbab1e2057629.png",
+      "category": "統計・市場動向",
+      "topic_group": "2b9cb2ef0f"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "【2026年最新】新橋で外国人に人気のホテル・旅館TOP10！東急ステイ 新橋は第2位、1位は？",
+      "summary": "訪日ラボが最新の 口コミ データを元に 独自調査 ・発表している『 インバウンド 人気 ホテル ・ 旅館 ランキング 』。全国の 宿泊施設 に寄せられた 口コミ をもとに、 訪日客 の注目施設や人気の理由を分析しています。 本記事ではその中から、 【2026年最新版】外国人に人気の ホテル ・ 旅館…",
+      "url": "https://honichi.com/news/2026/10/21/202610_inboundranking_hotel_shimbashi/?utm_source=rss",
+      "published": "2026-10-21T03:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14785/main_Shimbashi_slide_01.png",
+      "category": "統計・市場動向",
+      "topic_group": "31100ca025"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "英タイムアウト「世界で最もクールな街2026」大阪・北加賀屋が6位、高円寺が8位に選出",
+      "summary": "英国発グローバル都市情報 メディア の タイ ムアウトは9月16日、「世界で最もクールな街」の2026年版 ランキング を発表しました。 世界26の国・地域から40エリアが選出され、日本からは大阪・北加賀屋が6位、東京・高円寺が8位にそれぞれランクインしました。 関連記事： ロンリープラネット「20…",
+      "url": "https://honichi.com/news/2026/10/21/timeout-coolest2026/?utm_source=rss",
+      "published": "2026-10-21T00:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14787/main_sub2.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "b5acc9c200"
     },
     {
       "source": "訪日ラボ",
@@ -646,66 +706,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14784/main_72e8ce718cff78bce867efd78e2b0ea6.png",
       "category": "業界ニュース",
       "topic_group": "be36af5bec"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "日本初のディズニークルーズ船、船名はディズニー・イマジネーションに 2029年春に就航予定",
-      "summary": "オリエンタルランドおよびオリエンタルランド・クルーズは、10月14日、日本で初となるディズニー クルーズ船 の船名を「ディズニー・イマジネーション」に決定したと発表しました。 同船は東京国際クルーズターミナルを主な発着拠点とし、2029年春の就航を予定しています。 目次 1,300席超の劇場や約30…",
-      "url": "https://honichi.com/news/2026/10/20/disney-cruise-imagination-2029/?utm_source=rss",
-      "published": "2026-10-19T22:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14780/main_joseph-barrientos-oQl0eVYd_n8-unsplash.jpg",
-      "category": "航空・交通",
-      "topic_group": "aae0fcd2f3"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "J.フロント中間期決算、免税売上が13.8％増 円安・客単価上昇が追い風に",
-      "summary": "大丸松坂屋などを運営するJ.フロント リテイリングは10月13日、2027年2月期 第2四半期 決算 （2026年3月〜8月）を発表しました。 百貨店 事業やSC（ショッピングセンター）事業の好調によって総額売上高で増収を記録したものの、 梅田 店の改装や 万博 関連売上の反動減などにより減益となり…",
-      "url": "https://honichi.com/news/2026/10/19/daimaru-matsuzakaya2027-02/?utm_source=rss",
-      "published": "2026-10-19T02:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14777/main_cheung-yin-46GtrWZpGhY-unsplash.jpg",
-      "category": "政策・制度",
-      "topic_group": "094e6d1d6f"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "オーストラリア人の人気渡航先、日本は3位 過去最高の99万人が訪日",
-      "summary": "オーストラリア 政府統計局（ABS）は8月14日、2025-26年度（ オーストラリア の会計年度：2025年7月～2026年6月）の海外入国者数と出国者数を発表しました。 本発表によると、 オーストラリア 居住者の渡航先として、日本が前年度に続き第3位となっています。 関連記事： オーストラリア人…",
-      "url": "https://honichi.com/news/2026/10/19/australia_outbound2026/?utm_source=rss",
-      "published": "2026-10-19T00:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14779/main_australia_outbound2026_img.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "ddc4f2fea4"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "Googleマップが10都市の最新フードトレンド・人気レストランを公開 東京では餅人気が躍進",
-      "summary": "Google は10月8日、世界10都市の最新フードトレンドと人気レストランを公開しました。 Googleマップ のレビュー・評価・経路検索などの集計データから、世界中の人々がどんな料理を求めているのかを明らかにしています。 目次 3つの最新フードトレンド 1. 東京では餅が人気 2. 抹茶が各地で…",
-      "url": "https://honichi.com/news/2026/10/19/google-maps-fan-favorite-dining-list/?utm_source=rss",
-      "published": "2026-10-18T23:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14769/main_Dining_Fan_Favorite_hero_v2.width-1600.format-webp.webp",
-      "category": "統計・市場動向",
-      "topic_group": "6ed6eb3b31"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "47都道府県のインバウンド人気ホテル・旅館を紹介 ほか：インバウンド対策に役立つマーケティング資料まとめ（10月前半公開分）",
-      "summary": "訪日ラボでは、 インバウンドマーケティング に役立つ資料を公開しています。 この記事では、【2026年10月前半】に公開したおすすめ資料をご紹介します。ぜひ、日々の業務にお役立てください。 ※ 訪日ラボ会員 にご登録いただくと、レポートの全容を無料にてご覧いただけます。 目次 1. 【2026年10…",
-      "url": "https://honichi.com/news/2026/10/16/whitepapermatome_20261016/?utm_source=rss",
-      "published": "2026-10-16T02:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14776/main_6990c6cb951e07269821d83606e61317.jpg",
-      "category": "宿泊・施設",
-      "topic_group": "f2321921d3"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "バズるUGCとAIに読まれるUGCは違う！AI時代に“指名買い”を生むUGC設計を解説［10/22無料セミナー］",
-      "summary": "訪日外国人 の情報収集が Google から AI 検索（ AI Overviews・ChatGPT型）へシフトしている現在。 AI がユーザーに商品を推薦する際、その情報源になるか否かは「UGCの厚み」で決まります。 本セミナーでは、 AI に推薦されるブランドとそうでないブランドを分けるUGCの…",
-      "url": "https://honichi.com/news/2026/10/16/202610_trialjapan_2/?utm_source=rss",
-      "published": "2026-10-16T01:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14770/main_webinar_bnr_20261022_hlab.png",
-      "category": "AI・デジタル",
-      "topic_group": "3529df562e"
     }
   ]
 }
