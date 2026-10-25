@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T23:15:51.155127+00:00",
+  "updated_at": "2026-10-25T23:17:08.408341+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -383,7 +383,7 @@
       "summary": "（PR）台湾観光庁が、リピーターを軸に誘客促進。抽選で最大約4万円分の電子マネーを進呈するキャンペーンを実施。旅行会社向けには、報奨旅行の助成に地方宿泊への追加助成も展開。",
       "url": "https://www.travelvoice.jp/20261023-160506",
       "published": "2026-10-23T03:00:20+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/12d5035b-180c-4bf1-b6bf-8eeb8911d6e5.jpg",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "65cd07aa6d"
     },
@@ -393,7 +393,7 @@
       "summary": "LINEヤフーは、飲食店向けAI電話対応サービス「LINE AI予約」の正式提供を開始。空席確認から予約確定、変更・キャンセル、満席時の候補時間の提案までを自動化。予約の取りこぼしを回避。",
       "url": "https://www.travelvoice.jp/20261023-160724",
       "published": "2026-10-23T01:40:06+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/fcb043e1-c088-4961-9984-54876fc0159c.jpg",
+      "image_url": null,
       "category": "AI・デジタル",
       "topic_group": "9172d292c8"
     },
@@ -403,7 +403,7 @@
       "summary": "tripla（トリプラ）の台湾子会社「Surehigh」による「tripla Nexus」を通じたインドネシア大手OTA「tiket.com」での販売について、月間最大200件超の予約を獲得し、連携施設数は45施設を突破。",
       "url": "https://www.travelvoice.jp/20261023-160726",
       "published": "2026-10-23T01:35:08+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2021/05/4740d72d-64d0-4d2b-9580-cddf9115ca5c.jpg",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "ea45612d94"
     },
@@ -446,6 +446,16 @@
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/c2b267e0-d283-417a-8cff-c819c10c2339.jpeg",
       "category": "業界ニュース",
       "topic_group": "d23e12bb1d"
+    },
+    {
+      "source": "やまとごころ.jp",
+      "title": "販売好調の「北九州周遊パス」、タッチ決済と地域連携が生む周遊の仕組み",
+      "summary": "鉄道やバスなどの交通機関と観光施設の入場券、割引などをセットにし、広域周遊を促進するパスはこれまでも多く登場しているが、2025年に発売された「北九州周遊パス」の販売が好調だ。第10回ジャパン・ツーリズム・アワード202…",
+      "url": "https://yamatogokoro.jp/column/inbound-kyushu/61533/",
+      "published": "2026-10-25T23:00:40+00:00",
+      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/10/20261023-123820.jpeg",
+      "category": "航空・交通",
+      "topic_group": "d18830c92c"
     },
     {
       "source": "やまとごころ.jp",
@@ -558,16 +568,6 @@
       "topic_group": "2f4a338cdf"
     },
     {
-      "source": "やまとごころ.jp",
-      "title": "旅行・観光開発ランキング2026、日本が世界1位 需要分散や旅行しやすさの改善が後押し",
-      "summary": "世界経済フォーラム（World Economic Forum：WEF）はこのほど、「旅行・観光開発指数2026（Travel & Tourism Development Index：TTDI）」を発表した。200…",
-      "url": "https://yamatogokoro.jp/inbound_data/61404/",
-      "published": "2026-10-05T23:00:50+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "1d53082abe"
-    },
-    {
       "source": "時事ドットコム",
       "title": "「世界のニセコ」で何が起きている？◆外国人客が変えた街の姿 2026年10月14日",
       "summary": "",
@@ -576,6 +576,26 @@
       "image_url": null,
       "category": "業界ニュース",
       "topic_group": "5f83c659b6"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "高島屋、上期インバウンド売上は18％増の519億円 通期計画を1,020億円に上方修正（2027年2月期 中間期決算）",
+      "summary": "髙島屋（以下、高島屋）は10月15日、2027年2月期（2026年度）の第2四半期（中間期） 決算 を発表しました。 発表によると、国内顧客・ インバウンド 売上高の増加とコストコントロールの推進により国内 百貨店 業が増益となり、4月時点の計画を上回る着地となっています。 インバウンド 売上高につ…",
+      "url": "https://honichi.com/news/2026/10/26/takashimaya-202702-02/?utm_source=rss",
+      "published": "2026-10-25T23:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14795/main_takashimaya-202702-02_img.jpg",
+      "category": "宿泊・施設",
+      "topic_group": "deb470f9e1"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "名鉄・岐阜県・ファミマが11月1日から台湾向けキャンペーン実施 中部エリアへの誘客と広域回遊促進へ",
+      "summary": "名古屋 鉄道 は10月20日、 岐阜県 ・ファミリーマートと連携した インバウンド 誘客キャンペーンを11月1日から実施すると発表しました。 海外から 中部 エリアへの誘客および地域の回遊性向上が目的で、メインターゲット市場は 台湾 です。 本キャンペーン期間中は、名古屋 鉄道 グループの インバウ…",
+      "url": "https://honichi.com/news/2026/10/26/meitetsu-gifu-taiwan-campaign/?utm_source=rss",
+      "published": "2026-10-25T22:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14797/main_rogerio-toledo-6XyQTCtJ3Qs-unsplash.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "2a143502ee"
     },
     {
       "source": "訪日ラボ",
@@ -666,26 +686,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14792/main_3603fd3b0b566751a18cbab1e2057629.png",
       "category": "統計・市場動向",
       "topic_group": "2b9cb2ef0f"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "【2026年最新】新橋で外国人に人気のホテル・旅館TOP10！東急ステイ 新橋は第2位、1位は？",
-      "summary": "訪日ラボが最新の 口コミ データを元に 独自調査 ・発表している『 インバウンド 人気 ホテル ・ 旅館 ランキング 』。全国の 宿泊施設 に寄せられた 口コミ をもとに、 訪日客 の注目施設や人気の理由を分析しています。 本記事ではその中から、 【2026年最新版】外国人に人気の ホテル ・ 旅館…",
-      "url": "https://honichi.com/news/2026/10/21/202610_inboundranking_hotel_shimbashi/?utm_source=rss",
-      "published": "2026-10-21T03:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14785/main_Shimbashi_slide_01.png",
-      "category": "統計・市場動向",
-      "topic_group": "31100ca025"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "英タイムアウト「世界で最もクールな街2026」大阪・北加賀屋が6位、高円寺が8位に選出",
-      "summary": "英国発グローバル都市情報 メディア の タイ ムアウトは9月16日、「世界で最もクールな街」の2026年版 ランキング を発表しました。 世界26の国・地域から40エリアが選出され、日本からは大阪・北加賀屋が6位、東京・高円寺が8位にそれぞれランクインしました。 関連記事： ロンリープラネット「20…",
-      "url": "https://honichi.com/news/2026/10/21/timeout-coolest2026/?utm_source=rss",
-      "published": "2026-10-21T00:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14787/main_sub2.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "efebb34e2a"
     }
   ]
 }
