@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T23:17:08.408341+00:00",
+  "updated_at": "2026-10-27T00:26:33.348142+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -33,7 +33,7 @@
       "summary": "",
       "url": "https://www.jnto.go.jp/news/expo-seminar/travel_tour_expo_2027_1125.html",
       "published": "2026-10-23T04:30:00+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "22f0d48666"
     },
@@ -43,7 +43,7 @@
       "summary": "",
       "url": "https://www.jnto.go.jp/news/expo-seminar/jnto_116.html",
       "published": "2026-10-23T04:30:00+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "acbca65237"
     },
@@ -53,7 +53,7 @@
       "summary": "",
       "url": "https://www.jnto.go.jp/news/expo-seminar/iltm_1.html",
       "published": "2026-10-23T04:30:00+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "3f7be383a0"
     },
@@ -63,7 +63,7 @@
       "summary": "",
       "url": "https://www.jnto.go.jp/news/expo-seminar/_japan_luxury_showcase_2027.html",
       "published": "2026-10-23T04:30:00+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "fa7846ff36"
     },
@@ -349,103 +349,113 @@
     },
     {
       "source": "Travel Voice",
-      "title": "世界のホテル大手が「旅行者との関係」を奪い合う時代へ、航空会社との連携からAI、金融進出まで、「旅全体」の囲い込み戦略を考察【コラム】",
-      "summary": "客室稼働率の競争から顧客との関係性重視へ。航空連携、生成AI、金融進出などを通じ、宿泊にとどまらず旅という体験全体をデザインするホテル会社の最新戦略を解説する。",
-      "url": "https://www.travelvoice.jp/20261023-160346",
-      "published": "2026-10-23T09:00:19+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2021/05/4740d72d-64d0-4d2b-9580-cddf9115ca5c.jpg",
+      "title": "調査レポート「関係人口2026」を発表、二地域居住から、ふるさと住民登録制度まで（ダウンロード無料） ートラベルボイスREPORT",
+      "summary": "トラベルボイスが調査レポート「関係人口2026」を発行。二地域居住から「ふるさと住民登録制度」、企業の最新動向まで網羅。新たな地域戦略の立案に必見。",
+      "url": "https://www.travelvoice.jp/20261026-160683",
+      "published": "2026-10-26T08:00:10+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/295bd518-b9b4-4d74-9eeb-9ec115cba542.jpg",
       "category": "統計・市場動向",
-      "topic_group": "bb2f68d14c"
+      "topic_group": "e5fd6bbaef"
     },
     {
       "source": "Travel Voice",
-      "title": "建設費高騰で変わる日本のホテル開発、新築から既存物件の再生へ、長期滞在にも商機 ―AHICEレポート",
+      "title": "旅行会社はAIを「相棒」にできるか？ 効率化の先にある企画力・提案力と、人ならではの「現場力」を議論",
+      "summary": "ツーリズムEXPO2026で開催された海外旅行シンポジウムをレポート。生成AIからAIエージェントへと関心が移行するなか、旅行会社に求められる独自情報の発信や、現場力による高付加価値化の道を議論。",
+      "url": "https://www.travelvoice.jp/20261026-160710",
+      "published": "2026-10-26T07:28:31+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/6af4a42c-1520-4b28-abea-1f2ef366d237.jpg",
+      "category": "AI・デジタル",
+      "topic_group": "dc9abc2226"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "オリエンタルランド子会社、地域観光ベンチャーに初出資、白馬の再生・開発を後押し、全国への横展開も視野に",
+      "summary": "長野県白馬エリアを中心に観光開発やまちづくり事業を手掛けるズクトチエは、オリエンタルランドの100%子会社オリエンタルランド・イノベーションズ（OLI）から総額8800万円を調達。観光開発やまちづくりを加速。",
+      "url": "https://www.travelvoice.jp/20261026-160730",
+      "published": "2026-10-26T01:50:08+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/9ca5a446-4edf-4e2b-9eea-d98d2acde9a1.jpg",
+      "category": "地域・DMO",
+      "topic_group": "f72c820c4f"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "楽天トラベルで不正アクセス、海外ホテル予約で最大260万件、多言語サイトで最大86万件、宿泊施設の従業員情報も最大約4万件",
+      "summary": "楽天トラベルの海外ホテル予約サイトの一部と、多言語予約サイトに不正アクセス。海外ホテルではログイン利用者の最大約260万件、多言語サイトでは最大約86万件の情報などが対象となった。宿泊施設従業員の情報も含まれる。",
+      "url": "https://www.travelvoice.jp/20261026-160742",
+      "published": "2026-10-26T12:49:09+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2025/06/a5577618-1d38-477c-86b4-052903b43438.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "15c298e4d8"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "エア・タヒチ・ヌイ、2027年から成田／タヒチ線の通年運航を再開へ、客席リニューアルも",
+      "summary": "エア タヒチ ヌイは、2027年より成田／タヒチ線の通年運航を再開する。国際的な旅客需要の増加に対応し、利便性を向上。2028年末からは全クラスの客室リニューアルも実施し、機内体験の刷新を図る方針。",
+      "url": "https://www.travelvoice.jp/20261026-160738",
+      "published": "2026-10-26T08:24:48+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2024/07/9d95c348-5e6e-4a82-a47a-536a43f87095.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "689cbf7db0"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "ユナイテッド航空、成田／シカゴ線を通年運航、アジア域内路線で高速Wi-Fi導入へ",
+      "summary": "ユナイテッド航空は、成田／シカゴ線の通年毎日運航やヒューストン線への新内装機材導入を発表した。2027年1月のラスベガス特別便運航やスターリンクWi-Fi導入により、利便性と機内体験の向上を図る。",
+      "url": "https://www.travelvoice.jp/20261026-160739",
+      "published": "2026-10-26T08:48:46+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2021/07/b3a1b727-4ecb-4731-80b6-8b51950f7961.jpg",
+      "category": "航空・交通",
+      "topic_group": "2660ad8658"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "旅先で「自宅より眠れない」人が64%、女性は72%、睡眠状態で旅行満足度に大きな差",
+      "summary": "Morghtは「旅先の睡眠に関する実態調査」を実施し、その結果を明らかに。旅行者の63.8%が、旅先で「自宅より眠れない」と回答。よく眠れた人と眠れなかった人では旅行の満足度に差。",
+      "url": "https://www.travelvoice.jp/20261027-160685",
+      "published": "2026-10-26T01:35:08+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/0d5d8812-f20e-421c-817a-155ceab76e01.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "588fe46c63"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "旅館で睡眠中の酸素レベルを測定、スリープツーリズムを訴求へ、兵庫県・湯村温泉「御宿コトブキ」が提供開始",
+      "summary": "兵庫県・湯村温泉の「湯村温泉郷 御宿コトブキ」は、「睡眠中の酸素レベルチェック」の提供を開始。眠ることを目的に旅をする「スリープツーリズム」を訴求。",
+      "url": "https://www.travelvoice.jp/20261026-160693",
+      "published": "2026-10-26T01:30:09+00:00",
+      "image_url": null,
+      "category": "宿泊・施設",
+      "topic_group": "f0420de7af"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "日本でのホテル開発、新築より既存物件の再生がトレンドに、建設コスト高騰で ―AHICEレポート",
       "summary": "建設費や人件費の高騰を背景に、日本のホテル開発では新築より既存物件のコンバージョンが拡大している。AHICE 2026で語られた開発戦略、人材不足への対応、新たな宿泊ニーズとは？",
       "url": "https://www.travelvoice.jp/20261023-160584",
-      "published": "2026-10-23T08:55:06+00:00",
+      "published": "2026-10-26T07:29:15+00:00",
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/30499ae9-2b78-4e40-9b2d-48f57ff57dc6.JPG",
       "category": "統計・市場動向",
-      "topic_group": "2dbed0ca1b"
+      "topic_group": "faa003c203"
     },
     {
       "source": "Travel Voice",
-      "title": "日本旅行業協会、「全国DMC」で訪日客と地域をつなぐ流通網を構築へ、旅行会社をハブに地方誘客の新事業",
-      "summary": "日本旅行業協会がインバウンド地方誘客の複数年プロジェクトを開始。第1弾の東北を起点に、全国展開へ。副会長の山北氏は、訪日市場での「旅行会社の役割はDMCへ」と語った。",
-      "url": "https://www.travelvoice.jp/20261023-160715",
-      "published": "2026-10-23T07:31:39+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/06cdad94-f78d-483a-af22-48ef06a976b4.JPG",
-      "category": "統計・市場動向",
-      "topic_group": "31ece1fa56"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "台湾旅行リピーターに最大約4万円が当たるキャンペーン、法人向けインセンティブ旅行の助成も ―台湾観光庁（PR）",
-      "summary": "（PR）台湾観光庁が、リピーターを軸に誘客促進。抽選で最大約4万円分の電子マネーを進呈するキャンペーンを実施。旅行会社向けには、報奨旅行の助成に地方宿泊への追加助成も展開。",
-      "url": "https://www.travelvoice.jp/20261023-160506",
-      "published": "2026-10-23T03:00:20+00:00",
+      "title": "世界のホテル大手が顧客を「宿泊客」から「旅行者」へ軸足、航空との相互連携などで、「旅全体」での新・顧客関係の時代へ【コラム】",
+      "summary": "客室稼働率の競争から顧客との関係性重視へ。航空連携、生成AI、金融進出などを通じ、宿泊にとどまらず旅という体験全体をデザインするホテル会社の最新戦略を解説する。",
+      "url": "https://www.travelvoice.jp/20261023-160346",
+      "published": "2026-10-26T00:38:07+00:00",
       "image_url": null,
       "category": "統計・市場動向",
-      "topic_group": "65cd07aa6d"
+      "topic_group": "8e307fec3d"
     },
     {
-      "source": "Travel Voice",
-      "title": "LINEヤフー、飲食店向けAI電話対応サービスを正式開始、空席確認から予約、満席時の代案提示まで自動化",
-      "summary": "LINEヤフーは、飲食店向けAI電話対応サービス「LINE AI予約」の正式提供を開始。空席確認から予約確定、変更・キャンセル、満席時の候補時間の提案までを自動化。予約の取りこぼしを回避。",
-      "url": "https://www.travelvoice.jp/20261023-160724",
-      "published": "2026-10-23T01:40:06+00:00",
-      "image_url": null,
-      "category": "AI・デジタル",
-      "topic_group": "9172d292c8"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "トリプラ、台湾の宿泊施設の海外販路を拡大、インドネシアOTAと在庫・料金を自動連携",
-      "summary": "tripla（トリプラ）の台湾子会社「Surehigh」による「tripla Nexus」を通じたインドネシア大手OTA「tiket.com」での販売について、月間最大200件超の予約を獲得し、連携施設数は45施設を突破。",
-      "url": "https://www.travelvoice.jp/20261023-160726",
-      "published": "2026-10-23T01:35:08+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "ea45612d94"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "世界旅行ツーリズム協議会、中小観光企業の競争力・発言力強化へ、国際商業会議所と連携、資金・デジタル化などの障壁解消を支援",
-      "summary": "世界旅行ツーリズム協議会（WTTC）と国際商業会議所（ICC）は、世界の旅行・観光分野の中小企業の成長支援で提携。両者の知見とネットワークを生かし、規制や障壁を取り除く取り組みにより中小企業の競争力・発言力を強化。",
-      "url": "https://www.travelvoice.jp/20261023-160629",
-      "published": "2026-10-23T11:12:23+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/d0cb086b-f3b2-4927-a942-8677f0c6b29e.jpg",
-      "category": "政策・制度",
-      "topic_group": "b36b58761f"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "アジア太平洋の航空10社リーダーが語る成長戦略、JAL・ANAの地方路線の維持から航空流通の変革、機材刷新まで ―CAPAサミット",
-      "summary": "航空業界の調査・コンサルティング機関であるCAPAは2026年10月、北海道の新千歳空港で「エアライン・リーダー・サミット・アジア2026」を開催。アジア太平洋の航空会社リーダーの発言をまとめた。",
-      "url": "https://www.travelvoice.jp/20261022-160699",
-      "published": "2026-10-22T03:00:18+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "e6a75dfac1"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "ポルトガル政府観光局、日本市場戦略を責任者に聞いた、日本人客は堅調に増加、地方送客と通年観光へ「本物の体験」を訴求",
-      "summary": "ポルトガル政府観光局は「ツーリズムEXPOジャパン2026」で単独ブースで出展。日本人旅行者も増加が続くなか、「本物の体験」を通じて通年観光と地域への分散化を進めていく。",
-      "url": "https://www.travelvoice.jp/20261022-160637",
-      "published": "2026-10-22T11:29:09+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "16f08dc50c"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "世界著名誌「2027年に行くべき世界の旅行先25選」で、新潟県が日本から唯一選ばれる、芸術祭と発酵文化に注目 ―ナショナルジオグラフィック",
-      "summary": "新潟県が、米国の旅行メディア「ナショナル ジオグラフィック」の「Best of the World 2027（2027年に行くべき世界の旅行先25選）」に選出。",
-      "url": "https://www.travelvoice.jp/20261022-160716",
-      "published": "2026-10-23T11:13:50+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/c2b267e0-d283-417a-8cff-c819c10c2339.jpeg",
-      "category": "業界ニュース",
-      "topic_group": "d23e12bb1d"
+      "source": "やまとごころ.jp",
+      "title": "ロケを呼んで終わりではない。島原市に学ぶ、地域活性化につなげるロケツーリズム",
+      "summary": "映画やドラマ、CMなどのロケを地域振興につなげる「ロケツーリズム」。単に撮影を誘致するだけでなく、作品を通じて地域の認知度を高め、観光誘客や経済効果につなげる取り組みが、各地で進められています。 長崎県南東部の島原半島に…",
+      "url": "https://yamatogokoro.jp/inbound_interview/61480/",
+      "published": "2026-10-26T23:00:35+00:00",
+      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/10/shimabara_1-1.jpg",
+      "category": "地域・DMO",
+      "topic_group": "d9e6b2aef7"
     },
     {
       "source": "やまとごころ.jp",
@@ -453,7 +463,7 @@
       "summary": "鉄道やバスなどの交通機関と観光施設の入場券、割引などをセットにし、広域周遊を促進するパスはこれまでも多く登場しているが、2025年に発売された「北九州周遊パス」の販売が好調だ。第10回ジャパン・ツーリズム・アワード202…",
       "url": "https://yamatogokoro.jp/column/inbound-kyushu/61533/",
       "published": "2026-10-25T23:00:40+00:00",
-      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/10/20261023-123820.jpeg",
+      "image_url": null,
       "category": "航空・交通",
       "topic_group": "d18830c92c"
     },
@@ -558,16 +568,6 @@
       "topic_group": "6b7c8bb77c"
     },
     {
-      "source": "やまとごころ.jp",
-      "title": "豪州の海外旅行者数1271万人で過去最高、日本は渡航先3位、訪豪客はコロナ前水準に迫る",
-      "summary": "2025/26年度（2025年7月〜2026年6月）のオーストラリア居住者の海外旅行者数は、前年比3.7％増の延べ1271万人となり、過去最高を記録した。日本は渡航先3位で、旅行者数はコロナ前の約2倍に拡大した。一方、訪…",
-      "url": "https://yamatogokoro.jp/inbound_data/61405/",
-      "published": "2026-10-06T23:00:37+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "2f4a338cdf"
-    },
-    {
       "source": "時事ドットコム",
       "title": "「世界のニセコ」で何が起きている？◆外国人客が変えた街の姿 2026年10月14日",
       "summary": "",
@@ -576,6 +576,46 @@
       "image_url": null,
       "category": "業界ニュース",
       "topic_group": "5f83c659b6"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "関西エアポート、2026年冬ダイヤ発表 中国が前年割れも韓国・東南アジアは好調",
+      "summary": "関西 エアポートは10月16日、2026年冬期スケジュールにおける国際定期便の運航便数が週平均1,426.1便になる見通しだと発表しました。 このうち旅客便は1,226.8便、貨物便は199.3便です。 国際線旅客便は、 中国 路線の回復の見通しが不透明なことから、全体として2025年冬期スケジュー…",
+      "url": "https://honichi.com/news/2026/10/27/kansaiairport-winter2026/?utm_source=rss",
+      "published": "2026-10-27T00:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14802/main_AdobeStock_265411550.jpeg",
+      "category": "航空・交通",
+      "topic_group": "85322524a5"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "【今週の注目記事5選】訪日オーストラリア人は過去最高の99万人 人気渡航先3位に日本 ほか",
+      "summary": "訪日ラボ編集部です。本シリーズでは、 この1週間に公開した記事の中から、 インバウンド 担当者が読んでおきたい注目の記事 を厳選してお届けします。 最新トレンドの把握や、 マーケティング 活動にぜひともご活用ください。 目次 今週の注目記事5選 1. オーストラリア人の人気渡航先、日本は3位 82％…",
+      "url": "https://honichi.com/news/2026/10/27/weekmatome_20261027/?utm_source=rss",
+      "published": "2026-10-26T23:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14801/main_72e8ce718cff78bce867efd78e2b0ea6.png",
+      "category": "業界ニュース",
+      "topic_group": "7016b57b5a"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "アラスカ航空、シアトル〜関西線を2027年5月に新規就航へ アジア3都市目",
+      "summary": "米アラスカ航空とハワイアン航空は10月20日、シアトル・タコマ国際空港と 関西国際空港 を結ぶ 直行便 を、2027年5月14日より新たに就航すると発表しました。通年で週4往復を運航する予定です。 シアトルを起点とした国際線ネットワークの拡充が進むことで、 米国 本土各地から 関西 圏へのダイレクト…",
+      "url": "https://honichi.com/news/2026/10/27/alaska-hawaiian-seattle-kix/?utm_source=rss",
+      "published": "2026-10-26T22:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14799/main_HAXS-16155_A330_Plane_Clouds_4C_opti.jpg",
+      "category": "航空・交通",
+      "topic_group": "3281772edc"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "中国本土からの出国者は7.5％増、渡航先で日本は6位に 第3四半期データを発表（国家移民管理局）",
+      "summary": "中国 の国家移民管理局は10月20日、2026年第3四半期の出入国管理に関する主要データを発表しました。 同局の発表によると、この期間の総出入国者数は前年同期比7.9％増の約1億9,200万人を記録しています。そのうち 中国 本土からの出国者数は約4,851万人で、渡航先 ランキング では日本が6位…",
+      "url": "https://honichi.com/news/2026/10/26/china-immigration-data-2026q3/?utm_source=rss",
+      "published": "2026-10-26T00:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14798/main_gabrielle-henderson-lT_uN_5atEw-unsplash.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "da02832e2d"
     },
     {
       "source": "訪日ラボ",
@@ -646,46 +686,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14788/main_AdobeStock_271598701.jpeg",
       "category": "業界ニュース",
       "topic_group": "c9f3ec5af9"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "サウスウエスト航空、ChatGPT上で旅程に合った航空券の検索・比較ができるプラグインをリリース",
-      "summary": "サウスウエスト航空は10月6日、ChatGPTに同社フライトの検索・比較ができるプラグインをリリースしました。 これにより、ChatGPTと対話しながら、よりシームレスな旅程の検討が可能となります。 目次 AIを搭載した予約機能の第一歩 直感的な旅行計画を手助け 無料版ChatGPTアカウントでも利…",
-      "url": "https://honichi.com/news/2026/10/22/southwest_airline_chatgpt/?utm_source=rss",
-      "published": "2026-10-21T23:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14773/main_SOUTHWEST_AIRLINES_LOGO.jpg",
-      "category": "航空・交通",
-      "topic_group": "7b752346d6"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "アジア競技大会に現れた交流拠点 「ONE ASIA WORLD」に見る新たな国際スポーツ大会のかたち",
-      "summary": "2026年9月19日から10月4日まで、 愛知県 ・ 名古屋市 を中心に開催された「 アジア 競技大会」（ アジア パラ競技大会は10月18日〜24日）。 大会期間中、名古屋中心部にある久屋（ひさや） 大通公園 に、公式セレブレーション・ファンゾーン「ONE ASIA WORLD（ワン・ アジア ・…",
-      "url": "https://honichi.com/news/2026/10/22/asiangames2026_one_asia_world/?utm_source=rss",
-      "published": "2026-10-21T22:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14778/main_DSC03034.JPG",
-      "category": "業界ニュース",
-      "topic_group": "7302fbbd12"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "【速報】7〜9月の訪日消費額、2兆2,076億円 韓国が前年比45.8％増と躍進：インバウンド消費動向調査",
-      "summary": "観光庁 は10月21日、 インバウンド消費動向調査 （旧： 訪日外国人消費動向調査 ）の2026年7-9月期（1次速報）を発表しました。 訪日外国人 消費額は、前年同期比3.2％増、2兆2,076億円と推計されています。 また、国・地域別の 訪日外国人 消費額では、 台湾 が1位となっています。 *…",
-      "url": "https://honichi.com/news/2026/10/21/inbound-consumption-202607-09/?utm_source=rss",
-      "published": "2026-10-21T08:16:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14793/main_inbound-consumption-202607-img.png",
-      "category": "統計・市場動向",
-      "topic_group": "a4ab1e38e7"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "【速報】9月の訪日外客数は310万人 アジア競技大会開催も多くの市場で前年減",
-      "summary": "日本 政府観光局 （ JNTO ）は10月21日、2026年9月の 訪日外客数 推計値を発表しました。 9月の 訪日外客数 は310万3,700人で、前年同月比5.0％減を記録。前月の 訪日外客数 （309万8,900人）と比較すると、4,800人の増加となっています。 また、全23市場のうち、 韓…",
-      "url": "https://honichi.com/news/2026/10/21/inbound202609/?utm_source=rss",
-      "published": "2026-10-21T07:46:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14792/main_3603fd3b0b566751a18cbab1e2057629.png",
-      "category": "統計・市場動向",
-      "topic_group": "2b9cb2ef0f"
     }
   ]
 }
