@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T00:26:33.348142+00:00",
+  "updated_at": "2026-10-28T00:31:47.731925+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -27,6 +27,36 @@
     }
   ],
   "articles": [
+    {
+      "source": "JNTO",
+      "title": "訪日リピーターが地方分散のカギに？20市場のデータから見えた新たな傾向【株式会社ENJOY JAPAN】",
+      "summary": "",
+      "url": "https://www.jnto.go.jp/news/members/20enjoy_japan.html",
+      "published": "2026-10-27T08:25:49+00:00",
+      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "category": "統計・市場動向",
+      "topic_group": "e79cd5eaba"
+    },
+    {
+      "source": "JNTO",
+      "title": "【保存版】⽇本旅⾏を計画中の⽅へ！知っておくと便利な免税ガイド 「TaxFree.jp」活⽤術【一般社団法人ジャパンショッピングツーリズム協会】",
+      "summary": "",
+      "url": "https://www.jnto.go.jp/news/members/_taxfreejp.html",
+      "published": "2026-10-27T05:32:18+00:00",
+      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "category": "政策・制度",
+      "topic_group": "cc1aa170ed"
+    },
+    {
+      "source": "JNTO",
+      "title": "入札等公告情報を更新しました",
+      "summary": "",
+      "url": "https://www.jnto.go.jp/news/info/post_1.html",
+      "published": "2026-10-27T01:34:00+00:00",
+      "image_url": null,
+      "category": "業界ニュース",
+      "topic_group": "898dc392c8"
+    },
     {
       "source": "JNTO",
       "title": "フィリピン市場・一般消費者向け旅行博「Travel Tour Expo 2027」 配布資料（パンフレット、ポストカード、ステッカー等）募集（締切：11/25）",
@@ -115,17 +145,7 @@
       "published": "2026-10-22T02:28:00+00:00",
       "image_url": null,
       "category": "業界ニュース",
-      "topic_group": "a6712cc9a1"
-    },
-    {
-      "source": "JNTO",
-      "title": "入札等公告情報を更新しました",
-      "summary": "",
-      "url": "https://www.jnto.go.jp/news/info/post_1.html",
-      "published": "2026-10-22T01:00:00+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "a6712cc9a1"
+      "topic_group": "898dc392c8"
     },
     {
       "source": "JNTO",
@@ -156,26 +176,6 @@
       "image_url": null,
       "category": "業界ニュース",
       "topic_group": "c336be7ec4"
-    },
-    {
-      "source": "JNTO",
-      "title": "キャリア採用（専門職）を募集しています※11月24日（火）まで",
-      "summary": "",
-      "url": "https://www.jnto.go.jp/news/info/20261016.html",
-      "published": "2026-10-16T06:19:21+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "5e0689a8a1"
-    },
-    {
-      "source": "JNTO",
-      "title": "【再掲】【10/27（火）開催】JNTOインバウンド研修会のご案内 第2回東北 仙台会場・一部オンライン配信あり （締切：10/22（木））",
-      "summary": "",
-      "url": "https://www.jnto.go.jp/news/expo-seminar/1027jnto_2_1022.html",
-      "published": "2026-10-16T04:30:00+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "7802a12537"
     },
     {
       "source": "観光庁",
@@ -349,13 +349,93 @@
     },
     {
       "source": "Travel Voice",
+      "title": "福島の「ホープツーリズム」とは？ 次期学習指導要領を機に考える教育旅行の可能性、旅を「学びの社会基盤」に【コラム】",
+      "summary": "日本観光振興協会理事長の最明仁氏によるコラム。今回は、教室の外にある学びについて。次期学習指導要領に盛り込みたい教育旅行の可能性、対話と探究を支える観光産業の役割を考察。",
+      "url": "https://www.travelvoice.jp/20261027-160746",
+      "published": "2026-10-27T21:36:20+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/4153bb9c-c1a6-4130-9829-89eb6b041860.jpg",
+      "category": "業界ニュース",
+      "topic_group": "3fcaebdd54"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "米航空各社の航空運賃は約23％上昇、燃料高騰で「搭乗率より利益率」を重視、各社の戦略と異なるアプローチとは？",
+      "summary": "ロイター通信は、燃料費高騰による利益圧迫を受け、搭乗率の最大化よりも運賃引き上げを優先する米国大手航空会社の現状についてレポート。2027年はその戦略の試金石の年になると報じた。",
+      "url": "https://www.travelvoice.jp/20261027-160741",
+      "published": "2026-10-27T02:59:53+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/c4016897-7c87-42ed-9a5f-4a9a4324b8dd.JPG",
+      "category": "航空・交通",
+      "topic_group": "2cc47a63bb"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "アブダビ文化観光局の日本市場戦略を聞いた、持続的な成長に期待、現地情報の透明な発信と旅行業界との連携を強化",
+      "summary": "アブダビ文化観光局は、「観光戦略2030」のもと、中東情勢や経済の不透明感のなかにあっても日本市場への投資を力強く継続。日本市場の現状や今後の展望について同局バシャヤ・アラメリ氏に聞いた。",
+      "url": "https://www.travelvoice.jp/20261027-160580",
+      "published": "2026-10-27T01:48:07+00:00",
+      "image_url": null,
+      "category": "統計・市場動向",
+      "topic_group": "a250da1f55"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "ライドシェア世界大手「Lyft（リフト）」、法人向け送迎サービスで新ブランド「Alcove」を発表、VIP対応など",
+      "summary": "ライドシェア世界大手「Lyft（リフト）」は、新ブランド「Alcove」を発表。2027年初めからグローバルな法人向け送迎サービスを開始する。TBR Globalの専門性と新技術を融合し、6大陸の数千都市でプレミアムな移動体験を提供する。",
+      "url": "https://www.travelvoice.jp/20261027-160750",
+      "published": "2026-10-27T08:38:05+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/6b643af8-298f-4c37-96f7-42b449ef7fb1.jpg",
+      "category": "政策・制度",
+      "topic_group": "cba3721270"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "SQUEEZE社、アパートメントホテル「Minn」を沖縄に初出店、12月には東京・上野と浅草に2軒開業へ、都内は22軒に",
+      "summary": "SQUEEZE（スクイーズ）は、東京都台東区にアパートメントホテル「Minn 上野入谷 East」と「Minn 浅草花やしき North」の2軒を2026年12月に新規開業する。",
+      "url": "https://www.travelvoice.jp/20261027-160718",
+      "published": "2026-10-27T01:45:07+00:00",
+      "image_url": null,
+      "category": "宿泊・施設",
+      "topic_group": "43aed424ca"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "総合ナビアプリ「NAVITIME」、10年間の成長でアプリ賞受賞、年間平均利用者数は10年のうち9年で前年超え",
+      "summary": "ナビタイムジャパンの総合ナビゲーションアプリ「NAVITIME」が、「App Ape 10-Year Award」を受賞。長年の実籍が評価。",
+      "url": "https://www.travelvoice.jp/20261027-160733",
+      "published": "2026-10-27T01:40:08+00:00",
+      "image_url": null,
+      "category": "業界ニュース",
+      "topic_group": "afdc5faf7c"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "静岡県藤枝市、関係人口・二地域居住の促進へ「推し活協議会」設立、首都圏企業と副業・事業化モデルづくりへ",
+      "summary": "静岡県藤枝市が、官民一体で関係人口や二地域居住者の創出に取り組む「藤枝推し活協議会」設立。企業支援やまちづくり施策を展開。東京でファンミーティングも開催。",
+      "url": "https://www.travelvoice.jp/20261027-160723",
+      "published": "2026-10-27T07:10:37+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/35368ef6-85e4-455c-891d-3e1e77127404.jpg",
+      "category": "地域・DMO",
+      "topic_group": "a67d4246cb"
+    },
+    {
+      "source": "Travel Voice",
       "title": "調査レポート「関係人口2026」を発表、二地域居住から、ふるさと住民登録制度まで（ダウンロード無料） ートラベルボイスREPORT",
       "summary": "トラベルボイスが調査レポート「関係人口2026」を発行。二地域居住から「ふるさと住民登録制度」、企業の最新動向まで網羅。新たな地域戦略の立案に必見。",
       "url": "https://www.travelvoice.jp/20261026-160683",
       "published": "2026-10-26T08:00:10+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/295bd518-b9b4-4d74-9eeb-9ec115cba542.jpg",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "e5fd6bbaef"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "民泊エアビー、ホストに新ルール、チェックアウト時の作業を「妥当な範囲」に限定、食器洗いや敷地外へのゴミ出しなど対象",
+      "summary": "AP通信によると、エアビーアンドビー（Airbnb）は2026年11月20日から、ホストがゲストに求めるチェックアウト時の作業を「妥当な範囲」のものに限定する新しいルールを適用する。",
+      "url": "https://www.travelvoice.jp/20261026-160734",
+      "published": "2026-10-27T07:10:30+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2023/05/53d43f9f-93a6-459e-85bd-3b01930a3924.jpg",
+      "category": "宿泊・施設",
+      "topic_group": "f88cafb773"
     },
     {
       "source": "Travel Voice",
@@ -363,89 +443,19 @@
       "summary": "ツーリズムEXPO2026で開催された海外旅行シンポジウムをレポート。生成AIからAIエージェントへと関心が移行するなか、旅行会社に求められる独自情報の発信や、現場力による高付加価値化の道を議論。",
       "url": "https://www.travelvoice.jp/20261026-160710",
       "published": "2026-10-26T07:28:31+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/6af4a42c-1520-4b28-abea-1f2ef366d237.jpg",
+      "image_url": null,
       "category": "AI・デジタル",
       "topic_group": "dc9abc2226"
     },
     {
-      "source": "Travel Voice",
-      "title": "オリエンタルランド子会社、地域観光ベンチャーに初出資、白馬の再生・開発を後押し、全国への横展開も視野に",
-      "summary": "長野県白馬エリアを中心に観光開発やまちづくり事業を手掛けるズクトチエは、オリエンタルランドの100%子会社オリエンタルランド・イノベーションズ（OLI）から総額8800万円を調達。観光開発やまちづくりを加速。",
-      "url": "https://www.travelvoice.jp/20261026-160730",
-      "published": "2026-10-26T01:50:08+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/9ca5a446-4edf-4e2b-9eea-d98d2acde9a1.jpg",
-      "category": "地域・DMO",
-      "topic_group": "f72c820c4f"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "楽天トラベルで不正アクセス、海外ホテル予約で最大260万件、多言語サイトで最大86万件、宿泊施設の従業員情報も最大約4万件",
-      "summary": "楽天トラベルの海外ホテル予約サイトの一部と、多言語予約サイトに不正アクセス。海外ホテルではログイン利用者の最大約260万件、多言語サイトでは最大約86万件の情報などが対象となった。宿泊施設従業員の情報も含まれる。",
-      "url": "https://www.travelvoice.jp/20261026-160742",
-      "published": "2026-10-26T12:49:09+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2025/06/a5577618-1d38-477c-86b4-052903b43438.jpg",
+      "source": "やまとごころ.jp",
+      "title": "北海道・倶知安町に学ぶ、宿泊税・計画・DMOの3つが揃って広がった「対応できる課題の幅」",
+      "summary": "宿泊税は、導入すれば地域が変わるわけではない。使い道を描く「計画」と、それを動かす「組織」があって、はじめて「財源」が生きる。北海道・倶知安町では、2019年11月の宿泊税導入と並行して、観光地マスタープランの策定と、観…",
+      "url": "https://yamatogokoro.jp/column/tourist-tax/61521/",
+      "published": "2026-10-27T23:00:02+00:00",
+      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/10/c2f1c6f659a90f079cdd5b223a5c6085.jpg",
       "category": "統計・市場動向",
-      "topic_group": "15c298e4d8"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "エア・タヒチ・ヌイ、2027年から成田／タヒチ線の通年運航を再開へ、客席リニューアルも",
-      "summary": "エア タヒチ ヌイは、2027年より成田／タヒチ線の通年運航を再開する。国際的な旅客需要の増加に対応し、利便性を向上。2028年末からは全クラスの客室リニューアルも実施し、機内体験の刷新を図る方針。",
-      "url": "https://www.travelvoice.jp/20261026-160738",
-      "published": "2026-10-26T08:24:48+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2024/07/9d95c348-5e6e-4a82-a47a-536a43f87095.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "689cbf7db0"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "ユナイテッド航空、成田／シカゴ線を通年運航、アジア域内路線で高速Wi-Fi導入へ",
-      "summary": "ユナイテッド航空は、成田／シカゴ線の通年毎日運航やヒューストン線への新内装機材導入を発表した。2027年1月のラスベガス特別便運航やスターリンクWi-Fi導入により、利便性と機内体験の向上を図る。",
-      "url": "https://www.travelvoice.jp/20261026-160739",
-      "published": "2026-10-26T08:48:46+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2021/07/b3a1b727-4ecb-4731-80b6-8b51950f7961.jpg",
-      "category": "航空・交通",
-      "topic_group": "2660ad8658"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "旅先で「自宅より眠れない」人が64%、女性は72%、睡眠状態で旅行満足度に大きな差",
-      "summary": "Morghtは「旅先の睡眠に関する実態調査」を実施し、その結果を明らかに。旅行者の63.8%が、旅先で「自宅より眠れない」と回答。よく眠れた人と眠れなかった人では旅行の満足度に差。",
-      "url": "https://www.travelvoice.jp/20261027-160685",
-      "published": "2026-10-26T01:35:08+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/0d5d8812-f20e-421c-817a-155ceab76e01.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "588fe46c63"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "旅館で睡眠中の酸素レベルを測定、スリープツーリズムを訴求へ、兵庫県・湯村温泉「御宿コトブキ」が提供開始",
-      "summary": "兵庫県・湯村温泉の「湯村温泉郷 御宿コトブキ」は、「睡眠中の酸素レベルチェック」の提供を開始。眠ることを目的に旅をする「スリープツーリズム」を訴求。",
-      "url": "https://www.travelvoice.jp/20261026-160693",
-      "published": "2026-10-26T01:30:09+00:00",
-      "image_url": null,
-      "category": "宿泊・施設",
-      "topic_group": "f0420de7af"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "日本でのホテル開発、新築より既存物件の再生がトレンドに、建設コスト高騰で ―AHICEレポート",
-      "summary": "建設費や人件費の高騰を背景に、日本のホテル開発では新築より既存物件のコンバージョンが拡大している。AHICE 2026で語られた開発戦略、人材不足への対応、新たな宿泊ニーズとは？",
-      "url": "https://www.travelvoice.jp/20261023-160584",
-      "published": "2026-10-26T07:29:15+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/30499ae9-2b78-4e40-9b2d-48f57ff57dc6.JPG",
-      "category": "統計・市場動向",
-      "topic_group": "faa003c203"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "世界のホテル大手が顧客を「宿泊客」から「旅行者」へ軸足、航空との相互連携などで、「旅全体」での新・顧客関係の時代へ【コラム】",
-      "summary": "客室稼働率の競争から顧客との関係性重視へ。航空連携、生成AI、金融進出などを通じ、宿泊にとどまらず旅という体験全体をデザインするホテル会社の最新戦略を解説する。",
-      "url": "https://www.travelvoice.jp/20261023-160346",
-      "published": "2026-10-26T00:38:07+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "8e307fec3d"
+      "topic_group": "4bb7d207ce"
     },
     {
       "source": "やまとごころ.jp",
@@ -453,7 +463,7 @@
       "summary": "映画やドラマ、CMなどのロケを地域振興につなげる「ロケツーリズム」。単に撮影を誘致するだけでなく、作品を通じて地域の認知度を高め、観光誘客や経済効果につなげる取り組みが、各地で進められています。 長崎県南東部の島原半島に…",
       "url": "https://yamatogokoro.jp/inbound_interview/61480/",
       "published": "2026-10-26T23:00:35+00:00",
-      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/10/shimabara_1-1.jpg",
+      "image_url": null,
       "category": "地域・DMO",
       "topic_group": "d9e6b2aef7"
     },
@@ -558,16 +568,6 @@
       "topic_group": "673a51fed6"
     },
     {
-      "source": "やまとごころ.jp",
-      "title": "中国・韓国・台湾・米国で「売れる理由」は違う 多国籍マーケティングチームが見た、市場の違いと共通点",
-      "summary": "2026年4〜6月期の訪日外国人旅行消費額は約2.51兆円。市場が拡大するなか、多くの企業がインバウンド市場への参入や施策の強化を検討しています。一方、「インバウンド」と一口に言っても、中国、韓国、台湾、米国など、国・地…",
-      "url": "https://yamatogokoro.jp/column/shiitakecreative-diversity/61423/",
-      "published": "2026-10-07T23:00:38+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "6b7c8bb77c"
-    },
-    {
       "source": "時事ドットコム",
       "title": "「世界のニセコ」で何が起きている？◆外国人客が変えた街の姿 2026年10月14日",
       "summary": "",
@@ -576,6 +576,56 @@
       "image_url": null,
       "category": "業界ニュース",
       "topic_group": "5f83c659b6"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "ANA、WeChatミニプログラムを開設 予約から決済までアプリ内で可能に",
+      "summary": "ANA は10月20日、 WeChat 内で「 ANA WeChat ミニプログラム」の提供を開始しました。 中国 市場におけるデジタル接点の強化と顧客 体験 の向上を目的としており、利用者は アプリ 内で ANA 便の空席照会から予約、購入、 WeChat Pay での 決済 までをシームレスに行…",
+      "url": "https://honichi.com/news/2026/10/28/ana-wechat-miniprogram/?utm_source=rss",
+      "published": "2026-10-28T00:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14807/main_adem-ay-zs-41Br0WhQ-unsplash.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "548665605d"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "台北〜釧路線、3年ぶりに国際チャーター便を運航 12月から（チャイナ エアライン）",
+      "summary": "北海道 エアポート株式会社は10月19日、チャイナ エアラインによる台北（桃園）～釧路間で国際 チャーター 便の運航が決定したと発表しました。 [RegistrationWall] 同 チャーター 便は、 台湾 の旅行者を対象に、釧路・阿寒地域をはじめとしたひがし 北海道 を周遊するツアーとして、 …",
+      "url": "https://honichi.com/news/2026/10/28/china-airlines-kushiro/?utm_source=rss",
+      "published": "2026-10-27T23:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14805/main_AdobeStock_429804805_Editorial_Use_Only.jpeg",
+      "category": "航空・交通",
+      "topic_group": "99a41db8f2"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "2025年度の化粧品市場規模は2兆6,430億円 インバウンド需要の回復で前年を上回る",
+      "summary": "株式会社矢野経済研究所は10月16日、国内の 化粧品 市場に関する調査結果を発表しました。 調査によると、2025年度における国内 化粧品 市場規模は、前年度比2.4％増の2兆6,430億円となりました。製品の高単価化が進んだほか、 インバウンド需要 が回復傾向で推移したことによって、好調となりまし…",
+      "url": "https://honichi.com/news/2026/10/28/cosme2025/?utm_source=rss",
+      "published": "2026-10-27T22:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14803/main_AdobeStock_1735669142.jpeg",
+      "category": "統計・市場動向",
+      "topic_group": "a5a82bfdfd"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "星野リゾート代表「2026年のインバウンド市場は踊り場に、歪みの解消が重要」 星のや飛鳥など新施設の開業日も発表",
+      "summary": "星野リゾート は10月21日、オンラインプレス発表会を開催しました。 発表会では、「星のや飛鳥」「リゾナーレ福井」をはじめとする今後開業予定の施設や、 ZIPAIR との新たな取り組みなどの発表がありました。 また、代表の星野佳路氏が観光産業の現状や課題、今後の見通しなどについて語る場面もありました…",
+      "url": "https://honichi.com/news/2026/10/27/hoshinoresort/?utm_source=rss",
+      "published": "2026-10-27T02:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14800/main_hoshinoresort_img.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "1dee99ac60"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "成田・関西・福岡など6空港で訪日客向け消費税払い戻しサービスを提供 12言語に対応、11月1日より順次開始",
+      "summary": "11月より施行される 訪日外国人 向け 免税 制度改正では、現行の「購入時の 免税 方式」から、税込で購入し空港での税関確認後に返金される「リファンド方式」へ移行します。 中部 国際空港、 福岡空港 、 関西国際空港 、神戸空港、成田国際空港、新千歳空港の6空港において、消費税払い戻し サービス の…",
+      "url": "https://honichi.com/news/2026/10/27/cashjapan/?utm_source=rss",
+      "published": "2026-10-27T01:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14804/main_AdobeStock_1508862621_Editorial_Use_Only.jpeg",
+      "category": "政策・制度",
+      "topic_group": "735338e17e"
     },
     {
       "source": "訪日ラボ",
@@ -636,56 +686,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14797/main_rogerio-toledo-6XyQTCtJ3Qs-unsplash.jpg",
       "category": "統計・市場動向",
       "topic_group": "2a143502ee"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "星のや奈良監獄、「世界の注目ホテル20選」に日本で唯一選出（ナショナルジオグラフィック）",
-      "summary": "米国 の世界的 メディア 「ナショナルジオグラフィック」は9月2日、世界で新たに開業・リニューアルした注目 ホテル 20施設を選出した 特集記事 「These Are the 20 Best New Hotels in the World」を公開しました。 同誌が世界の注目 ホテル を選出したリスト…",
-      "url": "https://honichi.com/news/2026/10/23/hoshinoya-nara-natgeo2026/?utm_source=rss",
-      "published": "2026-10-23T01:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14794/main_main.jpg",
-      "category": "宿泊・施設",
-      "topic_group": "c9f3ec5af9"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "奈良県と日本免税が連携協定 免税店増とデータ活用で観光消費額の増加目指す",
-      "summary": "奈良県 と株式会社日本 免税 は10月9日、観光消費額の増加に向けた連携協定を締結しました。 外国人旅行者の県内での観光消費額をさらに増やし、 地域活性化 を図ることが目的です。 関連記事： 奈良市、2025年のインバウンド客数＆宿泊者数が過去最高 滞在型観光地への転換進む 目次 インバウンド消費単…",
-      "url": "https://honichi.com/news/2026/10/23/nara_taxfree/?utm_source=rss",
-      "published": "2026-10-23T00:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14789/main_20261009181045.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "3636deda92"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "【10月4週 人気記事】「世界で最もクールな街2026」大阪・北加賀屋と高円寺が選出 ほか｜インバウンドニュース週間アクセスTOP5",
-      "summary": "この1週間でアクセス数が多かった、 インバウンドニュース の ランキング を発表します！ 見逃している記事があれば、この機会にぜひご覧ください。 目次 週間アクセスランキング トップ5 1位. 「世界で最もクールな街2026」大阪・北加賀屋が6位、高円寺が8位に選出 2位. 名護市内の移動手段と地域…",
-      "url": "https://honichi.com/news/2026/10/23/accessranking_20261023/?utm_source=rss",
-      "published": "2026-10-22T23:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14796/main_ccb5341d16c898fffbb000fbe6a14acb.png",
-      "category": "統計・市場動向",
-      "topic_group": "efebb34e2a"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "スプリング・ジャパン、2026年冬ダイヤで成田～寧波線を再開 北京・上海線も追加販売",
-      "summary": "スプリング・ジャパンは10月19日、2026年度冬ダイヤにおける運航計画を発表しました。 リリースによると、成田～寧波線の運航を2026年11月8日より再開することを決定しました。あわせて、成田～北京線および成田～上海線についても追加販売を実施します。 対象便の航空券は同日15時より販売を開始してい…",
-      "url": "https://honichi.com/news/2026/10/23/spring-japan-winter-2026/?utm_source=rss",
-      "published": "2026-10-22T22:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14791/main_david-_QA8W30w8PQ-unsplash.jpg",
-      "category": "航空・交通",
-      "topic_group": "a2f95a61dc"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "日本が英国旅行誌の読者投票で2位に選出（ナショナルジオグラフィック）",
-      "summary": "旅行誌「ナショナル ジオグラフィック トラベラー（英国版）」は9月、読者投票企画「Reader Awards 2026」の結果を発表しました。 日本は旅行先として総合部門「People's Choice」で2位、編集部が選ぶ「Editors' Pick」部門でも2位に選ばれました。 目次 日本は総合…",
-      "url": "https://honichi.com/news/2026/10/22/readerawards-2026/?utm_source=rss",
-      "published": "2026-10-22T00:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14788/main_AdobeStock_271598701.jpeg",
-      "category": "業界ニュース",
-      "topic_group": "c9f3ec5af9"
     }
   ]
 }
