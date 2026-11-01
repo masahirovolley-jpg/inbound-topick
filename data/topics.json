@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T00:48:08.840655+00:00",
+  "updated_at": "2026-11-01T00:08:50.305458+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -63,7 +63,7 @@
       "summary": "",
       "url": "https://www.jnto.go.jp/news/expo-seminar/_1123.html",
       "published": "2026-10-30T04:30:00+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "ea33d06d13"
     },
@@ -566,6 +566,16 @@
       "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "dab2df9e78"
+    },
+    {
+      "source": "時事ドットコム",
+      "title": "不正アクセスで会員情報４３２万件流出 国籍や緊急連絡先などか―クラブツーリズム",
+      "summary": "",
+      "url": "https://www.jiji.com/jc/article?k=2026103100452&g=soc&m=rss",
+      "published": "2026-10-31T14:01:00+00:00",
+      "image_url": "https://www.jiji.com/img/jijicom_og_image.png",
+      "category": "業界ニュース",
+      "topic_group": "8ab89fd853"
     },
     {
       "source": "訪日ラボ",
