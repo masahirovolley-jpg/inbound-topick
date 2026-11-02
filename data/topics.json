@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T00:08:50.305458+00:00",
+  "updated_at": "2026-11-02T00:45:20.873000+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -33,7 +33,7 @@
       "summary": "",
       "url": "https://www.jnto.go.jp/news/info/post_1.html",
       "published": "2026-10-30T07:20:00+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "898dc392c8"
     },
@@ -53,7 +53,7 @@
       "summary": "",
       "url": "https://www.jnto.go.jp/news/members/_lvx.html",
       "published": "2026-10-30T05:32:29+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "宿泊・施設",
       "topic_group": "a0c6b54ecd"
     },
@@ -189,6 +189,16 @@
     },
     {
       "source": "観光庁",
+      "title": "【参加者・登壇者募集】オーバーツーリズムの未然防止をはじめとする受入環境整備に係るオンラインソリューション商談会を開催します！ （令和8年度オーバーツーリズムの未然防止・抑制をはじめと…",
+      "summary": "",
+      "url": "https://www.mlit.go.jp/kankocho/topics08_00045.html",
+      "published": "2026-10-30",
+      "image_url": null,
+      "category": "サステナブル",
+      "topic_group": "c5709cc2c5"
+    },
+    {
+      "source": "観光庁",
       "title": "【令和7年度補正予算】観光地経営の高度化事業（人材育成補助金）採択結果のお知らせ（三次公募）（第二回公表） 観光施設 自治体・DMO 旅行業 宿泊業 交通 その他観光関係者",
       "summary": "",
       "url": "https://www.mlit.go.jp/kankocho/kobo13_00010.html",
@@ -226,16 +236,6 @@
       "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "f7e789276c"
-    },
-    {
-      "source": "観光庁",
-      "title": "【参加者・登壇者募集】オーバーツーリズムの未然防止をはじめとする受入環境整備に係るオンラインソリューション商談会を開催します！ （令和8年度オーバーツーリズムの未然防止・抑制をはじめと…",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/topics08_00045.html",
-      "published": "2026-10-28",
-      "image_url": null,
-      "category": "サステナブル",
-      "topic_group": "c5709cc2c5"
     },
     {
       "source": "観光庁",
@@ -392,7 +392,7 @@
       "title": "【人事】HIS、代表取締役が澤田秀太社長の1人体制へ、矢田会長は取締役に、役員の異動など発表",
       "summary": "HISは、2027年1月27日付で矢田素史氏が代表取締役会長を退任し、代表取締役が澤田秀太社長の1人体制となる人事を発表した。経営陣の若返りと次世代への移行を加速させる。あわせて、2026年11月1日付の執行役員人事も発表した。",
       "url": "https://www.travelvoice.jp/20261030-160772",
-      "published": "2026-10-30T08:20:25+00:00",
+      "published": "2026-11-01T04:06:34+00:00",
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2025/07/46f88465-507f-45b9-b0dd-52480069714f.jpg",
       "category": "業界ニュース",
       "topic_group": "437284deb0"
@@ -446,6 +446,16 @@
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2025/09/c2ec584c-1068-4a9d-b5c2-5bdf859cde5f.jpg",
       "category": "統計・市場動向",
       "topic_group": "5d5c625934"
+    },
+    {
+      "source": "やまとごころ.jp",
+      "title": "2026年8月訪日宿泊12.0％減の1239万人泊、栃木・高知は前年比9割増",
+      "summary": "観光庁が発表した2026年8月の宿泊旅行統計（第二次速報）によると、外国人延べ宿泊者数は前年同月比12.0％減の1239万人泊となった。7月の6.5％減から減少幅が拡大した。 三大都市圏では15.6％減となった一方、地方…",
+      "url": "https://yamatogokoro.jp/inbound_data/61617/",
+      "published": "2026-11-01T23:00:57+00:00",
+      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/10/loris-boulinguez-T_jCSMqj4ZA-unsplash.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "f4adf418e3"
     },
     {
       "source": "やまとごころ.jp",
@@ -558,24 +568,44 @@
       "topic_group": "c27283462a"
     },
     {
-      "source": "やまとごころ.jp",
-      "title": "観光地ではない商店街を「泊まる目的地」に。SEKAI HOTEL大阪布施の地域連携",
-      "summary": "大阪府東大阪市の布施商店街。梅田や難波のような観光地ではなく、地元の人々が日々買い物をする、ごく普通の下町の商店街だ。この街の空き家や空き店舗をリノベーションし、街全体を一つのホテルと見立てた分散型宿泊施設「SEKAI …",
-      "url": "https://yamatogokoro.jp/inbound_case/61390/",
-      "published": "2026-10-12T23:00:42+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "dab2df9e78"
-    },
-    {
       "source": "時事ドットコム",
       "title": "不正アクセスで会員情報４３２万件流出 国籍や緊急連絡先などか―クラブツーリズム",
       "summary": "",
-      "url": "https://www.jiji.com/jc/article?k=2026103100452&g=soc&m=rss",
-      "published": "2026-10-31T14:01:00+00:00",
+      "url": "https://www.jiji.com/jc/article?k=2026103100452&g=eco",
+      "published": "2026-10-31T23:01:00+09:00",
       "image_url": "https://www.jiji.com/img/jijicom_og_image.png",
       "category": "業界ニュース",
       "topic_group": "8ab89fd853"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "成田空港、2026年冬期の国際線週間発着回数が開港以来最高に 初の週4,000回超え",
+      "summary": "成田国際空港は10月22日、2026年冬期スケジュール（2026年10月25日～2027年3月27日）の概況を発表しました。 発表によると、国際線の週間発着回数と全体の週間総発着回数がともに開港以来の最高値を更新しました。また、乗り入れ航空会社数も冬期スケジュールとして過去最多を記録しています。 関…",
+      "url": "https://honichi.com/news/2026/11/02/narita-airport-record-flights2026/?utm_source=rss",
+      "published": "2026-11-02T00:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14814/main_david-_QA8W30w8PQ-unsplash.jpg",
+      "category": "航空・交通",
+      "topic_group": "523f2b0cff"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "1社ではなくチームで富裕層を全国へ 日本初のDMC連携「Japan DMC Network」に聞く、地方誘客の今",
+      "summary": "訪日客 と地方をつなぐ要となる「 DMC （Destination Management Company）」。海外の 旅行会社 などから依頼を受け、宿泊・交通・ 体験 の手配のほか、観光コンテンツの企画・造成や運営、地域へのアドバイザリーまで担う旅行事業者です。 2026年7月、 富裕層 （ 高付加…",
+      "url": "https://honichi.com/news/2026/11/02/japan-dmc-network/?utm_source=rss",
+      "published": "2026-11-01T23:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14817/main_DSC03176.JPG",
+      "category": "統計・市場動向",
+      "topic_group": "8ba40c71e5"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "関空の9月外国人旅客数、10か月連続で前年割れ 2026年度上半期は前年比18％減",
+      "summary": "関西 エアポートは10月23日、 関西国際空港 ・大阪国際空港（伊丹空港）・神戸空港の9月の利用状況を公表しました。 発表によると、 関西国際空港 における9月の国際線外国人旅客数は前年同月比17％減の約132万人で、10か月連続で前年を下回りました。 韓国 や 台湾 、 香港 ・マカオ方面では前年…",
+      "url": "https://honichi.com/news/2026/11/02/kansai_airports202609/?utm_source=rss",
+      "published": "2026-11-01T22:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14816/main_mark-olsen-K5j1KgecVC8-unsplash.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "f0d63da586"
     },
     {
       "source": "訪日ラボ",
@@ -656,36 +686,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14808/main_DSC03188.JPG",
       "category": "統計・市場動向",
       "topic_group": "fc99c81784"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "国際線2026年冬ダイヤ、前年比97.3% 中国減も韓国など好調【航空便動向まとめ】",
-      "summary": "島国である日本において、航空便の状況は、 インバウンド がどのように回復・拡大していくかどうかのカギを握っています。 そこで訪日ラボでは、2026年冬ダイヤ（2026年10月25日〜2027年3月27日）の国際線航空便動向をまとめました。 関連記事： 世界のメガハブ空港ランキング2026、羽田が8位…",
-      "url": "https://honichi.com/news/2026/10/29/airline202610/?utm_source=rss",
-      "published": "2026-10-29T03:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14813/main_12b4378fa2bbd8fc69fd1fa7d93f28d7.png",
-      "category": "統計・市場動向",
-      "topic_group": "9c2081c5ce"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "訪日ラボ運営のmov、お店選びのユーザージャーニー「AICRAS」に対応する支援サービス第一弾「口コミコム AI検索対策（AIO/LLMO）エージェント」を提供開始",
-      "summary": "店舗向け集客一元化 プラットフォーム 「 口コミコム 」および業界最大級の インバウンド ビジネス メディア 「訪日ラボ」を運営する株式会社movは、お店選びのユーザージャーニー「 AI CRAS」に対応した支援 サービス の第一弾として、「 口コミコム AI 検索対策（ AI O/LLMO）エージ…",
-      "url": "https://honichi.com/news/2026/10/29/kcom-aiagent/?utm_source=rss",
-      "published": "2026-10-29T02:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14812/main_kcom-aiagent_img.png",
-      "category": "AI・デジタル",
-      "topic_group": "3964691c76"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "羽田・成田・那覇空港で消費税セルフ還付サービス「Self Tax Refund」が11月1日から運用開始（日本空港ビルデング・グローリー）",
-      "summary": "通貨処理機の開発などを手がけるグローリーは10月21日、日本空港ビルデングと共同開発した消費税セルフ還付 サービス 「Self Tax Refund」を11月1日から羽田・成田・ 那覇 空港で運用すると発表しました。 これにより 訪日外国人 旅行者は帰国便への搭乗前に、空港の端末で消費税の還付を現金…",
-      "url": "https://honichi.com/news/2026/10/29/self-tax-refund-airports/?utm_source=rss",
-      "published": "2026-10-28T23:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14811/main_main(2).jpg",
-      "category": "政策・制度",
-      "topic_group": "064813ddbf"
     }
   ]
 }
