@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T00:45:20.873000+00:00",
+  "updated_at": "2026-11-03T02:55:43.770324+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -27,6 +27,16 @@
     }
   ],
   "articles": [
+    {
+      "source": "JNTO",
+      "title": "日本が英国旅行業界誌の読者投票で第1位を獲得！",
+      "summary": "英国旅行業界誌『Travel Bulletin』が実施した読者投票企画「STAR AWARDS 2026」において、「Star Touring & Adventure Destination（最優秀周遊・アドベンチャー旅行デスティネーション）」部門で日本が第１位に選出されました。同部門における日本の…",
+      "url": "https://www.jnto.go.jp/news/info/20261102.html",
+      "published": "2026-11-02T06:23:00+00:00",
+      "image_url": "https://www.jnto.go.jp/news/20261102_1.JPG",
+      "category": "業界ニュース",
+      "topic_group": "14f35760db"
+    },
     {
       "source": "JNTO",
       "title": "入札等公告情報を更新しました",
@@ -168,14 +178,24 @@
       "topic_group": "3f7be383a0"
     },
     {
-      "source": "JNTO",
-      "title": "高付加価値旅行商談会 「Japan Luxury Showcase 2027」 参加団体（セラー）募集開始スケジュールのお知らせ",
+      "source": "観光庁",
+      "title": "令和７年度補正「地域一体となった観光産業の効率化支援事業」(三次公募) 採択結果のお知らせ",
       "summary": "",
-      "url": "https://www.jnto.go.jp/news/expo-seminar/_japan_luxury_showcase_2027.html",
-      "published": "2026-10-23T04:30:00+00:00",
+      "url": "https://www.mlit.go.jp/kankocho/kobo06_00092.html",
+      "published": "2026-11-02",
+      "image_url": null,
+      "category": "政策・制度",
+      "topic_group": "4f4ef74d1d"
+    },
+    {
+      "source": "観光庁",
+      "title": "「万博レガシー事業」における採択結果の公表",
+      "summary": "",
+      "url": "https://www.mlit.go.jp/kankocho/kobo04_00074.html",
+      "published": "2026-10-30",
       "image_url": null,
       "category": "業界ニュース",
-      "topic_group": "ff1a5e491c"
+      "topic_group": "dc39621805"
     },
     {
       "source": "観光庁",
@@ -259,26 +279,6 @@
     },
     {
       "source": "観光庁",
-      "title": "宿泊事業者向け「3社の実例から学ぶ 省力化投資セミナー」開催のお知らせ",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/topics06_00066.html",
-      "published": "2026-10-19",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "6082db9af3"
-    },
-    {
-      "source": "観光庁",
-      "title": "ユナイテッド航空キンゼルマンCCOによる木村観光庁長官への表敬訪問",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/topics03_00065.html",
-      "published": "2026-10-16",
-      "image_url": null,
-      "category": "航空・交通",
-      "topic_group": "d64df35b50"
-    },
-    {
-      "source": "観光庁",
       "title": "「地方における高付加価値なインバウンド観光地づくり」事業 令和８年度 中間報告会を開催します",
       "summary": "",
       "url": "https://www.mlit.go.jp/kankocho/news04_00023.html",
@@ -349,11 +349,91 @@
     },
     {
       "source": "Travel Voice",
+      "title": "民泊「年間ゼロ」で問題は解決するのか？ 「ウォーターベッド現象」が示すオーバーツーリズム規制の限界、住宅・都市政策から考察【コラム】",
+      "summary": "日本交通公社の山田雄一氏による連載コラム。今回は、日本の民泊に対する潮目が変わっている今、そのハレーション対応策を考察。",
+      "url": "https://www.travelvoice.jp/20261102-160608",
+      "published": "2026-11-02T23:37:54+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/62e6412a-f9c1-4af1-84c9-2da5d871f0dd.jpg",
+      "category": "政策・制度",
+      "topic_group": "aa15462b6b"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "世界の経営トップが若者に学ぶ、ヴァージンCEOらが実践するSNS活用や「逆メンター制度」、情報収集と学び直しとは？",
+      "summary": "ロイター通信は、SNSで若者の声に耳を傾ける大手企業のCEOたちについてレポート。文化を創り出す若者の考え方はビジネスと企業価値向上に不可欠。大切なことは学び続けること。",
+      "url": "https://www.travelvoice.jp/20261102-160531",
+      "published": "2026-11-02T01:50:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/9c970e35-d8a1-4456-987a-1d90ddc96baa.JPG",
+      "category": "政策・制度",
+      "topic_group": "b01f5b4f7d"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "Z世代の生成AI利用、商品・サービスの検討・購入時に54％が活用、最多は候補の「絞り込み」 ―楽天調査",
+      "summary": "楽天はZ世代における「生成AI利用に関する調査」を実施。生成AIを「ほぼ毎日利用している」は38%に。商品やサービスの検討および購入時における利用割合は54.3%。",
+      "url": "https://www.travelvoice.jp/20261102-160468",
+      "published": "2026-11-02T01:48:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2023/04/c142aa9e-eb85-4e3f-a41e-93f45e220758.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "b9459df0dd"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "東急の定額宿泊「ツギツギ」、旅行テックの国際観光アワードで入賞、平日・閑散期の需要創出を評価 ―TIS2026",
+      "summary": "東急が運営する定額宿泊サービス「ツギツギ」が、世界最大級の国際観光アワード「Tourism Innovation Awards」の旅行イノベーション・新ビジネスモデル賞を受賞。日本企業としては初。",
+      "url": "https://www.travelvoice.jp/20261102-160774",
+      "published": "2026-11-02T06:32:33+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/33c83d1b-7cae-4f65-a226-60fd67569053.jpeg",
+      "category": "統計・市場動向",
+      "topic_group": "e6f4d85e95"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "ナビタイム、店舗・施設ごとの訪日客の動向を分析する新サービス、前日分まで集計、周遊分析も",
+      "summary": "ナビタイムジャパンは、地図上で登録した任意の範囲（地点）で、訪日外国人観光客の滞在状況や周遊動向を分析できる法人向けWeb分析サービス「インバウンドプロファイラー・フォーカス」の提供を開始。",
+      "url": "https://www.travelvoice.jp/20261102-160767",
+      "published": "2026-11-02T01:40:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/bd98f9a9-755d-443f-9663-d7ee2f344ce3.jpg",
+      "category": "政策・制度",
+      "topic_group": "b397dfcc68"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "北海道中央バス、GPS連動の多言語AI音声ガイドを共同開発、訪日客のスマホで車窓の観光案内",
+      "summary": "北海道中央バスは、AIを活用したモビリティ型音声ガイドをTISインテックグループのTISIと共同開発。札幌駅北口発着の定期観光バスで運用を開始する。",
+      "url": "https://www.travelvoice.jp/20261102-160777",
+      "published": "2026-11-02T09:22:06+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/82fcdba4-aa5e-40c5-8297-3ef964c2b7eb.jpg",
+      "category": "AI・デジタル",
+      "topic_group": "d3c9b25f22"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "クラブツーリズム、不正アクセスで約432万件の顧客情報が漏えいの可能性、ネット会員の氏名・住所・連絡先など",
+      "summary": "クラブツーリズムは、外部からの不正アクセスにより、インターネット会員の顧客情報約432万件が漏えいした可能性があると発表。氏名や住所、電話番号などが対象で、調査のためホームページを一時停止。",
+      "url": "https://www.travelvoice.jp/20261102-160779",
+      "published": "2026-11-02T09:21:09+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2025/09/fa88e5e7-ad3b-4f3e-915b-c26d566ac075.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "1943349e73"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "長野県飯綱町、ふるさと住民登録制度を見据えた滞在プログラム 首都圏の学生向けに農業体験と地域交流",
+      "summary": "長野県飯綱町は、首都圏の大学生および大学院生を対象に、「ふるさと住民登録制度」の担い手活動を念頭に滞在型体験・交流プログラムを開催する。",
+      "url": "https://www.travelvoice.jp/20261102-160776",
+      "published": "2026-11-02T08:30:37+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/25e5472f-560f-44c8-adf3-2c02c52b32dd.jpg",
+      "category": "政策・制度",
+      "topic_group": "9d3e092c5c"
+    },
+    {
+      "source": "Travel Voice",
       "title": "楽天が描く「ふるさと住民」の新たな経済圏、関係人口と「旅行」「ふるさと納税」をつなぐ戦略を責任者に聞いてきた",
       "summary": "楽天グループは、関係人口や地域の担い手を創出する取り組みを積極的に展開。2027年度から本格開始される「ふるさと住民登録制度」に向けて、パートナー企業や自治体と様々な取り組みを進めている。その戦略とは。",
       "url": "https://www.travelvoice.jp/20261030-160695",
       "published": "2026-10-30T11:51:59+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/4cefd289-71b0-45df-a028-5ea337da763a.jpeg",
+      "image_url": null,
       "category": "政策・制度",
       "topic_group": "b9b2d294bb"
     },
@@ -363,89 +443,9 @@
       "summary": "TEJ2026の国内観光シンポジウムをレポート。人手不足への対応や「選ばれる産業」への転換に向け、価値密度の最適化や他産業との人材循環、キャリアの出口論を議論した。",
       "url": "https://www.travelvoice.jp/20261030-160700",
       "published": "2026-10-30T11:56:03+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/92d01f33-78c8-48b6-a315-a51f826ba232.jpeg",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "72b34b25e5"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "エクスペディア、AIで旅行予約の自由度を拡大、自然な言葉で宿探し、複雑な旅程や複数客室の一括予約にも対応",
-      "summary": "米エクスペディアがAI機能をアップデート。AIで一人ひとりに合った旅行を提案し、自由な言葉で宿探し、異なる都市・日程を組み合わせた予約も。",
-      "url": "https://www.travelvoice.jp/20261030-160769",
-      "published": "2026-10-30T11:57:28+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/03/13a2278b-ff58-4175-9fab-a63808294c44.jpg",
-      "category": "AI・デジタル",
-      "topic_group": "0cb568d4a1"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "ANA、アマデウスへの不正アクセスで約3万7800人の予約情報が閲覧された可能性、パスポート番号なども",
-      "summary": "ANAは、アマデウスの旅客サービスシステムへの不正アクセスにより、顧客約3万7800人の予約情報が閲覧された形跡があると発表。うち約1700人はパスポート番号や連絡先なども対象となった。",
-      "url": "https://www.travelvoice.jp/20261030-160771",
-      "published": "2026-10-30T08:21:02+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2019/01/stockfoto_78124209_S.jpg",
-      "category": "航空・交通",
-      "topic_group": "8c1a000f6c"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "【人事】HIS、代表取締役が澤田秀太社長の1人体制へ、矢田会長は取締役に、役員の異動など発表",
-      "summary": "HISは、2027年1月27日付で矢田素史氏が代表取締役会長を退任し、代表取締役が澤田秀太社長の1人体制となる人事を発表した。経営陣の若返りと次世代への移行を加速させる。あわせて、2026年11月1日付の執行役員人事も発表した。",
-      "url": "https://www.travelvoice.jp/20261030-160772",
-      "published": "2026-11-01T04:06:34+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2025/07/46f88465-507f-45b9-b0dd-52480069714f.jpg",
-      "category": "業界ニュース",
-      "topic_group": "437284deb0"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "HIS、旅行会社の事業承継M&Aに向けた新会社を設立へ、後継者不足や財務課題に対応、各社の独自性を維持",
-      "summary": "エイチ・アイ・エス（HIS）は、中間持株会社「旅行事業承継NEXTホールディングス」を設立すると発表した。後継者不足や財務基盤の強化など、旅行業界が抱える構造的な課題に対応。「事業承継M&Aプラットフォーム」を構築へ。",
-      "url": "https://www.travelvoice.jp/20261030-160773",
-      "published": "2026-10-30T08:20:34+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2023/05/12d542d2-c1bc-4134-89f7-b79af67c12dc.jpg",
-      "category": "AI・デジタル",
-      "topic_group": "513fb201fb"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "日本旅行、フランス通信社（AFP）子会社と日本の情報発信へ、インバウンド誘客や地域企業の海外展開につなぐ",
-      "summary": "日本旅行は、フランス通信社（AFP）の子会社「MEDIACONNECT」が運営するグローバルPRプラットフォーム「MediaConnect」を活用して、2027年1月を目途に日本各地の情報の発信を始める。",
-      "url": "https://www.travelvoice.jp/20261030-160768",
-      "published": "2026-10-30T01:45:07+00:00",
-      "image_url": null,
-      "category": "地域・DMO",
-      "topic_group": "90b4095b87"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "米会員制リゾート大手、長野・志賀高原にスキーリゾートを12月開業、同エリア2軒目、日本では21施設を展開",
-      "summary": "Travel + Leisure Co.（トラベルアンドレジャー）は、長野県志賀高原にリニューアルした「クラブウィンダム丸池 志賀高原」を2026年12月に開業。志賀高原では2軒目。",
-      "url": "https://www.travelvoice.jp/20261030-160752",
-      "published": "2026-10-30T01:35:07+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "9e21e21ca4"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "紅葉の見ごろ予想2026、11月中旬以降は平年よりやや遅め、高尾山は11月13日、京都・嵐山は23日頃に",
-      "summary": "ウェザーニューズ社は、2026年10月29日、秋の紅葉シーズンに向けた「第三回紅葉見頃予想」を発表。香嵐渓（愛知県）や嵐山（京都府）では11月23日頃に。",
-      "url": "https://www.travelvoice.jp/20261030-160765",
-      "published": "2026-10-30T01:30:08+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "ea0ad9fcd4"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "顧客満足度調査2026、シティホテル部門は「帝国ホテル」が首位、国内長距離交通はスカイマークが2年ぶりトップに",
-      "summary": "2026年度JCSI第4回調査で、シティホテルは帝国ホテル、ビジネスホテルはドーミーインが顧客満足度1位に。国内長距離交通はスカイマークが2年ぶりの首位、新幹線は東北・北陸が同率1位。有料特急の小田急電鉄は顧客満足、推奨意向、感動指標の3指標でトップとなった。",
-      "url": "https://www.travelvoice.jp/20261028-160748",
-      "published": "2026-10-30T08:24:17+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2025/09/c2ec584c-1068-4a9d-b5c2-5bdf859cde5f.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "5d5c625934"
     },
     {
       "source": "やまとごころ.jp",
@@ -453,7 +453,7 @@
       "summary": "観光庁が発表した2026年8月の宿泊旅行統計（第二次速報）によると、外国人延べ宿泊者数は前年同月比12.0％減の1239万人泊となった。7月の6.5％減から減少幅が拡大した。 三大都市圏では15.6％減となった一方、地方…",
       "url": "https://yamatogokoro.jp/inbound_data/61617/",
       "published": "2026-11-01T23:00:57+00:00",
-      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/10/loris-boulinguez-T_jCSMqj4ZA-unsplash.jpg",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "f4adf418e3"
     },
@@ -569,13 +569,33 @@
     },
     {
       "source": "時事ドットコム",
-      "title": "不正アクセスで会員情報４３２万件流出 国籍や緊急連絡先などか―クラブツーリズム",
+      "title": "航空２社、燃料高で減益 売上高は最高―９月中間決算",
       "summary": "",
-      "url": "https://www.jiji.com/jc/article?k=2026103100452&g=eco",
-      "published": "2026-10-31T23:01:00+09:00",
+      "url": "https://www.jiji.com/jc/article?k=2026110200739&g=eco",
+      "published": "2026-11-02T16:56:00+09:00",
       "image_url": "https://www.jiji.com/img/jijicom_og_image.png",
-      "category": "業界ニュース",
-      "topic_group": "8ab89fd853"
+      "category": "航空・交通",
+      "topic_group": "dcac25b2a6"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "Meta、AIエージェント「Muse」を日本で提供開始 北米以外では初",
+      "summary": "Metaは10月23日、パーソナル AI エージェント「Muse」の日本での提供を開始しました。 2026年9月に先行して提供を始めた 北米 以外では、日本が初めての提供地域となります。 関連記事： Meta、新AIエージェント「Muse」を発表 複雑な旅行計画やフライト比較、予約作業にも自律対応 …",
+      "url": "https://honichi.com/news/2026/11/02/meta-muse-japan/?utm_source=rss",
+      "published": "2026-11-02T02:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14827/main_AdobeStock_2175876906.jpeg",
+      "category": "地域・DMO",
+      "topic_group": "77f1dfca75"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "韓国LCCチェジュ航空、2027年1月に仙台〜仁川線を開設 週3往復で運航へ",
+      "summary": "チェジュ航空は10月23日、2027年1月8日より仙台〜ソウル（仁川）線を開設することを発表しました。水・金・日曜日の週3往復で定期運航を開始します。 [RegistrationWall] 運航スケジュールは以下の通りです。 仙台〜仁川：11時30分発、14時40分着 仁川〜仙台：8時35分発、10…",
+      "url": "https://honichi.com/news/2026/11/02/jejuair-sendai-incheon/?utm_source=rss",
+      "published": "2026-11-02T01:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14823/main_denhard-lee-mW9Kd3kkG3E-unsplash.jpg",
+      "category": "航空・交通",
+      "topic_group": "e780bb525f"
     },
     {
       "source": "訪日ラボ",
@@ -666,26 +686,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14819/main_31d5ff026f71cba926da22e2b5918224.png",
       "category": "統計・市場動向",
       "topic_group": "a62dddcd66"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "9月の百貨店免税売上、前年比25.3％増で9月として過去最高 韓国・台湾・香港が好調",
-      "summary": "日本 百貨店 協会は10月23日、全国 百貨店 の2026年9月の売上高概況を発表しました。 同レポートによると、2026年9月の 免税 売上高は約496億4,000万円（前年同月比25.3％増）で、7か月連続でプラスとなりました。 関連記事： 8月の百貨店免税売上、客数減でも購買単価は15.6％増…",
-      "url": "https://honichi.com/news/2026/10/30/department_202609/?utm_source=rss",
-      "published": "2026-10-29T22:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14815/main_vitaly-gariev-VZK7zlnUVwI-unsplash.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "584dea37fb"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "11月の免税制度移行に向け周知を実施 企業への不正アクセス事案にも言及【観光庁長官会見】",
-      "summary": "観光庁 の木村典央長官は10月21日、定例会見を実施。同日に発表された インバウンド消費動向調査 、日本 政府観光局 （ JNTO ）訪日外客統計などについて報告しました。 さらに長官は、11月に移行する 訪日客 向け 免税 制度や、企業を狙った不正アクセス事案などについても言及しました。 関連記事…",
-      "url": "https://honichi.com/news/2026/10/30/chokankaiken202610/?utm_source=rss",
-      "published": "2026-10-29T21:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14808/main_DSC03188.JPG",
-      "category": "統計・市場動向",
-      "topic_group": "fc99c81784"
     }
   ]
 }
