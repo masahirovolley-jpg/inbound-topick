@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T02:55:43.770324+00:00",
+  "updated_at": "2026-11-04T01:22:59.729535+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -349,23 +349,23 @@
     },
     {
       "source": "Travel Voice",
-      "title": "民泊「年間ゼロ」で問題は解決するのか？ 「ウォーターベッド現象」が示すオーバーツーリズム規制の限界、住宅・都市政策から考察【コラム】",
+      "title": "民泊「年間ゼロ」で問題は解決するのか？ 「ウォーターベッド現象」が示すオーバーツーリズム規制の限界から考えてみた【コラム】",
       "summary": "日本交通公社の山田雄一氏による連載コラム。今回は、日本の民泊に対する潮目が変わっている今、そのハレーション対応策を考察。",
       "url": "https://www.travelvoice.jp/20261102-160608",
-      "published": "2026-11-02T23:37:54+00:00",
+      "published": "2026-11-04T00:47:40+00:00",
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/62e6412a-f9c1-4af1-84c9-2da5d871f0dd.jpg",
       "category": "政策・制度",
-      "topic_group": "aa15462b6b"
+      "topic_group": "359099fdbb"
     },
     {
       "source": "Travel Voice",
-      "title": "世界の経営トップが若者に学ぶ、ヴァージンCEOらが実践するSNS活用や「逆メンター制度」、情報収集と学び直しとは？",
+      "title": "ヴァージン76歳創業者ら世界の経営トップが「若者から学ぶ」時代に、SNSで企業価値を高めるために実践していることは？",
       "summary": "ロイター通信は、SNSで若者の声に耳を傾ける大手企業のCEOたちについてレポート。文化を創り出す若者の考え方はビジネスと企業価値向上に不可欠。大切なことは学び続けること。",
       "url": "https://www.travelvoice.jp/20261102-160531",
-      "published": "2026-11-02T01:50:07+00:00",
+      "published": "2026-11-04T00:51:18+00:00",
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/9c970e35-d8a1-4456-987a-1d90ddc96baa.JPG",
-      "category": "政策・制度",
-      "topic_group": "b01f5b4f7d"
+      "category": "AI・デジタル",
+      "topic_group": "5b2a35ca79"
     },
     {
       "source": "Travel Voice",
@@ -373,7 +373,7 @@
       "summary": "楽天はZ世代における「生成AI利用に関する調査」を実施。生成AIを「ほぼ毎日利用している」は38%に。商品やサービスの検討および購入時における利用割合は54.3%。",
       "url": "https://www.travelvoice.jp/20261102-160468",
       "published": "2026-11-02T01:48:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2023/04/c142aa9e-eb85-4e3f-a41e-93f45e220758.jpg",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "b9459df0dd"
     },
@@ -393,7 +393,7 @@
       "summary": "ナビタイムジャパンは、地図上で登録した任意の範囲（地点）で、訪日外国人観光客の滞在状況や周遊動向を分析できる法人向けWeb分析サービス「インバウンドプロファイラー・フォーカス」の提供を開始。",
       "url": "https://www.travelvoice.jp/20261102-160767",
       "published": "2026-11-02T01:40:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/bd98f9a9-755d-443f-9663-d7ee2f344ce3.jpg",
+      "image_url": null,
       "category": "政策・制度",
       "topic_group": "b397dfcc68"
     },
@@ -446,6 +446,16 @@
       "image_url": null,
       "category": "業界ニュース",
       "topic_group": "72b34b25e5"
+    },
+    {
+      "source": "やまとごころ.jp",
+      "title": "観光の恩恵を、地域の暮らしへ。野沢温泉村長が描く、持続可能な観光地経営",
+      "summary": "インバウンド需要の拡大により、観光が地域経済を支える長野県野沢温泉村。2025年3月には、同村で20年ぶりとなる村長選が行われた。新村長に就任した上野雄大村長は「暮らしの充実第一主義」を掲げ、宿泊税活用の観光地経営基金や…",
+      "url": "https://yamatogokoro.jp/inbound_interview/61525/",
+      "published": "2026-11-04T00:20:59+00:00",
+      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/11/nozawaonsen_kanko_vision.png",
+      "category": "統計・市場動向",
+      "topic_group": "c9818c9183"
     },
     {
       "source": "やまとごころ.jp",
@@ -558,24 +568,34 @@
       "topic_group": "30fe6e4fad"
     },
     {
-      "source": "やまとごころ.jp",
-      "title": "インフルエンサー招聘は人選だけではない、クリエイターと共につくるための5つのポイント",
-      "summary": "インフルエンサーを招き、地域や施設の魅力を発信してもらう。訪日プロモーションでは、おなじみの手法になりました。一方で、「フォロワーの多い人を呼んだのに、思ったほど見られなかった」「投稿はされたけれど、結局何が残ったのかわ…",
-      "url": "https://yamatogokoro.jp/column/shiitakecreative-diversity/61446/",
-      "published": "2026-10-13T23:00:14+00:00",
-      "image_url": null,
-      "category": "政策・制度",
-      "topic_group": "c27283462a"
+      "source": "訪日ラボ",
+      "title": "日立、沖縄と和歌山で観光DX推進に向けた実証を開始 旅マエデータを活用して広域周遊を検証",
+      "summary": "日立製作所は10月26日、 沖縄県 中南部地域および 和歌山県 熊野地域の2拠点において、旅行計画時のデータを活用した 観光DX の実証実験を同月より順次開始すると発表しました。 従来の来訪実績データでは把握が難しかった旅行前の潜在ニーズを捉えるため、旅行計画時の検討データを収集・分析し、広域周遊の…",
+      "url": "https://honichi.com/news/2026/11/04/tourism-dx-hitachi-pretrip-data/?utm_source=rss",
+      "published": "2026-11-04T00:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14828/main_main_2.png",
+      "category": "統計・市場動向",
+      "topic_group": "930f861a1c"
     },
     {
-      "source": "時事ドットコム",
-      "title": "航空２社、燃料高で減益 売上高は最高―９月中間決算",
-      "summary": "",
-      "url": "https://www.jiji.com/jc/article?k=2026110200739&g=eco",
-      "published": "2026-11-02T16:56:00+09:00",
-      "image_url": "https://www.jiji.com/img/jijicom_og_image.png",
+      "source": "訪日ラボ",
+      "title": "【今週の注目記事5選】9月外国人宿泊数は1,165万人、8月は地方部比率が上昇 ほか",
+      "summary": "訪日ラボ編集部です。本シリーズでは、 この1週間に公開した記事の中から、 インバウンド 担当者が読んでおきたい注目の記事 を厳選してお届けします。 最新トレンドの把握や、 マーケティング 活動にぜひともご活用ください。 目次 今週の注目記事5選 1. 9月の外国人宿泊数は1,165万人 8月は地方部…",
+      "url": "https://honichi.com/news/2026/11/04/weekmatome_20261104/?utm_source=rss",
+      "published": "2026-11-03T23:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14825/main_72e8ce718cff78bce867efd78e2b0ea6.png",
+      "category": "統計・市場動向",
+      "topic_group": "aae29d5aad"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "アラスカ航空、成田〜米アラスカ州アンカレッジ線を2027年5月に新規就航へ 両都市間で初の直行便",
+      "summary": "米アラスカ航空は10月27日、アラスカ州のテッド・スティーブンス・アンカレッジ国際空港と成田国際空港を結ぶ 直行便 を、2027年5月13日より新規就航すると発表しました。両都市を結ぶ初の定期 直行便 となります。 [RegistrationWall] 機材にはボーイング737 MA X 8型機が採…",
+      "url": "https://honichi.com/news/2026/11/04/alaska-anchorage-narita/?utm_source=rss",
+      "published": "2026-11-03T22:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14824/main_john-feng-a_-hDgB03oA-unsplash.jpg",
       "category": "航空・交通",
-      "topic_group": "dcac25b2a6"
+      "topic_group": "19a8e4bfa3"
     },
     {
       "source": "訪日ラボ",
@@ -635,7 +655,7 @@
       "published": "2026-10-30T05:42:00+00:00",
       "image_url": "https://static.honichi.com/uploads/entry/image/14822/main_fb59a028868f5f02ca61e411a9ae0d3f.png",
       "category": "統計・市場動向",
-      "topic_group": "166dfd123b"
+      "topic_group": "aae29d5aad"
     },
     {
       "source": "訪日ラボ",
@@ -656,36 +676,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14809/main_jata-japan-go-beyond_img.JPG",
       "category": "政策・制度",
       "topic_group": "f16461ff72"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "11月の免税制度移行に向け周知 企業への不正アクセス事案にも言及【観光庁長官会見】 / 7〜9月の訪日消費額、2兆2,076億円 韓国が前年比45.8％増と躍進 ほか：インバウンド情報まとめ【2026年10月後編】",
-      "summary": "訪日ラボを運営する株式会社movでは、 観光業界や インバウンド の動向をまとめたレポート【 インバウンド 情報まとめ】 を毎月発行しています。 この記事では、主に 10月後半の インバウンド 最新ニュース を厳選してお届けします。 最新情報の把握や マーケティング のヒントに、本レポートをぜひご活…",
-      "url": "https://honichi.com/news/2026/10/30/202610_inbound-2/?utm_source=rss",
-      "published": "2026-10-30T01:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14818/main_16ccd4ba9812394c28bb85e2521e9144.png",
-      "category": "統計・市場動向",
-      "topic_group": "fc99c81784"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "京都市の観光課題「時間・場所の分散化」にも貢献 訪日客に選ばれる「チームラボ バイオヴォルテックス 京都」の魅力に迫る",
-      "summary": "訪日ラボが、日本各地の観光地の 口コミ を独自分析して発表している「 インバウンド 人気観光地 ランキング 」。同 ランキング の東京編で1位に輝くのが「 チームラボ プラネッツ TOKYO DMM」です。 同施設をはじめ、アートを愛する国内外の人々から支持される 体験 型ミュージアムを世界で展開す…",
-      "url": "https://honichi.com/news/2026/10/30/teamlabo-kyoto/?utm_source=rss",
-      "published": "2026-10-30T00:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14735/main_teamlabo-kyoto_01.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "f0ba86445c"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "【10月5週 人気記事】星のや奈良監獄、「世界の注目ホテル20選」に日本で唯一選出 ほか｜インバウンドニュース週間アクセスTOP5",
-      "summary": "この1週間でアクセス数が多かった、 インバウンドニュース の ランキング を発表します！ 見逃している記事があれば、この機会にぜひご覧ください。 目次 週間アクセスランキング トップ5 1位. 星のや奈良監獄、「世界の注目ホテル20選」に日本で唯一選出 2位. ドイツのルフトハンザグループ、2027…",
-      "url": "https://honichi.com/news/2026/10/30/accessranking_20261030/?utm_source=rss",
-      "published": "2026-10-29T23:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14819/main_31d5ff026f71cba926da22e2b5918224.png",
-      "category": "統計・市場動向",
-      "topic_group": "a62dddcd66"
     }
   ]
 }
