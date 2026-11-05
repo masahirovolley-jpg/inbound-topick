@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T01:22:59.729535+00:00",
+  "updated_at": "2026-11-05T01:27:55.180048+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -29,6 +29,36 @@
   "articles": [
     {
       "source": "JNTO",
+      "title": "「ヒストリック・ホテルズ・ワールドワイド」 2026年度「ニュー・メンバー・オブ・ザ・イヤー」を受賞【富士屋ホテル株式会社】",
+      "summary": "",
+      "url": "https://www.jnto.go.jp/news/members/_2026_1.html",
+      "published": "2026-11-04T08:22:01+00:00",
+      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "category": "宿泊・施設",
+      "topic_group": "25343e6f0d"
+    },
+    {
+      "source": "JNTO",
+      "title": "入札等公告情報を更新しました",
+      "summary": "",
+      "url": "https://www.jnto.go.jp/news/info/post_1.html",
+      "published": "2026-11-04T07:20:00+00:00",
+      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "category": "業界ニュース",
+      "topic_group": "898dc392c8"
+    },
+    {
+      "source": "JNTO",
+      "title": "ユニバーサル・クールジャパン 2027第3弾_名探偵コナン【合同会社ユー・エス・ジェイ】",
+      "summary": "",
+      "url": "https://www.jnto.go.jp/news/members/_20273.html",
+      "published": "2026-11-04T07:12:57+00:00",
+      "image_url": null,
+      "category": "業界ニュース",
+      "topic_group": "638c5081af"
+    },
+    {
+      "source": "JNTO",
       "title": "日本が英国旅行業界誌の読者投票で第1位を獲得！",
       "summary": "英国旅行業界誌『Travel Bulletin』が実施した読者投票企画「STAR AWARDS 2026」において、「Star Touring & Adventure Destination（最優秀周遊・アドベンチャー旅行デスティネーション）」部門で日本が第１位に選出されました。同部門における日本の…",
       "url": "https://www.jnto.go.jp/news/info/20261102.html",
@@ -36,16 +66,6 @@
       "image_url": "https://www.jnto.go.jp/news/20261102_1.JPG",
       "category": "業界ニュース",
       "topic_group": "14f35760db"
-    },
-    {
-      "source": "JNTO",
-      "title": "入札等公告情報を更新しました",
-      "summary": "",
-      "url": "https://www.jnto.go.jp/news/info/post_1.html",
-      "published": "2026-10-30T07:20:00+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "898dc392c8"
     },
     {
       "source": "JNTO",
@@ -156,26 +176,6 @@
       "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "22f0d48666"
-    },
-    {
-      "source": "JNTO",
-      "title": "「JNTOインセンティブ旅行商談会（フィリピン）」 参加者募集 （締切：11/6）",
-      "summary": "",
-      "url": "https://www.jnto.go.jp/news/expo-seminar/jnto_116.html",
-      "published": "2026-10-23T04:30:00+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "acbca65237"
-    },
-    {
-      "source": "JNTO",
-      "title": "高付加価値旅行（ラグジュアリートラベル）に特化した商談会ILTM出展に関するお知らせ",
-      "summary": "",
-      "url": "https://www.jnto.go.jp/news/expo-seminar/iltm_1.html",
-      "published": "2026-10-23T04:30:00+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "3f7be383a0"
     },
     {
       "source": "観光庁",
@@ -349,11 +349,91 @@
     },
     {
       "source": "Travel Voice",
+      "title": "OpenAI会長ブレット・テイラー氏が語る旅行AIの未来、「デジタルの玄関口」は予約から滞在後まで一つの会話に",
+      "summary": "OpenAI会長のブレット・テイラー氏が、旅行業界におけるAIエージェントの可能性を語った。音声と画像を組み合わせたマルチモーダル体験、予約から滞在後まで続く顧客接点、AIの安全性、オープンウェイトモデルの考え方、導入スピードまで、その展望をまとめた。",
+      "url": "https://www.travelvoice.jp/20261104-160709",
+      "published": "2026-11-04T08:20:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/ba820ab0-9362-422f-9aec-7c03a4369633.jpg",
+      "category": "AI・デジタル",
+      "topic_group": "8a2d559a7e"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "AI時代こそ「人と人」の交流に価値、太平洋アジア観光協会（PATA）がセミナー、世界とつながるネットワークの意義を共有",
+      "summary": "太平洋アジア観光協会（PATA）日本支部が旅行業界向けのセミナーを実施。AI時代における人と人の交流の重要性と、観光産業のコアバリューを共有した。",
+      "url": "https://www.travelvoice.jp/20261020-160586",
+      "published": "2026-11-04T08:15:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/3a4e68b0-af5e-4acc-a1b9-3c3ef7fa53fa.JPG",
+      "category": "AI・デジタル",
+      "topic_group": "fa12c0886a"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "ノルウェー政府観光局、トランプ大統領の「便所のような国」発言を逆手にキャンペーン、「世界で最も美しく壮観なトイレ」を紹介",
+      "summary": "AP通信によると、ノルウェー政府観光局（Visit Norway）は、トランプ大統領がノルウェーを「便所のような国（shithouse country）」と呼んだことを逆手に取り、「世界で最も美しく壮観なトイレ」を紹介するキャンペーンを展開。",
+      "url": "https://www.travelvoice.jp/20261104-160786",
+      "published": "2026-11-04T01:50:07+00:00",
+      "image_url": null,
+      "category": "政策・制度",
+      "topic_group": "61489186a5"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "米国、航空便で到着・経由する旅客に新たな宣誓書提出を義務化、エボラ対策でコンゴ滞在歴なしの署名求める",
+      "summary": "米国疾病対策センター（CDC）は、2026年11月3日午後11時59分以降、米国行きのフライトに搭乗する搭乗者全員にコンゴ民主共和国に滞在・通過歴がないことを誓約する声明書（宣誓書）に署名することを義務化。",
+      "url": "https://www.travelvoice.jp/20261104-160783",
+      "published": "2026-11-04T01:45:07+00:00",
+      "image_url": null,
+      "category": "航空・交通",
+      "topic_group": "83654a0747"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "アフリカ・ルワンダがF1グランプリを誘致、スポーツ観光の転機に大きな期待、長期的な成功へインフラ整備が課題",
+      "summary": "AP通信によると、ルワンダが2030年代初頭からアフリカでF1グランプリを開催する10年契約を結んだ。アフリカにおける新たなスポーツツーリズムの機会として期待が高まる。",
+      "url": "https://www.travelvoice.jp/20261104-160735",
+      "published": "2026-11-04T08:35:06+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2021/03/1e0bd6c9-a774-400a-a70b-c1cea5f3f37f.jpg",
+      "category": "業界ニュース",
+      "topic_group": "fe30ba8dbc"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "グアム政府観光局、団体・教育旅行の促進へ支援プログラムを開始、費用を一部補助",
+      "summary": "グアム政府観光局は、団体旅行および教育旅行の促進を目的とする「グループサポートプログラム2027」および「エデュケーショナルサポートプログラム2027」の申請受付を開始。",
+      "url": "https://www.travelvoice.jp/20261104-160760",
+      "published": "2026-11-04T08:25:36+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/a27daec3-e8ef-4127-8aba-294f66b6e744.jpg",
+      "category": "政策・制度",
+      "topic_group": "764786f08b"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "アソビュー、顧客情報約1582万件が流出、チケット購入・利用履歴なども、委託先への不正アクセスで",
+      "summary": "アソビューは、委託先のメール配信サービスへの不正アクセスにより、会員情報約1582万件が流出したと発表。氏名や連絡先に加え、チケット購入・利用履歴も含まれる。委託先のアララ社では、最大約380社に関係する約7700万件のメールアドレスが流出している。",
+      "url": "https://www.travelvoice.jp/20261104-160788",
+      "published": "2026-11-04T01:35:08+00:00",
+      "image_url": null,
+      "category": "業界ニュース",
+      "topic_group": "a393c5bb83"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "小田急トラベル、顧客のメールアドレス約6.3万件が流出、委託先への不正アクセスで、ロマンスカー利用者などに影響",
+      "summary": "小田急トラベルは、アララ社への不正アクセスにより、顧客のメールアドレス約6.3万件が流出したと発表。箱根フリーパスやロマンスカー、宿泊施設などの案内メールを受信した顧客が対象。メールアドレス以外の個人情報は含まれていない。",
+      "url": "https://www.travelvoice.jp/20261104-160795",
+      "published": "2026-11-04T08:53:50+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2025/05/413fe03c-79e1-46de-84bf-2674beb914dc.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "f9511fc135"
+    },
+    {
+      "source": "Travel Voice",
       "title": "民泊「年間ゼロ」で問題は解決するのか？ 「ウォーターベッド現象」が示すオーバーツーリズム規制の限界から考えてみた【コラム】",
       "summary": "日本交通公社の山田雄一氏による連載コラム。今回は、日本の民泊に対する潮目が変わっている今、そのハレーション対応策を考察。",
       "url": "https://www.travelvoice.jp/20261102-160608",
       "published": "2026-11-04T00:47:40+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/62e6412a-f9c1-4af1-84c9-2da5d871f0dd.jpg",
+      "image_url": null,
       "category": "政策・制度",
       "topic_group": "359099fdbb"
     },
@@ -363,89 +443,19 @@
       "summary": "ロイター通信は、SNSで若者の声に耳を傾ける大手企業のCEOたちについてレポート。文化を創り出す若者の考え方はビジネスと企業価値向上に不可欠。大切なことは学び続けること。",
       "url": "https://www.travelvoice.jp/20261102-160531",
       "published": "2026-11-04T00:51:18+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/9c970e35-d8a1-4456-987a-1d90ddc96baa.JPG",
+      "image_url": null,
       "category": "AI・デジタル",
       "topic_group": "5b2a35ca79"
     },
     {
-      "source": "Travel Voice",
-      "title": "Z世代の生成AI利用、商品・サービスの検討・購入時に54％が活用、最多は候補の「絞り込み」 ―楽天調査",
-      "summary": "楽天はZ世代における「生成AI利用に関する調査」を実施。生成AIを「ほぼ毎日利用している」は38%に。商品やサービスの検討および購入時における利用割合は54.3%。",
-      "url": "https://www.travelvoice.jp/20261102-160468",
-      "published": "2026-11-02T01:48:07+00:00",
-      "image_url": null,
+      "source": "やまとごころ.jp",
+      "title": "2027年の旅行トレンド7選、韓国で函館の検索数443％増も⸺Skyscanner調査",
+      "summary": "旅行検索サイトを運営するSkyscanner Limited（スカイスキャナー）は、独自の検索データや世界2万8000人以上を対象とした調査などをもとに、2027年に注目される7つの旅行トレンドを発表した。 各市場ごとの…",
+      "url": "https://yamatogokoro.jp/inbound_data/61614/",
+      "published": "2026-11-04T23:00:18+00:00",
+      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/10/karina-syrotiuk-ndxoDqpXtGU-unsplash.jpg",
       "category": "統計・市場動向",
-      "topic_group": "b9459df0dd"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "東急の定額宿泊「ツギツギ」、旅行テックの国際観光アワードで入賞、平日・閑散期の需要創出を評価 ―TIS2026",
-      "summary": "東急が運営する定額宿泊サービス「ツギツギ」が、世界最大級の国際観光アワード「Tourism Innovation Awards」の旅行イノベーション・新ビジネスモデル賞を受賞。日本企業としては初。",
-      "url": "https://www.travelvoice.jp/20261102-160774",
-      "published": "2026-11-02T06:32:33+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/33c83d1b-7cae-4f65-a226-60fd67569053.jpeg",
-      "category": "統計・市場動向",
-      "topic_group": "e6f4d85e95"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "ナビタイム、店舗・施設ごとの訪日客の動向を分析する新サービス、前日分まで集計、周遊分析も",
-      "summary": "ナビタイムジャパンは、地図上で登録した任意の範囲（地点）で、訪日外国人観光客の滞在状況や周遊動向を分析できる法人向けWeb分析サービス「インバウンドプロファイラー・フォーカス」の提供を開始。",
-      "url": "https://www.travelvoice.jp/20261102-160767",
-      "published": "2026-11-02T01:40:07+00:00",
-      "image_url": null,
-      "category": "政策・制度",
-      "topic_group": "b397dfcc68"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "北海道中央バス、GPS連動の多言語AI音声ガイドを共同開発、訪日客のスマホで車窓の観光案内",
-      "summary": "北海道中央バスは、AIを活用したモビリティ型音声ガイドをTISインテックグループのTISIと共同開発。札幌駅北口発着の定期観光バスで運用を開始する。",
-      "url": "https://www.travelvoice.jp/20261102-160777",
-      "published": "2026-11-02T09:22:06+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/82fcdba4-aa5e-40c5-8297-3ef964c2b7eb.jpg",
-      "category": "AI・デジタル",
-      "topic_group": "d3c9b25f22"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "クラブツーリズム、不正アクセスで約432万件の顧客情報が漏えいの可能性、ネット会員の氏名・住所・連絡先など",
-      "summary": "クラブツーリズムは、外部からの不正アクセスにより、インターネット会員の顧客情報約432万件が漏えいした可能性があると発表。氏名や住所、電話番号などが対象で、調査のためホームページを一時停止。",
-      "url": "https://www.travelvoice.jp/20261102-160779",
-      "published": "2026-11-02T09:21:09+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2025/09/fa88e5e7-ad3b-4f3e-915b-c26d566ac075.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "1943349e73"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "長野県飯綱町、ふるさと住民登録制度を見据えた滞在プログラム 首都圏の学生向けに農業体験と地域交流",
-      "summary": "長野県飯綱町は、首都圏の大学生および大学院生を対象に、「ふるさと住民登録制度」の担い手活動を念頭に滞在型体験・交流プログラムを開催する。",
-      "url": "https://www.travelvoice.jp/20261102-160776",
-      "published": "2026-11-02T08:30:37+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/25e5472f-560f-44c8-adf3-2c02c52b32dd.jpg",
-      "category": "政策・制度",
-      "topic_group": "9d3e092c5c"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "楽天が描く「ふるさと住民」の新たな経済圏、関係人口と「旅行」「ふるさと納税」をつなぐ戦略を責任者に聞いてきた",
-      "summary": "楽天グループは、関係人口や地域の担い手を創出する取り組みを積極的に展開。2027年度から本格開始される「ふるさと住民登録制度」に向けて、パートナー企業や自治体と様々な取り組みを進めている。その戦略とは。",
-      "url": "https://www.travelvoice.jp/20261030-160695",
-      "published": "2026-10-30T11:51:59+00:00",
-      "image_url": null,
-      "category": "政策・制度",
-      "topic_group": "b9b2d294bb"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "観光産業を「働き手に選ばれる産業」にするには？ 他産業との人材循環、成長を実感できる職場づくりを議論 ―TEJ2026シンポジウム",
-      "summary": "TEJ2026の国内観光シンポジウムをレポート。人手不足への対応や「選ばれる産業」への転換に向け、価値密度の最適化や他産業との人材循環、キャリアの出口論を議論した。",
-      "url": "https://www.travelvoice.jp/20261030-160700",
-      "published": "2026-10-30T11:56:03+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "72b34b25e5"
+      "topic_group": "ea35989f63"
     },
     {
       "source": "やまとごころ.jp",
@@ -453,7 +463,7 @@
       "summary": "インバウンド需要の拡大により、観光が地域経済を支える長野県野沢温泉村。2025年3月には、同村で20年ぶりとなる村長選が行われた。新村長に就任した上野雄大村長は「暮らしの充実第一主義」を掲げ、宿泊税活用の観光地経営基金や…",
       "url": "https://yamatogokoro.jp/inbound_interview/61525/",
       "published": "2026-11-04T00:20:59+00:00",
-      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/11/nozawaonsen_kanko_vision.png",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "c9818c9183"
     },
@@ -558,14 +568,54 @@
       "topic_group": "428e679ab1"
     },
     {
-      "source": "やまとごころ.jp",
-      "title": "サステナブル観光は「測る」ことから始まる AIカーボン計算機「Humí」と世界の事例から考える、観光の脱炭素化【セミナーレポ】",
-      "summary": "気候変動への対応が世界的な課題となるなか、観光業界でもCO2排出量を把握し、具体的な削減行動につなげることが求められています。しかし、旅行には航空、宿泊、食事、現地交通、アクティビティなど多くの要素が含まれ、「何がどれだ…",
-      "url": "https://yamatogokoro.jp/column/inbound-seminarreport/61343/",
-      "published": "2026-10-14T23:00:04+00:00",
-      "image_url": null,
+      "source": "時事ドットコム",
+      "title": "観光、産業、人口減で広域連携 ３１年度までのビジョン公表―東北自治体、経済界",
+      "summary": "",
+      "url": "https://www.jiji.com/jc/article?k=2026110401128&g=eco",
+      "published": "2026-11-04T19:19:00+09:00",
+      "image_url": "https://www.jiji.com/news2/kiji_photos/202611/20261104at77S_o.jpg",
+      "category": "地域・DMO",
+      "topic_group": "682a894b5c"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "中部国際空港が2026年冬ダイヤ発表、台湾路線は開港以来の過去最多に 中国は前年比で大幅減",
+      "summary": "中部国際空港 は10月23日、2026年冬ダイヤ（10月25日～2027年3月27日）の期初計画*を発表しました。 国際旅客便については、18都市に週265便（往復）を運航し、乗り入れ運航会社は計24社となりました。 なかでも 台湾 路線については、11月1日より週53便の運航となり、開港以降で過去…",
+      "url": "https://honichi.com/news/2026/11/05/centrair-2026winter/?utm_source=rss",
+      "published": "2026-11-05T01:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14832/main_AdobeStock_1086507158.jpeg",
       "category": "統計・市場動向",
-      "topic_group": "30fe6e4fad"
+      "topic_group": "343424221d"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "成田空港、4〜9月の外国人旅客数1,157万人 年度上期として歴代2位",
+      "summary": "成田国際空港は10月29日、2026年9月および2026年度上期（4～9月）の空港運用状況について発表しました。 発表によると、9月の国際線における外国人旅客数は、 中国 線や アジア 線における減便の影響があったものの166.6万人（前年同月比100％）となり、9月として2025年に次ぐ歴代2位を…",
+      "url": "https://honichi.com/news/2026/11/05/narita-airport202609/?utm_source=rss",
+      "published": "2026-11-05T00:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14830/main_kawasaki-toshihiro-MV5b1aJQQys-unsplash.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "2f909a339d"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "JNTO、新グローバルキャンペーンを本格展開 未訪日関心層をターゲットに動画4本を公開",
+      "summary": "日本 政府観光局 （ JNTO ）は10月28日、訪日促進を目的とした新たなグローバルキャンペーン「Japan. Unforgettable」の本格展開を開始したと発表しました。4月末に先行公開した秋編・冬編に続き、新たに春編・夏編・統合編・食編の動画および関連コンテンツを公開しています。 本キャン…",
+      "url": "https://honichi.com/news/2026/11/05/jnto-new-global-campaign/?utm_source=rss",
+      "published": "2026-11-04T22:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14829/main_bobby-hendry-tEjf8G9L0j4-unsplash.jpg",
+      "category": "政策・制度",
+      "topic_group": "497ac06d81"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "トレンドや最新事例を学べるカンファレンスも開催！12/2〜4「ホスピタリティテックEXPO」 訪日ラボ読者特典あり（PR）",
+      "summary": "展示会・セミナーなどを主催するR X Japan合同会社は12月2日〜4日、有明GYM-E X （ジメックス）にて「第1回 ホスピタリティテックE X PO」を開催します。 本展示会では、 人手不足 ・業務効率化・顧客 体験 の向上など、ホスピタリティ産業（観光・宿泊・飲食）が直面する課題を解決する…",
+      "url": "https://honichi.com/news/2026/11/04/hospitality_tech_expo_3/?utm_source=rss",
+      "published": "2026-11-04T02:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14790/main_5381ac558e1cc42caaac6fae56b4156e.png",
+      "category": "統計・市場動向",
+      "topic_group": "4270e4fdbb"
     },
     {
       "source": "訪日ラボ",
@@ -636,46 +686,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14817/main_DSC03176.JPG",
       "category": "統計・市場動向",
       "topic_group": "8ba40c71e5"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "関空の9月外国人旅客数、10か月連続で前年割れ 2026年度上半期は前年比18％減",
-      "summary": "関西 エアポートは10月23日、 関西国際空港 ・大阪国際空港（伊丹空港）・神戸空港の9月の利用状況を公表しました。 発表によると、 関西国際空港 における9月の国際線外国人旅客数は前年同月比17％減の約132万人で、10か月連続で前年を下回りました。 韓国 や 台湾 、 香港 ・マカオ方面では前年…",
-      "url": "https://honichi.com/news/2026/11/02/kansai_airports202609/?utm_source=rss",
-      "published": "2026-11-01T22:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14816/main_mark-olsen-K5j1KgecVC8-unsplash.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "f0d63da586"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "【速報】9月外国人宿泊数は1,165万人 8月は地方部比率が上昇【観光庁 宿泊旅行統計 2026年8月・9月】",
-      "summary": "観光庁 は10月30日、 宿泊旅行統計 調査（2026年8月・第2次速報、2026年9月・第1次速報）を公表しました。9月の 延べ宿泊者数 は5,282万人泊で、前年同月比2.6％減となりました。 外国人宿泊者数は前月から74万人減の1,165万人泊（前年同月比9.2％減）となっています。 また8月…",
-      "url": "https://honichi.com/news/2026/10/30/syukuhaku202609/?utm_source=rss",
-      "published": "2026-10-30T05:42:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14822/main_fb59a028868f5f02ca61e411a9ae0d3f.png",
-      "category": "統計・市場動向",
-      "topic_group": "aae29d5aad"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "【2026年冬ダイヤ編】航空便動向まとめ ほか：インバウンド対策に役立つマーケティング資料まとめ（10月後半公開分）",
-      "summary": "訪日ラボでは、 インバウンドマーケティング に役立つ資料を公開しています。 この記事では、【2026年10月後半】に公開したおすすめ資料をご紹介します。ぜひ、日々の業務にお役立てください。 ※ 訪日ラボ会員 にご登録いただくと、レポートの全容を無料にてご覧いただけます。 目次 1. 【2026年10…",
-      "url": "https://honichi.com/news/2026/10/30/whitepapermatome_20261030/?utm_source=rss",
-      "published": "2026-10-30T03:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14820/main_ec06d8501a1fcd0853ba065f9191635f.png",
-      "category": "航空・交通",
-      "topic_group": "8a063d2389"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "JATAが地方誘客推進プロジェクト「JAPAN, GO BEYOND」を始動 第1弾は東北で欧米豪を集客",
-      "summary": "一般社団法人 日本旅行業協会 （ JATA ）は10月22日、定例記者会見にて インバウンド の 地方誘客 を進める官民連携のプロジェクト「JAPAN, GO BEYOND」を始動すると発表しました。 同プロジェクトは、 訪日客 に日本の地方の魅力を発見して来訪してもらうことを目指すもので、 JAT…",
-      "url": "https://honichi.com/news/2026/10/30/jata-japan-go-beyond/?utm_source=rss",
-      "published": "2026-10-30T02:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14809/main_jata-japan-go-beyond_img.JPG",
-      "category": "政策・制度",
-      "topic_group": "f16461ff72"
     }
   ]
 }
