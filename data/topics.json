@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T01:33:47.844217+00:00",
+  "updated_at": "2026-11-07T00:57:00.633405+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -29,11 +29,51 @@
   "articles": [
     {
       "source": "JNTO",
+      "title": "入札等公告情報を更新しました",
+      "summary": "",
+      "url": "https://www.jnto.go.jp/news/info/post_1.html",
+      "published": "2026-11-06T08:33:00+00:00",
+      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "category": "業界ニュース",
+      "topic_group": "898dc392c8"
+    },
+    {
+      "source": "JNTO",
+      "title": "スヌーピーミュージアム 11月1日（日）から季節を楽しめるシーズンイベント「ハッピー・クリスマス」開催【株式会社ソニー・ミュージックエンタテインメント】",
+      "summary": "",
+      "url": "https://www.jnto.go.jp/news/members/_111.html",
+      "published": "2026-11-06T07:51:59+00:00",
+      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "category": "業界ニュース",
+      "topic_group": "223f43d730"
+    },
+    {
+      "source": "JNTO",
+      "title": "【12/3(木)開催】海外OTAを活用した訪日商品販売力向上セミナー ～Klook・KKday・Travelokaが解説する売れ筋商品と販売力向上のポイント～ （参加申込締切：12/2（水）12:00）",
+      "summary": "",
+      "url": "https://www.jnto.go.jp/news/expo-seminar/123ota_klookkkdaytraveloka_1221200.html",
+      "published": "2026-11-06T04:30:00+00:00",
+      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "category": "業界ニュース",
+      "topic_group": "0335f4b898"
+    },
+    {
+      "source": "JNTO",
+      "title": "【再掲】【11/19（木）開催】JNTOインバウンド研修会のご案内 第3回北陸信越 長野会場・一部オンライン配信あり （締切：11/12（木））",
+      "summary": "",
+      "url": "https://www.jnto.go.jp/news/expo-seminar/1119jnto_3_1112_1.html",
+      "published": "2026-11-06T04:30:00+00:00",
+      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "category": "業界ニュース",
+      "topic_group": "60d4255fb8"
+    },
+    {
+      "source": "JNTO",
       "title": "『ユニバーサル・クールジャパン ２０２７』続報！！【合同会社ユー・エス・ジェイ】",
       "summary": "",
       "url": "https://www.jnto.go.jp/news/members/post_88.html",
       "published": "2026-11-05T06:56:43+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "86bc63c4cc"
     },
@@ -46,16 +86,6 @@
       "image_url": null,
       "category": "政策・制度",
       "topic_group": "88f4bfee90"
-    },
-    {
-      "source": "JNTO",
-      "title": "入札等公告情報を更新しました",
-      "summary": "",
-      "url": "https://www.jnto.go.jp/news/info/post_1.html",
-      "published": "2026-11-05T06:24:00+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "898dc392c8"
     },
     {
       "source": "JNTO",
@@ -145,37 +175,27 @@
       "published": "2026-10-30T04:30:00+00:00",
       "image_url": null,
       "category": "業界ニュース",
-      "topic_group": "2d7d056a7d"
+      "topic_group": "60d4255fb8"
     },
     {
-      "source": "JNTO",
-      "title": "「Japan Luxury Showcase 2027」参加団体(セラー)募集 （締切：11/18）",
+      "source": "観光庁",
+      "title": "「第４回サステナブルな旅アワード」の公募を開始します 観光施設 自治体・DMO 旅行業 宿泊業 交通 一般の方 その他観光関係者",
       "summary": "",
-      "url": "https://www.jnto.go.jp/news/expo-seminar/japan_luxury_showcase_2027_1118.html",
-      "published": "2026-10-30T04:30:00+00:00",
+      "url": "https://www.mlit.go.jp/kankocho/kobo13_00011.html",
+      "published": "2026-11-06",
+      "image_url": null,
+      "category": "統計・市場動向",
+      "topic_group": "ba61dcba2a"
+    },
+    {
+      "source": "観光庁",
+      "title": "令和８年度総合旅行業務取扱管理者試験における出題の不備及び採点の取扱いについて",
+      "summary": "",
+      "url": "https://www.mlit.go.jp/kankocho/news13_00011.html",
+      "published": "2026-11-06",
       "image_url": null,
       "category": "業界ニュース",
-      "topic_group": "ff1a5e491c"
-    },
-    {
-      "source": "JNTO",
-      "title": "オープンカウンター方式による調達情報を更新しました",
-      "summary": "",
-      "url": "https://www.jnto.go.jp/news/info/post_53.html",
-      "published": "2026-10-28T06:54:00+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "3a53b300f5"
-    },
-    {
-      "source": "JNTO",
-      "title": "新しいグローバルキャンペーンの全面的なスタートについて",
-      "summary": "※本リリースは国土交通記者会・交通運輸記者会に配布しております。 日本政府観光局（ JNTO ）は、 2026 年 4 月末に開始した訪日促進を目的とするグローバルキャンペーンにおいて、秋編・冬編に続き、このたび、春編・夏編・統合編・食編の動画を新たに公開します。これにより、 10 月 28 日より…",
-      "url": "https://www.jnto.go.jp/news/press/20261028.html",
-      "published": "2026-10-28T02:00:00+00:00",
-      "image_url": "https://www.jnto.go.jp/news/20261028.jpg",
-      "category": "政策・制度",
-      "topic_group": "ba7b2199fa"
+      "topic_group": "8153a7cf84"
     },
     {
       "source": "観光庁",
@@ -255,17 +275,7 @@
       "published": "2026-10-29",
       "image_url": null,
       "category": "統計・市場動向",
-      "topic_group": "f7e789276c"
-    },
-    {
-      "source": "観光庁",
-      "title": "令和８年「コンベンションビューロー等機能高度化促進事業 第1回オンラインセミナー」参加者募集",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/kobo09_00054.html",
-      "published": "2026-10-23",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "766c866bfc"
+      "topic_group": "ba61dcba2a"
     },
     {
       "source": "観光庁",
@@ -338,14 +348,84 @@
       "topic_group": "b801c741cf"
     },
     {
-      "source": "観光庁",
-      "title": "米国にて日本の「観光・食」の魅力発信イベントを開催 ～訪日観光及び日本食をＰＲ～",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/news02_00100.html",
-      "published": "2026-09-17",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "92978333cd"
+      "source": "Travel Voice",
+      "title": "観光地の「二重価格」はどうすれば受け入れられるのか？ 姫路城や海外の事例から考える「線引き」と信頼の条件【コラム】",
+      "summary": "日本交通公社の研究員が「二重価格」に関する考察を紹介。価格の「差別化」で重要なポイントとは？",
+      "url": "https://www.travelvoice.jp/20261106-160592",
+      "published": "2026-11-06T08:07:29+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/8ec825d1-b3cd-4c45-99bf-7dc7ac62d1bc.jpg",
+      "category": "航空・交通",
+      "topic_group": "4fb8c49ac8"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "世界の国際旅行者数、2026年は過去最多の15.7億人へ、長距離旅行は減少、価格重視が鮮明に、2032年には22億人と予測 ―WTMレポート",
+      "summary": "WTMロンドンのレポートによると、2026年世界の旅行者数と消費額の両面で過去最高を記録する見通し。2027年については、2026年に見られた混乱が緩和されれば、世界全体の国際旅行者数が前年比8%増加と予想。",
+      "url": "https://www.travelvoice.jp/20261106-160802",
+      "published": "2026-11-06T08:00:59+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2023/07/e9f7dc3f-81ae-40a1-9a40-38c2ed7a3688.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "5fd2f0e666"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "地域交通を「個別最適」から共同化へ、バス3社が語るダイヤ編成と安全管理の課題、データとAIを生かした構造改革の議論を聞いた",
+      "summary": "Will Smart（ウィルスマート）は、国土交通省との共催で「地域交通DXフォーラム2026」を開催。共通モビリティ基盤づくりや業務の標準化、データ・AIの活用、事業者の枠を超えた共同化の可能性について議論。",
+      "url": "https://www.travelvoice.jp/20261105-160736",
+      "published": "2026-11-06T08:00:51+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/4d69ca50-1dcd-4c8e-ad6d-4dceedfdf2d5.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "1abadffcfe"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "鉄道・バスを1つのQRチケットで利用、熊本・大分で実証開始、国交省「コモンズ」の取組みで ―トヨタグループ",
+      "summary": "トヨタファイナンシャルサービス（TFS）は、同社のおでかけアプリ「my route（マイルート）」で、熊本県および大分県でQRチケッティングの実証実験を実施。地域交通DXプロジェクト「COMmmmONS（コモンズ）」の取り組みで。",
+      "url": "https://www.travelvoice.jp/20261105-160785",
+      "published": "2026-11-06T07:50:06+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2022/01/1bd2a9f7-e2f8-4dab-aa1c-630b79fc18ce.jpg",
+      "category": "航空・交通",
+      "topic_group": "ce8428d84d"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "バス需要を数カ月先まで予測へ、観光需要の取り込みと生活路線の維持を目指す、角川アスキー総研ら3社が共同研究",
+      "summary": "角川アスキー総合研究所、道南バス、WILLER ACROSSの3社が北海道でバス需要予測の共同研究開始。北海道で運行・予約データや観光統計を組み合わせ予測モデル構築。収益機会を最大化。",
+      "url": "https://www.travelvoice.jp/20261106-160780",
+      "published": "2026-11-06T07:40:09+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/1321b378-e57f-4d65-9362-513de6ed1acb.png",
+      "category": "統計・市場動向",
+      "topic_group": "27eb0de85c"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "世界の厳選ホテルが加盟するルレ・エ・シャトー、温室効果ガス排出量を可視化するデジタルツール導入、削減効果の試算も",
+      "summary": "ルレ・エ・シャトーは、サステナビリティ活動を可視化・支援するデジタルツール「マイインパクト」を65カ国の加盟580施設に提供。温室効果ガス排出量算定や改善策提案に活用。",
+      "url": "https://www.travelvoice.jp/20261102-160698",
+      "published": "2026-11-06T08:13:40+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/56ef20ea-c74f-4105-ae33-6ff7d016c346.jpg",
+      "category": "宿泊・施設",
+      "topic_group": "2c92888f32"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "西鉄ホテルズ、アパートメントホテルに参入、新ブランドで2029年に東京・大阪・札幌で開業へ",
+      "summary": "西鉄ホテルズは、新ブランド「CoATT」でアパートメントホテル事業に参入する。2029年より東京・大阪・札幌で展開。全室にキッチン等を備え、家族やグループによる多人数での中長期滞在ニーズに対応する。",
+      "url": "https://www.travelvoice.jp/20261106-160810",
+      "published": "2026-11-06T08:00:10+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2024/07/b3547d18-191a-445e-b690-09ddf0234783.jpg",
+      "category": "宿泊・施設",
+      "topic_group": "eb4f3ef101"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "大和財託、ホテル事業の新会社を設立、グループ内のホテル・旅館など統括、人材育成にも取り組む",
+      "summary": "大和財託は、ホテル事業のさらなる展開を見据え、2026年11月1日に新会社「大和財託ホテル＆リゾート」を設立。グループ会社のホテル・旅館事業などを統括。",
+      "url": "https://www.travelvoice.jp/20261105-160793",
+      "published": "2026-11-06T01:40:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/719ead86-5bf2-493a-bbe4-e3e1cec1f718.jpeg",
+      "category": "宿泊・施設",
+      "topic_group": "f57202e86f"
     },
     {
       "source": "Travel Voice",
@@ -353,7 +433,7 @@
       "summary": "航空業界の調査・コンサルティング機関であるCAPAが主催した新千歳空港での「エアライン・リーダー・サミット・アジア2026」では、航空業界のテクノロジーとサステナビリティについての議論も交わされた。",
       "url": "https://www.travelvoice.jp/20261105-160708",
       "published": "2026-11-05T23:20:00+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/54464e6e-420d-445f-92fe-f4d1f9e962b8.jpeg",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "5777935347"
     },
@@ -363,89 +443,9 @@
       "summary": "米観光産業ニュース「フォーカスワイヤ」は、Rail Europeの買収を完了した交通比較予約プラットフォームOmioののCFOジャン＝ベルナール・モエンス氏にインタビュー。統合の効果と今後の戦略とは？",
       "url": "https://www.travelvoice.jp/20261105-160745",
       "published": "2026-11-05T23:11:49+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2022/04/354ac134-5a3c-491a-8576-1a1f758fb79b.jpg",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "646902cdf7"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "世界の消費者トレンド2027発表、ウェルネス伸長やメリハリ消費など、5つの注目ポイント ―ユーロモニター",
-      "summary": "ユーロモニターが「世界の消費者トレンド2027」を発表。消費者の81%が生成AIを利用する一方、購買情報源として非常に信頼する割合は19%にとどまる。ブランドへの信頼やクチコミを重視する傾向が強まり、ウェルネス関連消費は2027年に2.8兆ドルに達する見通し。",
-      "url": "https://www.travelvoice.jp/20261105-160800",
-      "published": "2026-11-05T23:25:35+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2023/12/1192ab35-c829-4994-beaf-da02eed6bd73.jpg",
-      "category": "AI・デジタル",
-      "topic_group": "e339207dd7"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "JTB、タビナカ事業者の海外OTA連携を簡素化、既存の予約システムを変更せず、単一APIで在庫・価格をリアルタイム連携",
-      "summary": "JTBは、体験予約管理システム「JTB BÓKUN」にて新APIの提供を開始した。事業者の既存システムと接続し、世界中の主要OTAへ在庫・価格を自動連動させ、販路拡大と業務効率化をリアルタイムで実現する。",
-      "url": "https://www.travelvoice.jp/20261105-160801",
-      "published": "2026-11-05T01:45:07+00:00",
-      "image_url": null,
-      "category": "AI・デジタル",
-      "topic_group": "0de1cde7ce"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "東京都、観光地のAI・先端技術導入に最大4000万円補助、地域の事業者連携が対象、12月11日まで追加募集",
-      "summary": "東京都は、「令和8年度 AI等先端技術を活用した受入環境高度化支援事業」の募集を開始。エリア単位で複数の事業者が連携し、観光地の高付加価値化に向けたAIなどの先端技術の実装を図る取り組みを補助。",
-      "url": "https://www.travelvoice.jp/20261105-160798",
-      "published": "2026-11-05T09:08:52+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2025/07/46f88465-507f-45b9-b0dd-52480069714f.jpg",
-      "category": "政策・制度",
-      "topic_group": "9f28288c50"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "僧侶の法話をリアルタイムでAI通訳、インバウンド向け座禅会で、寺院の受け入れ負担軽減を検証",
-      "summary": "坐禅会特化型リアルタイム通訳サービスを手がけるENDHAVING社が、AI通訳を活用した訪日客向け「英語坐禅会」を神奈川と東京で開催。法話を英語で通訳、訪日客受け入れ負担軽減を実証。",
-      "url": "https://www.travelvoice.jp/20261105-160770",
-      "published": "2026-11-05T09:25:22+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2024/11/39eb7bdd-6930-4942-9cb6-520268ddb83c.jpg",
-      "category": "政策・制度",
-      "topic_group": "35ac490d69"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "インスタのメタ社、AIエージェント「Muse」を日本で提供開始、旅行予約にも対応、トリップ・ドットコムなどと連携",
-      "summary": "Metaは2026年10月23日、パーソナルAI「Muse」を日本で提供開始した。目標達成に向けた計画立案やタスクの自律遂行を支援する。国内ではメルカリやマネーフォワード等とも連携。",
-      "url": "https://www.travelvoice.jp/20261105-160790",
-      "published": "2026-11-05T23:28:56+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2021/11/3a44a444-e127-4e71-a3fd-f388612849d4.jpg",
-      "category": "AI・デジタル",
-      "topic_group": "461c3d714d"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "アゴダ、アプリにAIアシスタント導入、「宿泊 ＋ 航空」などリアルタイム在庫を組み合わせて予約支援、日本含む21の国・地域で",
-      "summary": "OTAのAgoda（アゴダ）は、アプリ内に「AIアシスタント」を導入。リアルタイムな在庫を組み合わせ、旅行計画から予約をサポート。",
-      "url": "https://www.travelvoice.jp/20261102-160775",
-      "published": "2026-11-05T01:30:09+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "bfa3d3e800"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "OpenAI会長ブレット・テイラー氏が語る旅行AIの未来、「デジタルの玄関口」は予約から滞在後まで一つの会話に",
-      "summary": "OpenAI会長のブレット・テイラー氏が、旅行業界におけるAIエージェントの可能性を語った。音声と画像を組み合わせたマルチモーダル体験、予約から滞在後まで続く顧客接点、AIの安全性、オープンウェイトモデルの考え方、導入スピードまで、その展望をまとめた。",
-      "url": "https://www.travelvoice.jp/20261104-160709",
-      "published": "2026-11-04T08:20:07+00:00",
-      "image_url": null,
-      "category": "AI・デジタル",
-      "topic_group": "8a2d559a7e"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "ノルウェー政府観光局、トランプ大統領の「便所のような国」発言を逆手にキャンペーン、「世界で最も美しく壮観なトイレ」を紹介",
-      "summary": "AP通信によると、ノルウェー政府観光局（Visit Norway）は、トランプ大統領がノルウェーを「便所のような国（shithouse country）」と呼んだことを逆手に取り、「世界で最も美しく壮観なトイレ」を紹介するキャンペーンを展開。",
-      "url": "https://www.travelvoice.jp/20261104-160786",
-      "published": "2026-11-05T08:55:19+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/e50386f3-61de-44b4-82c8-965055074aba.jpg",
-      "category": "政策・制度",
-      "topic_group": "61489186a5"
     },
     {
       "source": "やまとごころ.jp",
@@ -589,13 +589,13 @@
     },
     {
       "source": "訪日ラボ",
-      "title": "【11月1週 人気記事】エア・インディア、27年2月より関西～デリー線を開設 ほか｜インバウンドニュース週間アクセスTOP5",
-      "summary": "この1週間でアクセス数が多かった、 インバウンドニュース の ランキング を発表します！ 見逃している記事があれば、この機会にぜひご覧ください。 目次 週間アクセスランキング トップ5 1位. エア・インディア、27年2月より関西～デリー線を開設 2位. アジア大会の交流拠点 「ONE ASIA W…",
+      "title": "【11月1週 人気記事】星野リゾート代表、観光産業の現状と今後について言及 ほか｜インバウンドニュース週間アクセスTOP5",
+      "summary": "この1週間でアクセス数が多かった、 インバウンドニュース の ランキング を発表します！ 見逃している記事があれば、この機会にぜひご覧ください。 ※11/6追記：6日記事掲載当初、誤った ランキング に基づいた内容を記載しておりました。お詫びして訂正いたします。現在は正しい ランキング に基づいた内…",
       "url": "https://honichi.com/news/2026/11/06/accessranking_20261106/?utm_source=rss",
       "published": "2026-11-05T23:00:00+00:00",
       "image_url": "https://static.honichi.com/uploads/entry/image/14838/main_e2ad62af24617adb3fdc6a88b5ee613c.png",
       "category": "統計・市場動向",
-      "topic_group": "f2912f8a0d"
+      "topic_group": "06fb3290a1"
     },
     {
       "source": "訪日ラボ",
