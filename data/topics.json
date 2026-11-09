@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T00:36:50.324442+00:00",
+  "updated_at": "2026-11-09T00:55:22.966538+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -53,7 +53,7 @@
       "summary": "",
       "url": "https://www.jnto.go.jp/news/expo-seminar/123ota_klookkkdaytraveloka_1221200.html",
       "published": "2026-11-06T04:30:00+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "0335f4b898"
     },
@@ -63,7 +63,7 @@
       "summary": "",
       "url": "https://www.jnto.go.jp/news/expo-seminar/1119jnto_3_1112_1.html",
       "published": "2026-11-06T04:30:00+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "60d4255fb8"
     },
@@ -359,13 +359,13 @@
     },
     {
       "source": "Travel Voice",
-      "title": "世界の国際旅行者数、2026年は過去最多の15.7億人へ、長距離旅行は減少、価格重視が鮮明に、2032年には22億人と予測 ―WTMレポート",
+      "title": "世界の国際旅行者数、2026年は過去最多の15.7億人へ、長距離旅行は減少、2032年には1.4倍の22億人と予測 ―WTMレポート",
       "summary": "WTMロンドンのレポートによると、2026年世界の旅行者数と消費額の両面で過去最高を記録する見通し。2027年については、2026年に見られた混乱が緩和されれば、世界全体の国際旅行者数が前年比8%増加と予想。",
       "url": "https://www.travelvoice.jp/20261106-160802",
-      "published": "2026-11-06T08:00:59+00:00",
+      "published": "2026-11-09T00:07:07+00:00",
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2023/07/e9f7dc3f-81ae-40a1-9a40-38c2ed7a3688.jpg",
       "category": "統計・市場動向",
-      "topic_group": "5fd2f0e666"
+      "topic_group": "e4b77cb38e"
     },
     {
       "source": "Travel Voice",
@@ -383,7 +383,7 @@
       "summary": "トヨタファイナンシャルサービス（TFS）は、同社のおでかけアプリ「my route（マイルート）」で、熊本県および大分県でQRチケッティングの実証実験を実施。地域交通DXプロジェクト「COMmmmONS（コモンズ）」の取り組みで。",
       "url": "https://www.travelvoice.jp/20261105-160785",
       "published": "2026-11-06T07:50:06+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2022/01/1bd2a9f7-e2f8-4dab-aa1c-630b79fc18ce.jpg",
+      "image_url": null,
       "category": "航空・交通",
       "topic_group": "ce8428d84d"
     },
@@ -393,7 +393,7 @@
       "summary": "角川アスキー総合研究所、道南バス、WILLER ACROSSの3社が北海道でバス需要予測の共同研究開始。北海道で運行・予約データや観光統計を組み合わせ予測モデル構築。収益機会を最大化。",
       "url": "https://www.travelvoice.jp/20261106-160780",
       "published": "2026-11-06T07:40:09+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/1321b378-e57f-4d65-9362-513de6ed1acb.png",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "27eb0de85c"
     },
@@ -409,23 +409,23 @@
     },
     {
       "source": "Travel Voice",
-      "title": "西鉄ホテルズ、アパートメントホテルに参入、新ブランドで2029年に東京・大阪・札幌で開業へ",
+      "title": "西鉄ホテルズ、キッチン洗濯乾燥機付き滞在型のアパートメントホテルに参入、2029年に東京・大阪・札幌で開業へ",
       "summary": "西鉄ホテルズは、新ブランド「CoATT」でアパートメントホテル事業に参入する。2029年より東京・大阪・札幌で展開。全室にキッチン等を備え、家族やグループによる多人数での中長期滞在ニーズに対応する。",
       "url": "https://www.travelvoice.jp/20261106-160810",
-      "published": "2026-11-06T08:00:10+00:00",
+      "published": "2026-11-08T22:19:55+00:00",
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2024/07/b3547d18-191a-445e-b690-09ddf0234783.jpg",
       "category": "宿泊・施設",
-      "topic_group": "eb4f3ef101"
+      "topic_group": "857c09704a"
     },
     {
       "source": "Travel Voice",
-      "title": "大和財託、ホテル事業の新会社を設立、グループ内のホテル・旅館など統括、人材育成にも取り組む",
+      "title": "不動産投資分野で急成長の大和財託、ホテル事業の新会社を設立、グループ内のホテル・旅館など統括、人材育成も",
       "summary": "大和財託は、ホテル事業のさらなる展開を見据え、2026年11月1日に新会社「大和財託ホテル＆リゾート」を設立。グループ会社のホテル・旅館事業などを統括。",
       "url": "https://www.travelvoice.jp/20261105-160793",
-      "published": "2026-11-06T01:40:07+00:00",
+      "published": "2026-11-08T22:42:29+00:00",
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/719ead86-5bf2-493a-bbe4-e3e1cec1f718.jpeg",
       "category": "宿泊・施設",
-      "topic_group": "f57202e86f"
+      "topic_group": "1635662e6a"
     },
     {
       "source": "Travel Voice",
@@ -446,6 +446,16 @@
       "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "646902cdf7"
+    },
+    {
+      "source": "やまとごころ.jp",
+      "title": "中国人の出国者数1億6792万人、海外旅行は「安さ」だけでなく「体験の質」を重視ーITB China調査",
+      "summary": "中国人の海外旅行需要が回復を続けている。2025年の中国籍保有者による出国者数（出境数含む）は1億6792万人となり、コロナ前の水準に迫った。一方、旅行者が求めるものにも変化が見られる。価格だけでなく、特別な体験やサービ…",
+      "url": "https://yamatogokoro.jp/inbound_data/61510/",
+      "published": "2026-11-08T23:00:38+00:00",
+      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/10/7D1DA7AC-F6F7-4321-AC9E-E3221BEA0E19-1.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "afbae8f6b3"
     },
     {
       "source": "やまとごころ.jp",
@@ -558,14 +568,54 @@
       "topic_group": "10d87e2c6c"
     },
     {
-      "source": "やまとごころ.jp",
-      "title": "「こんな町に外国人が来るなんて」70代女性が始めた民泊が、三重県の小さな漁師町を変え始めた",
-      "summary": "三重県南部、熊野灘に面する紀北町。かつて漁業で栄えた紀伊長島地区には、多くの商店や飲食店が軒を連ね、人々でにぎわった時代があった。この町で生まれ育った山岡敏子さんは、「昔は映画館もいくつもあったんですよ。でも今はシャッタ…",
-      "url": "https://yamatogokoro.jp/column/minpaku_localexperience/61463/",
-      "published": "2026-10-18T23:00:06+00:00",
+      "source": "時事ドットコム",
+      "title": "免税「リファンド方式」開始 訪日客向け、過去に追徴課税も―国税庁、転売抑制に期待",
+      "summary": "",
+      "url": "https://www.jiji.com/jc/article?k=2026110800119&g=eco",
+      "published": null,
       "image_url": null,
-      "category": "宿泊・施設",
-      "topic_group": "428e679ab1"
+      "category": "政策・制度",
+      "topic_group": "de3bebf82e"
+    },
+    {
+      "source": "時事ドットコム",
+      "title": "訪日客向け消費税免税制度の旧方式と新方式",
+      "summary": "",
+      "url": "https://www.jiji.com/jc/article?k=2026110800119&g=eco&p=20261108ax01S&rel=pv",
+      "published": null,
+      "image_url": "https://www.jiji.com/news2/kiji_photos/202611/20261108ax01S_p.jpg",
+      "category": "政策・制度",
+      "topic_group": "e3dba7a3b1"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "中国、2027年の祝日を発表 春節は9連休・国慶節は7連休",
+      "summary": "中国 国務院弁公庁は11月5日、2027年の祝休日日程を発表しました。 発表によると、 春節 （ 旧正月 ）は2月5日～13日の9連休、 国慶節 は10月1日～7日の7連休となっています。 関連記事： 中国本土からの出国者は7.5％増、渡航先で日本は6位に 第3四半期データを発表（国家移民管理局） …",
+      "url": "https://honichi.com/news/2026/11/09/china-holiday2027/?utm_source=rss",
+      "published": "2026-11-09T00:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14844/main_china-holiday2027_img.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "c4f30c5989"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "ANAホールディングス、AIRDO・ソラシドエアの共同持株会社を完全子会社化へ 国内旅客事業の基盤強化目指す",
+      "summary": "ANA ホールディングスは10月29日、A IR DOおよびソラシドエアの共同持株会社であるリージョナルプラスウイングス（以下、RPW）との間で、株式交換による完全子会社化に向けた協議・検討を進める基本合意書を締結したと発表しました。 同社は、各社の強みと経営資源を生かし、国内旅客事業の基盤強化と利…",
+      "url": "https://honichi.com/news/2026/11/09/ana-rpw-subsidiary/?utm_source=rss",
+      "published": "2026-11-08T23:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14841/main_fasyah-halim-mUIY4EIVtuU-unsplash.jpg",
+      "category": "航空・交通",
+      "topic_group": "6d91628d9b"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "JR東海、中間決算は増収減益 インバウンドと観光需要が下支え（2027年3月期 第2四半期決算）",
+      "summary": "東海 旅客 鉄道 （以下、 JR 東海 ）は10月28日、2027年3月期の第2四半期（中間期） 決算 （2026年4月～9月）を発表しました。 インバウンド や国内観光、ビジネス利用が堅調に推移したことで、前年同期比で増収を記録しました。一方、営業利益は同社およびグループ会社における労務費の上昇な…",
+      "url": "https://honichi.com/news/2026/11/09/jr-tokai-settlement-of-accounts-2027q2/?utm_source=rss",
+      "published": "2026-11-08T22:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14839/main_tsuyoshi-kozu-7OAHuYwQSAA-unsplash.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "2d5b45e53c"
     },
     {
       "source": "訪日ラボ",
@@ -646,36 +696,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14790/main_5381ac558e1cc42caaac6fae56b4156e.png",
       "category": "統計・市場動向",
       "topic_group": "4270e4fdbb"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "日立、沖縄と和歌山で観光DX推進に向けた実証を開始 旅マエデータを活用して広域周遊を検証",
-      "summary": "日立製作所は10月26日、 沖縄県 中南部地域および 和歌山県 熊野地域の2拠点において、旅行計画時のデータを活用した 観光DX の実証実験を同月より順次開始すると発表しました。 従来の来訪実績データでは把握が難しかった旅行前の潜在ニーズを捉えるため、旅行計画時の検討データを収集・分析し、広域周遊の…",
-      "url": "https://honichi.com/news/2026/11/04/tourism-dx-hitachi-pretrip-data/?utm_source=rss",
-      "published": "2026-11-04T00:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14828/main_main_2.png",
-      "category": "統計・市場動向",
-      "topic_group": "930f861a1c"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "【今週の注目記事5選】9月外国人宿泊数は1,165万人、8月は地方部比率が上昇 ほか",
-      "summary": "訪日ラボ編集部です。本シリーズでは、 この1週間に公開した記事の中から、 インバウンド 担当者が読んでおきたい注目の記事 を厳選してお届けします。 最新トレンドの把握や、 マーケティング 活動にぜひともご活用ください。 目次 今週の注目記事5選 1. 9月の外国人宿泊数は1,165万人 8月は地方部…",
-      "url": "https://honichi.com/news/2026/11/04/weekmatome_20261104/?utm_source=rss",
-      "published": "2026-11-03T23:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14825/main_72e8ce718cff78bce867efd78e2b0ea6.png",
-      "category": "統計・市場動向",
-      "topic_group": "aae29d5aad"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "アラスカ航空、成田〜米アラスカ州アンカレッジ線を2027年5月に新規就航へ 両都市間で初の直行便",
-      "summary": "米アラスカ航空は10月27日、アラスカ州のテッド・スティーブンス・アンカレッジ国際空港と成田国際空港を結ぶ 直行便 を、2027年5月13日より新規就航すると発表しました。両都市を結ぶ初の定期 直行便 となります。 [RegistrationWall] 機材にはボーイング737 MA X 8型機が採…",
-      "url": "https://honichi.com/news/2026/11/04/alaska-anchorage-narita/?utm_source=rss",
-      "published": "2026-11-03T22:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14824/main_john-feng-a_-hDgB03oA-unsplash.jpg",
-      "category": "航空・交通",
-      "topic_group": "19a8e4bfa3"
     }
   ]
 }
