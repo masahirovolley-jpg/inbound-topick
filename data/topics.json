@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T01:14:26.290064+00:00",
+  "updated_at": "2026-11-12T02:16:08.013972+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -27,6 +27,16 @@
     }
   ],
   "articles": [
+    {
+      "source": "JNTO",
+      "title": "ツアーガイドマッチングイベント「Guide Connect Day KYOTO 2026」11月30日(月)・12月1日(火)開催【株式会社羅針盤】",
+      "summary": "",
+      "url": "https://www.jnto.go.jp/news/members/guide_connect_day_kyoto_20261130121.html",
+      "published": "2026-11-11T23:54:03+00:00",
+      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "category": "業界ニュース",
+      "topic_group": "498e5e68b9"
+    },
     {
       "source": "JNTO",
       "title": "日本が英国有力旅行雑誌の読者投票で第2位を獲得！",
@@ -168,14 +178,14 @@
       "topic_group": "4acdc231ee"
     },
     {
-      "source": "JNTO",
-      "title": "新潟県が「Best of the World 2027」に選出！",
-      "summary": "2026年 10 月 20 日（米国時間）、米国の有力メディアである『 National Geographic （ナショナル ジオグラフィック）』が発表した「 Best of the World 2027 （ 2027 年に行くべき世界の旅行先 25 選）」において、日本からは新潟県が選出されました…",
-      "url": "https://www.jnto.go.jp/news/info/20261030_1.html",
-      "published": "2026-10-30T06:26:07+00:00",
-      "image_url": "https://www.jnto.go.jp/news/20261030_1.jpg",
-      "category": "業界ニュース",
-      "topic_group": "6d3b49d793"
+      "source": "観光庁",
+      "title": "ウェビナー「お客様に選ばれ、稼げる宿泊施設・観光施設へ ユニバーサルデザイン実践術」を開催します！",
+      "summary": "",
+      "url": "https://www.mlit.go.jp/kankocho/topics06_00067.html",
+      "published": "2026-11-12",
+      "image_url": "https://www.mlit.go.jp/kankocho/content/810004410.png",
+      "category": "統計・市場動向",
+      "topic_group": "7187e1082d"
     },
     {
       "source": "観光庁",
@@ -349,103 +359,113 @@
     },
     {
       "source": "Travel Voice",
-      "title": "世界大手ITBが南北アメリカに初進出、観光商談会「ITBアメリカス」開幕、世界60カ国超から300社が集結、カンファレンスも100超",
-      "summary": "ITBがメキシコで初開催する「ITBアメリカス」。世界60カ国・地域超から300社・団体が出展し、40カ国以上からバイヤーが参加。100人超が登壇する国際カンファレンスの狙いや米州市場の成長性を現地取材。",
-      "url": "https://www.travelvoice.jp/20261110-160822",
-      "published": "2026-11-10T16:25:39+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/bf7de44e-2184-4159-a02a-28519ed9240a.jpg",
+      "title": "京阪バス、車内ガイドの日本語案内を76言語に自動翻訳、乗客のスマホに文字と音声で配信",
+      "summary": "京阪バスは、同社が運行する「おこしバス」（京都定期観光バス）の一部コースで、多言語対応機器（ポケトーク for ツアー）を活用した新しいガイドサービスを試験導入。",
+      "url": "https://www.travelvoice.jp/20261112-160831",
+      "published": "2026-11-12T01:45:10+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/7555761c-ab08-4aa0-9035-1453cdccf19d.jpg",
+      "category": "業界ニュース",
+      "topic_group": "9be6e8618e"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "千葉豪雨後の観光再始動へレストランバスツアー、南房総の日本一長い桟橋で受賞シェフ6人が日替わりディナー",
+      "summary": "「レストランバスで巡る南房総ガストロノミーツアー」が期間限定で実施。2026年8月の千葉豪雨により被害からの観光需要喚起に取り組む県内のトップシェフや地域の関係者が始める。",
+      "url": "https://www.travelvoice.jp/20261112-160839",
+      "published": "2026-11-12T01:40:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/3dfeedb8-e5a7-4272-8690-c085aa4d74f3.jpg",
       "category": "統計・市場動向",
-      "topic_group": "7daf551e35"
+      "topic_group": "bfcafc5bfb"
     },
     {
       "source": "Travel Voice",
-      "title": "ANAとベトナム航空、共同事業に向けて合意、スターアライアンス以外では初めて、国内線や以遠路線での協力関係も検討",
-      "summary": "ANAは、ベトナム航空と共同事業（ジョイントベンチャー）開始に向けた合意書を締結。スターアライアンス以外では初。両社は運航スケジュールの最適化や運賃・販売戦略などの検討を進めていく。",
-      "url": "https://www.travelvoice.jp/20261110-160818",
-      "published": "2026-11-10T01:45:07+00:00",
+      "title": "家族で地域に1～2週間滞在する「保育園留学」、積水ハウスが福利厚生に導入、関係人口づくりにも",
+      "summary": "積水ハウスは、2027年2月から従業員向けの福利厚生制度としてキッチハイクが提供する「保育園留学」を導入。こどもが自ら興味を広げる体験を、企業として後押しする。",
+      "url": "https://www.travelvoice.jp/20261112-160840",
+      "published": "2026-11-12T01:35:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/68094476-bf74-4db2-a94a-8c0b036bec41.jpg",
+      "category": "政策・制度",
+      "topic_group": "19cacbf901"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "長野県飯綱町、りんご農家での担い手の募集開始、「ふるさと住民登録制度」モデル事業で",
+      "summary": "長野県飯綱町は、総務省のふるさと住民登録制度モデル事業として、タイミーの特設サイトで、りんごの農作業を中心に担い手活動の募集の掲載を開始。",
+      "url": "https://www.travelvoice.jp/20261112-160782",
+      "published": "2026-11-12T01:30:09+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/62957d0f-9806-47f5-8429-0d15605075d7.jpg",
+      "category": "政策・制度",
+      "topic_group": "257a788fcd"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "インバウンド免税の「リファンド方式」移行は観光産業をどう変えるか？ 旅行会社・OTAにも新たな商機【コラム】",
+      "summary": "免税制度の「リファンド方式」移行は観光産業をどう変えるか？早稲田大学大学院の池上重輔教授が、手数料競争にとどまらない「地域価値循環」の戦略ポイントを考察する。",
+      "url": "https://www.travelvoice.jp/20261111-160737",
+      "published": "2026-11-12T00:27:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2022/05/83fef9ab-3050-4438-91f3-ca8f206294ab.jpg",
+      "category": "政策・制度",
+      "topic_group": "83638ed4bf"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "世界有数の観光産業展示会「WTMロンドン2026」、体験価値の進化とAI実装、閣僚サミットでは気候変動や地政学リスクへの回復力を議論",
+      "summary": "世界最大級の旅行・観光産業の国際見本市「ワールド・トラベル・マーケット・ロンドン（WTMロンドン）2026」が2026年11月にロンドンで開催。ラグジュアリー、AI、レスポンシブル・ツーリズムから閣僚サミットまで議論の内容をまとめた。",
+      "url": "https://www.travelvoice.jp/20261111-160824",
+      "published": "2026-11-11T23:26:32+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/4eaed0f9-00ac-43cc-9f2a-26fb09e63f3d.jpeg",
+      "category": "AI・デジタル",
+      "topic_group": "b7475a3e9a"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "世界の高級ホテル大手「ラッフルズ＆フェアモント」、新ウェルネス戦略を始動、スパにとどまらない滞在価値を追求、総支配人106人が東京に集結",
+      "summary": "「ラッフルズ＆フェアモント ホテル アンド リゾート」は、「フェアモント東京」でメディア向けブランド説明会を開催。今後の開業予定や新しいウェルネスプラットフォームなどについて説明した。",
+      "url": "https://www.travelvoice.jp/20261111-160836",
+      "published": "2026-11-11T13:30:35+00:00",
       "image_url": null,
-      "category": "航空・交通",
-      "topic_group": "94bed3928d"
+      "category": "宿泊・施設",
+      "topic_group": "2b187f097b"
     },
     {
       "source": "Travel Voice",
-      "title": "韓国の地方誘客へ、伝統行事「ハマン落火ノリ」のジャパンデーが成功した理由、日本の旅行業界との協業を取材した",
-      "summary": "韓国の地方誘客を進める韓国観光公社と日本旅行業協会。「ハマン落火ノリ」の日本人向け特別開催は3年間で約1500人に拡大した。公社の地方観光戦略と旅行業界への評価、JATAが考える旅行会社の役割に加え、咸安の歴史探訪や釜山を起点とする周遊観光を紹介する。",
-      "url": "https://www.travelvoice.jp/20261110-160796",
-      "published": "2026-11-10T08:13:47+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/934d06da-320b-4f70-b000-93e69da79fd8.jpg",
-      "category": "地域・DMO",
-      "topic_group": "194275f371"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "青山学院のOBOG観光団体、11月18日に交流パーティー開催、他業種・他大学の団体からも参加可能（PR）",
-      "summary": "（PR）青山学院の旅行・観光業界団体「青山トラベル・ソサエティ」が2026年11月18日、東京・渋谷でアニュアルパーティーを開催。他業種や他大学の旅行・観光団体にも参加を呼びかけ、懇親や情報交換、グループディスカッションを通じて交流を深める。申し込みは11月13日まで。",
-      "url": "https://www.travelvoice.jp/20261110-160812",
-      "published": "2026-11-10T01:42:07+00:00",
+      "title": "ヒルトン、ウェルネス重視のMICEプログラムを導入、参加者の心身リカバリーや集中力維持をサポート",
+      "summary": "ヒルトンは、ウェルネスに重点を置いた新しいMICEフレームワーク「ハイ・パフォーマンス・ミーティング（High Performance Meetings）」を導入。旅マエから旅アトまでプランナーと参加者をサポート。",
+      "url": "https://www.travelvoice.jp/20261111-160832",
+      "published": "2026-11-11T13:37:14+00:00",
       "image_url": null,
       "category": "業界ニュース",
-      "topic_group": "92584fa25a"
+      "topic_group": "7a53125d80"
     },
     {
       "source": "Travel Voice",
-      "title": "農水省、食文化を生かしたインバウンド拡大へ、福岡県宗像市と大分県臼杵市を選定、外食15社の海外展開も支援",
-      "summary": "農林水産省は、食文化の海外展開・インバウンド拡大に取り組む事業で、外食事業者15社及び地方公共団体2市の支援を決定。",
-      "url": "https://www.travelvoice.jp/20261110-160784",
-      "published": "2026-11-10T09:40:44+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/3150c49c-5226-455a-8353-6217ca3e80fd.jpeg",
-      "category": "地域・DMO",
-      "topic_group": "797983c58e"
+      "title": "防災「地下神殿」夜ツアーを発売、ゼネコン佐藤工業と連携、インフラツーリズムを推進 ―東武トップツアーズ",
+      "summary": "東武トップツアーズは、インフラツーリズムの研究を進めている佐藤工業と連携し、埼玉県春日部市で「防災地下神殿 ゼネコン技術者が紐解くプレミアムナイトツアー！」の販売を開始。",
+      "url": "https://www.travelvoice.jp/20261111-160828",
+      "published": "2026-11-11T23:08:51+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/f5f76942-bea1-449a-b458-5d420d374306.jpg",
+      "category": "業界ニュース",
+      "topic_group": "1b84dd0fa3"
     },
     {
       "source": "Travel Voice",
-      "title": "JALとスカパーJSAT、衛星データを活用した社会課題解決で業務提携、ヒグマ対策など検討",
-      "summary": "日本航空とスカパーJSATが、衛星観測データと航空事業の知見を活用して社会課題解決を目指す業務提携契約を締結。ヒグマ出没情報の可視化で自治体などを支援。防災やインフラ管理など多領域に展開も。",
-      "url": "https://www.travelvoice.jp/20261110-160763",
-      "published": "2026-11-10T01:40:07+00:00",
+      "title": "HIS、最新ラグジュアリー客船「エクスプローラ III」を全船貸し切り、2028年GWに東京発着6日間69.8万円から",
+      "summary": "HISは、最新ラグジュアリー客船「エクスプローラ III」の世界初チャータークルーズを販売開始。2028年GWに東京発着6日間の短期航程、現役世代も参加しやすく。69万8000円から。",
+      "url": "https://www.travelvoice.jp/20261111-160805",
+      "published": "2026-11-11T01:40:07+00:00",
       "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "955fcdf696"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "北九州・門司港の旧JR九州本社ビルを交流拠点へ、住民・関係人口・旅行者が集う全97室のホテル、2030年1月開業予定",
-      "summary": "日鉄興和不動産らは、日本遺産である旧JR九州本社ビルをホテルへ再生するため北九州市と連携協定を締結した。歴史的価値を継承した複合施設として2030年1月に開業し、門司港エリアの観光活性化に貢献する。",
-      "url": "https://www.travelvoice.jp/20261110-160825",
-      "published": "2026-11-10T09:22:47+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/9527c738-4d96-45af-9b8d-ad2dd8ccc9f9.jpg",
-      "category": "宿泊・施設",
-      "topic_group": "a253a904bf"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "ホテルの「AI活用準備度」を5分で診断、独企業が無料ツール提供開始、7分野を評価",
-      "summary": "「dailypoint」は、ホテルを対象とした、無料かつ匿名で利用可能な「AI活用準備度チェック（AI Readiness Check）」の提供を開始。AI導入の準備状況を評価。",
-      "url": "https://www.travelvoice.jp/20261027-160727",
-      "published": "2026-11-10T22:08:27+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/19dc2c3a-0d52-434a-968f-585ed828f2e2.jpg",
-      "category": "宿泊・施設",
-      "topic_group": "a4cc60a439"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "ブッキングHDの旅行AIアシスタント「Lola（ローラ）」、航空券の検索・予約を開始、機能拡充で旅程表作成も【外電】",
-      "summary": "米観光産業ニュース「フォーカスワイヤ」によると、ブッキング・ホールディングスが支援するAIアシスタント「Lola」は航空券予約機能を追加。また、新たに1億ドルの投資も受けるという。",
-      "url": "https://www.travelvoice.jp/20261110-160813",
-      "published": "2026-11-10T09:30:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2022/01/1bd2a9f7-e2f8-4dab-aa1c-630b79fc18ce.jpg",
       "category": "航空・交通",
-      "topic_group": "81496a70ef"
+      "topic_group": "d8d7aa333c"
     },
     {
-      "source": "Travel Voice",
-      "title": "旅行予約は「検索」から「AIによる選別」へ、旅行を4層で捉えるフレームワーク「トラベル・スタック」とは？",
-      "summary": "スキフト・リサーチ責任者のセス・ボーコ氏が、旅行フレームワーク「トラベル・スタック」で分析。Z世代の台頭、AIによる旅行予約の変化、ブランドロイヤルティへの影響、デスティネーション競争の新局面を語った。",
-      "url": "https://www.travelvoice.jp/20261109-160707",
-      "published": "2026-11-09T19:26:41+00:00",
-      "image_url": null,
-      "category": "AI・デジタル",
-      "topic_group": "3130b2a269"
+      "source": "やまとごころ.jp",
+      "title": "【体験レポ】5つ星評価の姫路城ガイドツアー 訪日客を魅了する案内の工夫と姫路DMOの挑戦",
+      "summary": "訪日観光客に人気の姫路城で、訪日観光客の滞在時間や域内消費の拡大に加え、地域のガイドが継続的に活躍できる仕組みづくりを目指し、ローカルガイドツアーに取り組む姫路観光コンベンションビューロー（姫路DMO）。2025年4月に…",
+      "url": "https://yamatogokoro.jp/column/experience-report/61656/",
+      "published": "2026-11-11T23:00:38+00:00",
+      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/11/IMG_1164.jpg",
+      "category": "地域・DMO",
+      "topic_group": "20599bfdde"
     },
     {
       "source": "やまとごころ.jp",
@@ -453,7 +473,7 @@
       "summary": "旅行・観光業界の国際的な賞「ワールド・トラベル・アワーズ（World Travel Awards、WTA）」の2026年アジア部門の受賞結果が発表された。日本は観光地や宿泊施設、観光体験など計7部門で最優秀賞を獲得した。…",
       "url": "https://yamatogokoro.jp/inbound_data/61538/",
       "published": "2026-11-10T23:00:44+00:00",
-      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/10/timo-volz-tEOhkLuqmUI-unsplash.jpg",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "8315e1f329"
     },
@@ -558,24 +578,44 @@
       "topic_group": "e8bfb0a71b"
     },
     {
-      "source": "やまとごころ.jp",
-      "title": "2026年9月訪日客数5.0％減の310万人、航空券高騰や台風などの影響で多くの市場が前年割れ",
-      "summary": "日本政府観光局（JNTO）が発表した2026年9月の訪日外国人旅行者数（推計値）は310万3700人で、前年同月比5.0％減となった。8月の9.6％減からマイナス幅は縮小したものの、2カ月連続で前年同月を下回った。 中国…",
-      "url": "https://yamatogokoro.jp/inbound_data/61542/",
-      "published": "2026-10-21T23:00:49+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "470bc1bc78"
+      "source": "訪日ラボ",
+      "title": "ドン・キホーテ、新免税制度の店頭状況を報告 訪日客の生の声は？",
+      "summary": "ディスカウントストア「 ドン・キホーテ 」を運営する株式会社パン・パシフィック・インターナショナルホールディングス（以下、PPIH）は11月2日、 訪日外国人 向け消費税 免税 制度がリファンド方式へ移行されたことを受け、制度変更に向けた対応や移行直後の店頭の状況についての取材会をMEGA ドン・キ…",
+      "url": "https://honichi.com/news/2026/11/12/ppih-tax-refund/?utm_source=rss",
+      "published": "2026-11-12T01:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14834/main_ppih-tax-refund_img.jpg",
+      "category": "政策・制度",
+      "topic_group": "3b3824e74d"
     },
     {
-      "source": "時事ドットコム",
-      "title": "遊覧船、定員１．７倍で航行か 中学修学旅行で貸し切り中―海保が捜査、船長ら聴取―長崎・壱岐島沖",
-      "summary": "",
-      "url": "https://www.jiji.com/jc/article?k=2026111001021&g=soc&m=rss",
-      "published": "2026-11-10T23:27:00+00:00",
-      "image_url": "https://www.jiji.com/news2/kiji_photos/202611/20261110ax06S_o.jpg",
-      "category": "業界ニュース",
-      "topic_group": "0465a9a765"
+      "source": "訪日ラボ",
+      "title": "大丸松坂屋、10月免税売上は前年比15.8％増 客単価も2桁増加",
+      "summary": "J.フロント リテイリング株式会社は11月2日、2026年10月度の 百貨店 事業売上速報を公表しました。 大丸松坂屋 百貨店 合計の 免税 売上は前年同月比15.8％増で、大型改装で売り場が縮小している 梅田 店を除くと同20.2％増となりました。 関連記事： 9月の百貨店免税売上、前年比25.3…",
+      "url": "https://honichi.com/news/2026/11/12/j-front-retailing2610/?utm_source=rss",
+      "published": "2026-11-12T00:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14851/main_lucrezia-carnelos-wQ9VuP_Njr4-unsplash.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "9c0e2b2d93"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "阪急阪神百貨店運営のH2O、上期のインバウンド売上は21％増 百貨店事業が好調で増収増益（2027年3月期2Q決算）",
+      "summary": "阪急阪神 百貨店 などを運営するエイチ・ツー・オー リテイリング（以下、H2O）は11月4日、2027年3月期の第2四半期（中間期） 決算 （2026年4月～9月）を発表しました。 阪急本店や阪神 梅田 本店の改装効果などにより 百貨店 事業が好調に推移し、増収増益を達成しています。 とくに インバ…",
+      "url": "https://honichi.com/news/2026/11/12/h2o-202703-02/?utm_source=rss",
+      "published": "2026-11-11T23:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14853/main_clark-street-mercantile-qnKhZJPKFD8-unsplash.jpg",
+      "category": "宿泊・施設",
+      "topic_group": "3eaa9b84b2"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "スターフライヤー、北九州～台湾・高雄線の国際チャーター便を2027年1～2月に運航 同社初の高雄国際空港就航",
+      "summary": "スターフライヤーは11月4日、北 九州 ～ 台湾 ・高雄線における国際 チャーター 便の運航計画を発表しました。 [RegistrationWall] 運航期間は2027年1月21日から2月14日までで、空輸便を含め合計14便を運航する予定です。同社が高雄国際空港へ就航するのは今回が初となります。 …",
+      "url": "https://honichi.com/news/2026/11/12/starflyer-kitakyushu-kaohsiung-charter/?utm_source=rss",
+      "published": "2026-11-11T22:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14852/main_trinity-moss-CwlFCanvxr8-unsplash.jpg",
+      "category": "航空・交通",
+      "topic_group": "1aec4d7d50"
     },
     {
       "source": "訪日ラボ",
@@ -599,13 +639,13 @@
     },
     {
       "source": "訪日ラボ",
-      "title": "青森県の9月、外国人宿泊者数は前年同月比39.9％増 主要観光施設の入込客数も増加（月例観光統計調査・速報値）",
+      "title": "青森県、9月の外国人宿泊者数は前年同月比39.9％増 青森〜台北線が27年夏から毎日運航へ",
       "summary": "青森県 は10月29日、9月分の「月例観光統計調査（速報値）」の結果を公表しました。 同調査によると、主要 宿泊施設 の宿泊者数は前年実績を上回り、とくに外国人宿泊者数が前年同月比139.9％と高い伸びを示しています。また、主要 観光施設 の入込客数も前年同月を上回って推移しました。 さらに、県は1…",
       "url": "https://honichi.com/news/2026/11/11/aomori-inbound-september-statistics2026/?utm_source=rss",
       "published": "2026-11-10T23:00:00+00:00",
       "image_url": "https://static.honichi.com/uploads/entry/image/14848/main_ryunosuke-tomizawa-jSuU4emWets-unsplash.jpg",
       "category": "統計・市場動向",
-      "topic_group": "258ac37077"
+      "topic_group": "03627d43f1"
     },
     {
       "source": "訪日ラボ",
@@ -646,46 +686,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14845/main_72e8ce718cff78bce867efd78e2b0ea6.png",
       "category": "統計・市場動向",
       "topic_group": "0a14919ebd"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "農林水産省、食に特化した地域づくりの支援対象に宗像市と臼杵市を選定 インバウンド拡大へ伴走型で後押し",
-      "summary": "農林水産省は10月30日、食に特化した地域づくりを進める「 インバウンド 拡大チーム」の支援対象として、 福岡県 宗像市 および 大分県 臼杵市の2 自治体 を決定したと発表しました。 省内公募により選ばれた職員が伴走支援を行い、 インバウンド消費 の拡大や持続的な地域経済の成長などを後押しします。…",
-      "url": "https://honichi.com/news/2026/11/10/maff-food-inbound-munakata-usuki/?utm_source=rss",
-      "published": "2026-11-09T22:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14846/main_261030-11part2.jpg",
-      "category": "政策・制度",
-      "topic_group": "849ea7cda4"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "中国、2027年の祝日を発表 春節は9連休・国慶節は7連休",
-      "summary": "中国 国務院弁公庁は11月5日、2027年の祝休日日程を発表しました。 発表によると、 春節 （ 旧正月 ）は2月5日～13日の9連休、 国慶節 は10月1日～7日の7連休となっています。 関連記事： 中国本土からの出国者は7.5％増、渡航先で日本は6位に 第3四半期データを発表（国家移民管理局） …",
-      "url": "https://honichi.com/news/2026/11/09/china-holiday2027/?utm_source=rss",
-      "published": "2026-11-09T00:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14844/main_china-holiday2027_img.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "c4f30c5989"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "ANAホールディングス、AIRDO・ソラシドエアの共同持株会社を完全子会社化へ 国内旅客事業の基盤強化目指す",
-      "summary": "ANA ホールディングスは10月29日、A IR DOおよびソラシドエアの共同持株会社であるリージョナルプラスウイングス（以下、RPW）との間で、株式交換による完全子会社化に向けた協議・検討を進める基本合意書を締結したと発表しました。 同社は、各社の強みと経営資源を生かし、国内旅客事業の基盤強化と利…",
-      "url": "https://honichi.com/news/2026/11/09/ana-rpw-subsidiary/?utm_source=rss",
-      "published": "2026-11-08T23:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14841/main_fasyah-halim-mUIY4EIVtuU-unsplash.jpg",
-      "category": "航空・交通",
-      "topic_group": "6d91628d9b"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "JR東海、中間決算は増収減益 インバウンドと観光需要が下支え（2027年3月期 第2四半期決算）",
-      "summary": "東海 旅客 鉄道 （以下、 JR 東海 ）は10月28日、2027年3月期の第2四半期（中間期） 決算 （2026年4月～9月）を発表しました。 インバウンド や国内観光、ビジネス利用が堅調に推移したことで、前年同期比で増収を記録しました。一方、営業利益は同社およびグループ会社における労務費の上昇な…",
-      "url": "https://honichi.com/news/2026/11/09/jr-tokai-settlement-of-accounts-2027q2/?utm_source=rss",
-      "published": "2026-11-08T22:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14839/main_tsuyoshi-kozu-7OAHuYwQSAA-unsplash.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "2d5b45e53c"
     }
   ]
 }
