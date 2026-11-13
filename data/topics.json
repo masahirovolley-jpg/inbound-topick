@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T02:16:08.013972+00:00",
+  "updated_at": "2026-11-13T01:50:09.278593+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -33,7 +33,7 @@
       "summary": "",
       "url": "https://www.jnto.go.jp/news/members/guide_connect_day_kyoto_20261130121.html",
       "published": "2026-11-11T23:54:03+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "498e5e68b9"
     },
@@ -183,7 +183,7 @@
       "summary": "",
       "url": "https://www.mlit.go.jp/kankocho/topics06_00067.html",
       "published": "2026-11-12",
-      "image_url": "https://www.mlit.go.jp/kankocho/content/810004410.png",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "7187e1082d"
     },
@@ -359,6 +359,56 @@
     },
     {
       "source": "Travel Voice",
+      "title": "ハウステンボス、イルミネーションを16年ぶりに刷新、ミッフィーのクリスマスイベントも初開催",
+      "summary": "ハウステンボスがクリスマスのイルミネーションを16年ぶりに刷新し、イベント「ザ・スターライト・ミリオン」開催。星の輝きに包まれたヨーロッパの街並みを歩くような幻想的な光景を演出。",
+      "url": "https://www.travelvoice.jp/20261113-160807",
+      "published": "2026-11-13T01:30:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/e6d9000d-3802-4251-a00c-588e99c7fd80.jpg",
+      "category": "業界ニュース",
+      "topic_group": "ed0de4f5ea"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "ホスピタリティテックEXPOがもうすぐ開幕、米国発のホテルテック会議も日本初上陸、現場の課題をつなぐ見どころを聞いてきた",
+      "summary": "2026年12月2～4日、東京で初開催する「ホスピタリティテックEXPO」。人手不足を背景に、観光・宿泊・飲食の現場課題と技術をどう結ぶのか。RX Japanの細野圭氏に、日本初開催の「HITEC TOKYO」や人材育成、経営を扱うカンファレンスの狙い、展示と講演を組み合わせた見どころを聞いた。",
+      "url": "https://www.travelvoice.jp/20261112-160811",
+      "published": "2026-11-12T08:00:11+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/253c2f4e-ce74-41e6-b7c7-524bf5055a5a.jpeg",
+      "category": "統計・市場動向",
+      "topic_group": "3a3acbfd09"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "エクスペディア、MetaのAI「Muse」でホテル予約が可能に、自社AIエージェント利用者はタビナカ予約の確率2倍【外電】",
+      "summary": "米観光産業ニュース「Skift」は、エクスペディアが連携を開始したMetaのAIエージェント「Muse」を実際に使い、この連携機能で、何ができて、何ができないのかを検証。",
+      "url": "https://www.travelvoice.jp/20261112-160847",
+      "published": "2026-11-12T04:38:46+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/07/375e8305-bfce-45e6-8237-e9e45c20e0d0.jpg",
+      "category": "宿泊・施設",
+      "topic_group": "0fde2eba20"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "日本の旅行会社が乗り越えるべき「旅行予約システム」の壁とは？ 出張需要を確実に獲得するために取り組むべきこと ─エクスペディア・グループ アイリーン・チャン氏（PR）",
+      "summary": "（PR）堅調な伸びを示すビジネス旅行分野。その需要を取りこむために、旅行会社がすべきこととは？ システム面の課題とそのソリューションについて、エクスペディアBtoB部門のアジア太平洋バイスプレジデントに聞いた。",
+      "url": "https://www.travelvoice.jp/20261112-160815",
+      "published": "2026-11-12T03:00:17+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/2784c26d-b619-4e80-8b28-4a3b8ac5d54b.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "3a3304f7da"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "JAL系のLCC「ジップエア」、日系初の成田／トロント線を2027年3月に開設、片道4万5838円から",
+      "summary": "ZIPAIR Tokyoは2027年3月2日より成田／トロント線へ就航する。日系航空会社として初就航、11月12日から販売開始。",
+      "url": "https://www.travelvoice.jp/20261112-160844",
+      "published": "2026-11-12T04:10:56+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2021/12/678d96da-8369-4617-8ec8-ea9c58649788.jpg",
+      "category": "航空・交通",
+      "topic_group": "207fc073aa"
+    },
+    {
+      "source": "Travel Voice",
       "title": "京阪バス、車内ガイドの日本語案内を76言語に自動翻訳、乗客のスマホに文字と音声で配信",
       "summary": "京阪バスは、同社が運行する「おこしバス」（京都定期観光バス）の一部コースで、多言語対応機器（ポケトーク for ツアー）を活用した新しいガイドサービスを試験導入。",
       "url": "https://www.travelvoice.jp/20261112-160831",
@@ -393,7 +443,7 @@
       "summary": "長野県飯綱町は、総務省のふるさと住民登録制度モデル事業として、タイミーの特設サイトで、りんごの農作業を中心に担い手活動の募集の掲載を開始。",
       "url": "https://www.travelvoice.jp/20261112-160782",
       "published": "2026-11-12T01:30:09+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/62957d0f-9806-47f5-8429-0d15605075d7.jpg",
+      "image_url": null,
       "category": "政策・制度",
       "topic_group": "257a788fcd"
     },
@@ -403,59 +453,9 @@
       "summary": "免税制度の「リファンド方式」移行は観光産業をどう変えるか？早稲田大学大学院の池上重輔教授が、手数料競争にとどまらない「地域価値循環」の戦略ポイントを考察する。",
       "url": "https://www.travelvoice.jp/20261111-160737",
       "published": "2026-11-12T00:27:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2022/05/83fef9ab-3050-4438-91f3-ca8f206294ab.jpg",
+      "image_url": null,
       "category": "政策・制度",
       "topic_group": "83638ed4bf"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "世界有数の観光産業展示会「WTMロンドン2026」、体験価値の進化とAI実装、閣僚サミットでは気候変動や地政学リスクへの回復力を議論",
-      "summary": "世界最大級の旅行・観光産業の国際見本市「ワールド・トラベル・マーケット・ロンドン（WTMロンドン）2026」が2026年11月にロンドンで開催。ラグジュアリー、AI、レスポンシブル・ツーリズムから閣僚サミットまで議論の内容をまとめた。",
-      "url": "https://www.travelvoice.jp/20261111-160824",
-      "published": "2026-11-11T23:26:32+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/4eaed0f9-00ac-43cc-9f2a-26fb09e63f3d.jpeg",
-      "category": "AI・デジタル",
-      "topic_group": "b7475a3e9a"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "世界の高級ホテル大手「ラッフルズ＆フェアモント」、新ウェルネス戦略を始動、スパにとどまらない滞在価値を追求、総支配人106人が東京に集結",
-      "summary": "「ラッフルズ＆フェアモント ホテル アンド リゾート」は、「フェアモント東京」でメディア向けブランド説明会を開催。今後の開業予定や新しいウェルネスプラットフォームなどについて説明した。",
-      "url": "https://www.travelvoice.jp/20261111-160836",
-      "published": "2026-11-11T13:30:35+00:00",
-      "image_url": null,
-      "category": "宿泊・施設",
-      "topic_group": "2b187f097b"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "ヒルトン、ウェルネス重視のMICEプログラムを導入、参加者の心身リカバリーや集中力維持をサポート",
-      "summary": "ヒルトンは、ウェルネスに重点を置いた新しいMICEフレームワーク「ハイ・パフォーマンス・ミーティング（High Performance Meetings）」を導入。旅マエから旅アトまでプランナーと参加者をサポート。",
-      "url": "https://www.travelvoice.jp/20261111-160832",
-      "published": "2026-11-11T13:37:14+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "7a53125d80"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "防災「地下神殿」夜ツアーを発売、ゼネコン佐藤工業と連携、インフラツーリズムを推進 ―東武トップツアーズ",
-      "summary": "東武トップツアーズは、インフラツーリズムの研究を進めている佐藤工業と連携し、埼玉県春日部市で「防災地下神殿 ゼネコン技術者が紐解くプレミアムナイトツアー！」の販売を開始。",
-      "url": "https://www.travelvoice.jp/20261111-160828",
-      "published": "2026-11-11T23:08:51+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/f5f76942-bea1-449a-b458-5d420d374306.jpg",
-      "category": "業界ニュース",
-      "topic_group": "1b84dd0fa3"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "HIS、最新ラグジュアリー客船「エクスプローラ III」を全船貸し切り、2028年GWに東京発着6日間69.8万円から",
-      "summary": "HISは、最新ラグジュアリー客船「エクスプローラ III」の世界初チャータークルーズを販売開始。2028年GWに東京発着6日間の短期航程、現役世代も参加しやすく。69万8000円から。",
-      "url": "https://www.travelvoice.jp/20261111-160805",
-      "published": "2026-11-11T01:40:07+00:00",
-      "image_url": null,
-      "category": "航空・交通",
-      "topic_group": "d8d7aa333c"
     },
     {
       "source": "やまとごころ.jp",
@@ -463,7 +463,7 @@
       "summary": "訪日観光客に人気の姫路城で、訪日観光客の滞在時間や域内消費の拡大に加え、地域のガイドが継続的に活躍できる仕組みづくりを目指し、ローカルガイドツアーに取り組む姫路観光コンベンションビューロー（姫路DMO）。2025年4月に…",
       "url": "https://yamatogokoro.jp/column/experience-report/61656/",
       "published": "2026-11-11T23:00:38+00:00",
-      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/11/IMG_1164.jpg",
+      "image_url": null,
       "category": "地域・DMO",
       "topic_group": "20599bfdde"
     },
@@ -499,13 +499,13 @@
     },
     {
       "source": "やまとごころ.jp",
-      "title": "2027年の旅行トレンド7選、韓国で函館の検索数443％増も⸺Skyscanner調査",
+      "title": "2027年の旅行トレンド7選、韓国で函館の検索数443％増もーSkyscanner調査",
       "summary": "旅行検索サイトを運営するSkyscanner Limited（スカイスキャナー）は、独自の検索データや世界2万8000人以上を対象とした調査などをもとに、2027年に注目される7つの旅行トレンドを発表した。 各市場ごとの…",
       "url": "https://yamatogokoro.jp/inbound_data/61614/",
       "published": "2026-11-04T23:00:18+00:00",
       "image_url": null,
       "category": "統計・市場動向",
-      "topic_group": "ea35989f63"
+      "topic_group": "9135b5fa66"
     },
     {
       "source": "やまとごころ.jp",
@@ -579,6 +579,46 @@
     },
     {
       "source": "訪日ラボ",
+      "title": "スターフライヤー、2026年度上期の営業収入が過去最高に 9月に北九州～台北線を再開",
+      "summary": "株式会社スターフライヤーは10月30日、2027年3月期 第2四半期（中間期）の 決算 を発表しました。 国際線（北 九州 ～台北線）の運航再開などを背景に、営業収入は上期として過去最高を記録しました。 関連記事： ANA、訪日需要の好調により上期として過去最高の売上高を記録（2027年3月期2Q決…",
+      "url": "https://honichi.com/news/2026/11/13/starflyer2610/?utm_source=rss",
+      "published": "2026-11-13T01:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14860/main_fabio-sasso-q6wJ3pFWN3Y-unsplash.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "c94eeeb5a6"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "2027年に成功するブランドの特徴を紹介 ユーロモニターが「世界の消費者トレンド」を発表",
+      "summary": "英国の市場調査会社ユーロモニターインターナショナルは11月4日、「世界の消費者トレンド2027」を発表しました。 レポートでは、日常生活に不確実性が常につきまとうなか、消費者はバランスや自己決定権を求めていると示されています。 関連記事： 英調査会社、2026年の消費者トレンドを分析 「心の安らぎ」…",
+      "url": "https://honichi.com/news/2026/11/13/euromonitor-international-trend2027/?utm_source=rss",
+      "published": "2026-11-13T00:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14859/main_euromonitor-international-trend2026_img(2).jpg",
+      "category": "統計・市場動向",
+      "topic_group": "fb8b6da75d"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "【11月2週 人気記事】中部国際空港が2026年冬ダイヤ発表、台湾路線が過去最多に ほか｜インバウンドニュース週間アクセスTOP5",
+      "summary": "この1週間でアクセス数が多かった、 インバウンドニュース の ランキング を発表します！ 見逃している記事があれば、この機会にぜひご覧ください。 目次 週間アクセスランキング トップ5 1位. 中部国際空港が2026年冬ダイヤ発表、台湾路線が過去最多に 2位. 11月から免税制度が移行 企業への不正…",
+      "url": "https://honichi.com/news/2026/11/13/accessranking_20261113/?utm_source=rss",
+      "published": "2026-11-12T23:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14858/main_0f477caccefd9374b02fc2b8de92e282.png",
+      "category": "統計・市場動向",
+      "topic_group": "4dbc617889"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "首里城正殿の公開から、紅葉やイルミネーションまで目白押し インバウンド観光客も訪れる日本国内の注目イベントまとめ【2026年11月】",
+      "summary": "11月は各地で 紅葉 が見頃を迎え、冬のイルミネーションも始まるなど、季節の移ろいを楽しめる時期です。 本記事では、日本各地で11月に開催される 訪日外国人 も訪れるイベントを、訪日ラボコンサルタントが紹介します。 目次 1. さっぽろホワイトイルミネーション さっぽろホワイトイルミネーションの概要…",
+      "url": "https://honichi.com/news/2026/11/13/japan-event-202611/?utm_source=rss",
+      "published": "2026-11-12T22:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14836/main_e6272d313a52ec45aa40fffc3f1d7f27.png",
+      "category": "業界ニュース",
+      "topic_group": "ed5e97491f"
+    },
+    {
+      "source": "訪日ラボ",
       "title": "ドン・キホーテ、新免税制度の店頭状況を報告 訪日客の生の声は？",
       "summary": "ディスカウントストア「 ドン・キホーテ 」を運営する株式会社パン・パシフィック・インターナショナルホールディングス（以下、PPIH）は11月2日、 訪日外国人 向け消費税 免税 制度がリファンド方式へ移行されたことを受け、制度変更に向けた対応や移行直後の店頭の状況についての取材会をMEGA ドン・キ…",
       "url": "https://honichi.com/news/2026/11/12/ppih-tax-refund/?utm_source=rss",
@@ -646,46 +686,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14848/main_ryunosuke-tomizawa-jSuU4emWets-unsplash.jpg",
       "category": "統計・市場動向",
       "topic_group": "03627d43f1"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "日本が英旅行業界誌のアワードで1位に 周遊・アドベンチャー旅行先部門で選出（Travel Bulletin）",
-      "summary": "日本 政府観光局 （ JNTO ）は11月2日、英国の旅行業界誌「Travel Bulletin」が主催する読者投票企画「STAR AWARDS 2026」において、日本が「Star Touring & Adventure Destination（最優秀周遊・アドベンチャー旅行先）」部門の第1位に選…",
-      "url": "https://honichi.com/news/2026/11/11/uk-travel-bulletin-award2026/?utm_source=rss",
-      "published": "2026-11-10T22:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14847/main_spenser-sembrat-vlUceP_3T6I-unsplash.jpg",
-      "category": "政策・制度",
-      "topic_group": "6a50515906"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "訪日ラボ運営のmov、AIに引用されやすいお店づくり（AIO/LLMO対策）を手助けする4つのAIエージェントを口コミコムで提供開始",
-      "summary": "店舗向け集客一元化 プラットフォーム 「 口コミコム 」および業界最大級の インバウンド ビジネス メディア 「訪日ラボ」を運営する株式会社mov（本社： 東京都 渋谷区 、代表取締役：渡邊 誠、以下mov）は、お店選びのユーザージャーニー「 AI CRAS」に対応した支援 サービス の第二弾として…",
-      "url": "https://honichi.com/news/2026/11/10/kcom-4aiagents/?utm_source=rss",
-      "published": "2026-11-10T01:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14842/main_kcom-4aiagents_img.png",
-      "category": "AI・デジタル",
-      "topic_group": "72082e65b2"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "9月の世界航空需要は0.5％減 中東・北米が低迷、地域間格差は依然として大きい結果に【IATA旅客需要データ 2026年9月】",
-      "summary": "国際航空運送協会 （ IATA ）は10月30日、2026年9月の世界の航空旅客需要データを発表しました。 9月の総旅客需要（RPK）は前年同月比0.5％減となり、 中東 地域を除いた需要は同0.3％増でした。総供給量（ASK）は同0.2％減となり、搭乗率も83.2％と前年同月から0.3ポイント低下…",
-      "url": "https://honichi.com/news/2026/11/10/iata202609/?utm_source=rss",
-      "published": "2026-11-10T00:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14849/main_iata202609_img.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "b4c6f9d754"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "【今週の注目記事5選】ANA、上期として過去最高の売上高に 訪日需要の好調が寄与 ほか",
-      "summary": "訪日ラボ編集部です。本シリーズでは、 この1週間に公開した記事の中から、 インバウンド 担当者が読んでおきたい注目の記事 を厳選してお届けします。 最新トレンドの把握や、 マーケティング 活動にぜひともご活用ください。 目次 今週の注目記事5選 1. ANA、好調な訪日需要で上期として過去最高の売上…",
-      "url": "https://honichi.com/news/2026/11/10/weekmatome_20261110/?utm_source=rss",
-      "published": "2026-11-09T23:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14845/main_72e8ce718cff78bce867efd78e2b0ea6.png",
-      "category": "統計・市場動向",
-      "topic_group": "0a14919ebd"
     }
   ]
 }
