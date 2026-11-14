@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T01:50:09.278593+00:00",
+  "updated_at": "2026-11-14T01:27:34.344860+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -27,6 +27,16 @@
     }
   ],
   "articles": [
+    {
+      "source": "JNTO",
+      "title": "「2026年度熊本地震復興に関わる高付加価値旅行者向けメディアミックス事業」 企画競争説明書の交付、質問の受付及び企画提案書の提出期限延期のお知らせ",
+      "summary": "",
+      "url": "https://www.jnto.go.jp/news/info/20261113.html",
+      "published": "2026-11-13T07:03:08+00:00",
+      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "category": "業界ニュース",
+      "topic_group": "d6a1665255"
+    },
     {
       "source": "JNTO",
       "title": "ツアーガイドマッチングイベント「Guide Connect Day KYOTO 2026」11月30日(月)・12月1日(火)開催【株式会社羅針盤】",
@@ -168,14 +178,24 @@
       "topic_group": "86bc63c4cc"
     },
     {
-      "source": "JNTO",
-      "title": "日本が英国旅行業界誌の読者投票で第1位を獲得！",
-      "summary": "英国旅行業界誌『Travel Bulletin』が実施した読者投票企画「STAR AWARDS 2026」において、「Star Touring & Adventure Destination（最優秀周遊・アドベンチャー旅行デスティネーション）」部門で日本が第１位に選出されました。同部門における日本の…",
-      "url": "https://www.jnto.go.jp/news/info/20261102.html",
-      "published": "2026-11-02T06:23:00+00:00",
-      "image_url": "https://www.jnto.go.jp/news/20261102_1.JPG",
+      "source": "観光庁",
+      "title": "Microsoft365の大規模障害に伴うメールシステムの不具合",
+      "summary": "",
+      "url": "https://www.mlit.go.jp/kankocho/topics01_00013.html",
+      "published": "2026-11-13",
+      "image_url": null,
       "category": "業界ニュース",
-      "topic_group": "4acdc231ee"
+      "topic_group": "a2363be69e"
+    },
+    {
+      "source": "観光庁",
+      "title": "安心してアメリカへ旅行しよう！ 「ダイジョウブ！はじめてのアメリカ in 大阪」を開催します",
+      "summary": "",
+      "url": "https://www.mlit.go.jp/kankocho/news13_00012.html",
+      "published": "2026-11-13",
+      "image_url": null,
+      "category": "業界ニュース",
+      "topic_group": "736141368f"
     },
     {
       "source": "観光庁",
@@ -259,26 +279,6 @@
     },
     {
       "source": "観光庁",
-      "title": "【参加者・登壇者募集】オーバーツーリズムの未然防止をはじめとする受入環境整備に係るオンラインソリューション商談会を開催します！ （令和8年度オーバーツーリズムの未然防止・抑制をはじめと…",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/topics08_00045.html",
-      "published": "2026-10-30",
-      "image_url": null,
-      "category": "サステナブル",
-      "topic_group": "c5709cc2c5"
-    },
-    {
-      "source": "観光庁",
-      "title": "【令和7年度補正予算】観光地経営の高度化事業（人材育成補助金）採択結果のお知らせ（三次公募）（第二回公表） 観光施設 自治体・DMO 旅行業 宿泊業 交通 その他観光関係者",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/kobo13_00010.html",
-      "published": "2026-10-30",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "f7e789276c"
-    },
-    {
-      "source": "観光庁",
       "title": "宿泊旅行統計調査（2026年9月・第1次速報、2026年8月・第2次速報）",
       "summary": "",
       "url": "https://www.mlit.go.jp/kankocho/news02_00105.html",
@@ -348,24 +348,94 @@
       "topic_group": "a4cf518667"
     },
     {
-      "source": "観光庁",
-      "title": "安心してアメリカへ旅行しよう！ 「ダイジョウブ！はじめてのアメリカ」～ツーリズムEXPOジャパン2026にて『日米観光交流促進キャンペーン2026』ブースを出展！～",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/news13_00006.html",
-      "published": "2026-09-18",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "b801c741cf"
+      "source": "Travel Voice",
+      "title": "世界の観光政策は「高付加価値旅行者」をどう捉えるか、消費額・地方分散・地域貢献の3つの視点から比較【コラム】",
+      "summary": "日本のインバウンド政策で、中心的な対象の一つとなっている「高付加価値旅行者」。日本交通公社の研究員が、観光政策の国際比較から同テーマを考察。",
+      "url": "https://www.travelvoice.jp/20261113-160598",
+      "published": "2026-11-13T08:15:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/09/d465a4f3-202c-4611-a643-4c6441e8fe96.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "b2f6c01ddb"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "OpenAI、AI旅行サービスの開発を加速か？ 旅行計画・予約で注目のスタートアップ「Odessia」を買収【外電】",
+      "summary": "米観光産業ニュース「フォーカスワイヤ」によると、OpenAIは、AIを活用した旅行サービス「Odessia」を買収した。Odessiaでのサービスは終了し、OpenAIに移行。",
+      "url": "https://www.travelvoice.jp/20261113-160850",
+      "published": "2026-11-13T01:55:06+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2019/12/organization.jpg",
+      "category": "AI・デジタル",
+      "topic_group": "c7ad06ee26"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "ユナイテッド航空、未承認のAIエージェントのアクセスを制限へ、旅行会社経由も対象、顧客情報と安全を保護",
+      "summary": "ユナイテッド航空は、顧客データの保護の規制遵守のため、未承認のAIエージェントによるプラットフォームへのアクセスを制限する。意図しない予約変更や情報漏洩のリスクを回避する狙いがある。",
+      "url": "https://www.travelvoice.jp/20261113-160849",
+      "published": "2026-11-13T01:50:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2025/10/ccc98ae7-bcc3-4cf1-a908-564c9589d2ca.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "62a75f16f3"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "ANA、法人向けSAFプログラムを刷新、排出量管理から環境価値の購入までオンライン化、ノルウェーのChooose社と提携",
+      "summary": "ANAとChooose社は包括提携を締結し、SAF導入支援プログラムの法人向け機能を刷新。オンラインでのCO2排出量試算や環境価値の即時購入が可能になり、1トン単位からの柔軟な契約にも対応した。",
+      "url": "https://www.travelvoice.jp/20261113-160856",
+      "published": "2026-11-13T08:34:38+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2021/02/5cc3c87c-316f-43ad-b13a-6a24cf0bdee1.jpg",
+      "category": "政策・制度",
+      "topic_group": "24c26af3bb"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "グリーンランドに新たな国際空港が開港、デンマークからの独立を見据えて観光産業に大きな期待",
+      "summary": "AP通信によると、デンマーク領のグリーンランドで2026年10月29日、新たにイルリサット国際空港が開港。デンマークからの独立を見据えて、産業の多角化を進めるなか、観光産業の発展に期待。",
+      "url": "https://www.travelvoice.jp/20261111-160799",
+      "published": "2026-11-13T01:48:06+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2023/07/dd5474c1-b5f1-4a17-975c-5f64330af401.jpg",
+      "category": "航空・交通",
+      "topic_group": "1db678e987"
     },
     {
       "source": "Travel Voice",
       "title": "ハウステンボス、イルミネーションを16年ぶりに刷新、ミッフィーのクリスマスイベントも初開催",
       "summary": "ハウステンボスがクリスマスのイルミネーションを16年ぶりに刷新し、イベント「ザ・スターライト・ミリオン」開催。星の輝きに包まれたヨーロッパの街並みを歩くような幻想的な光景を演出。",
       "url": "https://www.travelvoice.jp/20261113-160807",
-      "published": "2026-11-13T01:30:07+00:00",
+      "published": "2026-11-13T11:36:31+00:00",
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/e6d9000d-3802-4251-a00c-588e99c7fd80.jpg",
       "category": "業界ニュース",
       "topic_group": "ed0de4f5ea"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "相乗りタクシー「ニアミー」、地銀系VC4社などから約5.2億円を調達、地域金融機関との連携強化、地域交通の整備を加速",
+      "summary": "相乗りタクシーサービスを展開するNearMe（ニアミー）は新たに約5.2億円を資金調達。累計調達額は約38.8億円に。地域交通の課題解決や自治体などとの連携をさらに加速。",
+      "url": "https://www.travelvoice.jp/20261113-160851",
+      "published": "2026-11-13T01:40:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/98243065-4457-40e7-9e1d-b64ad9e126ce.png",
+      "category": "航空・交通",
+      "topic_group": "9b6615d8f5"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "東武鉄道と東武トップツアーズ、「空飛ぶクルマ」のSkyDriveに出資、日光などで離着陸場整備や旅行商品化へ",
+      "summary": "「空飛ぶクルマ」の事業化を目指すSkyDrive社は、東武鉄道および東武トップツアーズから資金調達を実施。インフラ整備に加えて、東武鉄道の生体認証共通プラットフォームの活用も。",
+      "url": "https://www.travelvoice.jp/20261113-160852",
+      "published": "2026-11-13T11:36:26+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/f68d66a0-20fe-4e67-bd27-b873867f3fe6.jpg",
+      "category": "航空・交通",
+      "topic_group": "657b6b4c7b"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "日本の旅行会社が乗り越えるべき「旅行予約システム」の壁とは？ 出張需要を確実に獲得するために取り組むべきこと ─エクスペディア・グループ アイリーン・チャン氏（PR）",
+      "summary": "（PR）堅調な伸びを示すビジネス旅行分野。その需要を取りこむために、旅行会社がすべきこととは？ システム面の課題とそのソリューションについて、エクスペディアBtoB部門のアジア太平洋バイスプレジデントに聞いた。",
+      "url": "https://www.travelvoice.jp/20261112-160815",
+      "published": "2026-11-13T07:02:36+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/2784c26d-b619-4e80-8b28-4a3b8ac5d54b.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "3a3304f7da"
     },
     {
       "source": "Travel Voice",
@@ -373,89 +443,9 @@
       "summary": "2026年12月2～4日、東京で初開催する「ホスピタリティテックEXPO」。人手不足を背景に、観光・宿泊・飲食の現場課題と技術をどう結ぶのか。RX Japanの細野圭氏に、日本初開催の「HITEC TOKYO」や人材育成、経営を扱うカンファレンスの狙い、展示と講演を組み合わせた見どころを聞いた。",
       "url": "https://www.travelvoice.jp/20261112-160811",
       "published": "2026-11-12T08:00:11+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/253c2f4e-ce74-41e6-b7c7-524bf5055a5a.jpeg",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "3a3acbfd09"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "エクスペディア、MetaのAI「Muse」でホテル予約が可能に、自社AIエージェント利用者はタビナカ予約の確率2倍【外電】",
-      "summary": "米観光産業ニュース「Skift」は、エクスペディアが連携を開始したMetaのAIエージェント「Muse」を実際に使い、この連携機能で、何ができて、何ができないのかを検証。",
-      "url": "https://www.travelvoice.jp/20261112-160847",
-      "published": "2026-11-12T04:38:46+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/07/375e8305-bfce-45e6-8237-e9e45c20e0d0.jpg",
-      "category": "宿泊・施設",
-      "topic_group": "0fde2eba20"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "日本の旅行会社が乗り越えるべき「旅行予約システム」の壁とは？ 出張需要を確実に獲得するために取り組むべきこと ─エクスペディア・グループ アイリーン・チャン氏（PR）",
-      "summary": "（PR）堅調な伸びを示すビジネス旅行分野。その需要を取りこむために、旅行会社がすべきこととは？ システム面の課題とそのソリューションについて、エクスペディアBtoB部門のアジア太平洋バイスプレジデントに聞いた。",
-      "url": "https://www.travelvoice.jp/20261112-160815",
-      "published": "2026-11-12T03:00:17+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/2784c26d-b619-4e80-8b28-4a3b8ac5d54b.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "3a3304f7da"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "JAL系のLCC「ジップエア」、日系初の成田／トロント線を2027年3月に開設、片道4万5838円から",
-      "summary": "ZIPAIR Tokyoは2027年3月2日より成田／トロント線へ就航する。日系航空会社として初就航、11月12日から販売開始。",
-      "url": "https://www.travelvoice.jp/20261112-160844",
-      "published": "2026-11-12T04:10:56+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2021/12/678d96da-8369-4617-8ec8-ea9c58649788.jpg",
-      "category": "航空・交通",
-      "topic_group": "207fc073aa"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "京阪バス、車内ガイドの日本語案内を76言語に自動翻訳、乗客のスマホに文字と音声で配信",
-      "summary": "京阪バスは、同社が運行する「おこしバス」（京都定期観光バス）の一部コースで、多言語対応機器（ポケトーク for ツアー）を活用した新しいガイドサービスを試験導入。",
-      "url": "https://www.travelvoice.jp/20261112-160831",
-      "published": "2026-11-12T01:45:10+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/7555761c-ab08-4aa0-9035-1453cdccf19d.jpg",
-      "category": "業界ニュース",
-      "topic_group": "9be6e8618e"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "千葉豪雨後の観光再始動へレストランバスツアー、南房総の日本一長い桟橋で受賞シェフ6人が日替わりディナー",
-      "summary": "「レストランバスで巡る南房総ガストロノミーツアー」が期間限定で実施。2026年8月の千葉豪雨により被害からの観光需要喚起に取り組む県内のトップシェフや地域の関係者が始める。",
-      "url": "https://www.travelvoice.jp/20261112-160839",
-      "published": "2026-11-12T01:40:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/3dfeedb8-e5a7-4272-8690-c085aa4d74f3.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "bfcafc5bfb"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "家族で地域に1～2週間滞在する「保育園留学」、積水ハウスが福利厚生に導入、関係人口づくりにも",
-      "summary": "積水ハウスは、2027年2月から従業員向けの福利厚生制度としてキッチハイクが提供する「保育園留学」を導入。こどもが自ら興味を広げる体験を、企業として後押しする。",
-      "url": "https://www.travelvoice.jp/20261112-160840",
-      "published": "2026-11-12T01:35:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/68094476-bf74-4db2-a94a-8c0b036bec41.jpg",
-      "category": "政策・制度",
-      "topic_group": "19cacbf901"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "長野県飯綱町、りんご農家での担い手の募集開始、「ふるさと住民登録制度」モデル事業で",
-      "summary": "長野県飯綱町は、総務省のふるさと住民登録制度モデル事業として、タイミーの特設サイトで、りんごの農作業を中心に担い手活動の募集の掲載を開始。",
-      "url": "https://www.travelvoice.jp/20261112-160782",
-      "published": "2026-11-12T01:30:09+00:00",
-      "image_url": null,
-      "category": "政策・制度",
-      "topic_group": "257a788fcd"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "インバウンド免税の「リファンド方式」移行は観光産業をどう変えるか？ 旅行会社・OTAにも新たな商機【コラム】",
-      "summary": "免税制度の「リファンド方式」移行は観光産業をどう変えるか？早稲田大学大学院の池上重輔教授が、手数料競争にとどまらない「地域価値循環」の戦略ポイントを考察する。",
-      "url": "https://www.travelvoice.jp/20261111-160737",
-      "published": "2026-11-12T00:27:07+00:00",
-      "image_url": null,
-      "category": "政策・制度",
-      "topic_group": "83638ed4bf"
     },
     {
       "source": "やまとごころ.jp",
@@ -576,6 +566,16 @@
       "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "e8bfb0a71b"
+    },
+    {
+      "source": "時事ドットコム",
+      "title": "全米で航空機の離陸停止 通信障害か―当局が命令",
+      "summary": "",
+      "url": "https://www.jiji.com/jc/article?k=2026111400156&g=int&m=rss",
+      "published": "2026-11-14T00:58:00+00:00",
+      "image_url": "https://www.jiji.com/news2/kiji_photos/202611/20261114at17S_o.jpg",
+      "category": "航空・交通",
+      "topic_group": "9e5c2a9c90"
     },
     {
       "source": "訪日ラボ",
