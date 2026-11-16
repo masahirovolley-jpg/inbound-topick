@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T01:04:04.871981+00:00",
+  "updated_at": "2026-11-16T01:03:16.343310+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -27,6 +27,16 @@
     }
   ],
   "articles": [
+    {
+      "source": "JNTO",
+      "title": "免税クイズにチャレンジし、日本行きの日本航空（JAL）の国際線往復航空券を当てよう！ 新免税ショッピング周知キャンペーン【一般社団法人ジャパンショッピングツーリズム協会】",
+      "summary": "",
+      "url": "https://www.jnto.go.jp/news/members/jal.html",
+      "published": "2026-11-13T07:58:55+00:00",
+      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "category": "政策・制度",
+      "topic_group": "b3e2ed209e"
+    },
     {
       "source": "JNTO",
       "title": "「2026年度熊本地震復興に関わる高付加価値旅行者向けメディアミックス事業」 企画競争説明書の交付、質問の受付及び企画提案書の提出期限延期のお知らせ",
@@ -166,16 +176,6 @@
       "image_url": null,
       "category": "宿泊・施設",
       "topic_group": "25343e6f0d"
-    },
-    {
-      "source": "JNTO",
-      "title": "ユニバーサル・クールジャパン 2027第3弾_名探偵コナン【合同会社ユー・エス・ジェイ】",
-      "summary": "",
-      "url": "https://www.jnto.go.jp/news/members/_20273.html",
-      "published": "2026-11-04T07:12:57+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "86bc63c4cc"
     },
     {
       "source": "観光庁",
@@ -359,13 +359,13 @@
     },
     {
       "source": "Travel Voice",
-      "title": "OpenAI、AI旅行サービスの開発を加速か？ 旅行計画・予約で注目のスタートアップ「Odessia」を買収【外電】",
+      "title": "OpenAI、旅行計画・予約で注目のスタートアップを買収、AI旅行サービスの開発を加速か？【外電】",
       "summary": "米観光産業ニュース「フォーカスワイヤ」によると、OpenAIは、AIを活用した旅行サービス「Odessia」を買収した。Odessiaでのサービスは終了し、OpenAIに移行。",
       "url": "https://www.travelvoice.jp/20261113-160850",
-      "published": "2026-11-13T01:55:06+00:00",
+      "published": "2026-11-15T23:46:54+00:00",
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2019/12/organization.jpg",
       "category": "AI・デジタル",
-      "topic_group": "c7ad06ee26"
+      "topic_group": "c12d937fce"
     },
     {
       "source": "Travel Voice",
@@ -373,7 +373,7 @@
       "summary": "ユナイテッド航空は、顧客データの保護の規制遵守のため、未承認のAIエージェントによるプラットフォームへのアクセスを制限する。意図しない予約変更や情報漏洩のリスクを回避する狙いがある。",
       "url": "https://www.travelvoice.jp/20261113-160849",
       "published": "2026-11-13T01:50:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2025/10/ccc98ae7-bcc3-4cf1-a908-564c9589d2ca.jpg",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "62a75f16f3"
     },
@@ -393,7 +393,7 @@
       "summary": "AP通信によると、デンマーク領のグリーンランドで2026年10月29日、新たにイルリサット国際空港が開港。デンマークからの独立を見据えて、産業の多角化を進めるなか、観光産業の発展に期待。",
       "url": "https://www.travelvoice.jp/20261111-160799",
       "published": "2026-11-13T01:48:06+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2023/07/dd5474c1-b5f1-4a17-975c-5f64330af401.jpg",
+      "image_url": null,
       "category": "航空・交通",
       "topic_group": "1db678e987"
     },
@@ -413,7 +413,7 @@
       "summary": "相乗りタクシーサービスを展開するNearMe（ニアミー）は新たに約5.2億円を資金調達。累計調達額は約38.8億円に。地域交通の課題解決や自治体などとの連携をさらに加速。",
       "url": "https://www.travelvoice.jp/20261113-160851",
       "published": "2026-11-13T01:40:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/98243065-4457-40e7-9e1d-b64ad9e126ce.png",
+      "image_url": null,
       "category": "航空・交通",
       "topic_group": "9b6615d8f5"
     },
@@ -433,7 +433,7 @@
       "summary": "（PR）堅調な伸びを示すビジネス旅行分野。その需要を取りこむために、旅行会社がすべきこととは？ システム面の課題とそのソリューションについて、エクスペディアBtoB部門のアジア太平洋バイスプレジデントに聞いた。",
       "url": "https://www.travelvoice.jp/20261112-160815",
       "published": "2026-11-13T07:02:36+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/2784c26d-b619-4e80-8b28-4a3b8ac5d54b.jpg",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "3a3304f7da"
     },
@@ -446,6 +446,16 @@
       "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "3a3acbfd09"
+    },
+    {
+      "source": "やまとごころ.jp",
+      "title": "高付加価値旅行とは？ 旅行者が求める価値や注目される理由、地域の事例を紹介",
+      "summary": "訪日外国人旅行者の消費拡大や地方誘客の観点から、注目が高まる「高付加価値旅行」。豪華さだけでなく、地域ならではの文化や自然、特別な体験に価値を見出す旅行スタイルで、各地でその実現に向けた取り組みが進んでいます。 この記事…",
+      "url": "https://yamatogokoro.jp/column/kaisetsu/61665/",
+      "published": "2026-11-15T23:00:10+00:00",
+      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/11/ayumi-kubo-jCERgNuEibY-unsplash.jpg",
+      "category": "地域・DMO",
+      "topic_group": "39c1d791e6"
     },
     {
       "source": "やまとごころ.jp",
@@ -558,24 +568,44 @@
       "topic_group": "d18830c92c"
     },
     {
-      "source": "やまとごころ.jp",
-      "title": "2026年7-9月のインバウンド消費額2.2兆円、台湾が首位に。中国4割減も1人当たり支出は6％増",
-      "summary": "観光庁が10月21日に発表した2026年7-9月期の「インバウンド消費動向調査」（1次速報）によると、訪日外国人旅行消費額は前年同期比3.2％増の2兆2076億円となった。中国の消費額が大幅に減少した一方、台湾、韓国、香…",
-      "url": "https://yamatogokoro.jp/inbound_data/61551/",
-      "published": "2026-10-22T23:00:27+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "e8bfb0a71b"
+      "source": "訪日ラボ",
+      "title": "タイガーエア台湾、他社便との乗り継ぎ予約サイトを公開 第1弾はスクートと提携、シンガポールと日本の地方空港を結ぶ",
+      "summary": "台湾 の LCC （ 格安航空会社 ） タイ ガーエア 台湾 は10月、他社便との乗り継ぎ予約サイト「tigerhop（虎里轉）」を公開しました。 これにより、利用者は一度の予約手続きで、提携航空会社のフライトを組み合わせて予約できるようになります。 今回、第1弾として、 シンガポール 航空系 LC…",
+      "url": "https://honichi.com/news/2026/11/16/tigerair-tigerhop/?utm_source=rss",
+      "published": "2026-11-16T01:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14856/main_AdobeStock_1507159710_Editorial_Use_Only.jpeg",
+      "category": "航空・交通",
+      "topic_group": "251835f745"
     },
     {
-      "source": "時事ドットコム",
-      "title": "全米の空港離陸停止、１５日正常化 通信線の新旧切り替えで障害発生",
-      "summary": "",
-      "url": "https://www.jiji.com/jc/article?k=2026111500091&g=int&m=rss",
-      "published": "2026-11-14T22:19:00+00:00",
-      "image_url": "https://www.jiji.com/news2/kiji_photos/202611/20261115at06S_o.jpg",
+      "source": "訪日ラボ",
+      "title": "USJなど電子チケット販売のJTRweb、10周年で新戦略発表 観光を通じた社会貢献めざす",
+      "summary": "インバウンド 向けデジタルチケット プラットフォーム を運営するJTRwebは9月28日、同社の創立10周年を記念し、 ユニバーサル・スタジオ・ジャパン にてイベントを開催しました。 イベントでは、同社のこれまでの歩みと今後の取り組み方針について発表。当日は、国内の 観光施設 ・交通事業者・ 自治体…",
+      "url": "https://honichi.com/news/2026/11/16/jtrweb10thanniversary/?utm_source=rss",
+      "published": "2026-11-16T00:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14771/main__0055.jpg",
       "category": "航空・交通",
-      "topic_group": "91afcb380e"
+      "topic_group": "b2f6e9fb71"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "Google検索のAI モード、レストランの空席をリアルタイムで検索可能に ぐるなび・一休・ebicaなどと連携",
+      "summary": "Google は11月6日、 Google 検索の AI モードにおいて、レストランの予約検索機能の提供を開始したと発表しました。今後、数週間かけて順次利用可能になります。 [RegistrationWall] 本機能では、ユーザーが人数や日時、場所、料理のジャンルといった複数の条件を一度に入力する…",
+      "url": "https://honichi.com/news/2026/11/16/google-aimode-restaurant-booking/?utm_source=rss",
+      "published": "2026-11-15T23:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14862/main_arkan-perdana-eKTLh4_u7Ao-unsplash.jpg",
+      "category": "AI・デジタル",
+      "topic_group": "e6465bcb79"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "JR西日本、上期インバウンド収入は6％減の387億円 2030年度の目標1,110億円達成へ施策強化（2027年3月期 第2四半期決算）",
+      "summary": "西日本旅客 鉄道 （以下、 JR 西日本）は11月5日、2027年3月期 第2四半期（中間期）の連結 決算 を発表しました。国内の堅調な移動需要を捉えて増収となった一方、インフレ影響に伴うコスト増により営業利益は減益となりました。 また、 インバウンド 収入は、 訪日外国人 旅行者数の減少の影響もあ…",
+      "url": "https://honichi.com/news/2026/11/16/jr-west-fy2027-q2-inbound/?utm_source=rss",
+      "published": "2026-11-15T22:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14861/main_rachel-t-Xbfr0_ssRo8-unsplash.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "e3da595962"
     },
     {
       "source": "訪日ラボ",
@@ -646,46 +676,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14853/main_clark-street-mercantile-qnKhZJPKFD8-unsplash.jpg",
       "category": "宿泊・施設",
       "topic_group": "3eaa9b84b2"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "スターフライヤー、北九州～台湾・高雄線の国際チャーター便を2027年1～2月に運航 同社初の高雄国際空港就航",
-      "summary": "スターフライヤーは11月4日、北 九州 ～ 台湾 ・高雄線における国際 チャーター 便の運航計画を発表しました。 [RegistrationWall] 運航期間は2027年1月21日から2月14日までで、空輸便を含め合計14便を運航する予定です。同社が高雄国際空港へ就航するのは今回が初となります。 …",
-      "url": "https://honichi.com/news/2026/11/12/starflyer-kitakyushu-kaohsiung-charter/?utm_source=rss",
-      "published": "2026-11-11T22:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14852/main_trinity-moss-CwlFCanvxr8-unsplash.jpg",
-      "category": "航空・交通",
-      "topic_group": "1aec4d7d50"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "JNTO、徳島県の宿泊増につなげた取り組みを紹介 アジア初開催・カナダ旅行業協会総会への期待も語る",
-      "summary": "日本 政府観光局 （ JNTO ）は10月28日、 メディア ブリーフィング（ メディア 向けの報告会）を開催。 インバウンド 観光をめぐる最近の動向について報告したほか、 徳島県 での 地方誘客 の取り組みや、 アジア 初開催となる カナダ 旅行業協会の年次総会などについて説明しました。 関連記事…",
-      "url": "https://honichi.com/news/2026/11/11/mediabriefing202610/?utm_source=rss",
-      "published": "2026-11-11T01:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14835/main_c4474a76f586dab4f81f086e8b9682d4.JPG",
-      "category": "統計・市場動向",
-      "topic_group": "1925d97f22"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "JAL、上期の売上収益が再上場後最高の1兆989億円に（2027年3月期2Q決算）",
-      "summary": "JAL グループは11月2日、2027年3月期 第2四半期（中間期）の連結業績（2026年4月～9月）を発表しました。 売上収益は1兆989億円（前年同期比11.7％増）で、第2四半期累計および単独ともに再上場後の最高を達成しました。 一方で、EBITは同36.0％減の701億円となり、純利益は同4…",
-      "url": "https://honichi.com/news/2026/11/11/jal-202703-02/?utm_source=rss",
-      "published": "2026-11-11T00:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14850/main_AdobeStock_314767201_Editorial_Use_Only.jpeg",
-      "category": "業界ニュース",
-      "topic_group": "2d4e9cc92a"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "青森県、9月の外国人宿泊者数は前年同月比39.9％増 青森〜台北線が27年夏から毎日運航へ",
-      "summary": "青森県 は10月29日、9月分の「月例観光統計調査（速報値）」の結果を公表しました。 同調査によると、主要 宿泊施設 の宿泊者数は前年実績を上回り、とくに外国人宿泊者数が前年同月比139.9％と高い伸びを示しています。また、主要 観光施設 の入込客数も前年同月を上回って推移しました。 さらに、県は1…",
-      "url": "https://honichi.com/news/2026/11/11/aomori-inbound-september-statistics2026/?utm_source=rss",
-      "published": "2026-11-10T23:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14848/main_ryunosuke-tomizawa-jSuU4emWets-unsplash.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "03627d43f1"
     }
   ]
 }
