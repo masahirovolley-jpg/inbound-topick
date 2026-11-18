@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T03:54:54.016106+00:00",
+  "updated_at": "2026-11-18T02:54:37.630939+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -29,11 +29,21 @@
   "articles": [
     {
       "source": "JNTO",
+      "title": "入札等公告情報を更新しました",
+      "summary": "",
+      "url": "https://www.jnto.go.jp/news/info/post_1.html",
+      "published": "2026-11-17T05:18:00+00:00",
+      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "category": "業界ニュース",
+      "topic_group": "898dc392c8"
+    },
+    {
+      "source": "JNTO",
       "title": "TRAPOL、2027年度「ふるさと住民登録制度」本格化に向け、全国自治体へのコーディネーター派遣・伴走支援を開始【株式会社羅針盤】",
       "summary": "",
       "url": "https://www.jnto.go.jp/news/members/trapol2027.html",
       "published": "2026-11-17T01:56:21+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "政策・制度",
       "topic_group": "abd7507f1e"
     },
@@ -129,16 +139,6 @@
     },
     {
       "source": "JNTO",
-      "title": "入札等公告情報を更新しました",
-      "summary": "",
-      "url": "https://www.jnto.go.jp/news/info/post_1.html",
-      "published": "2026-11-06T08:33:00+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "898dc392c8"
-    },
-    {
-      "source": "JNTO",
       "title": "スヌーピーミュージアム 11月1日（日）から季節を楽しめるシーズンイベント「ハッピー・クリスマス」開催【株式会社ソニー・ミュージックエンタテインメント】",
       "summary": "",
       "url": "https://www.jnto.go.jp/news/members/_111.html",
@@ -183,7 +183,7 @@
       "summary": "",
       "url": "https://www.mlit.go.jp/kankocho/topics09_00009.html",
       "published": "2026-11-17",
-      "image_url": "https://www.mlit.go.jp/kankocho/content/810004410.png",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "15cdc126d7"
     },
@@ -193,7 +193,7 @@
       "summary": "",
       "url": "https://www.mlit.go.jp/kankocho/topics05_00047.html",
       "published": "2026-11-17",
-      "image_url": "https://www.mlit.go.jp/kankocho/content/810004410.png",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "8b0fd17e34"
     },
@@ -349,30 +349,50 @@
     },
     {
       "source": "Travel Voice",
-      "title": "観光・宿泊・飲食のDX・AI最新動向がわかる「ホスピタリティテックEXPO」、世界最大級の国際会議も上陸、12月2日から開催 ―トラベルボイス読者は無料招待（PR）",
-      "summary": "（PR）開催間近の「ホスピタリティテックEXPO 2026」。観光×AI、人材育成、宿泊業のDXなど注目のセミナーと、読者限定特典の入場無料登録コードを案内する。セミナー聴講は事前登録が必要。",
-      "url": "https://www.travelvoice.jp/20261117-160083",
-      "published": "2026-11-17T02:45:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/ccd8faeb-11c7-4843-ba09-679f48933a9f.png",
+      "title": "国連の「観光国際年」で地域は何ができる？ 気候変動への適応から農漁村の国際連携まで、日本の取り組みを取材した",
+      "summary": "国連が定めた2027年「持続可能で強靭な観光国際年」、地域は何を準備すべきか。国際年の概要から気候適応、農漁村の国際連携まで、観光庁・UNツーリズムのセミナーをレポート。",
+      "url": "https://www.travelvoice.jp/20261113-160834",
+      "published": "2026-11-17T08:39:16+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/3d853082-717c-467a-8716-8a266a2fd87c.JPG",
+      "category": "地域・DMO",
+      "topic_group": "067ecc1ec9"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "観光の売上を文化の担い手に還元する機構の構想発表、エクスペリサス社が日本の文化継承に貢献",
+      "summary": "インバウンド富裕層旅行事業をおこなうエクスペリサス社が設立準備をすすめる「日本文化継承機構」の概要を発表。文化体験の販売価格の1％を事業者が自主的に拠出する基金、海外への文化発信、招聘制の会員組織を3本柱に、文化の保全と旅行需要の創出を目指す。",
+      "url": "https://www.travelvoice.jp/20261118-160870",
+      "published": "2026-11-17T23:56:00+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/90dea640-3ebc-42a3-8a05-38d19f77b974.jpeg",
       "category": "統計・市場動向",
-      "topic_group": "82068f997a"
+      "topic_group": "ef3a21a311"
     },
     {
       "source": "Travel Voice",
       "title": "米国の感謝祭休暇2026、国内旅行は0.1%減の8150万人予測、ガソリン・航空運賃の高騰が重荷に ―全米自動車協会",
       "summary": "AP通信によると、全米自動車協会（AAA）は、2026年の感謝祭（サンクスギビングデイ）前の11月24日から感謝祭後の11月30日までの米国人国内旅行者は前年を下回る8150万人と予測。",
       "url": "https://www.travelvoice.jp/20261117-160869",
-      "published": "2026-11-17T01:45:07+00:00",
+      "published": "2026-11-17T06:45:13+00:00",
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2023/03/aea1329c-5921-4fce-b373-c1e597b16b6a.jpg",
       "category": "航空・交通",
       "topic_group": "c89fbc7e1b"
     },
     {
       "source": "Travel Voice",
+      "title": "観光・宿泊・飲食のDX・AI最新動向がわかる「ホスピタリティテックEXPO」、世界最大級の国際会議も上陸、12月2日から開催 ―トラベルボイス読者は無料招待（PR）",
+      "summary": "（PR）開催間近の「ホスピタリティテックEXPO 2026」。観光×AI、人材育成、宿泊業のDXなど注目のセミナーと、読者限定特典の入場無料登録コードを案内する。セミナー聴講は事前登録が必要。",
+      "url": "https://www.travelvoice.jp/20261117-160083",
+      "published": "2026-11-17T02:45:07+00:00",
+      "image_url": null,
+      "category": "統計・市場動向",
+      "topic_group": "82068f997a"
+    },
+    {
+      "source": "Travel Voice",
       "title": "リンクティビティ、免税店向け還付支援システムを提供、カードや空港での現金受け取りに対応",
       "summary": "リンクティビティは、免税販売を行う店舗向けに、消費税免税手続きを支援するシステム「Triplabo Tax Free」の提供を開始。訪日客は希望する方法での還付を選ぶことが可能。",
       "url": "https://www.travelvoice.jp/20261117-160868",
-      "published": "2026-11-17T01:40:07+00:00",
+      "published": "2026-11-18T00:57:21+00:00",
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/01/12016657-8c66-464b-812a-e4a9a191f936.jpg",
       "category": "政策・制度",
       "topic_group": "acda6ae4c5"
@@ -383,9 +403,39 @@
       "summary": "WILLER MARKETINGは、「LDH JAPAN」所属のダンス＆ボーカルグループ「BALLISTIK BOYZ」とコラボレーションした限定特典付き高速バスプランの販売を開始。",
       "url": "https://www.travelvoice.jp/20261117-160865",
       "published": "2026-11-17T01:35:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/db9434fa-8759-4fb4-892d-0e561eede6e8.jpeg",
+      "image_url": null,
       "category": "航空・交通",
       "topic_group": "8f883075fc"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "キャセイ、新造機14機を追加発注、10年間の投資総額は約3兆円超に、150機導入・150都市のネットワーク構築へ",
+      "summary": "キャセイグループは2026年11月16日、新造機14機の追加発注を発表した。2035年までの投資額は1500億香港ドル超に達する。",
+      "url": "https://www.travelvoice.jp/20261117-160876",
+      "published": "2026-11-17T09:28:42+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/b19dcf5c-261c-451d-a47a-29ee5c621d9d.jpg",
+      "category": "業界ニュース",
+      "topic_group": "f9c8b22814"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "国交省、日本／アルゼンチン間の定期便運航を可能にする航空枠組み締結、キプロスとはコードシェアに対応",
+      "summary": "国土交通省は、日本とアルゼンチン、キプロスの各航空当局間で枠組みを締結した。これにより定期便の運航や提携に向けた基盤が整い、両国との経済・文化交流および航空ネットワークの拡充が期待される。",
+      "url": "https://www.travelvoice.jp/20261117-160873",
+      "published": "2026-11-17T09:07:13+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2025/08/ca57fb79-bc4b-44fc-bb6d-610361891e4f.jpg",
+      "category": "航空・交通",
+      "topic_group": "b1026f9235"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "グーグル、破綻したスピリット航空のデータ取得へ前進、約20億件のメールや予約・運賃情報が対象【外電】",
+      "summary": "米観光産業ニュース「Skift」は、スピリット航空によるGoogleへのデータ売却の最新動向をリポート。労働組合の働きかけで、従業員の個人データは売却対象から除外されることに。",
+      "url": "https://www.travelvoice.jp/20261116-160841",
+      "published": "2026-11-17T08:42:10+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2025/06/8fc7d2d9-89fc-42a9-a0a0-c119ca29c81b.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "c77c623666"
     },
     {
       "source": "Travel Voice",
@@ -393,59 +443,19 @@
       "summary": "空港から入国審査、レンタカー、ホテルまで、デジタルIDで旅行者の手続きをなくせるのか。ドバイ、米国の国境当局、クルーズ業界の関係者が、顔認証の進展とシステム連携、プライバシー保護、導入時の課題を議論した。",
       "url": "https://www.travelvoice.jp/20261116-160838",
       "published": "2026-11-16T23:42:17+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/c755580e-211a-4ce3-a08e-9cf89e13fee3.jpg",
+      "image_url": null,
       "category": "政策・制度",
       "topic_group": "57fd6aeada"
     },
     {
-      "source": "Travel Voice",
-      "title": "グーグル、破綻したスピリット航空のデータ取得へ前進、約20億件のメールや予約・運賃情報が対象【外電】",
-      "summary": "米観光産業ニュース「Skift」は、スピリット航空によるGoogleへのデータ売却の最新動向をリポート。労働組合の働きかけで、従業員の個人データは売却対象から除外されることに。",
-      "url": "https://www.travelvoice.jp/20261116-160841",
-      "published": "2026-11-16T07:11:14+00:00",
-      "image_url": null,
+      "source": "やまとごころ.jp",
+      "title": "2027年旅行トレンド、兵庫県が注目旅行先世界2位に。「童心に返る旅」やロケ地巡りが拡大―エクスペディア調査",
+      "summary": "エクスペディア・グループは、2027年の旅行トレンドを予測する年次レポート「Unpack ’27」を発表した。自社の検索データに加え、日本を含む世界16地域、2万6000人の旅行者を対象とした調査やSNS上の…",
+      "url": "https://yamatogokoro.jp/inbound_data/61598/",
+      "published": "2026-11-17T23:00:47+00:00",
+      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/11/fabio-sasso-jFuh6Fp5RI8-unsplash.jpg",
       "category": "統計・市場動向",
-      "topic_group": "c77c623666"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "米国の航空便混乱、全面正常化に向かう見通し、原因は管制ルーター更新に伴う通信負荷か",
-      "summary": "米国で発生した大規模な航空便の混乱について、ロイター通信がレポート。原因は管制ルーター交換後の通信負荷とみられ、老朽化したシステム刷新の予算議論も再燃している。",
-      "url": "https://www.travelvoice.jp/20261116-160863",
-      "published": "2026-11-16T07:56:42+00:00",
-      "image_url": null,
-      "category": "政策・制度",
-      "topic_group": "eadcbe1f70"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "多言語での「電話対応」、現場負担を軽減する秘策とは？ AI通訳とホスピタリティを考えるセミナー、コニカミノルタが開催 ―12月8日（PR）",
-      "summary": "（PR）コニカミノルタが、「多言語の電話対応」をテーマにセミナーを実施。宿泊・観光現場の課題と、既存の固定電話機を使った解決策を解説。スタッフが安心してホスピタリティを発揮できる仕組みを紹介する。",
-      "url": "https://www.travelvoice.jp/20261116-160814",
-      "published": "2026-11-16T03:00:17+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "6f61fb3536"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "世界の革新的なタビナカ体験6社を表彰、鉄道廃線活用で第二次世界大戦の要塞跡ツアーなど ―Arival Spotlight Awards",
-      "summary": "タビナカ体験の国際会議を主催する「Arival（アライバル）」は、第4回「Arival Spotlight Awards」の6部門の受賞者を発表。環境ツアー、地域分散、多言語AIコンシェルジュ、地域活性化などが受賞。",
-      "url": "https://www.travelvoice.jp/20261116-160853",
-      "published": "2026-11-16T23:37:21+00:00",
-      "image_url": null,
-      "category": "航空・交通",
-      "topic_group": "996cfc5d9b"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "佐賀市、地域資源をひとつの物語でつなぐツアーで関係人口創出へ、「水」を軸に里山の食と暮らしをめぐる",
-      "summary": "佐賀市は、市北部の中山間地域（富士町・三瀬村・大和町松梅地区）に点在する地域資源を一つの物語としてつなぐ1泊2日のツアーを実施。里山の恵みと人を「水」を軸にした一つの物語としてつなげる。",
-      "url": "https://www.travelvoice.jp/20261116-160827",
-      "published": "2026-11-16T21:32:29+00:00",
-      "image_url": null,
-      "category": "地域・DMO",
-      "topic_group": "acea7dcc9b"
+      "topic_group": "80475aa322"
     },
     {
       "source": "やまとごころ.jp",
@@ -558,14 +568,34 @@
       "topic_group": "4bb7d207ce"
     },
     {
-      "source": "やまとごころ.jp",
-      "title": "ロケを呼んで終わりではない。島原市に学ぶ、地域活性化につなげるロケツーリズム",
-      "summary": "映画やドラマ、CMなどのロケを地域振興につなげる「ロケツーリズム」。単に撮影を誘致するだけでなく、作品を通じて地域の認知度を高め、観光誘客や経済効果につなげる取り組みが、各地で進められています。 長崎県南東部の島原半島に…",
-      "url": "https://yamatogokoro.jp/inbound_interview/61480/",
-      "published": "2026-10-26T23:00:35+00:00",
-      "image_url": null,
+      "source": "訪日ラボ",
+      "title": "訪日客の購買意欲、前四半期から横ばい 航空便の減便・欠航でも底堅さを維持",
+      "summary": "三菱UFJリサーチ＆コンサルティング株式会社と株式会社インジェスターは11月11日、2026年第3四半期における「 インバウンド 購買意欲指数」の調査結果を公表しました。 本調査は全国の 小売店 を訪れる 訪日客 の購買意欲を測定するもので、2026年第3四半期は前四半期から横ばいとなりました。 関…",
+      "url": "https://honichi.com/news/2026/11/18/inbound-index-202603/?utm_source=rss",
+      "published": "2026-11-18T00:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14873/main_AdobeStock_213941253.jpeg",
+      "category": "統計・市場動向",
+      "topic_group": "a26c58f6e7"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "ベトナム航空、長崎県・島根県・成田空港と覚書を締結 チャーター便の拡充と新規路線開設に向け連携",
+      "summary": "ベトナム 航空は11月9日、 長崎県 、 島根県 、成田国際空港株式会社と、日本と ベトナム 間の交流促進および航空ネットワークの拡充に向けた連携・協力に関する覚書を、それぞれ締結しました。 観光・文化・経済交流の促進に取り組むほか、 チャーター 便の運航促進や新規路線の開設に向けた取り組みを進めま…",
+      "url": "https://honichi.com/news/2026/11/18/vietnamairlines-nagasaki-shimane-narita/?utm_source=rss",
+      "published": "2026-11-17T23:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14871/main_main.png",
+      "category": "航空・交通",
+      "topic_group": "7a2ee3f3c6"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "広島から島根へのインバウンド周遊促進へ 一畑バスなど4社と自治体が高速バス利用拡大プロモーションを開始",
+      "summary": "一畑 バス 、広島電鉄、 JR バス 中国 、WILLER ACROSSの4社は11月9日、広島から島根への インバウンド 周遊を促進する プロモーション を開始すると発表しました。 島根県 、出雲市、 松江市 とも連携し、広島を訪れる インバウンド 観光客の島根への周遊拡大と、高速 バス 「広島～…",
+      "url": "https://honichi.com/news/2026/11/18/hiroshima-shimane-bus-promotion/?utm_source=rss",
+      "published": "2026-11-17T22:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14868/main_main(2).png",
       "category": "地域・DMO",
-      "topic_group": "d9e6b2aef7"
+      "topic_group": "b10ee6a813"
     },
     {
       "source": "訪日ラボ",
@@ -646,36 +676,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14856/main_AdobeStock_1507159710_Editorial_Use_Only.jpeg",
       "category": "航空・交通",
       "topic_group": "251835f745"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "USJなど電子チケット販売のJTRweb、10周年で新戦略発表 観光を通じた社会貢献めざす",
-      "summary": "インバウンド 向けデジタルチケット プラットフォーム を運営するJTRwebは9月28日、同社の創立10周年を記念し、 ユニバーサル・スタジオ・ジャパン にてイベントを開催しました。 イベントでは、同社のこれまでの歩みと今後の取り組み方針について発表。当日は、国内の 観光施設 ・交通事業者・ 自治体…",
-      "url": "https://honichi.com/news/2026/11/16/jtrweb10thanniversary/?utm_source=rss",
-      "published": "2026-11-16T00:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14771/main__0055.jpg",
-      "category": "航空・交通",
-      "topic_group": "b2f6e9fb71"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "Google検索のAI モード、レストランの空席をリアルタイムで検索可能に ぐるなび・一休・ebicaなどと連携",
-      "summary": "Google は11月6日、 Google 検索の AI モードにおいて、レストランの予約検索機能の提供を開始したと発表しました。今後、数週間かけて順次利用可能になります。 [RegistrationWall] 本機能では、ユーザーが人数や日時、場所、料理のジャンルといった複数の条件を一度に入力する…",
-      "url": "https://honichi.com/news/2026/11/16/google-aimode-restaurant-booking/?utm_source=rss",
-      "published": "2026-11-15T23:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14862/main_arkan-perdana-eKTLh4_u7Ao-unsplash.jpg",
-      "category": "AI・デジタル",
-      "topic_group": "e6465bcb79"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "JR西日本、上期インバウンド収入は6％減の387億円 2030年度の目標1,110億円達成へ施策強化（2027年3月期 第2四半期決算）",
-      "summary": "西日本旅客 鉄道 （以下、 JR 西日本）は11月5日、2027年3月期 第2四半期（中間期）の連結 決算 を発表しました。国内の堅調な移動需要を捉えて増収となった一方、インフレ影響に伴うコスト増により営業利益は減益となりました。 また、 インバウンド 収入は、 訪日外国人 旅行者数の減少の影響もあ…",
-      "url": "https://honichi.com/news/2026/11/16/jr-west-fy2027-q2-inbound/?utm_source=rss",
-      "published": "2026-11-15T22:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14861/main_rachel-t-Xbfr0_ssRo8-unsplash.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "e3da595962"
     }
   ]
 }
