@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T02:54:37.630939+00:00",
+  "updated_at": "2026-11-19T02:34:45.440412+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -32,10 +32,20 @@
       "title": "入札等公告情報を更新しました",
       "summary": "",
       "url": "https://www.jnto.go.jp/news/info/post_1.html",
-      "published": "2026-11-17T05:18:00+00:00",
+      "published": "2026-11-19T01:46:00+00:00",
       "image_url": "https://www.jnto.go.jp/assets/img/og.png",
       "category": "業界ニュース",
       "topic_group": "898dc392c8"
+    },
+    {
+      "source": "JNTO",
+      "title": "訪日外客数（2026年10月推計値）",
+      "summary": "※ 本リリースは国土交通記者会・交通運輸記者会に配布しております。 10月の訪⽇外客数は3,912,500人で、前年同月比0.4%増となり単月として過去最高を記録した。また、20市場で10月として過去最高を記録し、そのうち5市場で単月として過去最高を更新した。 10月は紅葉シーズンの始まりを迎え、桜…",
+      "url": "https://www.jnto.go.jp/news/press/20261118_monthly.html",
+      "published": "2026-11-18T07:15:00+00:00",
+      "image_url": null,
+      "category": "統計・市場動向",
+      "topic_group": "b9c5d55a2c"
     },
     {
       "source": "JNTO",
@@ -168,14 +178,34 @@
       "topic_group": "215a584e7e"
     },
     {
-      "source": "JNTO",
-      "title": "『ユニバーサル・クールジャパン ２０２７』続報！！【合同会社ユー・エス・ジェイ】",
+      "source": "観光庁",
+      "title": "「地域一体となった持続可能な観光地域づくりのためのセミナー」を開催します！",
       "summary": "",
-      "url": "https://www.jnto.go.jp/news/members/post_88.html",
-      "published": "2026-11-05T06:56:43+00:00",
+      "url": "https://www.mlit.go.jp/kankocho/topics08_00047.html",
+      "published": "2026-11-19",
+      "image_url": "https://www.mlit.go.jp/kankocho/content/810004410.png",
+      "category": "地域・DMO",
+      "topic_group": "178237a466"
+    },
+    {
+      "source": "観光庁",
+      "title": "旅行・観光消費動向調査 2026年7-9月期（１次速報）",
+      "summary": "",
+      "url": "https://www.mlit.go.jp/kankocho/news02_00106.html",
+      "published": "2026-11-18",
+      "image_url": null,
+      "category": "統計・市場動向",
+      "topic_group": "19a2261cce"
+    },
+    {
+      "source": "観光庁",
+      "title": "手ぶら観光サービスの推進に向けた官民勉強会を開催します！ ～訪日外国人旅行者を含む観光客の旅行ルート分析について～",
+      "summary": "",
+      "url": "https://www.mlit.go.jp/kankocho/topics08_00046.html",
+      "published": "2026-11-18",
       "image_url": null,
       "category": "業界ニュース",
-      "topic_group": "86bc63c4cc"
+      "topic_group": "7c0b1b7b9c"
     },
     {
       "source": "観光庁",
@@ -239,26 +269,6 @@
     },
     {
       "source": "観光庁",
-      "title": "ロシナ・ホアベス 駐日ナミビア共和国特命全権大使による木村観光庁長官への表敬訪問",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/topics03_00068.html",
-      "published": "2026-11-09",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "63a4b159c0"
-    },
-    {
-      "source": "観光庁",
-      "title": "「第４回サステナブルな旅アワード」の公募を開始します 観光施設 自治体・DMO 旅行業 宿泊業 交通 一般の方 その他観光関係者",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/kobo13_00011.html",
-      "published": "2026-11-06",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "ba61dcba2a"
-    },
-    {
-      "source": "観光庁",
       "title": "令和８年度総合旅行業務取扱管理者試験における出題の不備及び採点の取扱いについて",
       "summary": "",
       "url": "https://www.mlit.go.jp/kankocho/news13_00011.html",
@@ -285,7 +295,7 @@
       "published": "2026-10-30",
       "image_url": null,
       "category": "統計・市場動向",
-      "topic_group": "8d4db687bc"
+      "topic_group": "19a2261cce"
     },
     {
       "source": "観光庁",
@@ -295,7 +305,7 @@
       "published": "2026-10-21",
       "image_url": null,
       "category": "統計・市場動向",
-      "topic_group": "c996d5efae"
+      "topic_group": "19a2261cce"
     },
     {
       "source": "観光庁",
@@ -315,7 +325,7 @@
       "published": "2026-09-30",
       "image_url": null,
       "category": "統計・市場動向",
-      "topic_group": "8d4db687bc"
+      "topic_group": "19a2261cce"
     },
     {
       "source": "観光庁",
@@ -338,114 +348,114 @@
       "topic_group": "e1a64f6d30"
     },
     {
-      "source": "観光庁",
-      "title": "主要旅行業者の旅行取扱状況速報（2026年（令和8年）7月分）",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/news13_00007.html",
-      "published": "2026-09-25",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "a4cf518667"
-    },
-    {
       "source": "Travel Voice",
-      "title": "国連の「観光国際年」で地域は何ができる？ 気候変動への適応から農漁村の国際連携まで、日本の取り組みを取材した",
-      "summary": "国連が定めた2027年「持続可能で強靭な観光国際年」、地域は何を準備すべきか。国際年の概要から気候適応、農漁村の国際連携まで、観光庁・UNツーリズムのセミナーをレポート。",
-      "url": "https://www.travelvoice.jp/20261113-160834",
-      "published": "2026-11-17T08:39:16+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/3d853082-717c-467a-8716-8a266a2fd87c.JPG",
-      "category": "地域・DMO",
-      "topic_group": "067ecc1ec9"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "観光の売上を文化の担い手に還元する機構の構想発表、エクスペリサス社が日本の文化継承に貢献",
-      "summary": "インバウンド富裕層旅行事業をおこなうエクスペリサス社が設立準備をすすめる「日本文化継承機構」の概要を発表。文化体験の販売価格の1％を事業者が自主的に拠出する基金、海外への文化発信、招聘制の会員組織を3本柱に、文化の保全と旅行需要の創出を目指す。",
-      "url": "https://www.travelvoice.jp/20261118-160870",
-      "published": "2026-11-17T23:56:00+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/90dea640-3ebc-42a3-8a05-38d19f77b974.jpeg",
+      "title": "観光産業のキャッシュレス化へ、推進協議会が2035年ビジョン策定、企業間のデータ連携・業務標準化を目指す、旅行3社で実証へ",
+      "summary": "観光産業キャッシュレス推進協議会が、設立から約1年の活動を報告し、2035年ビジョンを策定。業界団体や地域との連携を広げ、企業間決済を起点とする共通基盤づくりを目指す。2027年1月からは旅行会社3社によるキャッシュレス実証を予定する。",
+      "url": "https://www.travelvoice.jp/20261119-160882",
+      "published": "2026-11-19T01:55:06+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2022/06/2e2f0711-f03f-4469-8ae2-09b6239bb0c4.jpg",
       "category": "統計・市場動向",
-      "topic_group": "ef3a21a311"
+      "topic_group": "44ed079aec"
     },
     {
       "source": "Travel Voice",
-      "title": "米国の感謝祭休暇2026、国内旅行は0.1%減の8150万人予測、ガソリン・航空運賃の高騰が重荷に ―全米自動車協会",
-      "summary": "AP通信によると、全米自動車協会（AAA）は、2026年の感謝祭（サンクスギビングデイ）前の11月24日から感謝祭後の11月30日までの米国人国内旅行者は前年を下回る8150万人と予測。",
-      "url": "https://www.travelvoice.jp/20261117-160869",
-      "published": "2026-11-17T06:45:13+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2023/03/aea1329c-5921-4fce-b373-c1e597b16b6a.jpg",
+      "title": "HIS、コスタクルーズの日本総販売代理店に、BtoB販売強化やMICE需要の開拓へ、日本発着クルーズ再開を目指す",
+      "summary": "HISがコスタクルーズと日本地区総販売代理店契約を締結。日本支社の機能を引き受け、一般消費者向け、全国の旅行会社への販売を進める。短期間・手頃な価格のカジュアルクルーズで顧客層を広げ、2030年をめどに日本発着の再開を目指す。",
+      "url": "https://www.travelvoice.jp/20261119-160891",
+      "published": "2026-11-19T01:51:06+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/52af6bf9-f8a1-4aaa-9eae-7be645b336f4.jpeg",
+      "category": "統計・市場動向",
+      "topic_group": "0642abf95c"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "日本人の国内旅行者数、2026年8月は5.1%減、9月は4.4%増、7～9月の消費額は過去最高の8.4兆円 ―観光庁（速報）",
+      "summary": "2026年7～9月期における日本人の国内旅行消費額は、前年同期比4.3%増の8兆4,354億円で過去最高に。1人1回あたりの旅行単価は、同4.9%増の5万2,569円。",
+      "url": "https://www.travelvoice.jp/20261119-160894",
+      "published": "2026-11-19T01:45:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2024/10/286cbfc5-e9d6-4400-9c1e-18474a44b7b5.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "fc5bc2e83f"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "ベトナム・サンフーコック航空、日本初就航へ、2027年に成田／ホーチミン線、毎日1往復を計画",
+      "summary": "ベトナムのサンフーコック航空は、2027年初頭に成田／ホーチミン線を新規就航する計画を発表。毎日1往復を運航。2026年11月下旬から航空券販売を開始。",
+      "url": "https://www.travelvoice.jp/20261119-160871",
+      "published": "2026-11-19T01:35:06+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2022/06/4d722675-fed3-40ea-bdc2-54fd5acf00eb.jpg",
       "category": "航空・交通",
-      "topic_group": "c89fbc7e1b"
+      "topic_group": "2247b24f60"
     },
     {
       "source": "Travel Voice",
-      "title": "観光・宿泊・飲食のDX・AI最新動向がわかる「ホスピタリティテックEXPO」、世界最大級の国際会議も上陸、12月2日から開催 ―トラベルボイス読者は無料招待（PR）",
-      "summary": "（PR）開催間近の「ホスピタリティテックEXPO 2026」。観光×AI、人材育成、宿泊業のDXなど注目のセミナーと、読者限定特典の入場無料登録コードを案内する。セミナー聴講は事前登録が必要。",
-      "url": "https://www.travelvoice.jp/20261117-160083",
-      "published": "2026-11-17T02:45:07+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "82068f997a"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "リンクティビティ、免税店向け還付支援システムを提供、カードや空港での現金受け取りに対応",
-      "summary": "リンクティビティは、免税販売を行う店舗向けに、消費税免税手続きを支援するシステム「Triplabo Tax Free」の提供を開始。訪日客は希望する方法での還付を選ぶことが可能。",
-      "url": "https://www.travelvoice.jp/20261117-160868",
-      "published": "2026-11-18T00:57:21+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/01/12016657-8c66-464b-812a-e4a9a191f936.jpg",
+      "title": "シンガポール政府観光局、360度カメラ「Insta360」を活用したキャンペーン、クリエイターが旅の魅力を映像と記事で発信",
+      "summary": "シンガポール政府観光局（STB）は、アクションカメラブランド「Insta360」およびライフスタイルメディア「TABI LABO」と連携し、「シンガポール＆Insta360 コラボキャンペーン」を開始。",
+      "url": "https://www.travelvoice.jp/20261119-160878",
+      "published": "2026-11-19T01:30:08+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/ab89f277-3f12-4be1-a04b-d55168078992.jpeg",
       "category": "政策・制度",
-      "topic_group": "acda6ae4c5"
+      "topic_group": "51ed8e835f"
     },
     {
       "source": "Travel Voice",
-      "title": "高速バスの移動時間を「推し活」に、車内で人気グループ「BALLISTIK BOYZ」の限定ボイスやラジオを聴けるプラン、全国約140路線で販売 ―ウィラー",
-      "summary": "WILLER MARKETINGは、「LDH JAPAN」所属のダンス＆ボーカルグループ「BALLISTIK BOYZ」とコラボレーションした限定特典付き高速バスプランの販売を開始。",
-      "url": "https://www.travelvoice.jp/20261117-160865",
-      "published": "2026-11-17T01:35:07+00:00",
-      "image_url": null,
-      "category": "航空・交通",
-      "topic_group": "8f883075fc"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "キャセイ、新造機14機を追加発注、10年間の投資総額は約3兆円超に、150機導入・150都市のネットワーク構築へ",
-      "summary": "キャセイグループは2026年11月16日、新造機14機の追加発注を発表した。2035年までの投資額は1500億香港ドル超に達する。",
-      "url": "https://www.travelvoice.jp/20261117-160876",
-      "published": "2026-11-17T09:28:42+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/b19dcf5c-261c-451d-a47a-29ee5c621d9d.jpg",
-      "category": "業界ニュース",
-      "topic_group": "f9c8b22814"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "国交省、日本／アルゼンチン間の定期便運航を可能にする航空枠組み締結、キプロスとはコードシェアに対応",
-      "summary": "国土交通省は、日本とアルゼンチン、キプロスの各航空当局間で枠組みを締結した。これにより定期便の運航や提携に向けた基盤が整い、両国との経済・文化交流および航空ネットワークの拡充が期待される。",
-      "url": "https://www.travelvoice.jp/20261117-160873",
-      "published": "2026-11-17T09:07:13+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2025/08/ca57fb79-bc4b-44fc-bb6d-610361891e4f.jpg",
-      "category": "航空・交通",
-      "topic_group": "b1026f9235"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "グーグル、破綻したスピリット航空のデータ取得へ前進、約20億件のメールや予約・運賃情報が対象【外電】",
-      "summary": "米観光産業ニュース「Skift」は、スピリット航空によるGoogleへのデータ売却の最新動向をリポート。労働組合の働きかけで、従業員の個人データは売却対象から除外されることに。",
-      "url": "https://www.travelvoice.jp/20261116-160841",
-      "published": "2026-11-17T08:42:10+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2025/06/8fc7d2d9-89fc-42a9-a0a0-c119ca29c81b.jpg",
+      "title": "2027年の世界の旅行市場の見通し発表、国際旅行者数は8％増、日本は訪問者数で世界8位に ―ツーリズム・エコノミクス",
+      "summary": "ツーリズム・エコノミクスは、2026年および2027年の世界の旅行市場の見通しを明らかに。2026年に発生している混乱が収束に向かうとの前提のもと、2027年には同約8％増まで急回復すると予測。",
+      "url": "https://www.travelvoice.jp/20261118-160872",
+      "published": "2026-11-19T00:08:53+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2021/02/d240da8f-2810-438b-a824-3c28f261ed9a.jpg",
       "category": "統計・市場動向",
-      "topic_group": "c77c623666"
+      "topic_group": "2cc8d08b59"
     },
     {
       "source": "Travel Voice",
-      "title": "海外旅行からパスポートが消える日は近い？ ドバイや米国が進める顔認証、最大の課題は「技術より連携」",
-      "summary": "空港から入国審査、レンタカー、ホテルまで、デジタルIDで旅行者の手続きをなくせるのか。ドバイ、米国の国境当局、クルーズ業界の関係者が、顔認証の進展とシステム連携、プライバシー保護、導入時の課題を議論した。",
-      "url": "https://www.travelvoice.jp/20261116-160838",
-      "published": "2026-11-16T23:42:17+00:00",
+      "title": "【図解】訪日外国人数、2026年10月は391万人、単月の過去最多を更新、3カ月ぶりに前年越え ―日本政府観光局（速報）",
+      "summary": "2026年10月の訪日外国人旅行者数は3カ月ぶりの前年比プラス。中国市場がほぼ半減となる一方、全体では単月の過去最多を更新。",
+      "url": "https://www.travelvoice.jp/20261118-160889",
+      "published": "2026-11-18T09:15:00+00:00",
       "image_url": null,
-      "category": "政策・制度",
-      "topic_group": "57fd6aeada"
+      "category": "統計・市場動向",
+      "topic_group": "036b3a1b3e"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "【図解】日本人出国者数、2026年10月は127万人、2カ月連続で前年超え、2019年比では24％減 ―日本政府観光局（速報）",
+      "summary": "日本政府観光局（JNTO）によると、2026年10月の日本人出国者数（推計値）は127万人。2カ月連続でプラス推移。",
+      "url": "https://www.travelvoice.jp/20261118-160890",
+      "published": "2026-11-18T08:52:22+00:00",
+      "image_url": null,
+      "category": "統計・市場動向",
+      "topic_group": "036b3a1b3e"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "山梨県、新交通手段「富士トラム」計画素案を公表、富士山麓と五合目を結ぶ、往復1万円以内を想定、将来は県内周遊へ",
+      "summary": "山梨県が「富士トラム」の基本計画とネットワーク構想の素案をまとめた。五合目来訪者を年間230万人とし、来訪者管理と冬季観光を進める。将来はリニア山梨県駅や県内主要拠点との接続を目指す。",
+      "url": "https://www.travelvoice.jp/20261118-160892",
+      "published": "2026-11-18T23:37:59+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2022/10/447ba064-18ce-4084-b28a-872aa223b1b2.jpg",
+      "category": "航空・交通",
+      "topic_group": "802b934ce7"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "長野県白馬エリアの3市村、滞在型の山岳リゾート化へ、通過型観光からの脱却、データ基盤や地域内交通を整備",
+      "summary": "長野県大町市、白馬村、小谷村の3市村で広域的な観光地域づくりを担う「HAKUBAVALLEY TOURISM（HVT）」は、「Hakuba Valley観光グランドデザイン」を策定。通年型・滞在型・高付加価値のマウンテンリゾートを目指す。",
+      "url": "https://www.travelvoice.jp/20261118-160864",
+      "published": "2026-11-18T23:40:59+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/eb35b779-e030-4efe-af92-859a451d4e00.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "b1bd6d4474"
+    },
+    {
+      "source": "やまとごころ.jp",
+      "title": "2026年10月訪日客数391万人、3カ月ぶり増加で単月過去最高、紅葉・連休需要で20市場が記録更新",
+      "summary": "日本政府観光局（JNTO）が発表した2026年10月の訪日外国人旅行者数（推計値）は391万2500人で、前年同月比0.4％増となり、単月として過去最高を記録した。7月以来3カ月ぶりに前年同月を上回り、9月の5.0％減か…",
+      "url": "https://yamatogokoro.jp/inbound_data/61742/",
+      "published": "2026-11-18T23:00:52+00:00",
+      "image_url": null,
+      "category": "統計・市場動向",
+      "topic_group": "0e761971db"
     },
     {
       "source": "やまとごころ.jp",
@@ -453,7 +463,7 @@
       "summary": "エクスペディア・グループは、2027年の旅行トレンドを予測する年次レポート「Unpack ’27」を発表した。自社の検索データに加え、日本を含む世界16地域、2万6000人の旅行者を対象とした調査やSNS上の…",
       "url": "https://yamatogokoro.jp/inbound_data/61598/",
       "published": "2026-11-17T23:00:47+00:00",
-      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/11/fabio-sasso-jFuh6Fp5RI8-unsplash.jpg",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "80475aa322"
     },
@@ -558,14 +568,74 @@
       "topic_group": "a1f5b8989e"
     },
     {
-      "source": "やまとごころ.jp",
-      "title": "北海道・倶知安町に学ぶ、宿泊税・計画・DMOの3つが揃って広がった「対応できる課題の幅」",
-      "summary": "宿泊税は、導入すれば地域が変わるわけではない。使い道を描く「計画」と、それを動かす「組織」があって、はじめて「財源」が生きる。北海道・倶知安町では、2019年11月の宿泊税導入と並行して、観光地マスタープランの策定と、観…",
-      "url": "https://yamatogokoro.jp/column/tourist-tax/61521/",
-      "published": "2026-10-27T23:00:02+00:00",
+      "source": "時事ドットコム",
+      "title": "新潟の魅力掘り起こせ！ 観光誘致へアイデア競争―ロンドン",
+      "summary": "",
+      "url": "https://www.jiji.com/jc/article?k=2026111900227&g=eco",
+      "published": null,
       "image_url": null,
+      "category": "業界ニュース",
+      "topic_group": "fec8826eb8"
+    },
+    {
+      "source": "時事ドットコム",
+      "title": "１０月訪日客、３９１万人 紅葉シーズンで単月過去最高―政府観光局",
+      "summary": "",
+      "url": "https://www.jiji.com/jc/article?k=2026111800952&g=eco",
+      "published": "2026-11-18T17:29:00+09:00",
+      "image_url": null,
+      "category": "政策・制度",
+      "topic_group": "3752233517"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "ジンエアー・エアソウル・エアプサンの合併を韓国国土交通部が認可 2027年3月17日に統合、金海空港を第2ハブに",
+      "summary": "韓国 の国土交通部は11月12日、大韓航空傘下のジンエアーおよびアシアナ航空傘下のエアソウル・エアプサンの 格安航空会社 （ LCC ）3社による合併を正式に認可したと発表しました。 統合は2027年3月17日に予定されており、ジンエアーにエアソウルとエアプサンの2社が統合される形で、 韓国 国内最…",
+      "url": "https://honichi.com/news/2026/11/19/jinair-lcc-merger-2027/?utm_source=rss",
+      "published": "2026-11-19T01:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14876/main_hieu-noyfQIiiN0w-unsplash.jpg",
+      "category": "航空・交通",
+      "topic_group": "8a58919186"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "日本がアジアを代表するアドベンチャーツーリズムの目的地に 地域文化部門では関西・スポーツ観光地部門では東京が受賞（World Travel Awards）",
+      "summary": "旅行業界の国際アワード「World Travel Awards」は、第33回アワードの受賞者を発表しました。 アジア 全体を対象にした部門「Asia Winners 2026」で、日本は2025年に引き続き「 アジア を代表する アドベンチャーツーリズム の目的地」として選出されています。 また、「…",
+      "url": "https://honichi.com/news/2026/11/19/world-travel-awards2026/?utm_source=rss",
+      "published": "2026-11-19T00:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14874/main_world-travel-awards2026_img.jpg",
+      "category": "地域・DMO",
+      "topic_group": "a062cf10bd"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "【アジア・中東編】JNTOが語るインバウンド市場の動向：2026年「インバウンド旅行振興フォーラム」を取材",
+      "summary": "日本 政府観光局 （ JNTO ）は9月、「第29回 JNTO インバウンド 旅行振興フォーラム」を開催しました。 本フォーラムには、海外全26拠点の海外事務所長などが一堂に会し、それぞれの訪日旅行市場における最新動向や マーケティング 戦略が共有されました。 本記事では、このうち アジア ・ 中東…",
+      "url": "https://honichi.com/news/2026/11/19/jnto-inbound-forum-2026-1/?utm_source=rss",
+      "published": "2026-11-18T23:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14869/main_jnto-inbound-forum-2026-1_img.jpg",
       "category": "統計・市場動向",
-      "topic_group": "4bb7d207ce"
+      "topic_group": "edc12fb03a"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "ZIPAIR、成田～トロント線を2027年3月2日に新規就航 日本の航空会社で初",
+      "summary": "ZIPAIR Tokyo（以下、 ZIPAIR ）は11月12日、2027年3月2日より成田～トロント線に新規就航すると発表しました。 [RegistrationWall] 日本の航空会社によるトロント線の就航は今回が初めてとなります。チケットは同日12時より、2027年10月30日搭乗分までの販売…",
+      "url": "https://honichi.com/news/2026/11/19/zipair-narita-toronto-2027/?utm_source=rss",
+      "published": "2026-11-18T22:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14875/main_arnaud-weyts-6zoXMu4BmpM-unsplash.jpg",
+      "category": "航空・交通",
+      "topic_group": "259bb5ae6b"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "【速報】10月の訪日外客数は391万人 前年比0.4％増で単月過去最高に",
+      "summary": "日本 政府観光局 （ JNTO ）は11月18日、2026年10月の 訪日外客数 推計値を発表しました。 10月の 訪日外客数 は391万2,500人で、前年同月比0.4％増となり、単月として過去最高を記録。前月の 訪日外客数 （310万3,700人）と比較すると、80万8,800人の増加となってい…",
+      "url": "https://honichi.com/news/2026/11/18/inbound202610/?utm_source=rss",
+      "published": "2026-11-18T07:52:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14879/main_8433237b6d179de7dd83af184ae432be.png",
+      "category": "統計・市場動向",
+      "topic_group": "0e761971db"
     },
     {
       "source": "訪日ラボ",
@@ -626,56 +696,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14857/main_PXL_20261106_050840074.jpg",
       "category": "政策・制度",
       "topic_group": "86641c5574"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "ベトナムのサン・フーコック航空が3月に高松～ハノイ・ダナン線をチャーター運航 同社初の日本行き",
-      "summary": "香川県 は11月2日、知事記者会見にて、 ベトナム のサン・フーコック航空が2027年3月に高松～ハノイ・ダナン線の チャーター 便を運航すると発表しました。 同路線は、サン・フーコック航空にとって、日本初の チャーター 便運航となります。 関連記事： JNTO、米国向けに2027年の注目の旅行先を…",
-      "url": "https://honichi.com/news/2026/11/17/sunphuquoc_takamatsu/?utm_source=rss",
-      "published": "2026-11-17T00:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14867/main_sunphuquoc_takamatsu_img.jpg",
-      "category": "航空・交通",
-      "topic_group": "667dd4a21a"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "【今週の注目記事5選】中国、2027年の祝日を発表 春節・国慶節はどうなる？ ほか",
-      "summary": "訪日ラボ編集部です。本シリーズでは、 この1週間に公開した記事の中から、 インバウンド 担当者が読んでおきたい注目の記事 を厳選してお届けします。 最新トレンドの把握や、 マーケティング 活動にぜひともご活用ください。 目次 今週の注目記事5選 1. 中国、2027年の祝日を発表 春節・国慶節はどう…",
-      "url": "https://honichi.com/news/2026/11/17/weekmatome_20261117/?utm_source=rss",
-      "published": "2026-11-16T23:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14863/main_cd3bfd93b50e7032e6c9fc1452dd7638.png",
-      "category": "業界ニュース",
-      "topic_group": "7a4def82d9"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "韓国ソウル市、2026年1〜9月の外国人カード消費が前年比57.7%増で過去最高 客数も1,314万人に",
-      "summary": "ソウル市は11月3日、「2026年1～9月 ソウル観光・消費動向」の分析結果を公表しました。 同期間のソウル訪問外国人観光客によるカード消費額は前年同期比57.7％増の8兆8,435億ウォン（約1兆612億円）*に達し、9か月間の累計で2025年の年間実績である7兆9,375億ウォン（約9,525億…",
-      "url": "https://honichi.com/news/2026/11/17/seoul-tourism-spending2026/?utm_source=rss",
-      "published": "2026-11-16T22:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14866/main_ivan-wong-BPEQzft7Hyc-unsplash.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "aaa7ba85fa"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "東京が「世界で最も魅力的な都市」に選出、日本は魅力的な国ランキング2位に 英・旅行情報誌「Wanderlust」",
-      "summary": "英国の有力旅行雑誌「ワンダーラスト（Wanderlust）」は、毎年開催されるアワード「Wanderlust Reader Travel Awards 2026」の結果を発表しました。 「世界で最も魅力的な都市」として東京が1位を獲得したほか、「世界で最も魅力的な国」部門で日本が2位、「世界で最も魅…",
-      "url": "https://honichi.com/news/2026/11/16/wanderlust/?utm_source=rss",
-      "published": "2026-11-16T02:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14864/main_wanderlust_img.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "c0752fec5b"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "タイガーエア台湾、他社便との乗り継ぎ予約サイトを公開 第1弾はスクートと提携、シンガポールと日本の地方空港を結ぶ",
-      "summary": "台湾 の LCC （ 格安航空会社 ） タイ ガーエア 台湾 は10月、他社便との乗り継ぎ予約サイト「tigerhop（虎里轉）」を公開しました。 これにより、利用者は一度の予約手続きで、提携航空会社のフライトを組み合わせて予約できるようになります。 今回、第1弾として、 シンガポール 航空系 LC…",
-      "url": "https://honichi.com/news/2026/11/16/tigerair-tigerhop/?utm_source=rss",
-      "published": "2026-11-16T01:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14856/main_AdobeStock_1507159710_Editorial_Use_Only.jpeg",
-      "category": "航空・交通",
-      "topic_group": "251835f745"
     }
   ]
 }
