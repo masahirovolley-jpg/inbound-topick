@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T02:34:45.440412+00:00",
+  "updated_at": "2026-11-20T02:19:31.515241+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -89,16 +89,6 @@
     },
     {
       "source": "JNTO",
-      "title": "「2026年度熊本地震復興に関わる高付加価値旅行者向けメディアミックス事業」 企画競争説明書の交付、質問の受付及び企画提案書の提出期限延期のお知らせ",
-      "summary": "",
-      "url": "https://www.jnto.go.jp/news/info/20261113.html",
-      "published": "2026-11-13T07:03:08+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "d6a1665255"
-    },
-    {
-      "source": "JNTO",
       "title": "ツアーガイドマッチングイベント「Guide Connect Day KYOTO 2026」11月30日(月)・12月1日(火)開催【株式会社羅針盤】",
       "summary": "",
       "url": "https://www.jnto.go.jp/news/members/guide_connect_day_kyoto_20261130121.html",
@@ -178,12 +168,32 @@
       "topic_group": "215a584e7e"
     },
     {
+      "source": "JNTO",
+      "title": "『ユニバーサル・クールジャパン ２０２７』続報！！【合同会社ユー・エス・ジェイ】",
+      "summary": "",
+      "url": "https://www.jnto.go.jp/news/members/post_88.html",
+      "published": "2026-11-05T06:56:43+00:00",
+      "image_url": null,
+      "category": "業界ニュース",
+      "topic_group": "86bc63c4cc"
+    },
+    {
+      "source": "観光庁",
+      "title": "シンポジウム「デジタルノマドと創る地域の新しい可能性」を開催します",
+      "summary": "",
+      "url": "https://www.mlit.go.jp/kankocho/topics05_00048.html",
+      "published": "2026-11-20",
+      "image_url": "https://www.mlit.go.jp/kankocho/content/810004410.png",
+      "category": "地域・DMO",
+      "topic_group": "74a83ecbd9"
+    },
+    {
       "source": "観光庁",
       "title": "「地域一体となった持続可能な観光地域づくりのためのセミナー」を開催します！",
       "summary": "",
       "url": "https://www.mlit.go.jp/kankocho/topics08_00047.html",
       "published": "2026-11-19",
-      "image_url": "https://www.mlit.go.jp/kankocho/content/810004410.png",
+      "image_url": null,
       "category": "地域・DMO",
       "topic_group": "178237a466"
     },
@@ -256,16 +266,6 @@
       "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "7187e1082d"
-    },
-    {
-      "source": "観光庁",
-      "title": "朝日副大臣が「日越観光年2027-2028」発表式典に出席しました",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/topics03_00070.html",
-      "published": "2026-11-10",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "a1f3414561"
     },
     {
       "source": "観光庁",
@@ -349,23 +349,33 @@
     },
     {
       "source": "Travel Voice",
+      "title": "OpenAI、旅行分野への進出を本格化、開発人材の募集で体制拡充へ、OTAと直接競合する可能性も【外電】",
+      "summary": "米観光産業ニュース「Skift（スキフト）」は、OpenAIが旅行関連のエンジニア募集を開始したことで、本格的に旅行分野に参入すると報じている。既存のOTAなどとの直接的競合することになる。",
+      "url": "https://www.travelvoice.jp/20261119-160899",
+      "published": "2026-11-19T06:42:29+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2023/07/1c7a5cc8-f766-4253-b818-0c684f3ae0a2.jpg",
+      "category": "AI・デジタル",
+      "topic_group": "5d7517d481"
+    },
+    {
+      "source": "Travel Voice",
       "title": "観光産業のキャッシュレス化へ、推進協議会が2035年ビジョン策定、企業間のデータ連携・業務標準化を目指す、旅行3社で実証へ",
       "summary": "観光産業キャッシュレス推進協議会が、設立から約1年の活動を報告し、2035年ビジョンを策定。業界団体や地域との連携を広げ、企業間決済を起点とする共通基盤づくりを目指す。2027年1月からは旅行会社3社によるキャッシュレス実証を予定する。",
       "url": "https://www.travelvoice.jp/20261119-160882",
-      "published": "2026-11-19T01:55:06+00:00",
+      "published": "2026-11-19T07:09:28+00:00",
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2022/06/2e2f0711-f03f-4469-8ae2-09b6239bb0c4.jpg",
       "category": "統計・市場動向",
       "topic_group": "44ed079aec"
     },
     {
       "source": "Travel Voice",
-      "title": "HIS、コスタクルーズの日本総販売代理店に、BtoB販売強化やMICE需要の開拓へ、日本発着クルーズ再開を目指す",
+      "title": "HIS、伊コスタクルーズの日本総販売代理店に、カジュアルさ活かし、若年層の最初のクルーズに、セールで10万円未満への挑戦も",
       "summary": "HISがコスタクルーズと日本地区総販売代理店契約を締結。日本支社の機能を引き受け、一般消費者向け、全国の旅行会社への販売を進める。短期間・手頃な価格のカジュアルクルーズで顧客層を広げ、2030年をめどに日本発着の再開を目指す。",
       "url": "https://www.travelvoice.jp/20261119-160891",
-      "published": "2026-11-19T01:51:06+00:00",
+      "published": "2026-11-19T19:13:33+00:00",
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/52af6bf9-f8a1-4aaa-9eae-7be645b336f4.jpeg",
-      "category": "統計・市場動向",
-      "topic_group": "0642abf95c"
+      "category": "航空・交通",
+      "topic_group": "82390b21dc"
     },
     {
       "source": "Travel Voice",
@@ -373,9 +383,29 @@
       "summary": "2026年7～9月期における日本人の国内旅行消費額は、前年同期比4.3%増の8兆4,354億円で過去最高に。1人1回あたりの旅行単価は、同4.9%増の5万2,569円。",
       "url": "https://www.travelvoice.jp/20261119-160894",
       "published": "2026-11-19T01:45:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2024/10/286cbfc5-e9d6-4400-9c1e-18474a44b7b5.jpg",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "fc5bc2e83f"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "三交イン、全15施設でSQUEEZEの宿泊管理システムを導入、現金対応のチェックイン端末も、集計業務を月150時間削減",
+      "summary": "SQUEEZE（スクイーズ）社は、三交インホテルズ全15施設へ「suitebook」と現金決済対応KIOSKの導入を完了した。月約150時間の業務削減を実現し、スタッフが接客に注力できる効率的な運営体制を構築する。",
+      "url": "https://www.travelvoice.jp/20261119-160886",
+      "published": "2026-11-19T06:20:29+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/8977dcaf-dc70-4029-a5aa-4b7fc932d83a.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "5c65013ee8"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "ハイアットとデルタ航空、上級会員向けにポイント相互加算を開始、2027年には無料宿泊など特典の選択肢を拡充",
+      "summary": "「ワールド・オブ・ハイアット（World of Hyatt）」と「デルタ・スカイマイル（Delta SkyMiles）」の連携が強化。対象となるエリート会員はアカウントを連携させることで、双方のプログラムで特典の獲得が可能に。",
+      "url": "https://www.travelvoice.jp/20261119-160893",
+      "published": "2026-11-19T09:07:50+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/1bb30aff-709a-47c0-abe2-834fbcc1bb3a.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "d37a632258"
     },
     {
       "source": "Travel Voice",
@@ -383,19 +413,19 @@
       "summary": "ベトナムのサンフーコック航空は、2027年初頭に成田／ホーチミン線を新規就航する計画を発表。毎日1往復を運航。2026年11月下旬から航空券販売を開始。",
       "url": "https://www.travelvoice.jp/20261119-160871",
       "published": "2026-11-19T01:35:06+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2022/06/4d722675-fed3-40ea-bdc2-54fd5acf00eb.jpg",
+      "image_url": null,
       "category": "航空・交通",
       "topic_group": "2247b24f60"
     },
     {
       "source": "Travel Voice",
-      "title": "シンガポール政府観光局、360度カメラ「Insta360」を活用したキャンペーン、クリエイターが旅の魅力を映像と記事で発信",
+      "title": "シンガポール政府観光局、360度カメラ「Insta360」を活用したキャンペーン開始、クリエイターが旅の魅力を映像と記事で発信",
       "summary": "シンガポール政府観光局（STB）は、アクションカメラブランド「Insta360」およびライフスタイルメディア「TABI LABO」と連携し、「シンガポール＆Insta360 コラボキャンペーン」を開始。",
       "url": "https://www.travelvoice.jp/20261119-160878",
-      "published": "2026-11-19T01:30:08+00:00",
+      "published": "2026-11-19T19:35:03+00:00",
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/ab89f277-3f12-4be1-a04b-d55168078992.jpeg",
       "category": "政策・制度",
-      "topic_group": "51ed8e835f"
+      "topic_group": "4566523262"
     },
     {
       "source": "Travel Voice",
@@ -403,7 +433,7 @@
       "summary": "ツーリズム・エコノミクスは、2026年および2027年の世界の旅行市場の見通しを明らかに。2026年に発生している混乱が収束に向かうとの前提のもと、2027年には同約8％増まで急回復すると予測。",
       "url": "https://www.travelvoice.jp/20261118-160872",
       "published": "2026-11-19T00:08:53+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2021/02/d240da8f-2810-438b-a824-3c28f261ed9a.jpg",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "2cc8d08b59"
     },
@@ -416,36 +446,6 @@
       "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "036b3a1b3e"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "【図解】日本人出国者数、2026年10月は127万人、2カ月連続で前年超え、2019年比では24％減 ―日本政府観光局（速報）",
-      "summary": "日本政府観光局（JNTO）によると、2026年10月の日本人出国者数（推計値）は127万人。2カ月連続でプラス推移。",
-      "url": "https://www.travelvoice.jp/20261118-160890",
-      "published": "2026-11-18T08:52:22+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "036b3a1b3e"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "山梨県、新交通手段「富士トラム」計画素案を公表、富士山麓と五合目を結ぶ、往復1万円以内を想定、将来は県内周遊へ",
-      "summary": "山梨県が「富士トラム」の基本計画とネットワーク構想の素案をまとめた。五合目来訪者を年間230万人とし、来訪者管理と冬季観光を進める。将来はリニア山梨県駅や県内主要拠点との接続を目指す。",
-      "url": "https://www.travelvoice.jp/20261118-160892",
-      "published": "2026-11-18T23:37:59+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2022/10/447ba064-18ce-4084-b28a-872aa223b1b2.jpg",
-      "category": "航空・交通",
-      "topic_group": "802b934ce7"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "長野県白馬エリアの3市村、滞在型の山岳リゾート化へ、通過型観光からの脱却、データ基盤や地域内交通を整備",
-      "summary": "長野県大町市、白馬村、小谷村の3市村で広域的な観光地域づくりを担う「HAKUBAVALLEY TOURISM（HVT）」は、「Hakuba Valley観光グランドデザイン」を策定。通年型・滞在型・高付加価値のマウンテンリゾートを目指す。",
-      "url": "https://www.travelvoice.jp/20261118-160864",
-      "published": "2026-11-18T23:40:59+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/eb35b779-e030-4efe-af92-859a451d4e00.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "b1bd6d4474"
     },
     {
       "source": "やまとごころ.jp",
@@ -568,24 +568,44 @@
       "topic_group": "a1f5b8989e"
     },
     {
-      "source": "時事ドットコム",
-      "title": "新潟の魅力掘り起こせ！ 観光誘致へアイデア競争―ロンドン",
-      "summary": "",
-      "url": "https://www.jiji.com/jc/article?k=2026111900227&g=eco",
-      "published": null,
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "fec8826eb8"
+      "source": "訪日ラボ",
+      "title": "ネットスターズ、リファンド方式対応の免税送金サービス開始 WeChat Pay・Alipayなどに対応",
+      "summary": "株式会社ネットスターズは11月1日より、新たな消費税 免税 制度「リファンド方式」に対応する送金 サービス を開始しました。 本 サービス は、 免税 販売手続きのシステムを提供する承認送受信事業者と接続して提供するもので、ネットスターズは、承認送受信事業者から連携される税関確認結果などをもとに、 …",
+      "url": "https://honichi.com/news/2026/11/20/netstars-taxfree/?utm_source=rss",
+      "published": "2026-11-20T01:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14877/main_david-dvoracek-QiPe0UpC0_U-unsplash.jpg",
+      "category": "政策・制度",
+      "topic_group": "448ec374ee"
     },
     {
-      "source": "時事ドットコム",
-      "title": "１０月訪日客、３９１万人 紅葉シーズンで単月過去最高―政府観光局",
-      "summary": "",
-      "url": "https://www.jiji.com/jc/article?k=2026111800952&g=eco",
-      "published": "2026-11-18T17:29:00+09:00",
-      "image_url": null,
-      "category": "政策・制度",
-      "topic_group": "3752233517"
+      "source": "訪日ラボ",
+      "title": "大阪訪問の訪日客、満足率が97.2％に 府域訪問率は30.1％に上昇（大阪観光局）",
+      "summary": "大阪 観光局 は、 関西 空港から出国する 訪日外国人 を対象とした「 関西 空港出口調査 2026年度 中間報告」を公開しました。 発表によると、2026年度の中間結果では主要6指標のうち5指標が前年を上回り、平均滞在期間は横ばいでした。 同調査は2026年5月から2027年3月にかけて計4回実施…",
+      "url": "https://honichi.com/news/2026/11/20/kix2026-interim-report/?utm_source=rss",
+      "published": "2026-11-20T00:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14881/main_AdobeStock_267205078.jpeg",
+      "category": "統計・市場動向",
+      "topic_group": "bc1e68e7be"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "【11月3週 人気記事】東京が「世界で最も魅力的な都市」に選出、日本は魅力的な国ランキング2位に ほか｜インバウンドニュース週間アクセスTOP5",
+      "summary": "この1週間でアクセス数が多かった、 インバウンドニュース の ランキング を発表します！ 見逃している記事があれば、この機会にぜひご覧ください。 目次 週間アクセスランキング トップ5 1位. 東京が「世界で最も魅力的な都市」に選出 日本は魅力的な国ランキング2位に 2位. ドン・キホーテ、新免税制…",
+      "url": "https://honichi.com/news/2026/11/20/accessranking_20261120/?utm_source=rss",
+      "published": "2026-11-19T23:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14883/main_acc223f9da7a7d926af5812d9c842b20.png",
+      "category": "統計・市場動向",
+      "topic_group": "58a90decbd"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "三越伊勢丹、上期の営業利益・純利益が過去最高 国内百貨店の海外顧客売上高は24.1％増（2027年3月期 第2四半期決算）",
+      "summary": "三越伊勢丹ホールディングスは11月13日、2027年3月期の第2四半期 決算 （2026年4月～9月）を発表しました。 国内 百貨店 事業における海外顧客売上高が前年同期比24.1％増と大幅に伸びる中、営業利益と当期純利益は第2四半期および上期として過去最高を記録しています。 関連記事： 三越伊勢丹…",
+      "url": "https://honichi.com/news/2026/11/20/mitsukoshi-isetan-202703-02/?utm_source=rss",
+      "published": "2026-11-19T22:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14880/main_wen_xiao-3vrh8MblY28-unsplash.jpg",
+      "category": "宿泊・施設",
+      "topic_group": "82ff95d804"
     },
     {
       "source": "訪日ラボ",
@@ -656,46 +676,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14871/main_main.png",
       "category": "航空・交通",
       "topic_group": "7a2ee3f3c6"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "広島から島根へのインバウンド周遊促進へ 一畑バスなど4社と自治体が高速バス利用拡大プロモーションを開始",
-      "summary": "一畑 バス 、広島電鉄、 JR バス 中国 、WILLER ACROSSの4社は11月9日、広島から島根への インバウンド 周遊を促進する プロモーション を開始すると発表しました。 島根県 、出雲市、 松江市 とも連携し、広島を訪れる インバウンド 観光客の島根への周遊拡大と、高速 バス 「広島～…",
-      "url": "https://honichi.com/news/2026/11/18/hiroshima-shimane-bus-promotion/?utm_source=rss",
-      "published": "2026-11-17T22:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14868/main_main(2).png",
-      "category": "地域・DMO",
-      "topic_group": "b10ee6a813"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "飲食店本部の口コミ・店舗情報、どう運用してる？ ほか：インバウンド対策に役立つマーケティング資料まとめ（11月前半公開分）",
-      "summary": "訪日ラボでは、 インバウンドマーケティング に役立つ資料を公開しています。 この記事では、【2026年11月前半】に公開したおすすめ資料をご紹介します。ぜひ、日々の業務にお役立てください。 ※ 訪日ラボ会員 にご登録いただくと、レポートの全容を無料にてご覧いただけます。 目次 1. 【2026年11…",
-      "url": "https://honichi.com/news/2026/11/17/whitepapermatome_20261117/?utm_source=rss",
-      "published": "2026-11-17T03:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14870/main_5ceb499d9be4ce6764ef7a189bd2aed5.png",
-      "category": "業界ニュース",
-      "topic_group": "b998b766dc"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "JNTO、徳島県の宿泊増につなげた取り組みを紹介 アジア初開催・ACTA総会への期待も / 9月外国人宿泊数は1,165万人 8月は地方部比率が上昇 ほか：インバウンド情報まとめ【2026年11月前編】",
-      "summary": "訪日ラボを運営する株式会社movでは、 観光業界や インバウンド の動向をまとめたレポート【 インバウンド 情報まとめ】 を毎月発行しています。 この記事では、主に 11月前半の インバウンド 最新ニュース を厳選してお届けします。 最新情報の把握や マーケティング のヒントに、本レポートをぜひご活…",
-      "url": "https://honichi.com/news/2026/11/17/202611_inbound-1/?utm_source=rss",
-      "published": "2026-11-17T02:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14865/main_16ccd4ba9812394c28bb85e2521e9144.png",
-      "category": "統計・市場動向",
-      "topic_group": "0eb7f4e5b6"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "大阪〜舞鶴を結ぶ「美食街道」本格展開／デジタル観光案内所を開始、109言語で情報発信へ【大阪観光局会見】",
-      "summary": "公益財団法人大阪 観光局 は11月6日、定例会見を実施。 大阪府 の観光の概況や、「日本の美食街道」に関する取り組み、運用を開始したデジタル 観光案内所 などについて報告しました。 関連記事： 大阪観光局 前回の定例会見（9月） ▲公益財団法人大阪観光局 定例会見の様子：訪日ラボ撮影 目次 大阪のイ…",
-      "url": "https://honichi.com/news/2026/11/17/osaka202610/?utm_source=rss",
-      "published": "2026-11-17T01:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14857/main_PXL_20261106_050840074.jpg",
-      "category": "政策・制度",
-      "topic_group": "86641c5574"
     }
   ]
 }
