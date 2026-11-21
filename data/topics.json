@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T02:19:31.515241+00:00",
+  "updated_at": "2026-11-21T02:16:11.398724+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -32,10 +32,20 @@
       "title": "入札等公告情報を更新しました",
       "summary": "",
       "url": "https://www.jnto.go.jp/news/info/post_1.html",
-      "published": "2026-11-19T01:46:00+00:00",
+      "published": "2026-11-20T05:25:00+00:00",
       "image_url": "https://www.jnto.go.jp/assets/img/og.png",
       "category": "業界ニュース",
       "topic_group": "898dc392c8"
+    },
+    {
+      "source": "JNTO",
+      "title": "JNTOオンラインセミナー 「全国通訳案内士に聞くキャリアパスのリアル ―ガイドの力で、仕事の世界を広げる―」 申込受付中（締切：12/21（月）17:00）",
+      "summary": "",
+      "url": "https://www.jnto.go.jp/news/expo-seminar/jnto_122117.html",
+      "published": "2026-11-20T04:30:00+00:00",
+      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "category": "業界ニュース",
+      "topic_group": "5a9bdfc37d"
     },
     {
       "source": "JNTO",
@@ -168,22 +178,12 @@
       "topic_group": "215a584e7e"
     },
     {
-      "source": "JNTO",
-      "title": "『ユニバーサル・クールジャパン ２０２７』続報！！【合同会社ユー・エス・ジェイ】",
-      "summary": "",
-      "url": "https://www.jnto.go.jp/news/members/post_88.html",
-      "published": "2026-11-05T06:56:43+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "86bc63c4cc"
-    },
-    {
       "source": "観光庁",
       "title": "シンポジウム「デジタルノマドと創る地域の新しい可能性」を開催します",
       "summary": "",
       "url": "https://www.mlit.go.jp/kankocho/topics05_00048.html",
       "published": "2026-11-20",
-      "image_url": "https://www.mlit.go.jp/kankocho/content/810004410.png",
+      "image_url": null,
       "category": "地域・DMO",
       "topic_group": "74a83ecbd9"
     },
@@ -349,103 +349,103 @@
     },
     {
       "source": "Travel Voice",
-      "title": "OpenAI、旅行分野への進出を本格化、開発人材の募集で体制拡充へ、OTAと直接競合する可能性も【外電】",
-      "summary": "米観光産業ニュース「Skift（スキフト）」は、OpenAIが旅行関連のエンジニア募集を開始したことで、本格的に旅行分野に参入すると報じている。既存のOTAなどとの直接的競合することになる。",
-      "url": "https://www.travelvoice.jp/20261119-160899",
-      "published": "2026-11-19T06:42:29+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2023/07/1c7a5cc8-f766-4253-b818-0c684f3ae0a2.jpg",
-      "category": "AI・デジタル",
-      "topic_group": "5d7517d481"
+      "title": "関係人口の先にある「遊動人口」とは？ リゾートバイトや二地域居住が支える地方観光の新たなカタチ【コラム】",
+      "summary": "国学院大学・観光まちづくり学部教授によるコラム。今回は、定住拠点を持たない「遊動人口」に着目。離島や能登の事例から、担い手不足に悩む地方観光の新たな可能性を考える。",
+      "url": "https://www.travelvoice.jp/20261120-160895",
+      "published": "2026-11-20T21:44:18+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/8ce1b7a3-2d1b-4949-b4f4-f1cac7f46078.JPG",
+      "category": "地域・DMO",
+      "topic_group": "33c0f96d48"
     },
     {
       "source": "Travel Voice",
-      "title": "観光産業のキャッシュレス化へ、推進協議会が2035年ビジョン策定、企業間のデータ連携・業務標準化を目指す、旅行3社で実証へ",
-      "summary": "観光産業キャッシュレス推進協議会が、設立から約1年の活動を報告し、2035年ビジョンを策定。業界団体や地域との連携を広げ、企業間決済を起点とする共通基盤づくりを目指す。2027年1月からは旅行会社3社によるキャッシュレス実証を予定する。",
-      "url": "https://www.travelvoice.jp/20261119-160882",
-      "published": "2026-11-19T07:09:28+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2022/06/2e2f0711-f03f-4469-8ae2-09b6239bb0c4.jpg",
+      "title": "トルコ、世界遺産で日本人限定の貸切イベントを初開催、その手応えと今後の日本市場戦略を聞いた",
+      "summary": "駐日トルコ共和国大使館は日本旅行業協会（JATA）などと共同で「トルコ・エフェソス・ジャパンディ」を2026年8月に初めて開催。その手応えや今後の日本人旅行者誘客への取り組みなどについてサルトゥク・ブーラ・エキンジ文化広報参事官に聞いた。",
+      "url": "https://www.travelvoice.jp/20261116-160663",
+      "published": "2026-11-20T02:00:10+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/d2745bfb-a47e-434b-8732-efa126d7b4a0.jpeg",
       "category": "統計・市場動向",
-      "topic_group": "44ed079aec"
+      "topic_group": "060579060c"
     },
     {
       "source": "Travel Voice",
-      "title": "HIS、伊コスタクルーズの日本総販売代理店に、カジュアルさ活かし、若年層の最初のクルーズに、セールで10万円未満への挑戦も",
-      "summary": "HISがコスタクルーズと日本地区総販売代理店契約を締結。日本支社の機能を引き受け、一般消費者向け、全国の旅行会社への販売を進める。短期間・手頃な価格のカジュアルクルーズで顧客層を広げ、2030年をめどに日本発着の再開を目指す。",
-      "url": "https://www.travelvoice.jp/20261119-160891",
-      "published": "2026-11-19T19:13:33+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/52af6bf9-f8a1-4aaa-9eae-7be645b336f4.jpeg",
+      "title": "ターキッシュ航空、北野武氏起用の新CMを公開、日本市場向け広告キャンペーンなど投資継続、成田・関西の増便を優先へ",
+      "summary": "ターキッシュ エアラインズは、映画監督で俳優の北野武氏を起用したCMを公開。トルコへの日本人旅行者拡大に向けて広告キャンペーンを展開する。また、取締役会長兼執行委員長のムラット・シェケル氏が同社の現状について説明した。",
+      "url": "https://www.travelvoice.jp/20261118-160862",
+      "published": "2026-11-20T01:55:06+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/115686de-cdc3-4501-840b-b4b632d24335.jpeg",
+      "category": "統計・市場動向",
+      "topic_group": "5c07366027"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "トリプラ、宿泊予約システム「tripla Book」に会員連携機能、既存の会員アカウントやポイント制度を維持したまま導入可能に",
+      "summary": "宿泊施設向けITソリューションを展開するtripla（トリプラ）は、予約システム「tripla Book」で「標準会員連携」の提供を2026年12月末より開始。",
+      "url": "https://www.travelvoice.jp/20261120-160901",
+      "published": "2026-11-20T01:40:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2025/03/4bd267cb-2ceb-4bbe-a683-81b5c3829bd8.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "f34ac13c6e"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "飲食店のキャンセル料請求を自動化、対象の判定・金額計算から送信まで、Payn（ペイン）が「食べログノート」連携で新機能",
+      "summary": "キャンセル料の請求・回収ツールを展開する「Payn（ペイン）」は、キャンセル料の自動請求機能の提供を開始。あらかじめ設定したキャンセルポリシーに沿って自動請求。",
+      "url": "https://www.travelvoice.jp/20261120-160902",
+      "published": "2026-11-20T01:38:06+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/c9c821aa-33e7-43ba-ad1b-0de2aabba18f.jpg",
+      "category": "業界ニュース",
+      "topic_group": "e3085ac807"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "東京ディズニー、2027年度のイベント日程を発表、「シュガー・ラッシュ」新施設は4月15日開業、秋には新ショーも",
+      "summary": "オリエンタルランドは、2027年度の東京ディズニーランドおよび東京ディズニーシーでのスペシャルイベントおよびプログラムのスケジュールを決定。2027年4月15日には新アトラクションもオープン。",
+      "url": "https://www.travelvoice.jp/20261120-160877",
+      "published": "2026-11-20T01:35:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/4dac3f87-795d-4ebf-b49c-76e3b9164377.jpg",
+      "category": "業界ニュース",
+      "topic_group": "ec315bb23d"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "ヴィッセル神戸、ホームスタジアムでクリスマスのライトアップ、音楽と光のツリーショーも、12月10日から",
+      "summary": "楽天ヴィッセル神戸は、2026年12月に兵庫県神戸市のノエビアスタジアム神戸で「ノエスタライトアップ2026」を開催。選手看板や並木エリアを点灯、「「VISSEL KOBE」の光るモニュメントも。",
+      "url": "https://www.travelvoice.jp/20261120-160874",
+      "published": "2026-11-20T01:33:06+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/1cb2c727-1580-4b43-8bba-c9972a5c31ec.jpg",
+      "category": "業界ニュース",
+      "topic_group": "9206f3a310"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "首都圏の私鉄10社が共同スタンプラリー、指定駅めぐる周遊企画、達成社数に応じて鉄道関連品などの抽選も",
+      "summary": "首都圏私鉄10社は各社の指定駅を巡る「私鉄10社 スタンプラリー」を2026年11月11日から2027年1月24日まで開催。各社2駅に設置された異なる絵柄のオリジナルスタンプを収集するとプレゼントを進呈。",
+      "url": "https://www.travelvoice.jp/20261120-160797",
+      "published": "2026-11-20T01:30:08+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2020/05/65a28bb9-cd90-4701-89e7-3a9d029d1d51.jpg",
       "category": "航空・交通",
-      "topic_group": "82390b21dc"
+      "topic_group": "5de69f6c5f"
     },
     {
       "source": "Travel Voice",
       "title": "日本人の国内旅行者数、2026年8月は5.1%減、9月は4.4%増、7～9月の消費額は過去最高の8.4兆円 ―観光庁（速報）",
       "summary": "2026年7～9月期における日本人の国内旅行消費額は、前年同期比4.3%増の8兆4,354億円で過去最高に。1人1回あたりの旅行単価は、同4.9%増の5万2,569円。",
       "url": "https://www.travelvoice.jp/20261119-160894",
-      "published": "2026-11-19T01:45:07+00:00",
-      "image_url": null,
+      "published": "2026-11-20T09:00:39+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2024/10/286cbfc5-e9d6-4400-9c1e-18474a44b7b5.jpg",
       "category": "統計・市場動向",
       "topic_group": "fc5bc2e83f"
     },
     {
       "source": "Travel Voice",
-      "title": "三交イン、全15施設でSQUEEZEの宿泊管理システムを導入、現金対応のチェックイン端末も、集計業務を月150時間削減",
-      "summary": "SQUEEZE（スクイーズ）社は、三交インホテルズ全15施設へ「suitebook」と現金決済対応KIOSKの導入を完了した。月約150時間の業務削減を実現し、スタッフが接客に注力できる効率的な運営体制を構築する。",
-      "url": "https://www.travelvoice.jp/20261119-160886",
-      "published": "2026-11-19T06:20:29+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/8977dcaf-dc70-4029-a5aa-4b7fc932d83a.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "5c65013ee8"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "ハイアットとデルタ航空、上級会員向けにポイント相互加算を開始、2027年には無料宿泊など特典の選択肢を拡充",
-      "summary": "「ワールド・オブ・ハイアット（World of Hyatt）」と「デルタ・スカイマイル（Delta SkyMiles）」の連携が強化。対象となるエリート会員はアカウントを連携させることで、双方のプログラムで特典の獲得が可能に。",
-      "url": "https://www.travelvoice.jp/20261119-160893",
-      "published": "2026-11-19T09:07:50+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/1bb30aff-709a-47c0-abe2-834fbcc1bb3a.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "d37a632258"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "ベトナム・サンフーコック航空、日本初就航へ、2027年に成田／ホーチミン線、毎日1往復を計画",
-      "summary": "ベトナムのサンフーコック航空は、2027年初頭に成田／ホーチミン線を新規就航する計画を発表。毎日1往復を運航。2026年11月下旬から航空券販売を開始。",
-      "url": "https://www.travelvoice.jp/20261119-160871",
-      "published": "2026-11-19T01:35:06+00:00",
+      "title": "OpenAI、旅行分野への進出を本格化、開発人材の募集で体制拡充へ、OTAと直接競合する可能性も【外電】",
+      "summary": "米観光産業ニュース「Skift（スキフト）」は、OpenAIが旅行関連のエンジニア募集を開始したことで、本格的に旅行分野に参入すると報じている。既存のOTAなどとの直接的競合することになる。",
+      "url": "https://www.travelvoice.jp/20261119-160899",
+      "published": "2026-11-19T06:42:29+00:00",
       "image_url": null,
-      "category": "航空・交通",
-      "topic_group": "2247b24f60"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "シンガポール政府観光局、360度カメラ「Insta360」を活用したキャンペーン開始、クリエイターが旅の魅力を映像と記事で発信",
-      "summary": "シンガポール政府観光局（STB）は、アクションカメラブランド「Insta360」およびライフスタイルメディア「TABI LABO」と連携し、「シンガポール＆Insta360 コラボキャンペーン」を開始。",
-      "url": "https://www.travelvoice.jp/20261119-160878",
-      "published": "2026-11-19T19:35:03+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/ab89f277-3f12-4be1-a04b-d55168078992.jpeg",
-      "category": "政策・制度",
-      "topic_group": "4566523262"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "2027年の世界の旅行市場の見通し発表、国際旅行者数は8％増、日本は訪問者数で世界8位に ―ツーリズム・エコノミクス",
-      "summary": "ツーリズム・エコノミクスは、2026年および2027年の世界の旅行市場の見通しを明らかに。2026年に発生している混乱が収束に向かうとの前提のもと、2027年には同約8％増まで急回復すると予測。",
-      "url": "https://www.travelvoice.jp/20261118-160872",
-      "published": "2026-11-19T00:08:53+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "2cc8d08b59"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "【図解】訪日外国人数、2026年10月は391万人、単月の過去最多を更新、3カ月ぶりに前年越え ―日本政府観光局（速報）",
-      "summary": "2026年10月の訪日外国人旅行者数は3カ月ぶりの前年比プラス。中国市場がほぼ半減となる一方、全体では単月の過去最多を更新。",
-      "url": "https://www.travelvoice.jp/20261118-160889",
-      "published": "2026-11-18T09:15:00+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "036b3a1b3e"
+      "category": "AI・デジタル",
+      "topic_group": "5d7517d481"
     },
     {
       "source": "やまとごころ.jp",
@@ -569,6 +569,16 @@
     },
     {
       "source": "訪日ラボ",
+      "title": "【11/26開催】東京都・インバウンド受入れセミナーにて訪日ラボが「AI時代の集客術」を講演",
+      "summary": "訪日ラボは11月26日、 東京都 が開催する「外国人旅行者受入れセミナー」にて、「 AI 時代の集客術」をテーマに講演を行います。 参加対象は都内の 宿泊施設 、 飲食店 、 小売店 などの観光関連事業者や関連団体です。 目次 東京都開催セミナーにて訪日ラボが登壇 開催概要 登壇者紹介 東京都開催セ…",
+      "url": "https://honichi.com/news/2026/11/20/tokyotourism/?utm_source=rss",
+      "published": "2026-11-20T08:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14878/main_the-climate-reality-project-Hb6uWq0i4MI-unsplash.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "754037f73c"
+    },
+    {
+      "source": "訪日ラボ",
       "title": "ネットスターズ、リファンド方式対応の免税送金サービス開始 WeChat Pay・Alipayなどに対応",
       "summary": "株式会社ネットスターズは11月1日より、新たな消費税 免税 制度「リファンド方式」に対応する送金 サービス を開始しました。 本 サービス は、 免税 販売手続きのシステムを提供する承認送受信事業者と接続して提供するもので、ネットスターズは、承認送受信事業者から連携される税関確認結果などをもとに、 …",
       "url": "https://honichi.com/news/2026/11/20/netstars-taxfree/?utm_source=rss",
@@ -666,16 +676,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14873/main_AdobeStock_213941253.jpeg",
       "category": "統計・市場動向",
       "topic_group": "a26c58f6e7"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "ベトナム航空、長崎県・島根県・成田空港と覚書を締結 チャーター便の拡充と新規路線開設に向け連携",
-      "summary": "ベトナム 航空は11月9日、 長崎県 、 島根県 、成田国際空港株式会社と、日本と ベトナム 間の交流促進および航空ネットワークの拡充に向けた連携・協力に関する覚書を、それぞれ締結しました。 観光・文化・経済交流の促進に取り組むほか、 チャーター 便の運航促進や新規路線の開設に向けた取り組みを進めま…",
-      "url": "https://honichi.com/news/2026/11/18/vietnamairlines-nagasaki-shimane-narita/?utm_source=rss",
-      "published": "2026-11-17T23:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14871/main_main.png",
-      "category": "航空・交通",
-      "topic_group": "7a2ee3f3c6"
     }
   ]
 }
