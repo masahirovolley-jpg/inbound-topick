@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T05:19:40.748270+00:00",
+  "updated_at": "2026-11-25T04:12:37.416794+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -27,6 +27,26 @@
     }
   ],
   "articles": [
+    {
+      "source": "JNTO",
+      "title": "「食べログ」多言語版、「JTB BÓKUN」と連携し、食体験アクティビティの販売を開始【株式会社カカクコム】",
+      "summary": "",
+      "url": "https://www.jnto.go.jp/news/members/jtb_bokun.html",
+      "published": "2026-11-25T02:34:39+00:00",
+      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "category": "業界ニュース",
+      "topic_group": "795a7190ff"
+    },
+    {
+      "source": "JNTO",
+      "title": "雪夜の江戸にタイムスリップ！美酒と伝統芸能を楽しむ「太秦江戸酒場～雪夜の宴～」京都で開催【株式会社 東映太秦映画村】",
+      "summary": "",
+      "url": "https://www.jnto.go.jp/news/members/post_89.html",
+      "published": "2026-11-24T07:47:10+00:00",
+      "image_url": null,
+      "category": "業界ニュース",
+      "topic_group": "3f9e8ce6f3"
+    },
     {
       "source": "JNTO",
       "title": "入札等公告情報を更新しました",
@@ -156,26 +176,6 @@
       "image_url": null,
       "category": "業界ニュース",
       "topic_group": "223f43d730"
-    },
-    {
-      "source": "JNTO",
-      "title": "【12/3(木)開催】海外OTAを活用した訪日商品販売力向上セミナー ～Klook・KKday・Travelokaが解説する売れ筋商品と販売力向上のポイント～ （参加申込締切：12/2（水）12:00）",
-      "summary": "",
-      "url": "https://www.jnto.go.jp/news/expo-seminar/123ota_klookkkdaytraveloka_1221200.html",
-      "published": "2026-11-06T04:30:00+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "0335f4b898"
-    },
-    {
-      "source": "JNTO",
-      "title": "【再掲】【11/19（木）開催】JNTOインバウンド研修会のご案内 第3回北陸信越 長野会場・一部オンライン配信あり （締切：11/12（木））",
-      "summary": "",
-      "url": "https://www.jnto.go.jp/news/expo-seminar/1119jnto_3_1112_1.html",
-      "published": "2026-11-06T04:30:00+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "215a584e7e"
     },
     {
       "source": "観光庁",
@@ -349,23 +349,93 @@
     },
     {
       "source": "Travel Voice",
-      "title": "アジア太平洋の航空イノベーション賞、ANAや羽田空港など6組織が受賞、AI活用や空港の自動化を評価 ―APEX FTE EXPO 2026",
-      "summary": "FTEは、アジア太平洋地域において最も先駆的な取り組みを行う航空会社および空港を表彰する「FTE APACパイオニア・アワード2026」を発表。日本からANAと日本空港ビルデングが受賞。",
-      "url": "https://www.travelvoice.jp/20261124-160907",
-      "published": "2026-11-24T02:57:05+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2019/08/crowd_of_traveller.jpg",
-      "category": "航空・交通",
-      "topic_group": "c9ba56964a"
+      "title": "HIS社員が地域で実践する地方創生とは？ 誘客から関係人口づくりまで、旅行会社のノウハウとデジタル技術を活用した3地域の事例（PR）",
+      "summary": "（PR）HISが社員の自治体出向で進める地方創生とは？ 旅行会社の知見と地域活性化への情熱、デジタル技術で誘客や関係人口創出に挑む、熊本県球磨村・長野県木曽町・東京都奥多摩町の事例。",
+      "url": "https://www.travelvoice.jp/20261125-160854",
+      "published": "2026-11-25T04:00:10+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/ca29645c-d99e-4f28-9f29-629614f965df.jpg",
+      "category": "地域・DMO",
+      "topic_group": "85672a00e8"
     },
     {
       "source": "Travel Voice",
-      "title": "英国放送協会（BBC）、航空会社向け動画配信サービスを拡充、機内エンタメを手がけるRAVEエアロスペースと提携",
+      "title": "宿泊施設の人材不足解消への一手を学ぶ、12月は「プロの調理人活用」編、観光庁がウェビナー開催 ―12月3日（PR）",
+      "summary": "（PR）12月3日、観光庁が宿泊事業者向け無料セミナーを開催。テーマは「プロの調理人活用」。シェアダイン今野氏が登壇し、調理師不足の解消や人材定着につながる新たな採用手法を解説する。詳細はこちら。",
+      "url": "https://www.travelvoice.jp/20261125-160898",
+      "published": "2026-11-25T02:45:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/68faa0b4-6628-47e0-a796-b0a2ba80ab85.png",
+      "category": "統計・市場動向",
+      "topic_group": "5b2b15e098"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "米フォーカスライトの旅行イノベーション最優秀賞に「Pintours」、来訪者に合わせて案内を変える観光施設向けAIガイドを開発",
+      "summary": "米国の旅行調査会社フォーカスライトが主催する「フォーカスライト・カンファレンス2026」で、「Travel Innovator of the Year（トラベル・イノベーター・オブ・ザ・イヤー）」に、「Pintours」が選出された。AIで観光施設やアトラクションなどでの体験を「パーソナルガイド」に…",
+      "url": "https://www.travelvoice.jp/20261125-160908",
+      "published": "2026-11-25T01:51:21+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2020/02/5da614ef-8921-4d17-bd5b-a43f2ec54995.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "d0dab178d7"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "飲食店予約「食べログ」、多言語版で訪日客向けに寿司作りや酒蔵ツアーを販売、「JTB BÓKUN」と在庫をリアルタイム連携",
+      "summary": "体験アクティビティ予約管理システム「JTB BÓKUN」は、レストラン検索・予約サービス「食べログ」の多言語版アプリとAPI連携。食体験アクティビティ事業者に新たな販路。",
+      "url": "https://www.travelvoice.jp/20261125-160914",
+      "published": "2026-11-25T01:45:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2019/05/1252200-unsplash.jpg",
+      "category": "AI・デジタル",
+      "topic_group": "c8e3eec1ed"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "商船三井・さんふらわあ、船内を「海のオーベルジュ」をテーマに改装、大洗／苫小牧のフェリー「ふらの」",
+      "summary": "商船三井さんふらわあは、夕方便「さんふらわあ ふらの」のパブリックスペースをリニューアルし、2026年11月24日の大洗出港便から運航を開始。",
+      "url": "https://www.travelvoice.jp/20261125-160916",
+      "published": "2026-11-25T01:35:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/631e234e-d9d2-4634-8a62-f4da214a2432.jpeg",
+      "category": "航空・交通",
+      "topic_group": "69f3364661"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "JTB山北会長「AI時代こそ人材育成」、アコーCEOと議論した観光産業の次の10年、旅先での協業も焦点",
+      "summary": "WTTCグローバルサミットでJTB山北栄二郎会長とアコーのセバスチャン・バザン会長兼CEOが対談。AIによる旅行の意思決定の変化、人材の高度化、ホテルと旅行会社の協業、雇用創出をめぐる討論を詳報。",
+      "url": "https://www.travelvoice.jp/20261124-160817",
+      "published": "2026-11-24T22:14:48+00:00",
+      "image_url": null,
+      "category": "宿泊・施設",
+      "topic_group": "726a59a089"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "タヒチ観光局に「次のハワイ」を目指さない観光戦略を聞いた、繁忙期は消費額と満足度を重視、成田線は2027年から通年運航へ",
+      "summary": "タヒチ観光局会長のバド・ギルロイ氏らが、旅行業界の商談会に合わせて来日。今後の観光戦略などについて説明した。同氏は「次のハワイにはならない」と話し、島の規模に合わせたスローな成長を目指す考えを示した。",
+      "url": "https://www.travelvoice.jp/20261110-160809",
+      "published": "2026-11-24T07:30:08+00:00",
+      "image_url": null,
+      "category": "統計・市場動向",
+      "topic_group": "5241740799"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "航空イノベーション賞、ANAや羽田空港など6組織が受賞、AI活用や空港の自動化を評価 ―APEX FTE EXPO 2026",
+      "summary": "FTEは、アジア太平洋地域において最も先駆的な取り組みを行う航空会社および空港を表彰する「FTE APACパイオニア・アワード2026」を発表。日本からANAと日本空港ビルデングが受賞。",
+      "url": "https://www.travelvoice.jp/20261124-160907",
+      "published": "2026-11-24T22:16:36+00:00",
+      "image_url": null,
+      "category": "航空・交通",
+      "topic_group": "5f16f715c8"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "英国放送協会（BBC）、航空会社向け動画配信サービス強化、機内エンタメを手がけるRAVEエアロスペースと提携",
       "summary": "BBCスタジオは、RAVEエアロスペースと新たなパートナーシップを発表。RAVE OS 2オープン・プラットフォームを採用する航空会社では、「BBCプレイヤー（BBC Player）」の利用が可能に。",
       "url": "https://www.travelvoice.jp/20261124-160903",
-      "published": "2026-11-24T01:51:06+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2021/12/a45fc74f-4861-4500-b26d-f3f76ea628a3.jpg",
+      "published": "2026-11-24T22:19:29+00:00",
+      "image_url": null,
       "category": "航空・交通",
-      "topic_group": "5d26c481b1"
+      "topic_group": "d8e3ed0055"
     },
     {
       "source": "Travel Voice",
@@ -373,79 +443,19 @@
       "summary": "近畿日本ツーリストは、教職員向け「貸切バス安全体験プログラム」の提供開始。実車で非常扉からの脱出や緊急停止装置の操作、救命行動を体験。教育旅行引率時の危機管理能力向上を支援。",
       "url": "https://www.travelvoice.jp/20261124-160880",
       "published": "2026-11-24T01:45:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/370059f6-4437-4df0-a857-291d61af9b7b.jpg",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "75f0c9834d"
     },
     {
-      "source": "Travel Voice",
-      "title": "JTBと江ノ電が連携、鎌倉・江の島の観光コンテンツを開発、新車両での七五三撮影や駅長体験",
-      "summary": "JTBと江ノ島電鉄は、鉄道車両や施設を生かした神奈川県鎌倉・江の島エリアの観光コンテンツ開発で連携。江ノ電新型車両での七五三の記念撮影や駅長体験を企画。",
-      "url": "https://www.travelvoice.jp/20261124-160897",
-      "published": "2026-11-24T01:40:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/84f9951e-687c-45c1-8c93-8b73ccc3c233.jpg",
-      "category": "航空・交通",
-      "topic_group": "22548837b9"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "北海道・苫小牧市、移住・二地域居住の総合サイト刷新、ふるさと住民登録を見据え「11のつながり方」提案",
-      "summary": "北海道苫小牧市は、ウェブサイトを移住・二地域居住の総合窓口サイトにリニューアル。お試し居住や助成制度などを案内。ふるさと住民登録制度の2027年開始を見据え情報発信。",
-      "url": "https://www.travelvoice.jp/20261124-160875",
-      "published": "2026-11-24T01:30:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/3974c19c-ee65-4e3d-a03b-fe0b121d171a.png",
-      "category": "政策・制度",
-      "topic_group": "8bbe2d9c71"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "関係人口の先にある「遊動人口」とは？ リゾートバイトや二地域居住が支える地方観光の新たなカタチ【コラム】",
-      "summary": "国学院大学・観光まちづくり学部教授によるコラム。今回は、定住拠点を持たない「遊動人口」に着目。離島や能登の事例から、担い手不足に悩む地方観光の新たな可能性を考える。",
-      "url": "https://www.travelvoice.jp/20261120-160895",
-      "published": "2026-11-24T01:40:51+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/8ce1b7a3-2d1b-4949-b4f4-f1cac7f46078.JPG",
-      "category": "地域・DMO",
-      "topic_group": "33c0f96d48"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "トルコ、日本人旅行者の誘致を強化、本国の世界遺産で日本人旅行者限定の貸切イベントを初開催",
-      "summary": "駐日トルコ共和国大使館は日本旅行業協会（JATA）などと共同で「トルコ・エフェソス・ジャパンディ」を2026年8月に初めて開催。その手応えや今後の日本人旅行者誘客への取り組みなどについてサルトゥク・ブーラ・エキンジ文化広報参事官に聞いた。",
-      "url": "https://www.travelvoice.jp/20261116-160663",
-      "published": "2026-11-23T23:25:14+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/d2745bfb-a47e-434b-8732-efa126d7b4a0.jpeg",
-      "category": "業界ニュース",
-      "topic_group": "ccae81ddca"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "ターキッシュ航空、北野武氏起用の新CMを公開、日本市場向け広告キャンペーンなど投資継続、成田・関西の増便を優先へ",
-      "summary": "ターキッシュ エアラインズは、映画監督で俳優の北野武氏を起用したCMを公開。トルコへの日本人旅行者拡大に向けて広告キャンペーンを展開する。また、取締役会長兼執行委員長のムラット・シェケル氏が同社の現状について説明した。",
-      "url": "https://www.travelvoice.jp/20261118-160862",
-      "published": "2026-11-23T21:19:57+00:00",
-      "image_url": null,
+      "source": "やまとごころ.jp",
+      "title": "航空旅客の49％が旅行計画にAI利用、入国要件が旅行の障壁にーIATA2026年調査",
+      "summary": "国際航空運送協会（IATA）は、世界の航空旅客を対象とした「2026年世界航空旅客調査（Global Passenger Survey 2026）」の結果を発表した。調査は世界約200カ国の航空旅客を対象に実施され、主要…",
+      "url": "https://yamatogokoro.jp/inbound_data/61638/",
+      "published": "2026-11-24T23:00:40+00:00",
+      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/11/28A53ADF-C66D-4522-8929-049505A8167C-scaled.jpg",
       "category": "統計・市場動向",
-      "topic_group": "5c07366027"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "トリプラ、宿泊予約システム「tripla Book」に会員連携機能、既存の会員アカウントやポイント制度を維持したまま導入可能に",
-      "summary": "宿泊施設向けITソリューションを展開するtripla（トリプラ）は、予約システム「tripla Book」で「標準会員連携」の提供を2026年12月末より開始。",
-      "url": "https://www.travelvoice.jp/20261120-160901",
-      "published": "2026-11-20T01:40:07+00:00",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "f34ac13c6e"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "飲食店のキャンセル料請求を自動化、対象の判定・金額計算から送信まで、Payn（ペイン）が「食べログノート」連携で新機能",
-      "summary": "キャンセル料の請求・回収ツールを展開する「Payn（ペイン）」は、キャンセル料の自動請求機能の提供を開始。あらかじめ設定したキャンセルポリシーに沿って自動請求。",
-      "url": "https://www.travelvoice.jp/20261120-160902",
-      "published": "2026-11-20T01:38:06+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "e3085ac807"
+      "topic_group": "697eaab73a"
     },
     {
       "source": "やまとごころ.jp",
@@ -453,7 +463,7 @@
       "summary": "地域の風土や歴史、文化の中で育まれてきた食を味わい、その背景にある食文化に触れる「ガストロノミーツーリズム」。2023年度に観光庁の「地域一体型ガストロノミーツーリズムの推進事業」が始まり、全国各地で食を生かした観光コン…",
       "url": "https://yamatogokoro.jp/inbound_interview/61734/",
       "published": "2026-11-23T23:00:29+00:00",
-      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/11/sugiyama_thumb.jpg",
+      "image_url": null,
       "category": "地域・DMO",
       "topic_group": "bf9ca2e6db"
     },
@@ -558,14 +568,64 @@
       "topic_group": "c9818c9183"
     },
     {
-      "source": "やまとごころ.jp",
-      "title": "2026年8月訪日宿泊12.0％減の1239万人泊、栃木・高知は前年比9割増",
-      "summary": "観光庁が発表した2026年8月の宿泊旅行統計（第二次速報）によると、外国人延べ宿泊者数は前年同月比12.0％減の1239万人泊となった。7月の6.5％減から減少幅が拡大した。 三大都市圏では15.6％減となった一方、地方…",
-      "url": "https://yamatogokoro.jp/inbound_data/61617/",
-      "published": "2026-11-01T23:00:57+00:00",
-      "image_url": null,
+      "source": "訪日ラボ",
+      "title": "株式会社movと株式会社グローバル・デイリーが業務提携を締結",
+      "summary": "業界最大級の インバウンド ビジネス メディア 「訪日ラボ」および外国人 インフルエンサー 向けセルフサンプリング サービス 「 trial JAPAN 」を運営する株式会社mov（代表取締役：渡邊 誠、本社： 東京都 渋谷区 、以下mov）は、 訪日外国人 向け観光情報 メディア 「JAPANKU…",
+      "url": "https://honichi.com/news/2026/11/25/globaldailyxmov/?utm_source=rss",
+      "published": "2026-11-25T03:30:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14882/main_img_mov_gldaily_klab.png",
+      "category": "業界ニュース",
+      "topic_group": "e7b650fd22"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "防災庁による緊急要請を観光関連団体へ周知 地方誘客に向けた官民連携にも言及【観光庁長官会見】",
+      "summary": "観光庁 の木村典央長官は11月18日、定例会見を実施。同日に発表された日本 政府観光局 （ JNTO ）訪日外客統計について報告しました。 さらに長官は、一般社団法人 日本旅行業協会 （ JATA ）が先日発表した官民連携のプロジェクト「JAPAN, GO BEYOND」や、防災庁の発足に関連した観…",
+      "url": "https://honichi.com/news/2026/11/25/chokankaiken202611/?utm_source=rss",
+      "published": "2026-11-25T03:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14884/main_chokankaiken202611_img.JPG",
       "category": "統計・市場動向",
-      "topic_group": "f4adf418e3"
+      "topic_group": "e534ce829e"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "【12/2～4】開催迫る！観光・宿泊・飲食向け展示会「ホスピタリティテックEXPO」 訪日ラボ読者特典あり（PR）",
+      "summary": "展示会・セミナーなどを主催するR X Japan合同会社は12月2日〜4日、有明GYM-E X （ジメックス）にて「第1回 ホスピタリティテックE X PO」を開催します。 本展示会では、 人手不足 ・業務効率化・顧客 体験 の向上など、ホスピタリティ産業（観光・宿泊・飲食）が直面する課題を解決する…",
+      "url": "https://honichi.com/news/2026/11/25/hospitality_tech_expo_4/?utm_source=rss",
+      "published": "2026-11-25T02:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14854/main_5381ac558e1cc42caaac6fae56b4156e.png",
+      "category": "統計・市場動向",
+      "topic_group": "b2da91286e"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "「現地の人が通う店」の情報が価値に ローンチから約1年で400万ダウンロードを記録した「食べログ多言語版アプリ」のこだわり",
+      "summary": "レストラン検索・予約 サービス の「 食べログ 」を提供するカカクコムは2024年に インバウンド 向けネット予約をリリースして以降、 インバウンド 事業を本格展開しています。 そんな同社が、2025年11月にリリースしたのが、訪日旅行者向けに現地の人が通う店の情報や 口コミ を提供する「 食べログ…",
+      "url": "https://honichi.com/news/2026/11/25/tabelog-inbound/?utm_source=rss",
+      "published": "2026-11-25T00:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14821/main_tabelog-inbound_img.jpg",
+      "category": "AI・デジタル",
+      "topic_group": "4afe2f26d8"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "「金木犀の香り」が訪日韓国人客に人気、関連商品を調べるユーザーが前年の約5.8倍に",
+      "summary": "訪日外国人 向けショッピングサポート アプリ 「Payke（ペイク）」を運営する株式会社Paykeは、 訪日外国人 ユーザーの商品スキャンデータをもとに、「金木犀（キンモクセイ）」の香りの商品への関心を市場別に分析しました。 その結果、金木犀の香りの商品を調べた 韓国 籍ユーザーの割合が、前年同期比…",
+      "url": "https://honichi.com/news/2026/11/25/payke-osmanthus-korea/?utm_source=rss",
+      "published": "2026-11-24T23:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14892/main_AdobeStock_384936509.jpeg",
+      "category": "統計・市場動向",
+      "topic_group": "d61979c39d"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "白馬エリア、冬のインバウンド成長から通年・滞在型の観光地経営へ HAKUBAVALLEY TOURISMが観光グランドデザインを策定",
+      "summary": "一般社団法人HAKUBAVALLEY TOURISM（以下、HVT）は11月5日、 長野県 の大町市・ 白馬 村・小谷村の3市村を対象とした指針「Hakuba Valley観光グランドデザイン」を公開しました。 冬季の インバウンド需要 を軸に成長を遂げてきた同エリアにおいて、今後は季節や地域の偏り…",
+      "url": "https://honichi.com/news/2026/11/25/hakuba-valley-tourism-grand-design/?utm_source=rss",
+      "published": "2026-11-24T22:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14890/main_hanae-dan-YQCsiyU6maE-unsplash.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "9502792bbc"
     },
     {
       "source": "訪日ラボ",
@@ -616,66 +676,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14886/main_mos-design-sphTv9u1fCc-unsplash.jpg",
       "category": "統計・市場動向",
       "topic_group": "eef6a8c9e2"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "【11/26開催】東京都・インバウンド受入れセミナーにて訪日ラボが「AI時代の集客術」を講演",
-      "summary": "訪日ラボは11月26日、 東京都 が開催する「外国人旅行者受入れセミナー」にて、「 AI 時代の集客術」をテーマに講演を行います。 参加対象は都内の 宿泊施設 、 飲食店 、 小売店 などの観光関連事業者や関連団体です。 目次 東京都開催セミナーにて訪日ラボが登壇 開催概要 登壇者紹介 東京都開催セ…",
-      "url": "https://honichi.com/news/2026/11/20/tokyotourism/?utm_source=rss",
-      "published": "2026-11-20T08:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14878/main_the-climate-reality-project-Hb6uWq0i4MI-unsplash.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "754037f73c"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "ネットスターズ、リファンド方式対応の免税送金サービス開始 WeChat Pay・Alipayなどに対応",
-      "summary": "株式会社ネットスターズは11月1日より、新たな消費税 免税 制度「リファンド方式」に対応する送金 サービス を開始しました。 本 サービス は、 免税 販売手続きのシステムを提供する承認送受信事業者と接続して提供するもので、ネットスターズは、承認送受信事業者から連携される税関確認結果などをもとに、 …",
-      "url": "https://honichi.com/news/2026/11/20/netstars-taxfree/?utm_source=rss",
-      "published": "2026-11-20T01:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14877/main_david-dvoracek-QiPe0UpC0_U-unsplash.jpg",
-      "category": "政策・制度",
-      "topic_group": "448ec374ee"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "大阪訪問の訪日客、満足率が97.2％に 府域訪問率は30.1％に上昇（大阪観光局）",
-      "summary": "大阪 観光局 は、 関西 空港から出国する 訪日外国人 を対象とした「 関西 空港出口調査 2026年度 中間報告」を公開しました。 発表によると、2026年度の中間結果では主要6指標のうち5指標が前年を上回り、平均滞在期間は横ばいでした。 同調査は2026年5月から2027年3月にかけて計4回実施…",
-      "url": "https://honichi.com/news/2026/11/20/kix2026-interim-report/?utm_source=rss",
-      "published": "2026-11-20T00:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14881/main_AdobeStock_267205078.jpeg",
-      "category": "統計・市場動向",
-      "topic_group": "bc1e68e7be"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "【11月3週 人気記事】東京が「世界で最も魅力的な都市」に選出、日本は魅力的な国ランキング2位に ほか｜インバウンドニュース週間アクセスTOP5",
-      "summary": "この1週間でアクセス数が多かった、 インバウンドニュース の ランキング を発表します！ 見逃している記事があれば、この機会にぜひご覧ください。 目次 週間アクセスランキング トップ5 1位. 東京が「世界で最も魅力的な都市」に選出 日本は魅力的な国ランキング2位に 2位. ドン・キホーテ、新免税制…",
-      "url": "https://honichi.com/news/2026/11/20/accessranking_20261120/?utm_source=rss",
-      "published": "2026-11-19T23:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14883/main_acc223f9da7a7d926af5812d9c842b20.png",
-      "category": "統計・市場動向",
-      "topic_group": "58a90decbd"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "三越伊勢丹、上期の営業利益・純利益が過去最高 国内百貨店の海外顧客売上高は24.1％増（2027年3月期 第2四半期決算）",
-      "summary": "三越伊勢丹ホールディングスは11月13日、2027年3月期の第2四半期 決算 （2026年4月～9月）を発表しました。 国内 百貨店 事業における海外顧客売上高が前年同期比24.1％増と大幅に伸びる中、営業利益と当期純利益は第2四半期および上期として過去最高を記録しています。 関連記事： 三越伊勢丹…",
-      "url": "https://honichi.com/news/2026/11/20/mitsukoshi-isetan-202703-02/?utm_source=rss",
-      "published": "2026-11-19T22:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14880/main_wen_xiao-3vrh8MblY28-unsplash.jpg",
-      "category": "宿泊・施設",
-      "topic_group": "82ff95d804"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "ジンエアー・エアソウル・エアプサンの合併を韓国国土交通部が認可 2027年3月17日に統合、金海空港を第2ハブに",
-      "summary": "韓国 の国土交通部は11月12日、大韓航空傘下のジンエアーおよびアシアナ航空傘下のエアソウル・エアプサンの 格安航空会社 （ LCC ）3社による合併を正式に認可したと発表しました。 統合は2027年3月17日に予定されており、ジンエアーにエアソウルとエアプサンの2社が統合される形で、 韓国 国内最…",
-      "url": "https://honichi.com/news/2026/11/19/jinair-lcc-merger-2027/?utm_source=rss",
-      "published": "2026-11-19T01:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14876/main_hieu-noyfQIiiN0w-unsplash.jpg",
-      "category": "航空・交通",
-      "topic_group": "8a58919186"
     }
   ]
 }
