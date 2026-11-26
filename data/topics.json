@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T04:12:37.416794+00:00",
+  "updated_at": "2026-11-26T03:34:32.300436+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -33,7 +33,7 @@
       "summary": "",
       "url": "https://www.jnto.go.jp/news/members/jtb_bokun.html",
       "published": "2026-11-25T02:34:39+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "795a7190ff"
     },
@@ -349,103 +349,113 @@
     },
     {
       "source": "Travel Voice",
+      "title": "スペイン開催の国際観光見本市「FITUR（フィトゥール）2027」、AIや持続可能な観光に焦点、展示規模を拡大して1月20～24日開催（PR）",
+      "summary": "（PR）スペイン・マドリードで開催される国際観光見本市「FITUR（フィトゥール） 2027」。2027年1月20～24日の5日間、11ホールに規模を拡大し、世界各国の観光関連企業が集結。AIやテクノロジー、持続可能性など観光産業の最新動向を紹介。",
+      "url": "https://www.travelvoice.jp/20261126-160884",
+      "published": "2026-11-26T01:50:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/845970e7-a156-4e5a-91fd-5e91cb33a84e.jpg",
+      "category": "AI・デジタル",
+      "topic_group": "addd68693b"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "ナビタイム、添乗員のスマホに行程表・指示書を共有する新機能、旅行会社は現在地を把握、大型バスの迂回ルート検索も",
+      "summary": "ナビタイムジャパンは、大型観光バス対応の行程表作成ツール「行程表クラウド by NAVITIME」で新機能「添乗員サポート」の提供を開始。最新の行程表や添乗員指示書を添乗員のスマートフォン・タブレット端末へ共有。",
+      "url": "https://www.travelvoice.jp/20261126-160927",
+      "published": "2026-11-26T01:44:06+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/ef3102a1-4803-4772-80d1-463a91786ffd.jpg",
+      "category": "業界ニュース",
+      "topic_group": "df2d9dd5a4"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "富良野・美瑛エリア、クチコミ分析で観光サービス改善へ、混雑状況や駐車場など旅行者の声を把握、トラスト・ユーを導入",
+      "summary": "富良野美瑛広域観光推進協議会は、旅行者の満足度向上や地域全体のサービス改善を目的として、TrustYou（トラスト・ユー） の口コミ分析・管理プラットフォームを導入。",
+      "url": "https://www.travelvoice.jp/20261126-160925",
+      "published": "2026-11-26T01:40:07+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2021/09/d428a125-0609-48af-a4e7-56cda397abc2.jpg",
+      "category": "地域・DMO",
+      "topic_group": "81b373deaf"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "韓国ソウル市、ウェルネス観光100選を発表、「休・味・粋」の3テーマで都市型体験を紹介、海外発信を強化",
+      "summary": "韓国ソウル市は、「ソウル・ウェルネス観光100選（100 SEOUL WELLNESS TRAVEL 2026）」を発表。英語版公式サイトではテーマ別の検索と地図で各所を探すことが可能。",
+      "url": "https://www.travelvoice.jp/20261126-160928",
+      "published": "2026-11-26T01:30:08+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2019/02/793480-unsplash.jpg",
+      "category": "業界ニュース",
+      "topic_group": "26a769893f"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "調査レポート「ウェルネスツーリズム 2027」を発表、急成長する市場規模や世界の最新事例・トレンドを網羅（ダウンロード無料） ―トラベルボイスREPORT",
+      "summary": "トラベルボイスが調査レポート「ウェルネスツーリズム2027」を発表。1兆ドルに迫る市場規模や高単価旅行者の動向、世界の最新事例やトレンドを網羅した（無料ダウンロード可）。",
+      "url": "https://www.travelvoice.jp/20261125-160857",
+      "published": "2026-11-26T02:31:16+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/d9b0dc9c-95f7-40a2-9b6a-db5f23294eb8.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "9eb6ad4593"
+    },
+    {
+      "source": "Travel Voice",
       "title": "HIS社員が地域で実践する地方創生とは？ 誘客から関係人口づくりまで、旅行会社のノウハウとデジタル技術を活用した3地域の事例（PR）",
       "summary": "（PR）HISが社員の自治体出向で進める地方創生とは？ 旅行会社の知見と地域活性化への情熱、デジタル技術で誘客や関係人口創出に挑む、熊本県球磨村・長野県木曽町・東京都奥多摩町の事例。",
       "url": "https://www.travelvoice.jp/20261125-160854",
       "published": "2026-11-25T04:00:10+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/ca29645c-d99e-4f28-9f29-629614f965df.jpg",
+      "image_url": null,
       "category": "地域・DMO",
       "topic_group": "85672a00e8"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "2人以上世帯のネット「旅行」支出は8％増、ネット消費全体の伸びをけん引 ―家計消費状況調査（2026年9月）",
+      "summary": "総務省統計局による「家計消費状況調査」によると、2026年9月の二人以上の世帯のネットショッピング支出額は前年比0.6％増の2万6303円。そのうち旅行関係費は6255円で前年比8.0％増となった。",
+      "url": "https://www.travelvoice.jp/20261126-160910",
+      "published": "2026-11-25T08:33:39+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2023/06/f6d94024-8cbb-4e10-a7b9-13e1405b02bc.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "b4f27a2b41"
     },
     {
       "source": "Travel Voice",
       "title": "宿泊施設の人材不足解消への一手を学ぶ、12月は「プロの調理人活用」編、観光庁がウェビナー開催 ―12月3日（PR）",
       "summary": "（PR）12月3日、観光庁が宿泊事業者向け無料セミナーを開催。テーマは「プロの調理人活用」。シェアダイン今野氏が登壇し、調理師不足の解消や人材定着につながる新たな採用手法を解説する。詳細はこちら。",
       "url": "https://www.travelvoice.jp/20261125-160898",
-      "published": "2026-11-25T02:45:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/68faa0b4-6628-47e0-a796-b0a2ba80ab85.png",
+      "published": "2026-11-25T08:31:59+00:00",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "5b2b15e098"
     },
     {
       "source": "Travel Voice",
-      "title": "米フォーカスライトの旅行イノベーション最優秀賞に「Pintours」、来訪者に合わせて案内を変える観光施設向けAIガイドを開発",
+      "title": "旅行イノベーション最優秀賞2026、来訪者ごとに案内を変える観光施設向けAIガイド「Pintours」 ―米フォーカスライト",
       "summary": "米国の旅行調査会社フォーカスライトが主催する「フォーカスライト・カンファレンス2026」で、「Travel Innovator of the Year（トラベル・イノベーター・オブ・ザ・イヤー）」に、「Pintours」が選出された。AIで観光施設やアトラクションなどでの体験を「パーソナルガイド」に…",
       "url": "https://www.travelvoice.jp/20261125-160908",
-      "published": "2026-11-25T01:51:21+00:00",
+      "published": "2026-11-26T00:24:35+00:00",
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2020/02/5da614ef-8921-4d17-bd5b-a43f2ec54995.jpg",
       "category": "統計・市場動向",
-      "topic_group": "d0dab178d7"
+      "topic_group": "a86e47e658"
     },
     {
       "source": "Travel Voice",
-      "title": "飲食店予約「食べログ」、多言語版で訪日客向けに寿司作りや酒蔵ツアーを販売、「JTB BÓKUN」と在庫をリアルタイム連携",
+      "title": "飲食店予約「食べログ」、インバウンド向けに寿司作りや酒蔵ツアーを販売、「JTB BÓKUN」と在庫をリアルタイム連携",
       "summary": "体験アクティビティ予約管理システム「JTB BÓKUN」は、レストラン検索・予約サービス「食べログ」の多言語版アプリとAPI連携。食体験アクティビティ事業者に新たな販路。",
       "url": "https://www.travelvoice.jp/20261125-160914",
-      "published": "2026-11-25T01:45:07+00:00",
+      "published": "2026-11-26T00:26:04+00:00",
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2019/05/1252200-unsplash.jpg",
       "category": "AI・デジタル",
-      "topic_group": "c8e3eec1ed"
+      "topic_group": "ed86e53080"
     },
     {
-      "source": "Travel Voice",
-      "title": "商船三井・さんふらわあ、船内を「海のオーベルジュ」をテーマに改装、大洗／苫小牧のフェリー「ふらの」",
-      "summary": "商船三井さんふらわあは、夕方便「さんふらわあ ふらの」のパブリックスペースをリニューアルし、2026年11月24日の大洗出港便から運航を開始。",
-      "url": "https://www.travelvoice.jp/20261125-160916",
-      "published": "2026-11-25T01:35:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/631e234e-d9d2-4634-8a62-f4da214a2432.jpeg",
-      "category": "航空・交通",
-      "topic_group": "69f3364661"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "JTB山北会長「AI時代こそ人材育成」、アコーCEOと議論した観光産業の次の10年、旅先での協業も焦点",
-      "summary": "WTTCグローバルサミットでJTB山北栄二郎会長とアコーのセバスチャン・バザン会長兼CEOが対談。AIによる旅行の意思決定の変化、人材の高度化、ホテルと旅行会社の協業、雇用創出をめぐる討論を詳報。",
-      "url": "https://www.travelvoice.jp/20261124-160817",
-      "published": "2026-11-24T22:14:48+00:00",
-      "image_url": null,
-      "category": "宿泊・施設",
-      "topic_group": "726a59a089"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "タヒチ観光局に「次のハワイ」を目指さない観光戦略を聞いた、繁忙期は消費額と満足度を重視、成田線は2027年から通年運航へ",
-      "summary": "タヒチ観光局会長のバド・ギルロイ氏らが、旅行業界の商談会に合わせて来日。今後の観光戦略などについて説明した。同氏は「次のハワイにはならない」と話し、島の規模に合わせたスローな成長を目指す考えを示した。",
-      "url": "https://www.travelvoice.jp/20261110-160809",
-      "published": "2026-11-24T07:30:08+00:00",
-      "image_url": null,
+      "source": "やまとごころ.jp",
+      "title": "8割が「気分」で旅先を選ぶ、2027年の旅行トレンド。注目都市に仙台―Booking.com調査",
+      "summary": "Booking.com（ブッキング・ドットコム）は、2027年の旅行動向を予測する年次レポート「Travel Predictions 2027」を発表した。日本を含む世界32カ国・地域の成人旅行者2万8230人を対象に実…",
+      "url": "https://yamatogokoro.jp/inbound_data/61709/",
+      "published": "2026-11-25T23:38:33+00:00",
+      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/11/32947447_m.jpg",
       "category": "統計・市場動向",
-      "topic_group": "5241740799"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "航空イノベーション賞、ANAや羽田空港など6組織が受賞、AI活用や空港の自動化を評価 ―APEX FTE EXPO 2026",
-      "summary": "FTEは、アジア太平洋地域において最も先駆的な取り組みを行う航空会社および空港を表彰する「FTE APACパイオニア・アワード2026」を発表。日本からANAと日本空港ビルデングが受賞。",
-      "url": "https://www.travelvoice.jp/20261124-160907",
-      "published": "2026-11-24T22:16:36+00:00",
-      "image_url": null,
-      "category": "航空・交通",
-      "topic_group": "5f16f715c8"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "英国放送協会（BBC）、航空会社向け動画配信サービス強化、機内エンタメを手がけるRAVEエアロスペースと提携",
-      "summary": "BBCスタジオは、RAVEエアロスペースと新たなパートナーシップを発表。RAVE OS 2オープン・プラットフォームを採用する航空会社では、「BBCプレイヤー（BBC Player）」の利用が可能に。",
-      "url": "https://www.travelvoice.jp/20261124-160903",
-      "published": "2026-11-24T22:19:29+00:00",
-      "image_url": null,
-      "category": "航空・交通",
-      "topic_group": "d8e3ed0055"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "近畿日本ツーリスト、教職員向けに貸切バスの安全訓練プログラム、実車で避難誘導・緊急停止・救命を学ぶ",
-      "summary": "近畿日本ツーリストは、教職員向け「貸切バス安全体験プログラム」の提供開始。実車で非常扉からの脱出や緊急停止装置の操作、救命行動を体験。教育旅行引率時の危機管理能力向上を支援。",
-      "url": "https://www.travelvoice.jp/20261124-160880",
-      "published": "2026-11-24T01:45:07+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "75f0c9834d"
+      "topic_group": "8cea34ea81"
     },
     {
       "source": "やまとごころ.jp",
@@ -453,7 +463,7 @@
       "summary": "国際航空運送協会（IATA）は、世界の航空旅客を対象とした「2026年世界航空旅客調査（Global Passenger Survey 2026）」の結果を発表した。調査は世界約200カ国の航空旅客を対象に実施され、主要…",
       "url": "https://yamatogokoro.jp/inbound_data/61638/",
       "published": "2026-11-24T23:00:40+00:00",
-      "image_url": "https://yamatogokoro.jp/inbound/wp-content/uploads/2026/11/28A53ADF-C66D-4522-8929-049505A8167C-scaled.jpg",
+      "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "697eaab73a"
     },
@@ -558,14 +568,34 @@
       "topic_group": "9135b5fa66"
     },
     {
-      "source": "やまとごころ.jp",
-      "title": "観光の恩恵を、地域の暮らしへ。野沢温泉村長が描く、持続可能な観光地経営",
-      "summary": "インバウンド需要の拡大により、観光が地域経済を支える長野県野沢温泉村。2025年3月には、同村で20年ぶりとなる村長選が行われた。新村長に就任した上野雄大村長は「暮らしの充実第一主義」を掲げ、宿泊税活用の観光地経営基金や…",
-      "url": "https://yamatogokoro.jp/inbound_interview/61525/",
-      "published": "2026-11-04T00:20:59+00:00",
-      "image_url": null,
+      "source": "訪日ラボ",
+      "title": "日本、アルゼンチン・キプロスと航空当局間枠組みを締結 実運航やコードシェアでネットワークの充実に期待（国土交通省）",
+      "summary": "国土交通省 は11月17日、日本とアルゼンチン、および日本とキプロスの間でそれぞれ航空当局間枠組みを締結したと発表しました。 今回の枠組み設定により、両国と日本を結ぶ航空ネットワークの充実や、航空 サービス の利便性向上が期待されます。 関連記事： エア・アスタナが成田～アルマトイ線を開設 日本とカ…",
+      "url": "https://honichi.com/news/2026/11/26/mlit-argentina-cyprus-aviation-framework/?utm_source=rss",
+      "published": "2026-11-26T00:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14895/main_david-syphers-9V1c_ghub40-unsplash.jpg",
+      "category": "航空・交通",
+      "topic_group": "4bcccadde7"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "渋谷の観光支援施設shibuya-sanで多言語AI観光案内の実証開始 WhatsAppで24時間・50言語に対応（東急不動産・ikura）",
+      "summary": "トラベルテック企業のikuraは11月11日、東急不動産と連携し、 渋谷 フクラス1階の観光支援施設「shibuya-san tourist information & art center（以下、shibuya-san）」において、多言語 AI 観光案内 サービス 「Chat with shibu…",
+      "url": "https://honichi.com/news/2026/11/26/shibuya-san-ai-tourism-whatsapp/?utm_source=rss",
+      "published": "2026-11-25T23:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14891/main_daryan-shamkhali-FwnImRn57VA-unsplash.jpg",
+      "category": "AI・デジタル",
+      "topic_group": "49c9c2bdb9"
+    },
+    {
+      "source": "訪日ラボ",
+      "title": "訪日客の観光ルートに変化 南関東から大阪・京都へ向かう動きが増加（りそな総合研究所）",
+      "summary": "りそな総合研究所株式会社は、「 訪日客 の観光ルートをめぐる変化」と題した特集レポートを公表しました。 発表によると、コロナ後の観光ルートの変化により、 関西 が新たな強みを得ているとしています。 なお同レポートでは、 国土交通省 の「 訪日外国人 流動データ」をもとに、 インバウンド の移動状況を…",
+      "url": "https://honichi.com/news/2026/11/26/inbound-route/?utm_source=rss",
+      "published": "2026-11-25T22:00:00+00:00",
+      "image_url": "https://static.honichi.com/uploads/entry/image/14893/main_AdobeStock_533410035.jpeg",
       "category": "統計・市場動向",
-      "topic_group": "c9818c9183"
+      "topic_group": "c53812dc27"
     },
     {
       "source": "訪日ラボ",
@@ -646,36 +676,6 @@
       "image_url": "https://static.honichi.com/uploads/entry/image/14885/main_skyscanner-2027_img.jpg",
       "category": "航空・交通",
       "topic_group": "5c69fae0ce"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "【欧米豪編】JNTOが語るインバウンド市場の動向：2026年「インバウンド旅行振興フォーラム」を取材",
-      "summary": "日本 政府観光局 （ JNTO ）は9月、「第29回 JNTO インバウンド 旅行振興フォーラム」を開催しました。 本フォーラムには、海外全26拠点の海外事務所長などが一堂に会し、それぞれの訪日旅行市場における最新動向や マーケティング 戦略が共有されました。 本記事では、このうち 欧米豪 10市場…",
-      "url": "https://honichi.com/news/2026/11/24/jnto-inbound-forum-2026-2/?utm_source=rss",
-      "published": "2026-11-24T00:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14872/main_takashi-miyazaki-64ajtpEzlYc-unsplash.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "6de94a0115"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "【今週の注目記事5選】10月の訪日外客数は391万人で単月過去最高 ほか",
-      "summary": "訪日ラボ編集部です。本シリーズでは、 この1週間に公開した記事の中から、 インバウンド 担当者が読んでおきたい注目の記事 を厳選してお届けします。 最新トレンドの把握や、 マーケティング 活動にぜひともご活用ください。 目次 今週の注目記事5選 1. 10月の訪日外客数は391万人 前年比0.4％増…",
-      "url": "https://honichi.com/news/2026/11/24/weekmatome_20261124/?utm_source=rss",
-      "published": "2026-11-23T23:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14889/main_72e8ce718cff78bce867efd78e2b0ea6.png",
-      "category": "統計・市場動向",
-      "topic_group": "e0b43b9d7f"
-    },
-    {
-      "source": "訪日ラボ",
-      "title": "日本空港ビルデング、営業利益29.2％増で半期として過去最高 免税店好調で通期予想も上方修正（2027年3月期 第2四半期決算）",
-      "summary": "日本空港ビルデングは11月6日、2027年3月期の第2四半期 決算 （2026年4月～9月）を発表しました。 国際線旅客数の堅調な推移や 円安 を背景に 免税 店の売上が大きく伸長したことで、売上高・営業利益ともに半期として過去最高を更新しました。 関連記事： 羽田運営の日本空港ビル、売上高が過去最…",
-      "url": "https://honichi.com/news/2026/11/24/japan-airport-terminal-fy2027-q2/?utm_source=rss",
-      "published": "2026-11-23T22:00:00+00:00",
-      "image_url": "https://static.honichi.com/uploads/entry/image/14886/main_mos-design-sphTv9u1fCc-unsplash.jpg",
-      "category": "統計・市場動向",
-      "topic_group": "eef6a8c9e2"
     }
   ]
 }
