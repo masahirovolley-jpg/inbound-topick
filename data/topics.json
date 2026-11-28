@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T03:38:31.743025+00:00",
+  "updated_at": "2026-11-28T03:19:12.643920+00:00",
   "sources": [
     {
       "name": "JNTO",
@@ -29,13 +29,43 @@
   "articles": [
     {
       "source": "JNTO",
+      "title": "【再掲】【12/16（水）開催】JNTOインバウンド研修会のご案内 第4回中部 名古屋会場・一部オンライン配信あり （締切：12/9（水））",
+      "summary": "",
+      "url": "https://www.jnto.go.jp/news/expo-seminar/1216jnto_4_129_1.html",
+      "published": "2026-11-27T04:30:00+00:00",
+      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "category": "業界ニュース",
+      "topic_group": "19dc150036"
+    },
+    {
+      "source": "JNTO",
+      "title": "任期付職員採用情報を更新しました",
+      "summary": "",
+      "url": "https://www.jnto.go.jp/news/info/20220104.html",
+      "published": "2026-11-27T04:23:00+00:00",
+      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "category": "業界ニュース",
+      "topic_group": "a6712cc9a1"
+    },
+    {
+      "source": "JNTO",
+      "title": "伊勢志摩と長門湯本温泉が「2027年に訪れるべき20の場所」に選出",
+      "summary": "2026年11月18日（水）、英国の公共放送BBCの旅行メディア『BBC Travel』が発表した「The 20 best places to travel in 2027（2027年に訪れるべき20の場所）」に伊勢志摩（三重県）と長門湯本温泉（山口県）が選出されました。同発表における日本からの選出…",
+      "url": "https://www.jnto.go.jp/news/info/20261127.html",
+      "published": "2026-11-27T04:07:00+00:00",
+      "image_url": "https://www.jnto.go.jp/news/20261127_1.png",
+      "category": "業界ニュース",
+      "topic_group": "1bb1684134"
+    },
+    {
+      "source": "JNTO",
       "title": "入札等公告情報を更新しました",
       "summary": "",
       "url": "https://www.jnto.go.jp/news/info/post_1.html",
       "published": "2026-11-27T00:44:30+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "業界ニュース",
-      "topic_group": "898dc392c8"
+      "topic_group": "a6712cc9a1"
     },
     {
       "source": "JNTO",
@@ -43,7 +73,7 @@
       "summary": "",
       "url": "https://www.jnto.go.jp/news/info/post_53.html",
       "published": "2026-11-27T00:38:00+00:00",
-      "image_url": "https://www.jnto.go.jp/assets/img/og.png",
+      "image_url": null,
       "category": "業界ニュース",
       "topic_group": "3a53b300f5"
     },
@@ -115,7 +145,7 @@
       "published": "2026-11-16T04:30:00+00:00",
       "image_url": null,
       "category": "業界ニュース",
-      "topic_group": "215a584e7e"
+      "topic_group": "19dc150036"
     },
     {
       "source": "JNTO",
@@ -148,34 +178,24 @@
       "topic_group": "4acdc231ee"
     },
     {
-      "source": "JNTO",
-      "title": "四国の風景と、人のあたたかさにふれる旅へ～「ものがたり列車」の英語版PVが国際観光映像祭で受賞～【四国旅客鉄道株式会社】",
+      "source": "観光庁",
+      "title": "交通政策審議会観光分科会（第58回）を開催します～令和９年度予算の方向性と令和10年度以降の中長期的視点で対応すべき課題～",
       "summary": "",
-      "url": "https://www.jnto.go.jp/news/members/pv.html",
-      "published": "2026-11-10T02:37:09+00:00",
+      "url": "https://www.mlit.go.jp/kankocho/news02_00108.html",
+      "published": "2026-11-27",
       "image_url": null,
-      "category": "航空・交通",
-      "topic_group": "f30ebf82d9"
+      "category": "政策・制度",
+      "topic_group": "21008ca67e"
     },
     {
-      "source": "JNTO",
-      "title": "なんばエリア約500店舗で利用できる訪日外国人旅行者向けサービス「NANKAI NAMBA TOURIST」を8月26日（水）から開始【株式会社NANKAI】",
+      "source": "観光庁",
+      "title": "主要旅行業者の旅行取扱状況速報（2026年（令和8年）9月分）",
       "summary": "",
-      "url": "https://www.jnto.go.jp/news/members/500nankai_namba_tourist826nankai.html",
-      "published": "2026-11-09T05:12:41+00:00",
-      "image_url": null,
-      "category": "AI・デジタル",
-      "topic_group": "350cb68c07"
-    },
-    {
-      "source": "JNTO",
-      "title": "スヌーピーミュージアム 11月1日（日）から季節を楽しめるシーズンイベント「ハッピー・クリスマス」開催【株式会社ソニー・ミュージックエンタテインメント】",
-      "summary": "",
-      "url": "https://www.jnto.go.jp/news/members/_111.html",
-      "published": "2026-11-06T07:51:59+00:00",
+      "url": "https://www.mlit.go.jp/kankocho/news13_00015.html",
+      "published": "2026-11-27",
       "image_url": null,
       "category": "業界ニュース",
-      "topic_group": "223f43d730"
+      "topic_group": "54794f799d"
     },
     {
       "source": "観光庁",
@@ -259,16 +279,6 @@
     },
     {
       "source": "観光庁",
-      "title": "ウェビナー「お客様に選ばれ、稼げる宿泊施設・観光施設へ ユニバーサルデザイン実践術」を開催します！",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/topics06_00067.html",
-      "published": "2026-11-12",
-      "image_url": null,
-      "category": "統計・市場動向",
-      "topic_group": "7187e1082d"
-    },
-    {
-      "source": "観光庁",
       "title": "令和８年度総合旅行業務取扱管理者試験における出題の不備及び採点の取扱いについて",
       "summary": "",
       "url": "https://www.mlit.go.jp/kankocho/news13_00011.html",
@@ -285,7 +295,7 @@
       "published": "2026-10-30",
       "image_url": null,
       "category": "業界ニュース",
-      "topic_group": "a4cf518667"
+      "topic_group": "54794f799d"
     },
     {
       "source": "観光庁",
@@ -328,24 +338,24 @@
       "topic_group": "19a2261cce"
     },
     {
-      "source": "観光庁",
-      "title": "米国にて日本の「観光・食」の魅力発信イベントを開催 ～訪れるたびに発見がある、日本の多彩な魅力を発信しました～",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/news02_00103.html",
-      "published": "2026-09-29",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "92978333cd"
+      "source": "Travel Voice",
+      "title": "外国青年を地域に迎える「JETプログラム」とは？ 約8万人の人的ネットワークを関係人口として考える【コラム】",
+      "summary": "日本観光振興協会理事長の最明仁氏によるコラム。今回は、JETプログラム（Japan Exchange and Teaching Programme）に着目。外国青年が地域社会と関係を築いてきた人的ネットワークを、地方誘客や関係人口などの観点から捉え直す。",
+      "url": "https://www.travelvoice.jp/20261127-160896",
+      "published": "2026-11-27T10:05:08+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/c5e5ddbc-8b6f-430d-83b7-c0ee6c1122e6.jpg",
+      "category": "地域・DMO",
+      "topic_group": "e7bbab8ded"
     },
     {
-      "source": "観光庁",
-      "title": "第53回特定複合観光施設区域整備計画審査委員会の開催 ～「大阪・夢洲地区特定複合観光施設区域の整備に関する計画」実施状況の評価～",
-      "summary": "",
-      "url": "https://www.mlit.go.jp/kankocho/news11_00016.html",
-      "published": "2026-09-25",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "e1a64f6d30"
+      "source": "Travel Voice",
+      "title": "商品・サービスの検索や購入でAIを使う分野、「旅行」が38%で最多、69%が最終判断は自分で ―Criteo",
+      "summary": "Criteo（クリテオ）は、AI時代の消費者の選び方の変化について解説するとともに、日本におけるAI活用に関する最新の調査結果を明らかにした。マイケル・コマシンスキーCEOが語る消費者を惹きつけるカギとは。",
+      "url": "https://www.travelvoice.jp/20261127-160791",
+      "published": "2026-11-27T03:56:06+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/e7129be8-6ed9-4d6b-9918-e06705d8e84b.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "6b9fcc4892"
     },
     {
       "source": "Travel Voice",
@@ -363,16 +373,46 @@
       "summary": "APEXは、アジアおよび南太平洋地域における「2027年APEXベスト地域賞」を発表。北東アジアの総合ベスト航空会社はANA。JALは機内食と機内Wi-Fiで受賞。",
       "url": "https://www.travelvoice.jp/20261127-160915",
       "published": "2026-11-27T01:55:07+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2022/06/4d722675-fed3-40ea-bdc2-54fd5acf00eb.jpg",
+      "image_url": null,
       "category": "航空・交通",
       "topic_group": "b0e237dbec"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "グアム観光復活へ航空・ホテル・旅行など9社共同プロジェクト始動、「なぜグアム？」で10の魅力を発信",
+      "summary": "ケン・ホテル＆リゾートホールディングスは、グアム観光に関わる企業と連携し、日本からの観光需要の回復を目指す「なぜグアム？」プロジェクトを始動。8社が業界の垣根を超えて参画。",
+      "url": "https://www.travelvoice.jp/20261127-160934",
+      "published": "2026-11-27T09:49:24+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/d26b9772-13d8-4558-a065-d06d1ad0aaa4.jpg",
+      "category": "統計・市場動向",
+      "topic_group": "406467dcd7"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "アゼルバイジャン観光局、TVドラマ「VIVANT」で日本人旅行者の誘客へ、ロケ地から歴史・文化をめぐる旅をアピール",
+      "summary": "アゼルバイジャン観光局が現地企業5社と来日。人気ドラマ「VIVANT」を契機に日本市場への誘客を強化する。",
+      "url": "https://www.travelvoice.jp/20261127-160929",
+      "published": "2026-11-27T22:51:37+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/11/ac8fb09b-864f-41d5-bdd5-dfb8c4bd86a3.jpeg",
+      "category": "統計・市場動向",
+      "topic_group": "02a2a65ae6"
+    },
+    {
+      "source": "Travel Voice",
+      "title": "JTB中間決算、売上高6%増の5613億円、海外・訪日旅行が伸長、人件費や償却費の増加で営業利益45%減",
+      "summary": "JTBは、2027年3月期中間期の連結決算を発表。売上高は前年同期比106%の5,613億円となった一方、営業利益は同55%の28億円、経常利益は同65%の45億円、中間純利益は同32%の21億円の減益に。",
+      "url": "https://www.travelvoice.jp/20261127-160936",
+      "published": "2026-11-27T12:40:53+00:00",
+      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2025/04/ff5040e8-3504-4e0f-80cb-e9a4987e62b7.jpg",
+      "category": "業界ニュース",
+      "topic_group": "3940451f06"
     },
     {
       "source": "Travel Voice",
       "title": "ミキ・ツーリスト、四国に初のインバウンド推進拠点を開設、高付加価値観光コンテンツを開発、B2Bネットワークも強化",
       "summary": "ミキ・ツーリストは、四国エリアにおける初のインバウンド推進拠点として、香川県高松市に「四国デスティネーションHub」を開設。高付加価値な観光コンテンツの整備および国内外への流通拡大を進める。",
       "url": "https://www.travelvoice.jp/20261127-160923",
-      "published": "2026-11-27T01:40:08+00:00",
+      "published": "2026-11-27T09:37:32+00:00",
       "image_url": "https://www.travelvoice.jp/wp-content/uploads/2019/06/shikoku_pilgrimage.jpg",
       "category": "業界ニュース",
       "topic_group": "19a9f03d91"
@@ -393,59 +433,9 @@
       "summary": "日本交通公社の山田雄一氏による連載コラム。ＤMO機能の限界と「デスティネーション・スチュワードシップ（DS）」の世界的な潮流を解説。看板の付け替えではない現実的な地域振興体制を考える。",
       "url": "https://www.travelvoice.jp/20261126-160615",
       "published": "2026-11-27T00:36:34+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2026/10/af52aaca-de54-4cdb-9bbb-97cc45490375.jpg",
+      "image_url": null,
       "category": "航空・交通",
       "topic_group": "68c65b9d32"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "米国の感謝祭期間の旅行、移動手段に変化、バス・鉄道の利用増、航空は運賃高騰と運航トラブルで相次ぐシステム障害も影響",
-      "summary": "ロイター通信は、米国の2026年の感謝祭休暇についてリポート。座席供給量は増加も、過去10年で最高水準の運賃で利用者は減少の見込み。航空管制の混乱も航空旅行に影響している可能性も指摘。",
-      "url": "https://www.travelvoice.jp/20261126-160930",
-      "published": "2026-11-27T00:42:49+00:00",
-      "image_url": "https://www.travelvoice.jp/wp-content/uploads/2023/08/171935bc-45ac-4bb3-ac99-d072752eadf5.jpg",
-      "category": "航空・交通",
-      "topic_group": "1c376a3ff6"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "スペイン開催の国際観光見本市「FITUR（フィトゥール）2027」、AIや持続可能な観光に焦点、展示規模を拡大して1月20～24日開催（PR）",
-      "summary": "（PR）2027年1月20～24日の5日間、スペイン・マドリードで国際観光見本市「FITUR（フィトゥール）2027」を開催。今回は11ホールに規模を拡大し、世界各国の観光関連企業が集結。「テクノロジーの革新と持続可能性」をテーマに展開。",
-      "url": "https://www.travelvoice.jp/20261126-160884",
-      "published": "2026-11-26T11:43:43+00:00",
-      "image_url": null,
-      "category": "AI・デジタル",
-      "topic_group": "addd68693b"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "ナビタイム、添乗員のスマホに行程表・指示書を共有する新機能、旅行会社は現在地を把握、大型バスの迂回ルート検索も",
-      "summary": "ナビタイムジャパンは、大型観光バス対応の行程表作成ツール「行程表クラウド by NAVITIME」で新機能「添乗員サポート」の提供を開始。最新の行程表や添乗員指示書を添乗員のスマートフォン・タブレット端末へ共有。",
-      "url": "https://www.travelvoice.jp/20261126-160927",
-      "published": "2026-11-26T01:44:06+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "df2d9dd5a4"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "富良野・美瑛エリア、クチコミ分析で観光サービス改善へ、混雑状況や駐車場など旅行者の声を把握、トラスト・ユーを導入",
-      "summary": "富良野美瑛広域観光推進協議会は、旅行者の満足度向上や地域全体のサービス改善を目的として、TrustYou（トラスト・ユー） の口コミ分析・管理プラットフォームを導入。",
-      "url": "https://www.travelvoice.jp/20261126-160925",
-      "published": "2026-11-26T01:40:07+00:00",
-      "image_url": null,
-      "category": "地域・DMO",
-      "topic_group": "81b373deaf"
-    },
-    {
-      "source": "Travel Voice",
-      "title": "韓国ソウル市、ウェルネス観光100選を発表、「休・味・粋」の3テーマで都市型体験を紹介、海外発信を強化",
-      "summary": "韓国ソウル市は、「ソウル・ウェルネス観光100選（100 SEOUL WELLNESS TRAVEL 2026）」を発表。英語版公式サイトではテーマ別の検索と地図で各所を探すことが可能。",
-      "url": "https://www.travelvoice.jp/20261126-160928",
-      "published": "2026-11-26T01:30:08+00:00",
-      "image_url": null,
-      "category": "業界ニュース",
-      "topic_group": "26a769893f"
     },
     {
       "source": "やまとごころ.jp",
@@ -566,16 +556,6 @@
       "image_url": null,
       "category": "統計・市場動向",
       "topic_group": "afbae8f6b3"
-    },
-    {
-      "source": "時事ドットコム",
-      "title": "旅行応援割、第２弾実施へ 熊本県",
-      "summary": "",
-      "url": "https://www.jiji.com/jc/article?k=2026112700391&g=eco",
-      "published": null,
-      "image_url": "https://www.jiji.com/news2/kiji_photos/202611/20261127ds52_p.jpg",
-      "category": "業界ニュース",
-      "topic_group": "c8e7aad9c6"
     },
     {
       "source": "訪日ラボ",
